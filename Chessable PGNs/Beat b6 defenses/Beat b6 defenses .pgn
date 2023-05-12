@@ -1,0 +1,1532 @@
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "1. Introduction"]
+[Black "Overview"]
+[Result "*"]
+
+{ Welcome to the course! Here I analyze three annoying openings that a 1.d4 player will often encounter  (particularly)  in faster time controls. These are the English Defense and it's two 'cousins', the Accelerated Queen's Indian Defense  (QID)  and Owen's Defense. The coverage of the latter is also useful for 1.e4 players.  Despite them not having a good reputation, these sidelines are quite tricky and White has to be well prepared to emerge with an advantage out of the opening. The good news is they fail to equalize so if you learn the lines in this course, you will have an advantage  (oftentimes a big or even a decisive one)  !  I decided to make this small course FREE as a way of giving back to the wonderful Chessable community with which I've had a great time and learned a lot from.  Finally, if you have any questions  (or even better find improvements for White or Black)  don't hesitate to post in the forums.  I hope you enjoy this course and score a lot of points with it! }
+1. d4
+{ Owen's defense from the perspective of a  1.e4  player is covered inchapter 5. }
+1... e6
+{ 1...Nf6  2.c4  b6  The Accelerated Queen's Indian Defense @@StartBracket@@QID@@EndBracket@@ is tackled inchapter 3.   1...b6  Owen's Defense, a 'cousin' of the English Defense, is analyzed in chapter 4. }
+2. c4 b6 { The English Defense is covered inchapter 2. } *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "1. Introduction"]
+[Black "Repertoire Clashes"]
+[Result "*"]
+
+{ I decided to list the repertoire books and databases that recommended the English and Owen's Defenses as well as the Accelerated QID for Black. I've included hyperlinks to my preferred way of tackling their recommendations.   I will try to keep this list as up to date as possible. If there is a specific repertoire book/database recommendation that I missed and that you think I should address, please post in the forum and I'll update this informational line. }
+1. d4 e6
+{ 1...b6  2.e4  Bb7  3.Bd3  Nf6  4.Qe2  Nc6  This continuation was recommended by GM Nigel Davies in the ChessBase DVD 'Original and aggressive: 1...b6 for practical players'. I show how White can emerge with a considerable edge in the4...Nc6 variation.   1...Nf6  2.c4  b6  3.f3  Nc6  FM Yuriy Krykun in the Chessable course 'The Accelerated Queen's Indian Defense' recommended three different lines vs the 3.f3 setup. His specific recommendations are addressed in the lines3...Nc6 #7,3...Nc6 #11 and3...Nc6 #13. White can count on a sizeable opening advantage in all three cases. }
+2. c4 b6 3. e4 Bb7 4. Bd3 Nc6 5. Ne2 Nb4
+{ This variation was recommended in two different ChessBase DVDs, one by GM Nigel Davies named 'Original and aggressive 1...b6 for practical players' and another one by GM Dejan Bojkov entitled 'The English Defence'. Their specific recommendations are tackled in the variations4...Nc6 #1 and4...Nc6 #2, respectively. White can count on a clear advantage in both cases. }
+*
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "2. English defense"]
+[Black "3...Bb4+ #1"]
+[Result "*"]
+
+1. d4 e6 2. c4 b6
+{ The English defense. Contrary to the English opening @@StartBracket@@1. c4@@EndBracket@@, this defense is not very good. However, it is quite tricky and White needs to know a few lines to get an advantage. }
+3. e4 { No reason not to create a big pawn center. } 3... Bb4+
+{ Trying to disrupt White's development and hoping for Nc3, when ...Bxc3 would compromise the pawns structure on the queenside. }
+4. Bd2 Bxd2+ 5. Qxd2
+{ The correct recapture. The knight is more active on c3 than on d2. } 5... d5
+{ Black should immediately strike in the center.   5...Bb7  6.Nc3  Nf6  7.f3  O-O  8.O-O-O  d6  9.g4  ! gives White a free-hand to attack's Black king. }
+6. Bd3 dxc4
+{ The alternative pawn capture   6...dxe4  is just plain bad as after  7.Bxe4  Black is forced to block in his own bishop and knight with  7...c6  +- }
+7. Bxc4 Bb7 8. Nc3 { Developing and protecting the pawn on e4. } 8... Nf6 9.
+Qe3 O-O 10. Nf3 Qe7 11. O-O
+{ White is slightly better due to his strong center and extra space. Rfd1 and Rac1 are next on the agenda. }
+*
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "2. English defense"]
+[Black "3...Bb4+ #2"]
+[Result "*"]
+
+1. d4 e6 2. c4 b6
+{ The English defense. Contrary to the English opening @@StartBracket@@1. c4@@EndBracket@@, this defense is not very good. However, it is quite tricky and White needs to know a few lines to get an advantage. }
+3. e4 { No reason not to create a big pawn center. } 3... Bb4+
+{ Trying to disrupt White's development and hoping for Nc3, when ...Bxc3 would compromise the pawns structure on the queenside. }
+4. Bd2 Bxd2+ 5. Qxd2
+{ The correct recapture. The knight is more active on c3 than on d2. } 5... d5
+{ Black should immediately strike in the center.   5...Bb7  6.Nc3  Nf6  7.f3  O-O  8.O-O-O  d6  9.g4  ! gives White a free-hand to attack's Black king. }
+6. Bd3 Nc6 7. cxd5 exd5
+{ Note that   7...Nxd4  is well met by  8.Qc3  Hitting the knight and the pawn on g7. }
+8. exd5 Nxd4 9. Nc3 { Developing and defending the pawn on d5. } 9... Nf6 10.
+O-O-O { We are now threatening to win a piece with Qe3+. } 10... Nf5 11. Bxf5
+Bxf5 12. Re1+ Kf8 13. Re5 Bg6 14. f4
+{ We are going to play Nf3, Rhe1/d1, and Qd4 with a clear advantage. What on earth is Black's king doing on f8? }
+*
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "2. English defense"]
+[Black "3...Bb4+ #3"]
+[Result "*"]
+
+1. d4 e6 2. c4 b6
+{ The English defense. Contrary to the English opening @@StartBracket@@1. c4@@EndBracket@@, this defense is not very good. However, it is quite tricky and White needs to know a few lines to get an advantage. }
+3. e4 { No reason not to create a big pawn center. } 3... Bb4+
+{ Trying to disrupt White's development and hoping for Nc3, when ...Bxc3 would compromise the pawns structure on the queenside. }
+4. Bd2 Bxd2+ 5. Qxd2
+{ The correct recapture. The knight is more active on c3 than on d2. } 5... d5
+{ Black should immediately strike in the center.   5...Bb7  6.Nc3  Nf6  7.f3  O-O  8.O-O-O  d6  9.g4  ! gives White a free-hand to attack's Black king. }
+6. Bd3 Nc6 7. cxd5 exd5
+{ Note that   7...Nxd4  is well met by  8.Qc3  +/- Hitting the knight and the pawn on g7. }
+8. exd5 Qxd5 9. Nc3 { Developing with tempo. } 9... Qxd4
+{ The retreat   9...Qd8  can be answered with  10.Be4  Bb7  11.Qe3  Nge7  12.d5  Na5  13.O-O-O⩲  when White is slightly better thanks to the extra space and more active pieces. }
+10. Nb5 Qd7
+{ Note that   10...Qe5  is not good on account of  11.Kf1  when it's Black's king that will come under fire along the e-file. }
+11. Qf4
+{ The c7 pawn is about to drop with a clear advantage for White.  Lining up the king and queen along the d-file with   11...Kd8  is not recommended because of  12.O-O-O+−  Similarly, capturing the bishop on d3 with   11...Qxd3  is also not advisable as after  12.Nxc7  Kf8  13.Rd1!  Qg6  14.Nxa8+−  White is an exchange up and will continue with Ne2 and O-O, with a winning position. }
+*
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "2. English defense"]
+[Black "3...Bb4+ #4"]
+[Result "*"]
+
+1. d4 e6 2. c4 b6
+{ The English defense. Contrary to the English opening @@StartBracket@@1. c4@@EndBracket@@, this defense is not very good. However, it is quite tricky and White needs to know a few lines to get an advantage. }
+3. e4 { No reason not to create a big pawn center. } 3... Bb4+
+{ Trying to disrupt White's development and hoping for Nc3, when ...Bxc3 would compromise the pawns structure on the queenside. }
+4. Bd2 Bxd2+ 5. Qxd2
+{ The correct recapture. The knight is more active on c3 than on d2. } 5... d5
+{ Black should immediately strike in the center.   5...Bb7  6.Nc3  Nf6  7.f3  O-O  8.O-O-O  d6  9.g4  ! gives White a free-hand to attack's Black king. }
+6. Bd3 Ba6 7. Na3
+{ An interesting way of defending the c4 pawn. This was recommended by Avrukh in his excellent book Grandmaster Repertoire 2B. }
+7... dxc4
+{ Simply developing with   7...Ne7  is also possible. White should follow suit  8.Nf3  O-O  9.O-O⩲ }
+8. Bxc4 Bxc4 9. Nxc4 Nf6 10. f3
+{ Solidifying the center. The knight on g1 can be developed to e2. } 10... O-O
+11. Ne2 Qe7 12. Rc1 { Prophylaxis vs the ...c5 break. } 12... Rd8
+{ The   12...c5  break is premature as after  13.dxc5  bxc5  14.Qd6  Qxd6  15.Nxd6  ± all Black managed to achieve was ending up with a weak and isolated pawn on c5. }
+13. Qe3
+{ Removing the queen from the d-file and effectively preventing Black's ...c5 break. }
+13... Nbd7
+{ 13...c5  can be answered with  14.dxc5  bxc5  15.Na5  ⩲ when Black does not have a convenient way of defending the c5 pawn. }
+14. O-O
+{ White is slightly better due to the strong pawn center and can improve his position with Rfd1 and Nf4-d3. }
+*
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "2. English defense"]
+[Black "4...Bb4+"]
+[Result "*"]
+
+1. d4 e6 2. c4 b6
+{ The English defense. Contrary to the English opening @@StartBracket@@1. c4@@EndBracket@@, this defense is not very good. However, it is quite tricky and White needs to know a few lines to get an advantage. }
+3. e4 { No reason not to create a big pawn center. } 3... Bb7 4. Bd3
+{ Protecting the pawn on e4 with the bishop is the way to go. We don't want to play Nc3 right away to avoid the pin after ...Bb4. }
+4... Bb4+ 5. Kf1
+{ Simple and strong. White has a big space advantage and should thus not trade pieces with moves like Bd2. The king on f1 will be perfectly safe and it also defends the g2 pawn, which nullifies Black's typical ...f5 pawn break. Finally, White will often push h4-h5, when the Rh1 can be lifted to h3. }
+5... Be7 { We will now develop sensibly with Nc3, Nf3 and Qe2. } 6. Nc3 d6 7.
+Nf3 Nd7 8. Qe2 { Centralizing the queen and overprotecting the e4 pawn. } 8...
+Ngf6
+{ The alternative development scheme with  8...Bf6  can be met with  9.h4  Ne7  10.Bc2  O-O  11.Bg5  Nc6  12.Rd1⩲ }
+9. h4
+{ White has a clear advantage thanks to the control over the center and the extra space it affords. Note how Black's pieces are confined to the last three ranks of the board. We can continue with moves like h5, Bf4  (preparing a potential e5 break)  , and even Rh3-g3 in certain variations. }
+*
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "2. English defense"]
+[Black "4...Nc6 #1"]
+[Result "*"]
+
+1. d4 e6 2. c4 b6
+{ The English defense. Contrary to the English opening @@StartBracket@@1. c4@@EndBracket@@, this defense is not very good. However, it is quite tricky and White needs to know a few lines to get an advantage. }
+3. e4 { No reason not to create a big pawn center. } 3... Bb7 4. Bd3
+{ Protecting the pawn on e4 with the bishop is the way to go. We don't want to play Nc3 right away to avoid the pin after ...Bb4. }
+4... Nc6
+{ Black wants to go after the d3 bishop with Nb4. This variation was recommended by both GM Dejan Bojkov and GM Nigel Davies in two separate chessbase DVDs. }
+5. Ne2
+{ The knight is best placed on e2, retaining the flexibility of later reinforcing the center with f3 or even pushing ahead with f4. }
+5... Nb4
+{ 5...g6  was played by Alireza Firouzja in 2018 but is not particularly good.  6.Nbc3  Bg7  7.Be3  Nge7  8.O-O  O-O  9.Rc1  is a logical sequence of moves, when White stands clearly better thanks to the excellent control over the center. }
+6. O-O
+{ Surprisingly, GM Nigel Davies in his ChessBase DVD 'Original and aggressive 1...b6 for practical players' did not consider this natural developing move. }
+6... Nxd3 7. Qxd3 { Black captured the bishop but wasted a lot of time. } 7...
+Ne7
+{ The alternative developing scheme with   7...d6  8.Nbc3  Nf6  leads to very similar play as the mainline after  9.d5  e5  10.f4± }
+8. Nbc3 d6 9. d5
+{ Under the right circumstances, we can open this position with f4-f5. White has more space in the center and is already fully developed. On the other hand, Black is way behind in development and his pieces are very passive.   9...Qd7  10.a4  a5  11.Nb5  g6  was seen in Kramnik, Vladimir  (2759)  vs Ponomariov, Ruslan  (2727)  in 2009. We can improve on the game with  12.Be3!  setting the following devious trap  12...Bg7?  13.dxe6  fxe6  14.Bxb6!  cxb6  15.Nxd6  Kf8  16.Qf3+  with a winning attack. }
+*
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "2. English defense"]
+[Black "4...Nc6 #2"]
+[Result "*"]
+
+1. d4 e6 2. c4 b6
+{ The English defense. Contrary to the English opening @@StartBracket@@1. c4@@EndBracket@@, this defense is not very good. However, it is quite tricky and White needs to know a few lines to get an advantage. }
+3. e4 { No reason not to create a big pawn center. } 3... Bb7 4. Bd3
+{ Protecting the pawn on e4 with the bishop is the way to go. We don't want to play Nc3 right away to avoid the pin after ...Bb4. }
+4... Nc6 { Black wants to go after the d3 bishop with Nb4. } 5. Ne2
+{ The knight is best placed on e2, retaining the flexibility of later reinforcing the center with f3 or even pushing ahead with f4. }
+5... Nb4
+{ 5...g6  was played by Alireza Firouzja in 2018 but is not particularly good.  6.Nbc3  Bg7  7.Be3  Nge7  8.O-O  O-O  9.Rc1  is a logical sequence of moves, when White stands clearly better thanks to the excellent control over the center. }
+6. O-O Nxd3 7. Qxd3 { Black captured the bishop but wasted a lot of time. }
+7... Ne7
+{ The alternative developing scheme with   7...d6  8.Nbc3  Nf6  leads to very similar play as the mainline after  9.d5  e5  10.f4± }
+8. Nbc3 g6
+{ This alternative developing scheme was recommended by GM Dejan Bojkov in the ChessBase DVD 'The English Defence'. }
+9. d5 Bg7
+{ In his DVD, GM Bojkov only considered the moves 10.Be3 and 10.Rd1. } 10. Qh3
+{ Placing the queen on h3 is, however, much stronger. From h3, the queen prevents Black from playing ...d6 as the e6 pawn would then hang. This effectively means Black cannot develop with ...Qd7 and castle long.   Furthermore, we are ready to play Bh6 and exchange the dark-squared bishops, which would then allow us to exploit the dark square weaknesses in Black's kingside. }
+10... O-O
+{ 10...h6  to prevent Bh6 is not a good idea as now Black cannot castle kingside since the h6 pawn would then hang  11.Rd1±  We can continue to improve our position with Be3 and b4, whilst Black cannot complete his development. }
+11. Bh6 Bxh6 12. Qxh6
+{ White is clearly better in this position thanks to the big space advantage and control over the center. Additionally, Black's kingside is very weak and White can launch an attack with f4-f5. Preparatory moves like Rad1 and Nd4 should also be considered. }
+*
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "2. English defense"]
+[Black "4...f5 #1"]
+[Result "*"]
+
+1. d4 e6 2. c4 b6
+{ The English defense. Contrary to the English opening @@StartBracket@@1. c4@@EndBracket@@, this defense is not very good. However, it is quite tricky and White needs to know a few lines to get an advantage. }
+3. e4 { No reason not to create a big pawn center. } 3... Bb7 4. Bd3
+{ Protecting the pawn on e4 with the bishop is the way to go. We don't want to play Nc3 right away to avoid the pin after ...Bb4. }
+4... f5
+{ Black's most frequent move. At first sight, it may look very strong, targeting e4 and taking advantage of the fact that the g2 pawn is unprotected. It has a very big drawback, however, as it significantly weakens Black's king. }
+5. exf5 Bb4+
+{ This move has the dual-purpose of developing the bishop with check and clearing the f8 square for Black's king in case Qh5+ is played later on. }
+6. Kf1
+{ Getting out of the check and protecting the pawn on g2. The king will be very safe on f1 and White is already up a pawn.   Note that   6.Bd2?  is a mistake as after  6...Bxd2  7.Nxd2  Bxg2  8.Qh5  Kf8∓  White does not have enough compensation. }
+6... exf5 { Capturing the pawn is met by the very strong } 7. c5
+{ The bishop on b4 is suddenly in danger of being captured with a3 and b4. }
+7... bxc5 8. a3 Ba5 9. Qh5+
+{ It's more precise to force Black to weaken his position with Qh5+ first before checking on e2. }
+9... g6 10. Qe2+ Qe7 11. dxc5
+{ Threatening b4, which would trap Black's bishop on a5. } 11... Qxe2+ 12. Bxe2
+c6 13. h4
+{ Black's pawn structure is terrible and h5 is coming. Depending on what Black does, White can bring his pieces out with Bf4, Nf3, and Nd2-c4  (eyeing the advanced outpost on d6)  . }
+*
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "2. English defense"]
+[Black "4...f5 #2"]
+[Result "*"]
+
+1. d4 e6 2. c4 b6
+{ The English defense. Contrary to the English opening @@StartBracket@@1. c4@@EndBracket@@, this defense is not very good. However, it is quite tricky and White needs to know a few lines to get an advantage. }
+3. e4 { No reason not to create a big pawn center. } 3... Bb7 4. Bd3
+{ Protecting the pawn on e4 with the bishop is the way to go. We don't want to play Nc3 right away to avoid the pin after ...Bb4. }
+4... f5
+{ Black's most frequent move. At first sight, it may look very strong, targeting e4 and taking advantage of the fact that the g2 pawn is unprotected. It has a very big drawback, however, it significantly weakens Black's king. }
+5. exf5 Bb4+
+{ This move has the dual-purpose of developing the bishop with check and clearing the f8 square for Black's king in case Qh5+ is played later on. }
+6. Kf1
+{ Getting out of the check and protecting the pawn on g2. The king will be very safe on f1 and White is already up a pawn. }
+6... exf5 { Capturing the pawn is met by the very strong } 7. c5
+{ The bishop on b4 is suddenly in danger of being captured with a3 and b4. }
+7... bxc5 8. a3 c4 9. Bxc4 Ba5
+{ The alternative retreat   9...Bd6  can be met with  10.Nc3  Note that Qb3 here does not win a piece on account of ...Ba6  Nf6  11.Nf3  Nc6  and now strong is  12.Nh4  +- targeting the pawn on f5, with a decisive advantage. }
+10. Qb3 { White is going to win a piece with this double-attack. } *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "2. English defense"]
+[Black "4...f5 #3"]
+[Result "*"]
+
+1. d4 e6 2. c4 b6
+{ The English defense. Contrary to the English opening @@StartBracket@@1. c4@@EndBracket@@, this defense is not very good. However, it is quite tricky and White needs to know a few lines to get an advantage. }
+3. e4 { No reason not to create a big pawn center. } 3... Bb7 4. Bd3
+{ Protecting the pawn on e4 with the bishop is the way to go. We don't want to play Nc3 right away to avoid the pin after ...Bb4. }
+4... f5
+{ Black's most frequent move. At first sight, it may look very strong, targeting e4 and taking advantage of the fact that the g2 pawn is unprotected. It has a very big drawback, however, it significantly weakens Black's king. }
+5. exf5 Bb4+
+{ This move has the dual-purpose of developing the bishop with check and clearing the f8 square for Black's king in case Qh5+ is played later on. }
+6. Kf1
+{ Getting out of the check and protecting the pawn on g2. The king will be very safe on f1 and White is already up a pawn. }
+6... Nf6 { This is Black's only sensible move. } 7. a3
+{ Challenging the bishop immediately is quite strong. 7. c5 is also interesting. }
+7... Bd6 8. Nc3 O-O 9. h4
+{ With the idea Rh3 and Nf3. The White king on f1 is very safe. } 9... c5 10.
+d5 { We can simply push the d-pawn. } 10... Be5 11. Nge2 exd5 12. cxd5
+{ The d5 pawn is taboo because White always has Bc4 at the end &#40the pin wins a piece&#41. }
+12... d6 13. Nf4
+{ Threatening to win material with Ne6.  @@StartBlockQuote@@We are a pawn up for zip and pip@@EndBlockQuote@@as IM Sielecki and InfiniteFlash like to say here on Chessable &#40that is Black has no compensation&#41. }
+*
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "2. English defense"]
+[Black "4...f5 #4"]
+[Result "*"]
+
+1. d4 e6 2. c4 b6
+{ The English defense. Contrary to the English opening @@StartBracket@@1. c4@@EndBracket@@, this defense is not very good. However, it is quite tricky and White needs to know a few lines to get an advantage. }
+3. e4 { No reason not to create a big pawn center. } 3... Bb7 4. Bd3
+{ Protecting the pawn on e4 with the bishop is the way to go. We don't want to play Nc3 right away to avoid the pin after ...Bb4. }
+4... f5
+{ Black's most frequent move. At first sight, it may look very strong, targeting e4 and taking advantage of the fact that the g2 pawn is unprotected. It has a very big drawback, however, it significantly weakens Black's king. }
+5. exf5 Bxg2 { Here we go. Black's king is about to be in a world of trouble. }
+6. Qh5+ g6
+{ 6...Ke7  drops a piece to the double-attack  7.Qg5  Nf6  8.Qxg2+− } 7. fxg6
+{ White is now threatening to get another queen with g7+. } 7... Bg7
+{ Developing the bishop and stopping g7+.   7...Nf6  allows us to go through with  8.g7  Nxh5  9.gxh8=Q  Bxh1  10.Qxh7+−  White is threatening Qxh5 and Bg6 checkmate, with a winning position. }
+8. gxh7+ Kf8 9. Ne2
+{ With the idea to bring more pieces into the attack with Rg1 and Nf4-g6.  We do not want to play   9.hxg8=Q  immediately as after  9...Kxg8  Black's rook on h8 is now active and our queen is forced back. }
+9... Bxh1 { Capturing the rook loses by force. } 10. Bg5 Nf6
+{ Worse is   10...Bf6  as after  11.h4  Black can't even move the knight on g8 @@StartBracket@@Ne7 drops the bishop on f6@@EndBracket@@. White can simply continue with Nf4 and O-O-O with a decisive advantage. }
+11. Qh4 Bb7 { 11... Nc6 transposes to 9... Nf6. } 12. Nf4
+{ Ng6+ is unstoppable. } 12... Nc6 13. Ng6+ Kf7 14. Ne5+
+{ This check is stronger than taking on h8. } 14... Ke7
+{ The point is that   14...Nxe5  drops the house after  15.dxe5  d6  16.exf6  The bishop on g7 is now trapped and if  16...Bf8  17.Qh5  is game over. }
+15. Nc3
+{ With the idea Ne4 to increase the pressure on the knight on f6. Here is a sample continuation: }
+15... d6 16. Nxc6+ Bxc6 17. d5
+{ Hitting the bishop and preparing to open the e-file later on. } 17... Bd7 18.
+O-O-O { Securing the king and preparing Re1. } 18... Qf8 19. Re1 e5 20. f4
+{ Blasting open the e-file. Black's king won't last very long. } *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "2. English defense"]
+[Black "4...f5 #5"]
+[Result "*"]
+
+1. d4 e6 2. c4 b6
+{ The English defense. Contrary to the English opening @@StartBracket@@1. c4@@EndBracket@@, this defense is not very good. However, it is quite tricky and White needs to know a few lines to get an advantage. }
+3. e4 { No reason not to create a big pawn center. } 3... Bb7 4. Bd3
+{ Protecting the pawn on e4 with the bishop is the way to go. We don't want to play Nc3 right away to avoid the pin after ...Bb4. }
+4... f5
+{ Black's most frequent move. At first sight, it may look very strong, targeting e4 and taking advantage of the fact that the g2 pawn is unprotected. It has a very big drawback however, as it significantly weakens Black's king. }
+5. exf5 Bxg2 { Here we go. Black's king is about to be in a world of trouble. }
+6. Qh5+ g6
+{ 6...Ke7  drops a piece to the double-attack  7.Qg5  Nf6  8.Qxg2  +- } 7. fxg6
+{ White is now threatening to get another queen with g7+. } 7... Bg7
+{ Developing the bishop and stopping g7+.   7...Nf6  allows us to go through with  8.g7  Nxh5  9.gxh8=Q  Bxh1  10.Qxh7  +- White is threatening Qxh5 and Bg6 checkmate, with a winning position. }
+8. gxh7+ Kf8 9. Ne2
+{ With the idea to bring more pieces into the attack with Rg1 and Nf4-g6.  We do not want to play   9.hxg8=Q  immediately as after  9...Kxg8  Black's rook on h8 is now active and our queen is forced back. }
+9... Bxh1 { Capturing the rook loses by force. } 10. Bg5
+{ Developing the bishop with a tempo on Black's queen. } 10... Nf6
+{ Worse is   10...Bf6  as after  11.h4  Black can't even move the knight on g8 @@StartBracket@@Ne7 drops the bishop on f6@@EndBracket@@. White can simply continue with Nf4 and O-O-O with a decisive advantage. }
+11. Qh4 Nc6
+{ If   11...c5  White should just carry on developing  12.Nd2  cxd4  13.O-O-O  Bb7  14.Nf4  +- With the idea Nh5.   11...Qe7  is not a good position for the queen as  12.Nf4  +- becomes even stronger, threatening to fork three pieces with Ng6. }
+12. Nd2 { Developing the knight and making way for O-O-O later on. } 12... Qe7
+13. Nf4 { Threatening a deadly fork on g6. } 13... Qf7 14. Ng6+
+{ Forking Black's king and the rook on h8. } 14... Ke8 15. Nxh8 Bxh8 16. O-O-O
+{ White is a piece down but Black's king is super weak. White is attacking the bishop on h1 and wants to break open the e-file with d5. }
+16... Nb4 17. Bb1 Bb7 18. d5
+{ White is winning and should continue with Re1 &#40Re1-e3-f3 is also possible in some variations and would win the knight on f6&#41. If you are not convinced, I suggest playing around with the engine in this position &#40Stockfish is already giving more than +4&#41. }
+*
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "2. English defense"]
+[Black "4...f5 #6"]
+[Result "*"]
+
+1. d4 e6 2. c4 b6
+{ The English defense. Contrary to the English opening @@StartBracket@@1. c4@@EndBracket@@, this defense is not very good. However, it is quite tricky and White needs to know a few lines to get an advantage. }
+3. e4 { No reason not to create a big pawn center. } 3... Bb7 4. Bd3
+{ Protecting the pawn on e4 with the bishop is the way to go. We don't want to play Nc3 right away to avoid the pin after ...Bb4. }
+4... f5
+{ Black's most frequent move. At first sight, it may look very strong, targeting e4 and taking advantage of the fact that the g2 pawn is unprotected. It has a very big drawback however, as it significantly weakens Black's king. }
+5. exf5 Bxg2 { Here we go. Black's king is about to be in a world of trouble. }
+6. Qh5+ g6
+{ 6...Ke7  drops a piece to the double-attack  7.Qg5  Nf6  8.Qxg2  +- } 7. fxg6
+{ White is now threatening to get another queen with g7+. } 7... Bg7
+{ Developing the bishop and stopping g7+.   7...Nf6  allows us to go through with  8.g7  Nxh5  9.gxh8=Q  Bxh1  10.Qxh7  +- White is threatening Qxh5 and Bg6 checkmate, with a winning position. }
+8. gxh7+ Kf8 9. Ne2
+{ With the idea to bring more pieces into the attack with Rg1 and Nf4-g6.  We do not want to play   9.hxg8=Q  immediately as after  9...Kxg8  Black's rook on h8 is now active and our queen is forced back. }
+9... Nf6 10. Qh4 Bxh1 11. Bg5 Nc6 12. Nd2
+{ With the idea O-O-O and Nf4-g6. White is temporarily down a rook but Black's king is extremely vulnerable. }
+12... Kf7 13. O-O-O { Hitting the bishop on h1. } 13... Nb4 14. Bb1 Bb7 15. Rg1
+{ Nf4-h5 is coming and Black's king on f7 is toast. If you are not convinced, play around with the engine for a little bit &#40Stockfish's eval > +8&#41. }
+*
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "2. English defense"]
+[Black "4...f5 #7"]
+[Result "*"]
+
+1. d4 e6 2. c4 b6
+{ The English defense. Contrary to the English opening @@StartBracket@@1. c4@@EndBracket@@, this defense is not very good. However, it is quite tricky and White needs to know a few lines to get an advantage. }
+3. e4 { No reason not to create a big pawn center. } 3... Bb7 4. Bd3
+{ Protecting the pawn on e4 with the bishop is the way to go. We don't want to play Nc3 right away to avoid the pin after ...Bb4. }
+4... f5
+{ Black's most frequent move. At first sight, it may look very strong, targeting e4 and taking advantage of the fact that the g2 pawn is unprotected. It has a very big drawback however, as it significantly weakens Black's king. }
+5. exf5 Bxg2 { Here we go. Black's king is about to be in a world of trouble. }
+6. Qh5+ g6
+{ 6...Ke7  drops a piece to the double-attack  7.Qg5  Nf6  8.Qxg2  +- } 7. fxg6
+{ White is now threatening to get another queen with g7+. } 7... Bg7
+{ Developing the bishop and stopping g7+.   7...Nf6  allows us to go through with  8.g7  Nxh5  9.gxh8=Q  Bxh1  10.Qxh7  +- White is threatening Qxh5 and Bg6 checkmate, with a winning position. }
+8. gxh7+ Kf8 9. Ne2
+{ With the idea to bring more pieces into the attack with Rg1 and Nf4-g6.  We do not want to play   9.hxg8=Q  immediately as after  9...Kxg8  Black's rook on h8 is now active and our queen is forced back. }
+9... Nf6 10. Qh4 Bxh1 11. Bg5 Nc6 12. Nd2
+{ With the idea O-O-O and Nf4-g6. White is temporarily down a rook but Black's king is extremely vulnerable. }
+12... e5 { Stopping Nf4 for the time being. } 13. f3
+{ Trapping the bishop on h1. White can also obtain a decisive advantage with 13.O-O-O which is marked as analternative variation. }
+13... Qe7 14. O-O-O { Securing the king and hitting the Bh1. } 14... exd4 15.
+Nf4 { An obvious novelty, threatening a royal fork on g6. } 15... Ne5 16. Ng6+
+Nxg6 17. Bxg6 { Rxh1 and Ne4 are coming next. Black is lost. } *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "2. English defense"]
+[Black "4...f5 #7 Alternative 13.O-O-O"]
+[Result "*"]
+
+1. d4 e6 2. c4 b6
+{ The English defense. Contrary to the English opening @@StartBracket@@1. c4@@EndBracket@@, this defense is not very good. However, it is quite tricky and White needs to know a few lines to get an advantage. }
+3. e4 { No reason not to create a big pawn center. } 3... Bb7 4. Bd3
+{ Protecting the pawn on e4 with the bishop is the way to go. We don't want to play Nc3 right away to avoid the pin after ...Bb4. }
+4... f5
+{ Black's most frequent move. At first sight, it may look very strong, targeting e4 and taking advantage of the fact that the g2 pawn is unprotected. It has a very big drawback however, as it significantly weakens Black's king. }
+5. exf5 Bxg2 { Here we go. Black's king is about to be in a world of trouble. }
+6. Qh5+ g6
+{ 6...Ke7  drops a piece to the double-attack  7.Qg5  Nf6  8.Qxg2  +- } 7. fxg6
+{ White is now threatening to get another queen with g7+. } 7... Bg7
+{ Developing the bishop and stopping g7+.   7...Nf6  allows us to go through with  8.g7  Nxh5  9.gxh8=Q  Bxh1  10.Qxh7  +- White is threatening Qxh5 and Bg6 checkmate, with a winning position. }
+8. gxh7+ Kf8 9. Ne2
+{ With the idea to bring more pieces into the attack with Rg1 and Nf4-g6.  We do not want to play   9.hxg8=Q  immediately as after  9...Kxg8  Black's rook on h8 is now active and our queen is forced back. }
+9... Nf6 10. Qh4 Bxh1 11. Bg5 Nc6 12. Nd2
+{ With the idea O-O-O and Nf4-g6. White is temporarily down a rook but Black's king is extremely vulnerable. }
+12... e5 { Apart from 13.f3, White can also obtain a decisive advantage with }
+13. O-O-O { immediately attacking the bishop on h1. } 13... e4
+{ 13...d5  runs into  14.dxe5  Nxe5  15.Bf5  Rxh1 and Nd4-e6 are now big threats.  15...Nf3  16.Nxf3  Bxf3  17.Nd4+−  Black is defenseless against both Ne6+ and Nxf3. }
+14. Bxe4 Bxe4 15. Nxe4 { Bxf6 is now a big threat. } 15... Rxh7 16. Qf4 Kf7
+{ 16...Qe7  can be met with  17.Bxf6  Bxf6  18.Nxf6  hitting the rook on h7.  18...Rg7  19.Nxd7  Ke8  20.Nf6  Kd8  And now White should continue with  21.d5  Nb4  22.Nc3+−  a3 and d6 are now big threats. Black's king won't survive much longer. }
+17. Rd3
+{ Rf3/e3 is coming next with a decisive advantage.   Here's a sample continuation:  17...Qe7  18.Re3  Rah8  19.N2c3  with the idea Nd5.  19...Rxh2  20.Nd5+−  Black is busted. }
+*
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "2. English defense"]
+[Black "4...f5 #8"]
+[Result "*"]
+
+1. d4 e6 2. c4 b6
+{ The English defense. Contrary to the English opening @@StartBracket@@1. c4@@EndBracket@@, this defense is not very good. However, it is quite tricky and White needs to know a few lines to get an advantage. }
+3. e4 { No reason not to create a big pawn center. } 3... Bb7 4. Bd3
+{ Protecting the pawn on e4 with the bishop is the way to go. We don't want to play Nc3 right away to avoid the pin after ...Bb4. }
+4... f5
+{ Black's most frequent move. At first sight, it may look very strong, targeting e4 and taking advantage of the fact that the g2 pawn is unprotected. It has a very big drawback however, as it significantly weakens Black's king. }
+5. exf5 Bxg2 { Here we go. Black's king is about to be in a world of trouble. }
+6. Qh5+ g6
+{ 6...Ke7  drops a piece to the double-attack  7.Qg5  Nf6  8.Qxg2  +- } 7. fxg6
+{ White is now threatening to get another queen with g7+. } 7... Bg7
+{ Developing the bishop and stopping g7+.   7...Nf6  allows us to go through with  8.g7  Nxh5  9.gxh8=Q  Bxh1  10.Qxh7  +- White is threatening Qxh5 and Bg6 checkmate, with a winning position. }
+8. gxh7+ Kf8 9. Ne2
+{ With the idea to bring more pieces into the attack with Rg1 and Nf4-g6.  We do not want to play   9.hxg8=Q  immediately as after  9...Kxg8  Black's rook on h8 is now active and our queen is forced back. }
+9... Nf6 10. Qh4 Bxh1 11. Bg5 Nc6 12. Nd2
+{ With the idea O-O-O and Nf4-g6. White is temporarily down a rook but Black's king is extremely vulnerable. }
+12... d5 13. Nf4 { Threatening a deadly fork on e6. } 13... Nxd4 14. Ng6+ Ke8
+15. Nxh8 Bxh8 16. Qxd4
+{ White has regained the rook whilst Black's king is still in just as much danger. White can follow up with O-O-O with a decisive advantage. }
+*
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "2. English defense"]
+[Black "4...f5 #9"]
+[Result "*"]
+
+1. d4 e6 2. c4 b6
+{ The English defense. Contrary to the English opening @@StartBracket@@1. c4@@EndBracket@@, this defense is not very good. However, it is quite tricky and White needs to know a few lines to get an advantage. }
+3. e4 { No reason not to create a big pawn center. } 3... Bb7 4. Bd3
+{ Protecting the pawn on e4 with the bishop is the way to go. We don't want to play Nc3 right away to avoid the pin after ...Bb4. }
+4... f5
+{ Black's most frequent move. At first sight, it may look very strong, targeting e4 and taking advantage of the fact that the g2 pawn is unprotected. It has a very big drawback however, as it significantly weakens Black's king. }
+5. exf5 Bxg2 { Here we go. Black's king is about to be in a world of trouble. }
+6. Qh5+ g6
+{ 6...Ke7  drops a piece to the double-attack  7.Qg5  Nf6  8.Qxg2  +- } 7. fxg6
+{ White is now threatening to get another queen with g7+. } 7... Bg7
+{ Developing the bishop and stopping g7+.   7...Nf6  allows us to go through with  8.g7  Nxh5  9.gxh8=Q  Bxh1  10.Qxh7  +- White is threatening Qxh5 and Bg6 checkmate, with a winning position. }
+8. gxh7+ Kf8 9. Ne2
+{ With the idea to bring more pieces into the attack with Rg1 and Nf4-g6.  We do not want to play   9.hxg8=Q  immediately as after  9...Kxg8  Black's rook on h8 is now active and our queen is forced back. }
+9... Nf6 10. Qh4 Bxh1 11. Bg5 Nc6 12. Nd2
+{ With the idea O-O-O and Nf4-g6. White is temporarily down a rook but Black's king is extremely vulnerable. }
+12... Nb4 13. Bg6 { Moving the bishop to safety and to its most active post. }
+13... Bb7 14. O-O-O { Nf4-h5 is coming with a decisive advantage. } *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "2. English defense"]
+[Black "4...f5 #10"]
+[Result "*"]
+
+1. d4 e6 2. c4 b6
+{ The English defense. Contrary to the English opening @@StartBracket@@1. c4@@EndBracket@@, this defense is not very good. However, it is quite tricky and White needs to know a few lines to get an advantage. }
+3. e4 { No reason not to create a big pawn center. } 3... Bb7 4. Bd3
+{ Protecting the pawn on e4 with the bishop is the way to go. We don't want to play Nc3 right away to avoid the pin after ...Bb4. }
+4... f5
+{ Black's most frequent move. At first sight, it may look very strong, targeting e4 and taking advantage of the fact that the g2 pawn is unprotected. It has a very big drawback however, as it significantly weakens Black's king. }
+5. exf5 Bxg2 { Here we go. Black's king is about to be in a world of trouble. }
+6. Qh5+ g6
+{ 6...Ke7  drops a piece to the double-attack  7.Qg5  Nf6  8.Qxg2  +- } 7. fxg6
+{ White is now threatening to get another queen with g7+. } 7... Bg7
+{ Developing the bishop and stopping g7+.   7...Nf6  allows us to go through with  8.g7  Nxh5  9.gxh8=Q  Bxh1  10.Qxh7  +- White is threatening Qxh5 and Bg6 checkmate, with a winning position. }
+8. gxh7+ Kf8 9. Ne2
+{ With the idea to bring more pieces into the attack with Rg1 and Nf4-g6.  We do not want to play   9.hxg8=Q  immediately as after  9...Kxg8  Black's rook on h8 is now active and our queen is forced back. }
+9... Nf6 10. Qh4 Bxh1 11. Bg5 Nc6 12. Nd2
+{ With the idea O-O-O and Nf4-g6. White is temporarily down a rook but Black's king is extremely vulnerable. }
+12... b5
+{ We have been following the game Narciso Dublan, M  (2523)  -Rombaldoni, A  (2458)  Oslo 2012. This position was also reached in a few other games. }
+13. Nf4
+{ GM Dublan played 13.O-O-O and went on to win despite this move not being optimal. 13.Nf4, with the ideas Ng6+ and Nh5, as played by FM Carl Boor vs GM Jesse Kraai in 2004 is much stronger. }
+13... bxc4
+{ 13...Nxd4  drops a piece to  14.Ng6  Kf7  15.Ne5  Ke8  16.Qxd4  +- White is winning as Black has no defense against moves like Bg6+ followed by Nf7. }
+14. Nxc4 Bd5 15. Ne5
+{ Black is defenseless against the threats of Nfg6+ and Nh5.   Conclusion: White has a clear advantage in every variation of the English defense. Precise knowledge of a couple of lines, especially in the 4...f5 variation, is nonetheless required  (and that's what the MoveTrainer™ technology excels at!)  . }
+*
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "3. Accelerated QID"]
+[Black "3...Bb7"]
+[Result "*"]
+
+1. d4 Nf6 2. c4 b6 3. f3
+{ The most challenging way of meeting the Accelerated Queen's Indian. Since the knight is not yet committed to f3 &#40as in the normal QID&#41, White can instead play f3 and build a very strong center. Furthermore, the e4-f3-g2 pawn chain will severely restrict Black's bishop on b7. }
+3... Bb7 { Black's idea is to challenge the center with e6 and d5. } 4. e4 e6
+5. Nc3 d5
+{ 5...Bb4  threatening to double our pawns with ...Bxc3 can simply be met with  6.Bd2  O-O  7.Bd3  N  intending to complete development with Nge2 and O-O. A sample continuation is  7...c5  8.d5  d6  9.a3  Ba5  10.Nge2  Nbd7  11.O-O±  White can continue with Ng3 and expand in the center with f2-f4 with a clear advantage. }
+6. cxd5
+{ This is White's typical reaction to the pawn break d5. We take on d5 once with the c-pawn and then push ahead with e5. }
+6... exd5 7. e5 { Gaining space. } 7... Nfd7 8. f4
+{ Strengthening the e5 pawn and vacating the f3 square for the knight on g1. }
+8... c5 9. Nf3 Nc6 10. Be3 cxd4 11. Nxd4
+{ White can continue with Bb5 and O-O with a slight but stable advantage. } *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "3. Accelerated QID"]
+[Black "3...e6 #1"]
+[Result "*"]
+
+1. d4 Nf6 2. c4 b6 3. f3
+{ The most challenging way of meeting the Accelerated Queen's Indian. Since the knight is not yet committed to f3 &#40as in the normal QID&#41, White can instead play f3 and build a very strong center. Furthermore, the e4-f3-g2 pawn chain will severely restrict Black's bishop on b7. }
+3... e6 4. e4 d5 5. cxd5 exd5 6. e5
+{ Gaining space with a tempo on Black's knight. } 6... Nfd7 7. f4
+{ Preparing Nf3 and strengthening the e5 pawn. } 7... c5 8. Nf3 Nc6 9. Be3 cxd4
+10. Bb5 { A nice intermediate move. } 10... Bb7 11. Bxc6
+{ A favourable exchange. } 11... Bxc6 12. Nxd4 Bb7 13. O-O
+{ The knight on d4 is very strong. White is threatening e6 and has ideas of Qf3 and Nc3-b5-d6. }
+*
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "3. Accelerated QID"]
+[Black "3...e6 #2"]
+[Result "*"]
+
+1. d4 Nf6 2. c4 b6 3. f3
+{ The most challenging way of meeting the Accelerated Queen's Indian. Since the knight is not yet committed to f3 &#40as in the normal QID&#41, White can instead play f3 and build a very strong center. Furthermore, the e4-f3-g2 pawn chain will severely restrict Black's bishop on b7. }
+3... e6 4. e4 d5 5. cxd5 exd5 6. e5
+{ Gaining space with a tempo on Black's knight. } 6... Nfd7 7. f4
+{ Preparing Nf3 and strengthening the e5 pawn. } 7... c5 8. Nf3 Nc6 9. Be3 cxd4
+10. Bb5 { A nice intermediate move. } 10... dxe3 11. Bxc6 Bb4+ 12. Nc3 Rb8 13.
+O-O
+{ White will capture the e3 pawn with Qe2 and can then target the weak, isolated pawn on d5 with Rad1. }
+*
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "3. Accelerated QID"]
+[Black "3...e6 #3"]
+[Result "*"]
+
+1. d4 Nf6 2. c4 b6 3. f3
+{ The most challenging way of meeting the Accelerated Queen's Indian. Since the knight is not yet committed to f3 &#40as in the normal QID&#41, White can instead play f3 and build a very strong center. Furthermore, the e4-f3-g2 pawn chain will severely restrict Black's bishop on b7. }
+3... e6 4. e4 Bb4+ 5. Bd2 Bxd2+ 6. Qxd2
+{ White should recapture with the queen as the b1 knight will be much better placed on c3 than on d2. }
+6... O-O 7. Nc3 d6 8. O-O-O
+{ White is clearly better in this position. As the kings are castled on opposite sides, White's plan should be to attack Black's king. As such, pushing the g and h-pawns forward is natural. Black, on the other hand, will have a hard time getting anywhere near White's king. Here is sample continuation: }
+8... Qe7 9. g4
+{ Grabbing space on the kingside. White will continue with h4, Bd3, Nge2, and Rdg1 with a strong attack. }
+9... c5 10. d5 e5 11. Nge2 Ne8 12. h4
+{ Black is in trouble. He cannot break with ...f5 or get to White's king. Black's king is about to come under a heavy attack. }
+*
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "3. Accelerated QID"]
+[Black "3...Nc6 #1"]
+[Result "*"]
+
+1. d4 Nf6 2. c4 b6 3. f3
+{ The most challenging way of meeting the Accelerated Queen's Indian. Since the knight is not yet committed to f3 &#40as in the normal QID&#41, White can instead play f3 and build a very strong center. Furthermore, the e4-f3-g2 pawn chain will severely restrict Black's bishop on b7. }
+3... Nc6
+{ This is Black's only sensible option. With ...Nc6, Black is preparing to push ...e5 and try to gain some control over the d4 square. }
+4. Nc3
+{ White should delay e4. The point is that:   4.e4  is premature because after  4...e5  Black gets the d4 square for his knight. Since the pawn is already on e4, it's not easy to boot this knight. }
+4... d5
+{ This isn't the right pawn break. Black strikes in the center but weakens the a4-e8 diagonal. }
+5. Qa4 { Developing with tempo. } 5... Qd7 6. cxd5 Nxd5 7. Nxd5 Qxd5 8. e4
+{ Gaining space in the center with a tempo is always a good idea! } 8... Qd6 9.
+Be3
+{ Note that   9.d5  fails to win the knight because of  9...Qb4  10.Qxb4  Nxb4= }
+9... Bd7 10. O-O-O
+{ Followed by Ne2-c3 and Bb5. The strong e4 and d4 pawn center gives White the advantage. }
+*
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "3. Accelerated QID"]
+[Black "3...Nc6 #2"]
+[Result "*"]
+
+1. d4 Nf6 2. c4 b6 3. f3
+{ The most challenging way of meeting the Accelerated Queen's Indian. Since the knight is not yet committed to f3 &#40as in the normal QID&#41, White can instead play f3 and build a very strong center. Furthermore, the e4-f3-g2 pawn chain will severely restrict Black's bishop on b7. }
+3... Nc6
+{ This is Black's only sensible option. With ...Nc6, Black is preparing to push ...e5 and try to gain some control over the d4 square. }
+4. Nc3
+{ White should delay e4. The point is that:   4.e4  is premature because after  4...e5  Black gets the d4 square for his knight. Since the pawn is already on e4, it's not easy to boot this knight. }
+4... e5 5. d5
+{ Gaining space. Note that now ...Nd4 is simply met by e3, which is why we delayed the e4 advance. }
+5... Nb8
+{ This retreat is also possible but very passive. White should simply develop naturally. }
+6. e4 Bc5 7. Nge2 O-O 8. Na4
+{ Pushing the bishop back. The knight may look funny on a4 but it is actually quite well placed to support a c5 pawn break later on. Furthermore, the c5 square is a useful outpost for Black's b8 knight so taking control over this square is important. }
+8... Be7 9. Be3 a5 10. Nec3
+{ White has a clear advantage and can proceed with Be2, Qd2 and O-O-O and then start an attack on the kingside. Alternatively, White can also simply castle short and then expand on the queenside with a3, b4 and c5. Here is a sample line:  A nice combination occurs after the following blunder: }
+10... Na6 11. Nxb6 cxb6 12. d6
+{ White will capture the bishop on e7 and follow up with Qd2 and O-O-O. Black is strategically lost. The bishop on c8 has no prospects and the b6 and d7 pawns are very weak. }
+*
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "3. Accelerated QID"]
+[Black "3...Nc6 #3"]
+[Result "*"]
+
+1. d4 Nf6 2. c4 b6 3. f3
+{ The most challenging way of meeting the Accelerated Queen's Indian. Since the knight is not yet committed to f3 &#40as in the normal QID&#41, White can instead play f3 and build a very strong center. Furthermore, the e4-f3-g2 pawn chain will severely restrict Black's bishop on b7. }
+3... Nc6
+{ This is Black's only sensible option. With ...Nc6, Black is preparing to push ...e5 and try to gain some control over the d4 square. }
+4. Nc3
+{ White should delay e4. The point is that:   4.e4  is premature because after  4...e5  Black gets the d4 square for his knight. Since the pawn is already on e4, it's not easy to boot this knight. }
+4... e5 5. d5
+{ Gaining space. Note that now ...Nd4 is simply met by e3, which is why we delayed the e4 advance. }
+5... Nb8
+{ This retreat is also possible but very passive. White should simply develop naturally. }
+6. e4 Bc5 7. Nge2 O-O 8. Na4
+{ Pushing the bishop back. The knight may look funny on a4 but it is actually quite well placed to support a c5 pawn break later on. Furthermore, the c5 square is a useful outpost for Black's b8 knight so taking control over this square is important. }
+8... Be7 9. Be3 a5 10. Nec3
+{ White has a clear advantage and can proceed with Be2, Qd2 and O-O-O and then start an attack on the kingside. Alternatively, White can also simply castle short and then expand on the queenside with a3, b4 and c5. Here is a sample line: }
+10... d6 11. Qd2 Na6 12. O-O-O Bd7 13. g4
+{ Followed by h4, Bd3 and Rdg1. Black's king will come under a strong attack. Black, on the other hand, can hardly get to White's king. }
+*
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "3. Accelerated QID"]
+[Black "3...Nc6 #4"]
+[Result "*"]
+
+1. d4 Nf6 2. c4 b6 3. f3
+{ The most challenging way of meeting the Accelerated Queen's Indian. Since the knight is not yet committed to f3 &#40as in the normal QID&#41, White can instead play f3 and build a very strong center. Furthermore, the e4-f3-g2 pawn chain will severely restrict Black's bishop on b7. }
+3... Nc6
+{ This is Black's only sensible option. With ...Nc6, Black is preparing to push ...e5 and try to gain some control over the d4 square. }
+4. Nc3
+{ White should delay e4. The point is that:   4.e4  is premature because after  4...e5  Black gets the d4 square for his knight. Since the pawn is already on e4, it's not easy to boot this knight. }
+4... e5 5. d5
+{ Gaining space. Note that now ...Nd4 is simply met by e3, which is why we delayed the e4 advance. }
+5... Na5 { Attacking the c4 pawn makes some sense. } 6. e4 Bb4 7. Bd2
+{ We shouldn't allow Black to double our pawns with ...Bxc3. } 7... O-O 8. Bd3
+{ White has a slight advantage due to the extra space and central control. We can continue with Nge2 and O-O and then look to expand on the queenside with a3 and b4. Another idea is to transfer the e2 knight to f5 via g3. }
+*
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "3. Accelerated QID"]
+[Black "3...Nc6 #5"]
+[Result "*"]
+
+1. d4 Nf6 2. c4 b6 3. f3
+{ The most challenging way of meeting the Accelerated Queen's Indian. Since the knight is not yet committed to f3 &#40as in the normal QID&#41, White can instead play f3 and build a very strong center. Furthermore, the e4-f3-g2 pawn chain will severely restrict Black's bishop on b7. }
+3... Nc6
+{ This is Black's only sensible option. With ...Nc6, Black is preparing to push ...e5 and try to gain some control over the d4 square. }
+4. Nc3
+{ White should delay e4. The point is that:   4.e4  is premature because after  4...e5  Black gets the d4 square for his knight. Since the pawn is already on e4, it's not easy to boot this knight. }
+4... e5 5. d5
+{ Gaining space. Note that now ...Nd4 is simply met by e3, which is why we delayed the e4 advance. }
+5... Ne7
+{ This is Black's best move. The knight is heading to g6, where it can later jump to f4. }
+6. e4 Ng6 7. Nge2
+{ Has only been played 6 times but is White's most precise continuation. White should hold back on   7.Be3  as this can be met with  7...Bc5  The exchange of dark-squared bishops strongly favors Black @@StartBracket@@note that all of white's pawns are on light-squares so the dark-squared bishop is our good bishop@@EndBracket@@. }
+7... Nh5 { Immediately trying to take control over the f4 square. } 8. g3
+{ No thanks, you're not coming to f4. } 8... Bc5 9. a3
+{ With the idea of b4 to neutralize Black's only active piece. } 9... a5 10.
+Na4 { We've seen this before. White sends the bishop back to e7. } 10... Be7
+11. Be3 O-O 12. Qd2 Ba6 13. Nec3 d6 14. Be2
+{ Followed by O-O-O with a big advantage. Black has no counterplay and White can prepare the f4 pawn break. Note that Black's standard ...f5 break is not good as after exf5 White can plant a knight on e4. }
+*
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "3. Accelerated QID"]
+[Black "3...Nc6 #6"]
+[Result "*"]
+
+1. d4 Nf6 2. c4 b6 3. f3
+{ The most challenging way of meeting the Accelerated Queen's Indian. Since the knight is not yet committed to f3 &#40as in the normal QID&#41, White can instead play f3 and build a very strong center. Furthermore, the e4-f3-g2 pawn chain will severely restrict Black's bishop on b7. }
+3... Nc6
+{ This is Black's only sensible option. With ...Nc6, Black is preparing to push ...e5 and try to gain some control over the d4 square. }
+4. Nc3
+{ White should delay e4. The point is that:   4.e4  is premature because after  4...e5  Black gets the d4 square for his knight. Since the pawn is already on e4, it's not easy to boot this knight. }
+4... e5 5. d5
+{ Gaining space. Note that now ...Nd4 is simply met by e3, which is why we delayed the e4 advance. }
+5... Ne7
+{ This is Black's best move. The knight is heading to g6, where it can later jump to f4. }
+6. e4 Ng6 7. Nge2
+{ Has only been played 6 times but is White's most precise continuation. White should hold back on   7.Be3  as this can be met with  7...Bc5  The exchange of dark-squared bishops strongly favors Black @@StartBracket@@note that all of white's pawns are on light-squares so the dark-squared bishop is our good bishop@@EndBracket@@. }
+7... Bc5 8. h4
+{ A very strong pawn push in the style of AlphaZero. Black, who already surrendered control over the center, is now about to get squeezed on the kingside. }
+8... h6 9. h5
+{ Gaining more space and sending Black's knight to the miserable f8 square. }
+9... Nf8
+{ Black's knight has moved 4 times just to end up on f8 @@StartBracket@@where it is completely restricted by the d5 and h5 pawns@@EndBracket@@. In the meantime, White has gained control over the center and the kingside. }
+10. Ng3 { Heading to f5. } 10... N8h7
+{ This is the 5th time the knight moves. &#40Okay I will stop counting now, you get the point&#41 Black is just wasting time while we have been improving our pieces. }
+11. Nf5 O-O 12. d6
+{ This temporary pawn sacrifice is very strong. By preventing Black from playing ...d6, the knight on f5 is now untouchable. Furthermore, the bishop on c8 is now incredibly restricted @@StartBracket@@on b7 it's simply bitting on granite@@EndBracket@@. }
+12... Re8 13. a3 { With the idea of playing b4. } 13... a5 14. Nb5
+{ Hitting c7 and basically forcing Black to capture the d6 pawn. } 14... cxd6
+15. Bd2 { Renewing the threat of b4. } 15... a4 16. Be3
+{ Exchanging Black's only active piece.   The pawn on d6 is going to fall in the next few moves and Black's pieces are very passive. The knight on f6 has no prospects, the one on h7 is offside, and the bishop on c8 is also restricted by White's pawn chain. On the other hand, White can target the b6, d6, and d7 pawns and has two very powerful knights on f5 and b5.   Qd2 and O-O-O are next on the agenda, with a clear advantage. }
+*
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "3. Accelerated QID"]
+[Black "3...Nc6 #7"]
+[Result "*"]
+
+1. d4 Nf6 2. c4 b6 3. f3
+{ The most challenging way of meeting the Accelerated Queen's Indian. Since the knight is not yet committed to f3 &#40as in the normal QID&#41, White can instead play f3 and build a very strong center. Furthermore, the e4-f3-g2 pawn chain will severely restrict Black's bishop on b7. }
+3... Nc6
+{ This is Black's only sensible option. With ...Nc6, Black is preparing to push ...e5 and try to gain some control over the d4 square. }
+4. Nc3
+{ White should delay e4. The point is that:   4.e4  is premature because after  4...e5  Black gets the d4 square for his knight. Since the pawn is already on e4, it's not easy to boot this knight. }
+4... e5 5. d5
+{ Gaining space. Note that now ...Nd4 is simply met by e3, hence why we delayed the e4 advance. }
+5... Ne7
+{ This is Black's best move. The knight is heading to g6, where it can later jump to f4. }
+6. e4 Ng6 7. Nge2
+{ Has only been played 6 times but is White's most precise continuation. White should hold back on   7.Be3  as this can be met with  7...Bc5  The exchange of dark-squared bishops strongly favors Black @@StartBracket@@note that all of white's pawns are on light-squares so the dark-squared bishop is our good bishop@@EndBracket@@. }
+7... Bc5 8. h4
+{ A very strong pawn push in the style of AlphaZero. Black, who already surrendered control over the center, is now about to get squeezed on the kingside. }
+8... h6 9. h5
+{ Gaining more space and sending Black's knight to the miserable f8 square. }
+9... Nf8
+{ Black's knight has moved 4 times just to end up on f8 @@StartBracket@@where it is completely restricted by the d5 and h5 pawns@@EndBracket@@. In the meantime, White has gained control over the center and the kingside. }
+10. Ng3 { Heading to f5. } 10... N8h7
+{ The 5th time the knight moves @@StartBracket@@okay I will stop counting now@@EndBracket@@. }
+11. Nf5 O-O 12. d6
+{ This temporary pawn sacrifice is very strong. By preventing Black from playing ...d6, the knight on f5 is now untouchable. Furthermore, the bishop on c8 is now incredibly restricted @@StartBracket@@on b7 it's simply bitting on granite@@EndBracket@@. }
+12... Rb8
+{ With the idea ...Bb7. Black removed the rook from the a8 square, where it would come under attack after Nc3-b5xc7. }
+13. Nb5
+{ Hitting c7. This move was not considered by FM Yuriy Krykun in his Chessable course 'The Accelerated Queen's Indian Defense', and leads to a clear White advantage. Let's see how: }
+13... Ne8 14. a3 { Threatening b4. } 14... Bxd6 15. Nbxd6 Nxd6 16. Nxd6 cxd6
+17. Qxd6
+{ White has more space and an unopposed dark-squared bishop. Black's position is riddled with weaknesses. Furthermore, the bishop on c8 and the knight on h7 are completely out of the game.  Be3 and O-O-O are coming next with a decisive advantage. }
+*
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "3. Accelerated QID"]
+[Black "3...Nc6 #8"]
+[Result "*"]
+
+1. d4 Nf6 2. c4 b6 3. f3
+{ The most challenging way of meeting the Accelerated Queen's Indian. Since the knight is not yet committed to f3 &#40as in the normal QID&#41, White can instead play f3 and build a very strong center. Furthermore, the e4-f3-g2 pawn chain will severely restrict Black's bishop on b7. }
+3... Nc6
+{ This is Black's only sensible option. With ...Nc6, Black is preparing to push ...e5 and try to gain some control over the d4 square. }
+4. Nc3
+{ White should delay e4. The point is that:   4.e4  is premature because after  4...e5  Black gets the d4 square for his knight. Since the pawn is already on e4, it's not easy to boot this knight. }
+4... e5 5. d5
+{ Gaining space. Note that now ...Nd4 is simply met by e3, hence why we delayed the e4 advance. }
+5... Ne7
+{ This is Black's best move. The knight is heading to g6, where it can later jump to f4. }
+6. e4 Ng6 7. Nge2
+{ Has only been played 6 times but is White's most precise continuation. White should hold back on   7.Be3  as this can be met with  7...Bc5  The exchange of dark-squared bishops strongly favors Black @@StartBracket@@note that all of white's pawns are on light-squares so the dark-squared bishop is our good bishop@@EndBracket@@. }
+7... Bc5 8. h4
+{ A very strong pawn push in the style of AlphaZero. Black, who already surrendered control over the center, is now about to get squeezed on the kingside. }
+8... h6 9. h5
+{ Gaining more space and sending Black's knight to the miserable f8 square. }
+9... Nf8
+{ Black's knight has moved 4 times just to end up on f8 @@StartBracket@@where it is completely restricted by the d5 and h5 pawns@@EndBracket@@. In the meantime, White has gained control over the center and the kingside. }
+10. Ng3 { Heading to f5. } 10... N8h7
+{ The 5th time the knight moves @@StartBracket@@okay I will stop counting now@@EndBracket@@. }
+11. Nf5 O-O 12. d6
+{ This temporary pawn sacrifice is very strong. By preventing Black from playing ...d6, the knight on f5 is now untouchable. Furthermore, the bishop on c8 is now incredibly restricted @@StartBracket@@on b7 it's simply bitting on granite@@EndBracket@@. }
+12... Rb8
+{ With the idea ...Bb7. Black removed the rook from the a8 square, where it would come under attack after Nc3-b5xc7. }
+13. Nb5
+{ Hitting c7. This move was not considered by FM Yuriy Krykun in his Chessable course 'The Accelerated Queen's Indian Defense', and leads to a clear White advantage. Let's see how: }
+13... Ne8 14. a3 { Threatening b4. } 14... a5
+{ Stopping b4 is Black's most logical continuation. } 15. Rb1
+{ Renewing the threat of b4. } 15... a4
+{ What else? This is Black's only way of stopping b4. } 16. Qxa4 c6 17. Qa7
+{ White ignores Black's threat and instead attacks the rook. } 17... Rb7 18.
+Qa8 cxb5 19. Qxc8
+{ This is the point, White recoups the minor piece with this capture intending to follow up with Ne7+. }
+19... Qxc8 20. Ne7+ Kh8 21. Nxc8
+{ White has now restored material equality and has a very advantageous position. }
+21... bxc4 22. Bxc4 Nxd6 23. Nxd6 Bxd6 24. Ke2
+{ After this semi-forced variation, White emerged with a clear advantage. White has the bishop pair  (note the unopposed light-squared bishop)  and a 2 vs 1 on the queenside. Black's pawns on b6 and d7 are weak and the knight on h7 is completely misplaced. Here is a sample line:   24...Ng5  Trying to bring the knight to d4 is Black's only hope.  25.Rd1  Bc5  26.Bd2  Ne6  27.a4  Nd4  28.Kd3±  Creating a passed pawn with b4 and a5 are next on the agenda. Black's knight on d4 is pretty but has zero targets. }
+*
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "3. Accelerated QID"]
+[Black "3...Nc6 #9"]
+[Result "*"]
+
+1. d4 Nf6 2. c4 b6 3. f3
+{ The most challenging way of meeting the Accelerated Queen's Indian. Since the knight is not yet committed to f3 &#40as in the normal QID&#41, White can instead play f3 and build a very strong center. Furthermore, the e4-f3-g2 pawn chain will severely restrict Black's bishop on b7. }
+3... Nc6
+{ This is Black's only sensible option. With ...Nc6, Black is preparing to push ...e5 and try to gain some control over the d4 square. }
+4. Nc3
+{ White should delay e4. The point is that:   4.e4  is premature because after  4...e5  Black gets the d4 square for his knight. Since the pawn is already on e4, it's not easy to boot this knight. }
+4... e5 5. d5
+{ Gaining space. Note that now ...Nd4 is simply met by e3, hence why we delayed the e4 advance. }
+5... Ne7
+{ This is Black's best move. The knight is heading to g6, where it can later jump to f4. }
+6. e4 Ng6 7. Nge2
+{ Has only been played 6 times but is White's most precise continuation. White should hold back on   7.Be3  as this can be met with  7...Bc5  The exchange of dark-squared bishops strongly favors Black @@StartBracket@@note that all of white's pawns are on light-squares so the dark-squared bishop is our good bishop@@EndBracket@@. }
+7... Bc5 8. h4
+{ A very strong pawn push in the style of AlphaZero. Black, who already surrendered control over the center, is now about to get squeezed on the kingside. }
+8... h5
+{ Stopping the h4-pawn from advancing any further is logical. However, the drawback of ...h5 is that the g5 square is now very weak. }
+9. Bg5 Nf8
+{ Black wants to reroute the knight to h7 to challenge the bishop on g5. } 10.
+Qd2 N8h7 11. O-O-O { White can simply ignore Black's idea. } 11... Nxg5 12.
+hxg5 Ng8
+{ Black spent another three moves with the knight to capture the g5 bishop just to end up having to drop his other knight back to g8! Notice how almost all of Black's pieces are still on the back rank 12 moves into the game. }
+13. a3 { With the idea b4 to gain full control over the entire board. } 13...
+a5 14. f4 d6 15. f5
+{ White is going to target the h-pawn with Ng3 and Be2 next. Black only has one good piece &#40the bishop on c5&#41. Note how all the other pieces severely restricted by White's pawns, giving the first player a decisive advantage. }
+*
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "3. Accelerated QID"]
+[Black "3...Nc6 #10"]
+[Result "*"]
+
+1. d4 Nf6 2. c4 b6 3. f3
+{ The most challenging way of meeting the Accelerated Queen's Indian. Since the knight is not yet committed to f3 &#40as in the normal QID&#41, White can instead play f3 and build a very strong center. Furthermore, the e4-f3-g2 pawn chain will severely restrict Black's bishop on b7. }
+3... Nc6
+{ This is Black's only sensible option. With ...Nc6, Black is preparing to push ...e5 and try to gain some control over the d4 square. }
+4. Nc3
+{ White should delay e4. The point is that:   4.e4  is premature because after  4...e5  Black gets the d4 square for his knight. Since the pawn is already on e4, it's not easy to boot this knight. }
+4... e5 5. d5
+{ Gaining space. Note that now ...Nd4 is simply met by e3, hence why we delayed the e4 advance. }
+5... Ne7
+{ This is Black's best move. The knight is heading to g6, where it can later jump to f4. }
+6. e4 Ng6 7. Nge2
+{ Has only been played 6 times but is White's most precise continuation. White should hold back on   7.Be3  as this can be met with  7...Bc5  The exchange of dark-squared bishops strongly favors Black @@StartBracket@@note that all of white's pawns are on light-squares so the dark-squared bishop is our good bishop@@EndBracket@@. }
+7... Bc5 8. h4
+{ A very strong pawn push in the style of AlphaZero. Black, who already surrendered control over the center, is now about to get squeezed on the kingside. }
+8... h5
+{ Stopping the h4-pawn from advancing any further is logical. However, the drawback of ...h5 is that the g5 square is now very weak. }
+9. Bg5 Nf8 { Black wants to reroute the knight to h7 to challenge the Bg5. }
+10. Qd2 N8h7 11. O-O-O O-O { White can simply ignore Black's idea. } 12. Kb1
+Ba6 13. Ng3 g6 14. Be2
+{ The kings are castled on opposite sides of the board. Hence, White should attack Black's king. To do so he should prepare the g4 break with Ng3-f1-e3. Note that Black cannot create any play against White's king and is thus clearly worse. }
+*
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "3. Accelerated QID"]
+[Black "3...Nc6 #11"]
+[Result "*"]
+
+1. d4 Nf6 2. c4 b6 3. f3
+{ The most challenging way of meeting the Accelerated Queen's Indian. Since the knight is not yet committed to f3 &#40as in the normal QID&#41, White can instead play f3 and build a very strong center. Furthermore, the e4-f3-g2 pawn chain will severely restrict Black's bishop on b7. }
+3... Nc6
+{ This is Black's only sensible option. With ...Nc6, Black is preparing to push ...e5 and try to gain some control over the d4 square. }
+4. Nc3
+{ White should delay e4. The point is that:   4.e4  is premature because after  4...e5  Black gets the d4 square for his knight. Since the pawn is already on e4, it's not easy to boot this knight. }
+4... e5 5. d5
+{ Gaining space. Note that now ...Nd4 is simply met by e3, hence why we delayed the e4 advance. }
+5... Ne7
+{ This is Black's best move. The knight is heading to g6, where it can later jump to f4. }
+6. e4 Ng6 7. Nge2
+{ Has only been played 6 times but is White's most precise continuation. White should hold back on   7.Be3  as this can be met with  7...Bc5  The exchange of dark-squared bishops strongly favors Black @@StartBracket@@note that all of white's pawns are on light-squares so the dark-squared bishop is our good bishop@@EndBracket@@. }
+7... Bc5 8. h4
+{ A very strong pawn push in the style of AlphaZero. Black, who already surrendered control over the center, is now about to get squeezed on the kingside. }
+8... h5
+{ Stopping the h4-pawn from advancing any further is logical. However, the drawback of ...h5 is that the g5 square is now very weak. }
+9. Bg5 Be7 10. Ng3 { Heading to f5. } 10... d6 11. Nf5 Bxf5 12. exf5 Nf8
+{ The knight went on a 5 move journey from b8 to f8 ! The pawn on f5 is doing a great job restricting this knight. }
+13. Bd3
+{ FM Yuriy Krykun in his Chessable course 'The Accelerated Queen's Indian Defense' only considered the move 13.Be3. There is however no need to retreat the bishop from g5. Instead, developing our last minor piece with 13.Bd3 is much stronger and leads to a clear advantage. }
+13... N8d7 14. Qd2
+{ White will proceed with O-O-O and then break on the kingside with g4. Black pieces are very passive and he has zero counterplay. }
+14... Nc5 15. Bc2 e4 16. O-O-O
+{ White should ignore the pawn on e4. Black's idea was that after f3xe4, the e5 square becomes a strong outpost @@StartBracket@@can be occupied with Nf6-g4-e5@@EndBracket@@. }
+16... exf3 17. gxf3 a5 18. Rde1 Kf8 19. Nb5
+{ White is strategically winning. We can continue with Nd4 and Rh2-e2. Black has no active pieces and zero counterplay. }
+*
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "3. Accelerated QID"]
+[Black "3...Nc6 #12"]
+[Result "*"]
+
+1. d4 Nf6 2. c4 b6 3. f3
+{ The most challenging way of meeting the Accelerated Queen's Indian. Since the knight is not yet committed to f3 &#40as in the normal QID&#41, White can instead play f3 and build a very strong center. Furthermore, the e4-f3-g2 pawn chain will severely restrict Black's bishop on b7. }
+3... Nc6
+{ This is Black's only sensible option. With ...Nc6, Black is preparing to push ...e5 and try to gain some control over the d4 square. }
+4. Nc3
+{ White should delay e4. The point is that:   4.e4  is premature because after  4...e5  Black gets the d4 square for his knight. Since the pawn is already on e4, it's not easy to boot this knight. }
+4... e5 5. d5
+{ Gaining space. Note that now ...Nd4 is simply met by e3, hence why we delayed the e4 advance. }
+5... Ne7
+{ This is Black's best move. The knight is heading to g6, where it can later jump to f4. }
+6. e4 Ng6 7. Nge2
+{ Has only been played 6 times but is White's most precise continuation. White should hold back on   7.Be3  as this can be met with  7...Bc5  The exchange of dark-squared bishops strongly favors Black @@StartBracket@@note that all of white's pawns are on light-squares so the dark-squared bishop is our good bishop@@EndBracket@@. }
+7... Bc5 8. h4
+{ A very strong pawn push in the style of AlphaZero. Black, who already surrendered control over the center, is now about to get squeezed on the kingside. }
+8... Nh5 { This is another way to block the h4 pawn. } 9. Bg5 Be7 10. Bxe7 Qxe7
+11. d6
+{ Once again, this advance is incredibly strong. Just when Black was ready to play ...d6 himself, White shuts off the bishop on c8. }
+11... cxd6 12. Nb5 O-O 13. g4 { Gaining space on the kingside. } 13... Nf6 14.
+h5 { Gaining space with a tempo on the knight. } 14... Nf4 15. Nxf4 exf4 16.
+Qxd6 Qxd6 17. Nxd6
+{ The knight on d6 is a monster. We are also threatening g5. } 17... h6 18.
+O-O-O
+{ White already controls the center and the kingside. Next, we will expand on the queenside with b4 and enjoy complete control over the whole board. Here is a sample line:   18...Rb8  19.Be2  Bb7  20.b4  Ne8  21.Nf5  White should obviously not trade the knights. The knight on f5 cannot be challenged  (note that ...g6 is not possible as the pawn on h6 would hang.)  21...Nf6  22.Rd6  +− White is threatening Nxh6 and has a winning position. }
+*
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "3. Accelerated QID"]
+[Black "3...Nc6 #13"]
+[Result "*"]
+
+1. d4 Nf6 2. c4 b6 3. f3
+{ The most challenging way of meeting the Accelerated Queen's Indian. Since the knight is not yet committed to f3 &#40as in the normal QID&#41, White can instead play f3 and build a very strong center. Furthermore, the e4-f3-g2 pawn chain will severely restrict Black's bishop on b7. }
+3... Nc6
+{ This is Black's only sensible option. With ...Nc6, Black is preparing to push ...e5 and try to gain some control over the d4 square. }
+4. Nc3
+{ White should delay e4. The point is that:   4.e4  is premature because after  4...e5  Black gets the d4 square for his knight. Since the pawn is already on e4, it's not easy to boot this knight. }
+4... e5 5. d5
+{ Gaining space. Note that now ...Nd4 is simply met by e3, hence why we delayed the e4 advance. }
+5... Ne7
+{ This is Black's best move. The knight is heading to g6, where it can later jump to f4. }
+6. e4 Ng6 7. Nge2
+{ Has only been played 6 times but is White's most precise continuation. White should hold back on   7.Be3  as this can be met with  7...Bc5  The exchange of dark-squared bishops strongly favors Black @@StartBracket@@note that all of white's pawns are on light-squares so the dark-squared bishop is our good bishop@@EndBracket@@. }
+7... Bc5 8. h4
+{ A very strong pawn push in the style of AlphaZero. Black, who already surrendered control over the center, is now about to get squeezed on the kingside. }
+8... Nh5 { This is another way to block the h4 pawn. } 9. Bg5 Be7 10. Bxe7 Qxe7
+11. d6
+{ This advance is once again incredibly strong. Just when Black was ready to play ...d6, White shuts off the bishop on c8. }
+11... Qxd6 12. Qxd6 cxd6 { Exchanging the queens won't save Black. } 13. Nb5
+{ Hitting d6. } 13... Ke7 14. Rd1 Ngf4 15. Nxd6 { Threatening Nf5+ } 15... g6
+{ Stopping Nf5+.   FM Yuriy Krykun in his Chessable course 'The Accelerated Queen's Indian Defense' finished his analysis of the 8...Nh5 variation here &#40note that 8...h6 is his main recommendation&#41. He stated that although White's in the driver seat, it's by no means easy to break Black's position.   Let's analyze a few more moves and see how we can make the most out of our advantage: }
+16. Kf2 Rb8 17. g3
+{ Booting Black's knight on f4 and simultaneously restricting the one on h5. }
+17... Nxe2 18. Bxe2 Bb7 19. c5
+{ White is already doing very well, and this advance is an interesting attempt to crack Black's position.   Similarly  19.Rd2  Ng7  and now  20.c5!±  also gives White a sizeable advantage. }
+19... bxc5 20. Rd2
+{ With the idea Rc1xc5. The rook on d2 is very well placed, both supporting the knight on d6 and defending the pawn on b2.   White has a clear advantage as the knight on d6 is much superior to the one on h5. Furthermore, White will soon enjoy a 2vs1 advantage on the queenside @@StartBracket@@black's d7 pawn won't be going anywhere@@EndBracket@@. The details of how play is likely to continue can be found in the next two informational lines.  Conclusion: the accelerated QID is not usually seen in master level games as White can get a clear advantage in every variation. Notwithstanding, White needs to be precise at a couple of junctures to maintain an edge, most notably when to push d5-d6. }
+*
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "3. Accelerated QID"]
+[Black "3...Nc6 #13 [details #1]"]
+[Result "*"]
+
+1. d4 Nf6 2. c4 b6 3. f3
+{ The most challenging way of meeting the Accelerated Queen's Indian. Since the knight is not yet committed to f3 &#40as in the normal QID&#41, White can instead play f3 and build a very strong center. Furthermore, the e4-f3-g2 pawn chain will severely restrict Black's bishop on b7. }
+3... Nc6
+{ This is Black's only sensible option. With ...Nc6, Black is preparing to push ...e5 and try to gain some control over the d4 square. }
+4. Nc3
+{ White should delay e4. The point is that:   4.e4  is premature because after  4...e5  Black gets the d4 square for his knight. Since the pawn is already on e4, it's not easy to boot this knight. }
+4... e5 5. d5
+{ Gaining space. Note that now ...Nd4 is simply met by e3, hence why we delayed the e4 advance. }
+5... Ne7
+{ This is Black's best move. The knight is heading to g6, where it can later jump to f4. }
+6. e4 Ng6 7. Nge2
+{ Has only been played 6 times but is White's most precise continuation. White should hold back on   7.Be3  as this can be met with  7...Bc5  The exchange of dark-squared bishops strongly favors Black @@StartBracket@@note that all of white's pawns are on light-squares so the dark-squared bishop is our good bishop@@EndBracket@@. }
+7... Bc5 8. h4
+{ A very strong pawn push in the style of AlphaZero. Black, who already surrendered control over the center, is now about to get squeezed on the kingside. }
+8... Nh5 { This is another way to block the h4 pawn. } 9. Bg5 Be7 10. Bxe7 Qxe7
+11. d6
+{ This advance is once again incredibly strong. Just when Black was ready to play ...d6, White shuts off the bishop on c8. }
+11... Qxd6 12. Qxd6 cxd6 { Exchanging the queens won't save Black. } 13. Nb5
+{ Hitting d6. } 13... Ke7 14. Rd1 Ngf4 15. Nxd6 { Threatening Nf5+ } 15... g6
+{ Stopping Nf5+.   FM Yuriy Krykun in his Chessable course 'The Accelerated QID' finished his analysis of the 8...Nh5 variation here &#40note that 8...h6 is his main recommendation&#41. He stated that although White's in the driver seat, it's by no means easy to break Black's position.   Let's analyze a few more moves and see how White can make the most out of his advantage: }
+16. Kf2 Rb8 17. g3
+{ Booting Black's knight on f4 and simultaneously restricting the one on h5. }
+17... Nxe2 18. Bxe2 Bb7 19. c5
+{ White is already doing very well, and this advance is an interesting attempt to crack Black's position.   Similarly  19.Rd2  Ng7  and now  20.c5!±  also gives White a sizeable advantage. }
+19... bxc5 20. Rd2
+{ With the idea Rc1xc5. The rook on d2 is very well placed, both supporting the knight on d6 and defending the pawn on b2. }
+20... Ng7
+{ A natural move, heading for the d4 square, but it loses to the following combination: }
+21. Nxf7 Kxf7 22. Rxd7+ Kf6 { 22...Kf8  23.Bc4  +- Black cannot stop Rf7+. }
+23. g4 { Threatening g5+, which would win the knight on g7. } 23... h6 24. g5+
+hxg5 25. hxg5+ Kxg5 26. Rxh8 Rxh8 27. Rxg7
+{ White has regained the piece with interest as the pawn on a7 is about to drop. The pawns on c5 and e5 are also incredibly weak. White is winning. }
+*
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "3. Accelerated QID"]
+[Black "3...Nc6 #13 [details #2]"]
+[Result "*"]
+
+1. d4 Nf6 2. c4 b6 3. f3
+{ The most challenging way of meeting the Accelerated Queen's Indian. Since the knight is not yet committed to f3 &#40as in the normal QID&#41, White can instead play f3 and build a very strong center. Furthermore, the e4-f3-g2 pawn chain will severely restrict Black's bishop on b7. }
+3... Nc6
+{ This is Black's only sensible option. With ...Nc6, Black is preparing to push ...e5 and try to gain some control over the d4 square. }
+4. Nc3
+{ White should delay e4. The point is that:   4.e4  is premature because after  4...e5  Black gets the d4 square for his knight. Since the pawn is already on e4, it's not easy to boot this knight. }
+4... e5 5. d5
+{ Gaining space. Note that now ...Nd4 is simply met by e3, hence why we delayed the e4 advance. }
+5... Ne7
+{ This is Black's best move. The knight is heading to g6, where it can later jump to f4. }
+6. e4 Ng6 7. Nge2
+{ Has only been played 6 times but is White's most precise continuation. White should hold back on   7.Be3  as this can be met with  7...Bc5  The exchange of dark-squared bishops strongly favors Black @@StartBracket@@note that all of white's pawns are on light-squares so the dark-squared bishop is our good bishop@@EndBracket@@. }
+7... Bc5 8. h4
+{ A very strong pawn push in the style of AlphaZero. Black, who already surrendered control over the center, is now about to get squeezed on the kingside. }
+8... Nh5 { This is another way to block the h4 pawn. } 9. Bg5 Be7 10. Bxe7 Qxe7
+11. d6
+{ This advance is once again incredibly strong. Just when Black was ready to play ...d6, White shuts off the bishop on c8. }
+11... Qxd6 12. Qxd6 cxd6 { Exchanging the queens won't save Black. } 13. Nb5
+{ Hitting d6. } 13... Ke7 14. Rd1 Ngf4 15. Nxd6 { Threatening Nf5+ } 15... g6
+{ Stopping Nf5+.   FM Yuriy Krykun in his Chessable course 'The Accelerated QID' finished his analysis of the 8...Nh5 variation here &#40note that 8...h6 is his main recommendation&#41. He stated that although White's in the driver seat, it's by no means easy to break Black's position.   Let's analyze a few more moves and see how White can make the most out of his advantage: }
+16. Kf2 Rb8 17. g3
+{ Booting Black's knight on f4 and simultaneously restricting the one on h5. }
+17... Nxe2 18. Bxe2 Bb7 19. c5
+{ White is already doing very well, and this advance is an interesting attempt to crack Black's position.   Similarly  19.Rd2  Ng7  and now  20.c5!±  also gives White a sizeable advantage. }
+19... bxc5 20. Rd2
+{ With the idea Rc1xc5. The rook on d2 is very well placed, both supporting the knight on d6 and defending the pawn on b2. }
+20... f6
+{ With the idea to transfer the knight to e6, from where it can jump to d4.    20...Ba8  can be met with  21.Rc1  Rb6  22.Nc4  Re6  23.Ne3  Rc8  And now after  24.b4±  White will soon recoup the material sacrificed, with a clear advantage. }
+21. Rc1 Ng7 22. Rxc5 Ne6 23. Ra5
+{ White is clearly better in this position. All his pieces are superior to Black's counterparts. Black's pawns on a7 and d7 are very weak. Finally, White has a 2 vs 1 majority on the queenside and can easily create a passed pawn on this side of the board. Note that ...Nd4 can be well met by the simple Nb5.   Conclusion: the accelerated QID is not usually seen in master level games since White can get a clear advantage in every variation. Notwithstanding, White needs to be precise at a couple of junctures to maintain an edge, most notably when to push d5-d6. }
+*
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "4. 1...b6"]
+[Black "3...e6"]
+[Result "*"]
+
+1. d4 b6 { This variation is known as Owen's defense. } 2. e4 Bb7 3. Bd3
+{ Similarly to the English defense, White should defend the e4 pawn with the bishop.   3.Nc3  is also possible, but it gives Black the extra option of pinning our knight with ...Bb4 later on. }
+3... e6 4. c4 { Transposes to theEnglish defense chapter. } *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "4. 1...b6"]
+[Black "3...f5 #1"]
+[Result "*"]
+
+1. d4 b6 { This variation is known as Owen's defense. } 2. e4 Bb7 3. Bd3
+{ Similarly to the English defense, White should defend the e4 pawn with the bishop.   3.Nc3  is also possible, but it gives Black the extra option of pinning our knight with ...Bb4 later on. }
+3... f5
+{ This pawn push is even weaker here than in the English defense. It's a 'trick' you might encounter in a blitz game. }
+4. exf5
+{ White can simply take the pawn. We need not worry about ...Bxg2 since Qh5+ is coming. }
+4... Bxg2 5. Qh5+ g6 6. fxg6 { Threatening g7+ checkmate. } 6... Nf6
+{ Leads to a nice checkmate.   Black has no time to capture the rook on h1 with   6...Bxh1  as  7.g7  is checkmate! }
+7. gxh7+ Nxh5 8. Bg6# *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "4. 1...b6"]
+[Black "3...f5 #2"]
+[Result "*"]
+
+1. d4 b6 { This variation is known as Owen's defense. } 2. e4 Bb7 3. Bd3
+{ Similarly to the English defense, White should defend the e4 pawn with the bishop.   3.Nc3  is also possible, but it gives Black the extra option of later pinning our knight with ...Bb4 later on. }
+3... f5 { This pawn push is even weaker here than in the English defense. } 4.
+exf5
+{ White can simply take the pawn. We need not worry about ...Bxg2 since Qh5+ is coming. }
+4... Bxg2 5. Qh5+ g6 6. fxg6 { Threatening g7+ checkmate. } 6... Bg7 7. gxh7+
+Kf8 { White should not grab the knight on g8 but instead play the superstrong }
+8. Nf3 { with the idea Ne5 and Qf7#. } 8... Bxh1
+{ Capturing the rook is ill-advised. } 9. Ne5 { Mate alert ! } 9... Bxe5 10.
+dxe5 { Qf5+ is coming with a forced mate in 11 moves. } *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "4. 1...b6"]
+[Black "3...f5 #3"]
+[Result "*"]
+
+1. d4 b6 { This variation is known as Owen's defense. } 2. e4 Bb7 3. Bd3
+{ Similarly to the English defense, White should defend the e4 pawn with the bishop.   3.Nc3  is also possible, but it gives Black the extra option of later pinning our knight with ...Bb4 later on. }
+3... f5 { This pawn push is even weaker here than in the English defense. } 4.
+exf5
+{ White can simply take the pawn. We need not worry about ...Bxg2 since Qh5+ is coming. }
+4... Bxg2 5. Qh5+ g6 6. fxg6 { Threatening g7+ checkmate. } 6... Bg7 7. gxh7+
+Kf8 8. Nf3 Qe8 { is also no good } 9. hxg8=Q+ Rxg8 10. Bg6 Qd8 11. Qf5+ Bf6 12.
+Bh6+ { Ng5 is coming next with a decisive effect. } *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "4. 1...b6"]
+[Black "3...f5 #4"]
+[Result "*"]
+
+1. d4 b6 { This variation is known as Owen's defense. } 2. e4 Bb7 3. Bd3
+{ Similarly to the English defense, White should defend the e4 pawn with the bishop.   3.Nc3  is also possible, but it gives Black the extra option of later pinning our knight with ...Bb4 later on. }
+3... f5 { This pawn push is even weaker here than in the English defense. } 4.
+exf5
+{ White can simply take the pawn. We need not worry about ...Bxg2 since Qh5+ is coming. }
+4... Bxg2 5. Qh5+ g6 6. fxg6 { Threatening g7+ checkmate. } 6... Bg7 7. gxh7+
+Kf8 8. Nf3 Nf6 9. Qg6 Bxh1 { Once again, capturing the rook loses by force. }
+10. Bh6 { Threatening Qxg7# } 10... Rxh7 11. Ng5 { Threatening Qf7# } 11...
+Bxh6 { 11...Rxh6  12.Qf7  Also no good is   11...Qe8  12.Nxh7+  Nxh7  13.Qxg7 }
+12. Nxh7+ Nxh7 13. Qxh6+
+{ Capturing a piece with check is always a good idea!  (maybe not always but definitely in this case) }
+13... Kf7 14. Qxh7+ Ke6 15. Qg6+ { Forcing the king up the board. } 15... Kd5
+16. Nc3+ Kxd4 17. Qg5
+{ with the unstoppable mating threat of Qe3. For example: } 17... Nc6 18. Qe3#
+*
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "4. 1...b6"]
+[Black "3...f5 #5"]
+[Result "*"]
+
+1. d4 b6 { This variation is known as Owen's defense. } 2. e4 Bb7 3. Bd3
+{ Similarly to the English defense, White should defend the e4 pawn with the bishop.   3.Nc3  is also possible, but it gives Black the extra option of later pinning our knight with ...Bb4 later on. }
+3... f5
+{ This pawn push is even weaker here than in the English defense. It's a 'trick' you might encounter in a blitz game. }
+4. exf5
+{ White can simply take the pawn. We need not worry about ...Bxg2 since Qh5+ is coming. }
+4... Bxg2 5. Qh5+ g6 6. fxg6 { Threatening g7+ checkmate. } 6... Bg7 7. gxh7+
+Kf8 8. Nf3 Nf6
+{ 8...Bxf3  is also no good as  9.Qxf3  forks the king and the rook on a8. } 9.
+Qg6 Bxf3 10. Rg1 { Hitting the bishop on g7. } 10... Rxh7 11. Qg3
+{ With a double-attack on the bishop on f3 and the rook on h7. } 11... Be4 12.
+Bxe4 Nxe4 13. Qf3+
+{ White is going to regain the piece with a winning position. Black's king has no safe place to go to. }
+*
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "4. 1...b6"]
+[Black "3...Nf6"]
+[Result "*"]
+
+1. d4 b6 { This variation is known as Owen's defense. } 2. e4 Bb7 3. Bd3
+{ Similarly to the English defense, White should defend the e4 pawn with the bishop.   3.Nc3  is also possible, but it gives Black the extra option of later pinning our knight with ...Bb4 later on. }
+3... Nf6 4. Qe2 e6 5. Nf3 d5 6. e5
+{ Gaining space and pushing the knight back. } 6... Nfd7
+{ Posting the knight on e4 with   6...Ne4  is short-lived, as after  7.Nbd2  Nxd2  8.Bxd2  c5  9.c3  Nc6  10.O-O±  White got a dream version of an Advanced French defense type of position. }
+7. O-O c5
+{ This is an excellent version of the French defense for White. Black has wasted valuable tempi with b6 and Bb7, which are not useful in this structure. As such, he is way behind in development.  We can immediately take advantage of our big lead in development by striking in the center with }
+8. c4 cxd4 9. Nxd4 Bc5 10. Nf3
+{ The knight stands better on f3 than on b3, as it protects the e5 pawn and can also be used to attack Black's king later on. }
+10... dxc4 11. Bxc4 Nc6 12. Nc3 O-O 13. Bf4
+{ White has more space and better pieces. The e5 pawn is doing a good job of restricting Black's pieces. We can continue with Rfd1, Ne4-d6, and enjoy a clear advantage. }
+*
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "4. 1...b6"]
+[Black "4...Nc6"]
+[Result "*"]
+
+1. d4 b6 2. e4 Bb7 3. Bd3 Nf6 4. Qe2 Nc6
+{ 4...c5  makes little sense as we can simply push ahead with  5.d5  d6  6.f4  Gaining even more space.  6...g6  7.Nf3  Bg7  8.c4  Nbd7  9.O-O  O-O  10.e5  ±  Is a Benoni horribly gone wrong for Black. White has achieved the e5 break and Black hasn't managed to create any counterplay on the queenside. }
+5. c3
+{ Supporting the center and preventing ... Nb4. This is one of the main reasons behind delaying the development of the b1 knight. }
+5... e5 6. Nf3
+{ Black hasn't proven any compensation for White's pawn center. } 6... d6
+{ Worse is  6...Bd6  as after  7.Bg5  O-O  White can expand in the center with  8.d5  Ne7  and then compromise Black's pawn structure with  9.Bxf6  gxf6  10.Nbd2±  with a clear advantage. }
+7. O-O
+{ Surprisingly, GM Nigel Davies in his ChessBase DVD 'Original and aggressive: 1...b6 for practical players' did not consider this natural move. He only looked at the immediate d5, after which he suggested fianchettoing the dark-squared bishop. }
+7... Be7
+{ Fianchettoing the bishop with  7...g6  is strongly met by  8.Bb5  White is now threatening Qc4 and d5, winning the knight on c6. Thus, Black is practically forced to play  8...Nd7  but this loses a pawn by force after the following forced sequence of moves  9.Bg5  Be7  10.Bxe7  Qxe7  11.Qc4  Threatening to capture the knight on c6.  11...Na5  12.Qxc7  Rc8  13.Qxd7+  Qxd7  14.Bxd7+  Kxd7  15.Nbd2  +-  White has an extra pawn and thus a decisive advantage. Black has no compensation. }
+8. d5 { It's time to push Black's pieces back } 8... Nb8 9. c4 O-O 10. Nc3 Nbd7
+11. Be3 a5 12. Nd2
+{ We have completed our development and have a clear advantage. This position is sort of a King's Indian gone completely wrong for Black. The light-squared bishop is completely misplaced on b7 and the standard ...f5 break @@StartBracket@@Black's only source of counterplay in the King's Indian@@EndBracket@@ is impossible here. White can play on both sides of the board, either with Bc2+a3+b4 or on the kingside with the g3+f4 break. }
+*
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "4. 1...b6"]
+[Black "Double fianchetto"]
+[Result "*"]
+
+1. d4 b6 2. e4 Bb7 3. Bd3 g6
+{ This is known as the double fianchetto @@StartBracket@@for obvious reasons@@EndBracket@@. Black's decision to fianchetto his two bishops lets us build an impressive pawn center. }
+4. c4 Bg7 5. Ne2
+{ Defending the pawn on d4. By placing the knight on e2, we have the flexibility of later reinforcing the center with f3 or even pushing ahead with f4. }
+5... Nc6 6. Be3 { Developing and defending the pawn on d4. } 6... Nb4 7. Nbc3
+Nxd3+ 8. Qxd3
+{ Black grabbed the bishop pair but lost valuable time. He has only developed two pieces while we are one move away from completing our development. }
+8... e6 9. O-O-O d6 10. h4
+{ Very thematic. We are fully mobilized and now looking to create some weaknesses on the kingside. }
+10... Nf6 11. f3
+{ Overprotecting the pawn on e4 and blunting the bishop on b7. Notice how after exchanging the light-squared bishop, we have placed a lot of our pawns on light squares. This restricts Black's light-squared bishop and makes our bishop on e3 even stronger. }
+11... Qe7 12. Kb1 O-O-O 13. d5
+{ Gaining space in the center and further restricting the bishop on b7. White has a clear advantage thanks to the extra space and excellent central control. We can continue with Nd4 and Qc2-a4. }
+*
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "4. 1...b6"]
+[Black "The hippo"]
+[Result "*"]
+
+1. d4 b6 2. e4 Bb7 3. Bd3 g6
+{ This is known as the double fianchetto  (for obvious reasons)  . Black's decision to fianchetto his two bishops lets us build an impressive pawn center. }
+4. c4 Bg7 5. Ne2
+{ Defending the pawn on d4. By placing the knight on e2, we have the flexibility of later reinforcing the center with f3 or even pushing ahead with f4. }
+5... e6 6. Nbc3 Ne7 7. h4
+{ A pawn advance in the style of AlphaZero, which is very typical against the f7+g6+h7 pawn structure. }
+7... d6
+{ 7...h5  stops h5 but permanently weakens the g5 square  8.Bg5  O-O  9.O-O  ±  We can follow up with moves like Qd2 and Rad1 with a clear advantage thanks to the very strong pawn center. }
+8. h5 Nd7
+{ The typical Hippopotamus construction: Knights on d7 and e7 and the bishops fianchettoed. It may look aesthetically pleasing @@StartBracket@@and even be a decent bullet weapon@@EndBracket@@, but it's not very good as Black has no control over the center and his pieces are very passive. }
+9. Be3 c5 10. Bc2
+{ There is no need to push any of our central pawns yet. We welcome Black capturing on d4 as that will improve the position of our knight on e2. We can further improve our position with Qd2, O-O-O, and Ba4. It's already quite hard to find a move for Black here @@StartBracket@@...O-O runs straight into an attack along the h-file and ...Qc7 is met by Nb5@@EndBracket@@.   Conclusion: Owen's defense does not have a good reputation and justifiably so. White can emerge with a clear advantage out of the opening by occupying the center and developing sensibly. }
+*
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "4. 1...b6"]
+[Black "Farewell"]
+[Result "*"]
+
+1. d4
+{ That's the end of the course. I hope you had fun learning how to play against these tricky ...b6 defenses.  If you have any questions or suggestions, feel free to post in the forum and I'll do my best to answer them.   It's now time for some shameless advertising. If you enjoyed this course, please check out my other Chessable courses:  -Crush the Alekhine and Scandinavian! @@LinkStart@@https://www.chessable.com/crush-the-alekhine-and-scandinavian/course/51467/@@LinkEnd@@  -Beat the Caro-Kann: Two-Knights Variation @@LinkStart@@https://www.chessable.com/beat-the-caro-kann-two-knights-variation/course/48417/@@LinkEnd@@  -Crush the Pirc, Modern & Philidor! @@LinkStart@@https://www.chessable.com/crush-the-pirc-modern-philidor/course/45966/@@LinkEnd@@  -Tackle the French: A practical repertoire with 3. Bd3 @@LinkStart@@https://www.chessable.com/tackle-the-french-a-practical-repertoire-with-3-bd3/course/38971/@@LinkEnd@@  -Crush the Modern Benoni: Three Pawns Attack @@LinkStart@@https://www.chessable.com/crush-the-modern-benoni-three-pawns-attack/course/36435/@@LinkEnd@@  which feature extensive analysis with powerful cloud engines running Stockfish and Leela and detailed explanations of the plans and ideas behind each move. }
+*
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "5. 1...b6 (1. e4 move order)"]
+[Black "3...e6"]
+[Result "*"]
+
+1. e4 b6 { This variation is known as Owen's defense. } 2. d4 Bb7 3. Bd3
+{ Similarly to the English defence, White should defend the e4 pawn with the bishop. Nc3 is also possible, but it gives Black the extra option of later pinning our knight with ...Bb4. }
+3... e6 4. Qe2
+{ 4.c4  is also possible and transposes to theEnglish defense chapter. } 4...
+Nf6 5. Nf3 c5
+{ 5...d5  can be met with  6.e5  Nfd7  7.c4±  and White has full control of the center. }
+6. c3
+{ Reinforcing the d4 pawn. This is why we held back the development of the knight on b1.   Note that  6.d5  in this particular position is even stronger. I opted to make the text trainable to illustrate the setup White should go for in these structures.  Basically, all you need to know about this setup with ...b6 + ...e6 is to put the bishop on d3, the queen on e2, and the knight on f3. Meet any ...c5 with c3 and enjoy a clear advantage thanks to the big center. A sample continuation is: }
+6... Be7 7. O-O
+{ A logical move, securing the king.   I opted to make  7.O-O  a trainable to illustrate the setup that White should aim for. It is noteworthy that  7.e5  in this concrete position is even stronger. }
+7... Nc6 8. a3
+{ Taking control over the b4 square thereby avoiding ...cxd4 followed by ...Nb4. }
+8... O-O 9. Rd1
+{ White has more space and superior central control. White can continue with Nbd2-f1-g3 and Bg5 with a clear advantage. }
+*
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "5. 1...b6 (1. e4 move order)"]
+[Black "3...f5 #1"]
+[Result "*"]
+
+1. e4 b6 { This variation is known as Owen's defense. } 2. d4 Bb7 3. Bd3
+{ Similarly to the English defence, White should defend the e4 pawn with the bishop. Nc3 is also possible, but it gives Black the extra option of later pinning our knight with ...Bb4. }
+3... f5 { This pawn push is even weaker here than in the English defense. } 4.
+exf5 { White can simply take the pawn. White need not worry about ...Bxg2. }
+4... Bxg2 5. Qh5+ g6 6. fxg6 { Threatening g7+ checkmate. } 6... Nf6
+{ leads to a nice checkmate } 7. gxh7+ Nxh5 8. Bg6# *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "5. 1...b6 (1. e4 move order)"]
+[Black "3...f5 #2"]
+[Result "*"]
+
+1. e4 b6 { This variation is known as Owen's defense. } 2. d4 Bb7 3. Bd3
+{ Similarly to the English defence, White should defend the e4 pawn with the bishop. Nc3 is also possible, but it gives Black the extra option of later pinning our knight with ...Bb4. }
+3... f5 { This pawn push is even weaker here than in the English defense. } 4.
+exf5 { White can simply take the pawn. White need not worry about ...Bxg2. }
+4... Bxg2 5. Qh5+ g6 6. fxg6 { Threatening g7+ checkmate. } 6... Bg7 7. gxh7+
+Kf8 8. Nf3 Bxh1 { Capturing the rook is ill advised. } 9. Ne5 { Mate alert! }
+9... Bxe5 10. dxe5 { Qf5+ is coming with a forced mate in 11 moves. } *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "5. 1...b6 (1. e4 move order)"]
+[Black "3...f5 #3"]
+[Result "*"]
+
+1. e4 b6 { This variation is known as Owen's defense. } 2. d4 Bb7 3. Bd3
+{ Similarly to the English defence, White should defend the e4 pawn with the bishop. Nc3 is also possible, but it gives Black the extra option of later pinning our knight with ...Bb4. }
+3... f5 { This pawn push is even weaker here than in the English defense. } 4.
+exf5 { White can simply take the pawn. White need not worry about ...Bxg2. }
+4... Bxg2 5. Qh5+ g6 6. fxg6 { Threatening g7+ checkmate. } 6... Bg7 7. gxh7+
+Kf8 8. Nf3 Qe8 { is also no good } 9. hxg8=Q+ Rxg8 10. Bg6 Qd8 11. Qf5+ Bf6 12.
+Bh6+ { Ng5 is coming next with a completely winning position. } *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "5. 1...b6 (1. e4 move order)"]
+[Black "3...f5 #4"]
+[Result "*"]
+
+1. e4 b6 { This variation is known as Owen's defense. } 2. d4 Bb7 3. Bd3
+{ Similarly to the English defence, White should defend the e4 pawn with the bishop. Nc3 is also possible, but it gives Black the extra option of later pinning our knight with ...Bb4. }
+3... f5 { This pawn push is even weaker here than in the English defense. } 4.
+exf5 { White can simply take the pawn. White need not worry about ...Bxg2. }
+4... Bxg2 5. Qh5+ g6 6. fxg6 { Threatening g7+ checkmate. } 6... Bg7 7. gxh7+
+Kf8 8. Nf3 Nf6 9. Qg6 Bxh1 { Once again, capturing the rook loses by force. }
+10. Bh6 { Threatening Qxg7# } 10... Rxh7 11. Ng5 { Threatening Qf7# } 11...
+Bxh6 { 11...Rxh6  12.Qf7  Also no good is   11...Qe8  12.Nxh7+  Nxh7  13.Qxg7 }
+12. Nxh7+ Nxh7 13. Qxh6+ Kf7 14. Qxh7+ Ke6 15. Qg6+
+{ Forcing the king up the board. } 15... Kd5 16. Nc3+ Kxd4 17. Qg5
+{ with the unstoppable mating threat of Qe3. For example } 17... Nc6 18. Qe3# *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "5. 1...b6 (1. e4 move order)"]
+[Black "3...f5 #5"]
+[Result "*"]
+
+1. e4 b6 { This variation is known as Owen's defense. } 2. d4 Bb7 3. Bd3
+{ Similarly to the English defence, White should defend the e4 pawn with the bishop. Nc3 is also possible, but it gives Black the extra option of later pinning our knight with ...Bb4. }
+3... f5 { This pawn push is even weaker here than in the English defense. } 4.
+exf5 { White can simply take the pawn. White need not worry about ...Bxg2. }
+4... Bxg2 5. Qh5+ g6 6. fxg6 { Threatening g7+ checkmate. } 6... Bg7 7. gxh7+
+Kf8 8. Nf3 Nf6 9. Qg6 Bxf3
+{ @@StartBracket@@  Capturing the rook is not a good idea   9...Bxh1  10.Bxh6  Rxh7  11.Ng5  White has a forced checkmate in 10.  @@EndBracket@@ }
+10. Rg1 Rxh7 11. Qg3
+{ With a double-attack on the bishop on f3 and the rook on h7. } 11... Be4 12.
+Bxe4 Nxe4 13. Qf3+
+{ White is going to regain the piece with a winning position. Black's king has no safe place to go to. }
+*
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "5. 1...b6 (1. e4 move order)"]
+[Black "3...Nf6"]
+[Result "*"]
+
+1. e4 b6 { This variation is known as Owen's defense. } 2. d4 Bb7 3. Bd3
+{ Similarly to the English defence, White should defend the e4 pawn with the bishop. Nc3 is also possible, but it gives Black the extra option of later pinning our knight with ...Bb4. }
+3... Nf6 4. Qe2 e6 5. Nf3 d5 6. e5
+{ Gaining space and pushing the knight back. } 6... Nfd7 7. O-O c5 8. c4
+{ White takes advantage of his lead in development to break open the center. }
+8... cxd4 9. Nxd4 Bc5 10. Nf3 dxc4 11. Bxc4 Nc6 12. Nc3 O-O 13. Bf4
+{ White has more space and better pieces. The e5 pawn is doing a good job of restricting Black's pieces. White can continue with Rfd1 and Ne4-d6 with a clear advantage. }
+*
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "5. 1...b6 (1. e4 move order)"]
+[Black "4...Nc6"]
+[Result "*"]
+
+1. e4 b6 { This variation is known as Owen's defense. } 2. d4 Bb7 3. Bd3 Nf6 4.
+Qe2 Nc6
+{ 4...c5  makes little sense as we can simply push ahead with  5.d5  d6  6.f4  Gaining even more space.  6...g6  7.Nf3  Bg7  8.c4  Nbd7  9.O-O  O-O  10.e5  ±  Is a Benoni horribly gone wrong for Black. White has achieved the e5 break and Black hasn't managed to create any counterplay on the queenside. }
+5. c3
+{ Supporting the center and preventing ...Nb4. This is one of the main reasons behind delaying the development of the b1 knight. }
+5... e5 6. Nf3
+{ Black hasn't proven any compensation for White's pawn center. } 6... d6 7.
+O-O
+{ Surprisingly, GM Nigel Davies in his ChessBase DVD 'Original and aggressive: 1...b6 for practical players' did not consider this natural move. He only looked at the immediate d5, after which he suggested fianchettoing the dark-squared bishop. }
+7... Be7
+{ Fianchettoing the bishop with   7...g6  is strongly met by  8.Bb5  White is now threatening Qc4 and d5, winning the knight on c6. Thus, Black is practically forced to play  8...Nd7  but this loses a pawn by force after the following forced sequence of moves  9.Bg5  Be7  10.Bxe7  Qxe7  11.Qc4  Threatening to capture the knight on c6.  11...Na5  12.Qxc7  Rc8  13.Qxd7+  Qxd7  14.Bxd7+  Kxd7  15.Nbd2  +-  White has an extra pawn and thus a decisive advantage. Black has no compensation. }
+8. d5 { It's time to push Black's pieces back } 8... Nb8 9. c4 O-O 10. Nc3 Nbd7
+11. Be3 a5 12. Nd2
+{ We have completed our development and have a clear advantage. This position is sort of a King's Indian gone completely wrong for Black. The light-squared bishop is completely misplaced on b7 and the standard ...f5 break @@StartBracket@@Black's only source of counterplay in the King's Indian@@EndBracket@@ is impossible here. White can play on both sides of the board, either with Bc2+a3+b4 or on the kingside with the g3+f4 break. }
+*
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "5. 1...b6 (1. e4 move order)"]
+[Black "Double fianchetto"]
+[Result "*"]
+
+1. e4 b6 { This variation is known as Owen's defense. } 2. d4 Bb7 3. Bd3 g6
+{ This is known as the double fianchetto  @@StartBracket@@for obvious reasons@@EndBracket@@. Black's decision to fianchetto his two bishops lets us build an impressive pawn center. }
+4. c4 Bg7 5. Ne2
+{ Defending the pawn on d4. By placing the knight on e2, we have the flexibility of later reinforcing the center with f3 or even pushing ahead with f4. }
+5... Nc6 6. Be3 { Developing and defending the pawn on d4. } 6... Nb4 7. Nbc3
+Nxd3+ 8. Qxd3
+{ Black grabbed the bishop pair but lost valuable time. He has only developed two pieces while we are one move away from completing our development. }
+8... e6 9. O-O-O d6 10. h4
+{ Very thematic. We are fully mobilized and are now looking to create some weaknesses on the kingside. }
+10... Nf6 11. f3
+{ Overprotecting the pawn on e4 and blunting the bishop on b7. Notice how after exchanging the light-square bishop, we have placed a lot of our pawns on light squares. This restricts Black's light-squared bishop and makes our Be3 even stronger. }
+11... Qe7 12. Kb1 O-O-O 13. d5
+{ Gaining space in the center and further restricting the bishop on b7. White has a clear advantage thanks to his big space advantage and excellent central control. We can continue with Nd4 and Qc2-a4. }
+*
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "5. 1...b6 (1. e4 move order)"]
+[Black "The hippo"]
+[Result "*"]
+
+1. e4 b6 { This variation is known as Owen's defense. } 2. d4 Bb7 3. Bd3 g6
+{ The is known as the double-fianchetto  @@StartBracket@@for obvious reasons@@EndBracket@@. Black's decision to fianchetto his two bishops lets us build an impressive pawn center. }
+4. c4 Bg7 5. Ne2
+{ Defending the pawn on d4. By placing the knight on e2, we have the flexibility of later reinforcing the center with f3 or even pushing ahead with f4. }
+5... e6 6. Nbc3 Ne7 7. h4
+{ An alpha-zero esque pawn advance, which is very typical against the f7+g6+h7 pawn structure. }
+7... d6
+{ 7...h5  stops h5 but permanently weakens the g5 square  8.Bg5  O-O  9.O-O  ±  We can follow up with moves like Qd2 and Rad1 with a clear advantage thanks to the very strong pawn center. }
+8. h5 Nd7
+{ The typical Hippopotamus construction: knights on d7 and e7 and the bishops fianchettoed. It may look aesthetically pleasing @@StartBracket@@and even be a decent bullet weapon@@EndBracket@@, but it's not very good as Black has no control over the center and his pieces are very passive. }
+9. Be3 c5 10. Bc2
+{ There is no need to push any pawns. We welcome Black capturing on d4 as that will improve the position of our knight on e2. It's already very hard to find a move for Black here @@StartBracket@@O-O would be castling straight into an attack and ...Qc7 is met by Nb5@@EndBracket@@. We can further improve our position with Qd2 and O-O-O and even improve the position of the light-squared bishop with Ba4. }
+*
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "5. 1...b6 (1. e4 move order)"]
+[Black "Farewell"]
+[Result "*"]
+
+1. e4
+{ That's the end of the course. I hope you had fun learning how to play against these tricky ...b6 defenses.  If you have any questions or suggestions, feel free to post in the forum and I'll do my best to answer them.   It's now time for some shameless advertising. If you enjoyed this course, please check out my other Chessable courses:  -Crush the Alekhine and Scandinavian! @@LinkStart@@https://www.chessable.com/crush-the-alekhine-and-scandinavian/course/51467/@@LinkEnd@@  -Beat the Caro-Kann: Two-Knights Variation @@LinkStart@@https://www.chessable.com/beat-the-caro-kann-two-knights-variation/course/48417/@@LinkEnd@@  -Crush the Pirc, Modern & Philidor! @@LinkStart@@https://www.chessable.com/crush-the-pirc-modern-philidor/course/45966/@@LinkEnd@@  -Tackle the French: A practical repertoire with 3. Bd3 @@LinkStart@@https://www.chessable.com/tackle-the-french-a-practical-repertoire-with-3-bd3/course/38971/@@LinkEnd@@  -Crush the Modern Benoni: Three Pawns Attack @@LinkStart@@https://www.chessable.com/crush-the-modern-benoni-three-pawns-attack/course/36435/@@LinkEnd@@  which feature extensive analysis with powerful cloud engines running Stockfish and Leela and detailed explanations of the plans and ideas behind each move. }
+*
+
