@@ -1,0 +1,208 @@
+ Nr CBFT
+========
+ 21 Sergei Tiviakov: The French Defence with 3.Nd2 - A complete repertoire for White
+ 22 Lorin D'Costa: Chess Prodigies Uncovered - Sergey Karjakin
+ 23 Eva Moser: Phantasie statt Theorie 1.d4 c5!
+ 24 Stefan Kindermann: Intelligentes Italienisch
+ 25 Sergei Tiviakov: Attacking with the Italian Game and the Ruy Lopez
+ 26 Sergei Tiviakov: How to combat rare lines as Black
+ 27 Dejan Bojkov: The true value of pieces
+ 28 Elisabeth Pähtz: So spielt man Sizilianisch!
+ 29 Michael Richter: Erfolgsstrategie Band 1 - Offene Linien
+ 30 Mihail Marin: Holländisch Leningrader System
+ 31 Valeri Lilov: Tactics - From Basics to Brilliance Vol. 5 - Tactics in the Endgame
+ 32 
+ 33 Nicholas Pert: The solid Slav Defence
+ 34 Nicholas Pert: The French Defence for the Tournament Player
+ 35 Dorian Rogozenco, Dr. Karsten Müller, Mihail Marin, Oliver Reeh: Master Class Vol. 01 - Bobby Fischer
+ 36 Daniel King: Powerplay 20 - Praxiskurs Angreifen
+ 37 Peter Heine Nielsen: The Sicilian Dragon Vol. 1 - Main Line with 9.Bc4
+ 38 Peter Heine Nielsen: The Sicilian Dragon Vol. 2 - All Lines except 9.Bc4
+ 39 Sam Collins: Know the Terrain Vol. 6 - Isolated Queen's Pawn
+ 40 Sam Collins: Tactic Toolbox Ruy Lopez - Spanish Opening
+ 41 
+ 42 
+ 43 
+ 44 Robert Ris: A Black Repertoire against the Two Knights
+ 45 Robert Ris: A World Champion's Repertoire against the Queen's Gambit Declined
+ 46 Lawrence Trent: The modern Grand Prix Attack
+ 47 Mihail Marin: Power Strategy 1 - From the Opening to the Middlegame
+ 48 Lorin D'Costa, Nick Murphy: Queen's Gambit Declined
+ 49 Thomas Luther: Die Aljechin-Verteidigung für den Turnierspieler
+ 50 Martin Breutigam: Tarrasch-Verteidigung - Ein modernes Repertoire
+ 51 Stefan Kindermann: Die Kunst des Königsangriffs
+ 52 Niclas Huschenbeth: Tactic Toolbox - Najdorf
+ 53 Mihail Marin: Winning against the Grünfeld
+ 54 Tania Sachdev: Improve your chess with Tania Sachdev
+ 55 Thomas Luther, Jürgen Jordan: Einblicke in den Colle-Kosmos
+ 56 Helmut Pfleger, Vlastimil Hort: Moderne Klassiker Band 1
+ 57 Helmut Pfleger, Vlastimil Hort: Moderne Klassiker Band 2
+ 58 Maurice Ashley: Tactics - Mating Patterns
+ 59 Dorian Rogozenco, Dr. Karsten Müller, Mihail Marin, Oliver Reeh: Master Class Vol. 02 - Mihail Tal
+ 60 
+ 61 Daniel King: Powerplay 21 - A repertoire for black against the Anti-Sicilians
+ 62 Simon Williams: King's Gambit Vol.1
+-63 Simon Williams: King's Gambit Vol.2
+ 64 Robert Ris: Crushing Isolated Queen's Pawn Tactics
+ 65 Lubomir Ftacnik: Tactic Toolbox Scheveningen
+ 66 Dorian Rogozenco, Dr. Karsten Müller, Mihail Marin, Oliver Reeh: Master Class Vol. 03 - Alexander Alekhine
+ 67 Claus Dieter Meyer, Karsten Mueller: Magic of Chess Tactics 2
+ 68 Alejandro Ramirez: The Sicilian Tajmanov-Scheveningen
+ 69 Parimarjan Negi: The Modern Scotch Opening
+ 70 Viktor Bologan: Fighting against the Caro-Kann with the Advance Variation
+ 71 Mihail Marin: Play the Pirc like a Grandmaster Vol. 1 - Positional lines
+ 72 Mihail Marin: Play the Pirc like a Grandmaster Vol. 2 - Attacking lines
+ 73 Thomas Luther, Jürgen Jordan: Natürlich Nimzo! Was denn sonst?
+ 74 Tania Sachdev: Improve your Tactics with Tania Sachdev
+ 75 Michal Krasenkow: Tactic Toolbox Grünfeld
+ 76 Andrew Martin: The wicked Veresov Attack
+ 77 Lorin D'Costa: ABC of the English Opening - A Complete Repertoire for White
+ 78 
+ 79 Andrew Martin: First steps in pawn structures
+ 80 Mihail Marin: Tactic Toolbox Benoni
+ 81 Michael Richter: Erfolgsstrategien Band 2 - Felderschwächen
+ 82 Rustam Kasimdzhanov: Trends in modern Openings
+ 83 Simon Williams: Most amazing moves
+ 84 
+ 85 
+ 86 
+ 87 Mihail Marin: Winning against King's Indian - With the main line
+ 88 Michal Krasenkow: The Triangle Setup - A complete defense against 1.d4
+ 89 Lorin D'Costa, Nick Murphy: A Repertoire against the Sicilian
+ 90 Werner Schweitzer: Mental gewinnen!
+ 91 Robert Ris: Tactic Toolbox - Meran variation
+ 92 Rustam Kasimdzhanov: The new McCutcheon
+ 93 Martin Breutigam: Reti-Eröffnung - Ein modernes Repertoire
+ 94 Mihail Marin: Power Strategy 2 - The Middlegame - Static Positions
+ 95 Nicholas Pert: Solid and safe against the wild Indians - Play the Fianchetto
+ 96 Alejandro Ramirez: The Ragozin Defense
+ 97 Robert Ris: Tactic Toolbox - Semi-Slav with 5.Bg5
+ 98 Dr. Karsten Müller, Mihail Marin, Oliver Reeh, Niclas Huschenbeth: Master Class Vol. 04 - Jose Raul Capablanca
+ 99 Andrew Martin: The basics of winning chess 2.0
+100 Nigel Davies: Original and aggressive 1...b6 for practical players
+101 Simon Williams: A dynamic weapon against the Queens's Gambit Declined - 5.Bf4
+102 Victor Bologan: A strategic weapon against 1.d4 - The Queen's Indian Defense
+103 Sam Collins: Ruy Lopez - Attack with the Schliemann
+104 Erwin l'Ami: The modern Two Knights
+105 
+106 Simon Williams: The English Opening Vol. 1
+107 Simon Williams: The English Opening Vol. 2
+108 Daniel King: Powerplay 22 - A Repertoire For Black With the French Defence
+109 Nicholas Pert: Typical mistakes by 1600-1900 players
+110 Rustam Kasimdzhanov: Trends in modern openings 2015
+111 Dr. Karsten Müller, Mihail Marin, Oliver Reeh, Niclas Huschenbeth: Master Class Vol. 05 - Emanuel Lasker
+112 Mihail Marin: The Classical Sicilian
+113 Thomas Luther, Jürgen Jordan: Damenindische Duelle - Ein Wegweiser für die Praxis
+114 Martin Breutigam: Die Slawische Eröffnung - Ein modernes Repertoire
+115 Daniel Gormally: English Attack
+116 Pavel Eljanov: The Ruy Lopez - Breyer Variation
+117 
+118 Victor Bologan: The Berlin Wall
+119 Simon Williams: Simple but powerful - Exchange on d5 in the Slav and Queen's Gambit
+120 Andrew Martin: Catastrophe in the Opening
+121 Rustam Kasimdzhanov: The Classical French - Main Line
+122 Sagar Shah: Learn from the Classics
+123 Sergei Tiviakov: The Bishop's Opening & The Italian Game
+124 
+125 
+126 
+127 Viktor Bologan: King's Indian - A Modern Approach
+128 Mihail Marin: Winning against the Classical Slav
+129 Erwin l'Ami: A Gambit Guide through the Open Game Vol. 1
+130 Erwin l'Ami: A Gambit Guide through the Open Game Vol. 2
+131 
+132 Dr. Karsten Müller, Mihail Marin, Oliver Reeh, Niclas Huschenbeth: Master Class Vol. 06 - Anatoly Karpov
+133 Simon Williams: Beat the Queen's Indian - The modern Fianchetto Line
+134 Victor Bologan: The complex Najdorf - A complete repertoire for Black
+135 Robert Ris: The Chess Player’s Mating Guide Vol. 1 - The King in the Centre
+136 Sergei Tiviakov: Learning from the World Champions
+137 Thomas Luther, Jürgen Jordan: Ein komplettes Weiß-Repertoire mit der Abtauschvariante
+138 Sam Collins: Queen's Gambit Declined - A complete repertoire for Black based on the Lasker Variation
+139 Andrew Martin: Nimzowitsch Defence 1.e4 Nc6
+140 Nicholas Pert: A Black Repertoire against Offbeat Openings
+141 Martin Breutigam: Sizilianische Verteidigung – Ein modernes Repertoire: Taimanov-Variante und Anti-Sizilianer
+142 Nigel Davis: The Accelerated London with 2.Bf4
+143 Mihail Marin: Semi-Tarrasch - A universal weapon against 1.d4
+144 
+145 Daniel King: Powerplay 23 - A Repertoire For Black With the Queen's Gambit Declined
+146 Daniel King: Powerplay 24 - A Repertoire For Black Against the Catalan
+147 Simon Williams: The Black Lion - an aggressive version of the Philidor Defense
+148 Peter Heine Nielsen: The Semi Slav - A Grandmaster's Guide for the tournament player
+149 Adrian Mikhalchishin: Pawns structures you should know
+150 Martin Breutigam: Königsindische Verteidigung - Ein modernes Repertoire
+151 Timur Gareyev: Trompowsky for the attacking player
+152 Nigel Davies: The 4...Nf6 Caro-Kann
+153 Dorian Rogozenco, Dr. Karsten Müller, Mihail Marin, Oliver Reeh: Master Class Vol. 07 - Garry Kasparov
+154 Elisabeth Pähtz: How to exchange pieces
+155 Nisha Mohota: Strengthen your chess foundation
+156 Andrew Martin: Meeting the Gambits Vol. 1 - Gambits after 1.e4
+157 Luther / Jordan: Wie bekämpft man das Igelsystem?
+158 Simon Williams: Evans Gambit for the new generation
+159 Sam Collins: The Spanish Fianchetto
+160 Stefan Kindermann: Der listige Leningrader - Eine universelle Waffe gegen 1.d4, 1.Sf3 und 1.c4
+161 
+162 
+163 
+164 
+165 Alexei Shirov: How to crack the Berlin Wall with 5.Re1
+166 Sergei Tiviakov: The Art of the Positional Exchange Sacrifice
+167 Victor Bologan: The Modern Pirc
+168 Adrian Mikhalchishin: Pattern Recognition and Typical Plans
+169 Erwin l'Ami: The Stonewall Dutch - A Fighting Repertoire against 1.d4
+170 Charlie Storey: The Sniper (winning with ...g6, ...Bg7 and ...c5!)
+171 Sam Collins: Open Games with ...Bc5
+172 Sergei Tiviakov: The Art of Defence
+173 Vidit Gujrathi: The Fashionable Caro-Kann Vol.1 - Main Lines and Side Lines
+174 Vidit Gujrathi: The Fashionable Caro-Kann Vol.2 - Advance Variation 3.e5 Bf5
+175 Simon Williams: The London System with 2.Bf4
+176 Dr. Karsten Müller, Mihail Marin, Oliver Reeh, Niclas Huschenbeth: Master Class Vol. 08 - Magnus Carlsen
+177 
+178 Simon Williams: Rocket Repertoire - The Four Knights
+179 Victor Bologan: Reti - a Repertoire for White
+180 Andrew Martin: The Blumenfeld Gambit - A Sharp Weapon in the Benoni
+181 Robert Ris: The Chess Player's Mating Guide Vol.2 - Weakened kingside
+182 Daniel King: Powerplay 25 - Popular Queen's Pawn Openings – A Repertoire For Black
+183 
+184 Yannick Pelletier: The Hedgehog - a universal system against 1.c4 and 1.Nf3
+185 Christian Bauer: Strike first with the Scandinavian
+186 Simon Williams: The Tactical Chigorin
+187 Erwin l'Ami: The Beasty Botvinnik Variation in the Semi-Slav!
+188 Thomas Luther: Die Schottische Partie
+189 Sergio Estremera, Mónica Calzetta: ¡Quién teme a 1.e4! - Un repertorio completo contra 1.e4
+190 Sergei Tiviakov: Realizing an Advantage
+191 Adrian Mikhalchishin: Pieces, Pawns and Squares
+192 
+193 
+194 
+195 Dr. Karsten Müller, Mihail Marin, Oliver Reeh, Jonas Lampert: Master Class Vol. 09 - Paul Morphy
+196 Stefan Kindermann: Triumphieren mit Trompowsky - Ein komplettes Weißrepertoire nach 1.d4 Sf6 2.Lg5
+197 Victor Bologan: The Popular Italian
+198 Andrew Martin: The surprising Sicilian - Shock your opponent with an early ...Qb6
+199 Oliver Reeh: Strike like the world champions
+200 
+201 Wesley So: My Black Secrets in the Modern Italian
+202 Wesley So: My Secret Weapon: 1.b3
+203 Daniel King: Powerplay 26 - Checkmate Challenge – essential knowledge
+204 Rustam Kasimdzhanov: A lifetime repertoire: play the Nimzo Indian!
+205 Lawrence Trent: The Amazing Albin Counter-Gambit
+206 Michael Richter: Erfolgsstrategien Band 3 - Planfindung & Variantenberechnung
+207 Robert Ris: Calculation Training
+208 Dr. Karsten Müller, Mihail Marin, Oliver Reeh, Yannick Pelletier: Master Class Vol. 10 - Mikhail Botvinnik
+209 
+210 Martin Breutigam: Aronian-Variante - Ein modernes Repertoire gegen Spanisch
+211 Yannick Pelletier: A Classical Guide to the French Defence
+212 Mazé / Libiszewski: La Défense Est-Indienne - Une arme redoutable contre 1.d4
+213 Nadezhda Kosintseva: The Accelerated Dragon - a sharp weapon against 1.e4
+214 Steve Berger: Grand Prix trifft Chamäleon - Ein antisizilianisches Weißrepertoire 1.e4 c5 2.Sc3
+215 Andrew Martin: Meeting the Gambits Vol. 2 - Gambits after 1.d4
+216 Victor Bologan: Winning with the King's Indian Attack
+217 Lawrence Trent: The Baffling 2.b3 Sicilian
+218 Michael Rahal: Smash the Sicilian with the Smith-Morra Gambit
+219 Yannick Pelletier: The Vienna Variation - a reliable and ambitious weapon against 1.d4
+220 Erwin l'Ami: The Tarrasch Defence - A comlete repertoire against 1.d4, 1.c4 and 1.Nf3
+221 Daniel Fernandez: The Reliable Petroff - An Evergreen Elite Choice
+222 Adrian Mikhalchishin: How Bobby Fischer battled the Sicilian
+223 
+224 Georgios Souleidis: The Open Games - A detailed overview
+225 Nicholas Pert: The Aggressive Classical Dutch for Black
+226 Karsten Müller: Endgames of the World Champions - From Fischer to Carlsen
