@@ -1,0 +1,709 @@
+
+^G(5)(22)(NIMZO.IMG)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            
+
+^C^I My System: 21st Century Edition
+^C by Aron Nimzowitsch
+#TOC
+^C^B TABLE OF CONTENTS
+
+^B!(W)    A word from the publisher
+
+PART 1 - THE ELEMENTS
+
+!(I)    Chapter 1.  On the center and development
+!(II)   Chapter 2.  On open files
+!(III)  Chapter 3.  The seventh and eigth ranks
+!(IV)   Chapter 4.  The passed pawn
+!(V)    Chapter 5.  On exchanging
+!(VI)   Chapter 6.  Elements of endgame strategy
+!(VII)  Chapter 7.  The pin
+!(VIII) Chapter 8.  Discovered check
+!(IX)   Chapter 9.  The pawn chain
+
+PART 2 - POSITIONAL PLAY
+
+!(X)    Chapter 10. Positional play and the center
+!(XI)   Chapter 11. The doubled pawn and restraint
+!(XII)  Chapter 12. The isolated d-pawn and its descendants
+!(XIII) Chapter 13. The two bishops
+!(XIV)  Chapter 14. Overprotection
+!(XV)   Chapter 15. Maneuvering against weaknesses
+
+^C^I Page down for Illustrative Games List
+
+
+PART 3 - ILLUSTRATIVE GAMES
+
+&(225)  Nimzowitsch-Alapin, Carlsbad,1911                      Page 169
+&(226)  Teichmann-Nimzowitsch, Carlsbad,1911                   Page 170
+&(227)  Van Vliet-Znosko-Borovsky, Ostend,1907                 Page 172
+&(228)  Lee-Nimzowitsch, Ostend,1907                           Page 173
+&(229)  Dr. v. Haken-Giese, Riga,1913                          Page 174
+&(230)  Dr. Tarrasch-J. Berger, Breslau,1889                   Page 176
+&(231)  Rabinowitsch-Nimzowitsch, Baden-Baden,1925             Page 178
+&(232)  Samisch-Nimzowitsch, Copenhagen,1923                   Page 180
+&(233)  Nimzowitsch-Pritzel, Copenhagen,1922                   Page 181
+&(234)  Nimzowitsch-Dr. Tarrasch, Breslau,1925                 Page 183
+&(235)  Sir George Thomas-Dr. Alekhine, Baden-Baden,1925       Page 187
+&(236)  P.S. Leonhardt-Nimzowitsch, San Sebastion,1912         Page 189
+&(237)  Nimzowitsch-von Gottschall, Breslau,1925               Page 191
+&(238)  Nimzowitsch-C. Behting, Riga,1919                      Page 193
+&(239)  Nimzowitsch-von Freymann, Wilna,1912                   Page 195
+&(240)  Nimzowitsch-P.S. Leonhardt, San Sebastion,1911         Page 197
+&(241)  Nimzowitsch-Dr. Fluss, Correspondence,1913             Page 198
+&(242)  Rubinstein-Nimzowitsch, Marienbad,1925                 Page 200
+&(243)  Louis Paulsen-Dr. Tarrasch, Played in 1888             Page 202
+&(244)  Nimzowitsch-Tarrasch, San Sebastion,1912               Page 204
+&(245)  Professor Becker-Nimzowitsch, Breslau,1925             Page 206
+
+^C^I Page down for more
+
+
+&(246)  Opocensky-Nimzowitsch, Marienbad,1925                  Page 209
+&(247)  Rubinstein-Duras, Carlsbad,1911                        Page 211
+&(248)  Maroczy-Suchting, Barmen,1905                          Page 213
+&(249)  Nimzowitsch-Dr. Michel, Semmering,1926                 Page 215
+&(250)  Dr. Tarrasch-J. Mieses, Berlin,1916                    Page 217
+&(251)  Grunfeld-Dr. Tartakower, Semmering,1926                Page 218
+&(252)  Kline-Capablanca, New York,1913                        Page 219
+&(253)  Rubinstein-Levenfish, Carlsbad,1911                    Page 221
+&(254)  Bugoljubow-Nimzowitsch, London,1927                    Page 222
+&(255)  Nimzowitsch-Anton Olson, Played in 1924                Page 224
+&(256)  Blackburne-Nimzowitsch, Petrograd,1914                 Page 225
+&(257)  Nimzowitsch-Rubinstein, Dresden,1926                   Page 227
+&(258)  Nimzowitsch-Rosselli del Turko, Baden Baden,1925       Page 229
+&(259)  Johner-Nimzowitsch, Dresden,1926                       Page 231
+&(260)  Nimzowitsch-Taubenhaus, Petrograd,1913                 Page 234
+&(261)  Rubinstein-Znosko-Borovsky, Petrograd,1909             Page 235
+&(262)  Allies-Nimzowitsch, Simul Exhibition,1926              Page 236
+&(263)  Three Swedish Amateurs-Nimzowitsch, Cons. game,1921    Page 238
+&(264)  Teichmann-Nimzowitsch, San Sebastion,1911              Page 240
+&(265)  Dr. Lasker-Amos Burn, Petrograd,1909                   Page 243
+&(266)  Nimzowitsch-Marshall, New York,1927                    Page 245
+&(267)  Nimzowitsch-Alekhine, Semmering,1926                   Page 246
+&(268)  Andersson,Enstrom,Oebert-Nimzowitsch, Upsala,1921      Page 248
+
+^C^I Page down for more
+
+
+
+
+&(269)  Yates-Nimzowitsch, London,1927                         Page 250
+&(270)  Nimzowitsch-Salwe, Carlsbad,1911                       Page 253
+&(271)  Gregory-Nimzowitsch, Petrograd,1913                    Page 254
+&(272)  Spielmann-Nimzowitsch, San Sebastion,1911              Page 256
+&(273)  Nimzowitsch-Spielmann, San Sebastion,1912              Page 258
+&(274)  Nimzowitsch-A. Hakansson, Kristianstad,1922            Page 258
+
+
+
+
+
+
+
+^C^I !(TOC) Click here to return to Table of Contents
+
+
+
+
+
+
+
+
+
+
+
+#W
+^C A WORD FROM THE PUBLISHER
+
+ My System, by Aron Nimzowitsch, first published in 1925, has its
+place among the two or three all-time most instructive books in the
+literature of chess. Indeed, it is difficult to find a strong chess-
+player who has not studied this great classic.
+
+ The current edition, My System - 21st Century Edition, incorporates
+many positive changes. To accomodate the modern reader, the chess
+notation has been converted to algebraic format and the text has been
+updated to contemporary language. Wider than average pages allow the
+book to "lie flat" on a table during study. In parts one and two,
+paragraphs are double  spaced to provide for easier reading, while
+the illustrative games section is peppered with new diagrams and 
+liberal spacing to facilitate the study of variations. Aron Nimzowitsch
+comments in the preface to his book Chess Praxis (published 1936), "I
+would have liked to see each game provided with four or five diagrams
+to facilitate the study of the variations which often are particularly
+intricate, but obese volumes are not in favor nowadays (slimming is the
+watchword)." In this vein I feel certain that he would be most pleased 
+to know that My System - 21st Century Edition contains 419 diagrams!
+This is nearly double the number found in the original 1930 English
+language edition from which this book is derived. In short, everything
+possible has been done to make the use of this book convenient and easy
+for today's chessplayer.
+
+ I wish to thank the staff of the John G. White Collection of the
+Cleveland Public Library for the Photograph from which the cover illus-
+tration was created. I would also like to express my gratitude to Senior
+Master John Hall for his most helpful suggestions throughout the project.
+I am indebted to John Merrill of Augusta, Maine who "rescued" me with a
+five-day loan of his portable computer when mine failed during my summer
+vacation, and to Dr. Alan Weissman of Carrollton, Texas, whose special
+"computer" glasses allowed me to  restart work when I was temporarily
+sidelined by a case of computer-induced eye strain.
+
+ The goal of making My System as accurate and easy as possible for the
+contemporary reader has been achieved. the master work of Aron 
+Nimzowitsch, after nearly seventy years of challenging and teaching
+thousands of the world's best chess thinkers, is now in a position to
+continue its noble task throughout the next century.
+
+                                                Lou Hays
+                                                Dallas, Texas
+                                                December 1991
+
+
+
+
+ This disk is published under special agreement between ChessBase USA 
+and Hays Publishing to complement the hard-copy book and further enhance 
+the utility of Mr. Nimzowitsch's work. The combination of Nimzowitsch's
+talent for teaching and Chessbase technology provide you with the most
+comprehensive and efficient study platform available in today's chess
+community.
+
+ The games and positions are presented on the disk in the same order
+as the book. Diagrams that have no associated moves in the book have
+not been included on the disk and some diagrams have been modified to
+include a white and/or black king due to the requirements of ChessBase
+software products.
+
+ To utilize this document just double click your choice in the Table
+of Contents. This will "jump" you directly to the chapter you wish to 
+study. The games and positions included in each chapter provide a game
+title and page number corresponding to the page number in the book
+where the game is located. Double click your choice to load the game
+to the chess board. To return to the document simply press the HOME
+key. You will find a control line at the end of each chapter, double
+click to return to the Table of Contents. For those of you not using
+a mouse, use the Down Arrow key to highlight your selection and press
+ENTER.
+
+                                                Don Maddox
+                                                Manasquan, New Jersey
+                                                September, 1992
+
+
+^C^I !(TOC) Click here to return to Table of Contents
+
+
+#I
+^C^I Chapter 1. On the center and development
+
+&(1)    Wrecking of a Pawnless Advance                         Page 3
+&(2)    A. Nimzowitsch-Amateur                                 Page 3
+&(3)    Win of a Tempo                                         Page 4
+&(4)    Win of a Tempo by Exchange                             Page 4
+&(5)    Win of a Tempo by Exchange 2                           Page 4
+&(6)    Intermezzo with a Win of Tempo                         Page 5
+&(7)    Liquidation                                            Page 5
+&(8)    Liquidation of the Center                              Page 6
+&(9)    Unmotivated Exchange                                   Page 7
+&(10)   The Center as a Demobilizer                            Page 7
+&(11)   The Center as a Demobilizer 2                          Page 8
+&(12)   The Center as a Demobilizer 3                          Page 8
+&(13)   The Center as a Demobilizer 4                          Page 8
+&(14)   The Center as a Demobilizer 5                          Page 8
+&(15)   Surrender of the Center                                Page 9
+&(16)   Surrender of the Center 2                              Page 10
+&(17)   Lee-Nimzowitsch, Ostend                                Page 10
+&(18)   Yates-Nimzowitsch                                      Page 10
+&(19)   Declining a Pawn                                       Page 11
+&(20)   Declining a Pawn 2                                     Page 11
+&(21)   Declining a Pawn 3                                     Page 11
+&(22)   Gaining a Center Pawn                                  Page 11
+&(23)   Gaining a Center Pawn 2                                Page 12
+^C^I !(TOC) Click here to return to Table of Contents
+
+
+
+
+
+#II
+^C^I Chapter 2. On open files
+
+&(24)   Opening a File                                         Page 14
+&(25)   Thomas-Alekhine                                        Page 14
+&(26)   Exploiting Open Files                                  Page 15
+&(27)   Gaining the Back Ranks                                 Page 16
+&(28)   Evolutionary Attack                                    Page 17
+&(29)   Revolutionary Attack                                   Page 17
+&(30)   Revolutionary Attack 2                                 Page 17
+&(31)   Restricted Advance in a File                           Page 18
+&(32)   Outposting                                             Page 19
+&(33)   Advance Posting                                        Page 21
+&(34)   Nimzowitsch-Amateur                                    Page 21
+
+
+
+
+
+
+
+^C^I !(TOC) Click here to return to Table of Contents
+
+
+
+
+
+
+#III
+^C^I Chapter 3. The seventh and eighth ranks
+
+&(35)   Revolutionary Attack in the Seventh Rank               Page 24
+&(36)   Revolutionary Attack in the Seventh Rank 2             Page 24
+&(37)   The Seventh Rank                                       Page 24
+&(38)   The Seventh Rank 2                                     Page 24
+&(39)   The Seventh rank 3                                     Page 25
+&(40)   Taking with Check                                      Page 25
+&(41)   Taking with Check 2                                    Page 25
+&(42)   Absolute Seventh rank                                  Page 26
+&(43)   Tarrasch-Lasker                                        Page 26
+&(44)   Perpetual Check                                        Page 27
+&(45)   The Seventh Rank 4                                     Page 27
+&(46)   The Seventh Rank 5                                     Page 29
+&(47)   The Seventh Rank 6                                     Page 29
+&(48)   Nimzowitsch-Bernstein                                  Page 30
+&(49)   Nimzowitsch-Eliasstamm                                 Page 30
+
+
+^C^I !(TOC) Click here to return to Table of Contents
+
+
+
+
+
+
+
+#IV
+^C^I Chapter 4. The passed pawn
+
+&(50)   Pawn Majorities                                        Page 32
+&(51)   Blockade of Passed Pawns                               Page 33
+&(52)   Kolste-Nimzowitsch                                     Page 34
+&(53)   Alekhine-Treybal                                       Page 34
+&(54)   Change of Blockading Squares                           Page 37
+&(55)   Effect of the Blockade                                 Page 38
+&(56)   Effect of the Blockade 2                               Page 38
+&(57)   Attacking the Blockade                                 Page 40
+&(58)   Attacking the Blockade 2                               Page 40
+&(59)   Enveloping Attack                                      Page 41
+&(60)   Enveloping Attack 2                                    Page 41
+&(61)   The Frontal Attack                                     Page 42
+&(62)   Enveloping Attack 3                                    Page 43
+&(63)   Enveloping Attack 4                                    Page 43
+&(64)   The Turning Movement                                   Page 43
+&(65)   The Reserve Blockade                                   Page 43
+&(66)   Ideal Passed Pawns                                     Page 45
+&(67)   Ideal Passed Pawns 2                                   Page 46
+&(68)   Protected Passed Pawns                                 Page 46
+&(69)   Protected Passed Pawns 2                               Page 46
+&(70)   Outside Passed Pawn                                    Page 46
+&(71)   Outside Passed Pawn 2                                  Page 47
+&(72)   Advance of a Passed Pawn                               Page 48
+&(73)   Advance of a Passed Pawn 2                             Page 48
+&(74)   Advance of a Passed Pawn 3                             Page 48
+&(75)   Nimzowitsch-Rubinstein                                 Page 50
+&(76)   Hausen-Nimzowitsch                                     Page 50
+&(77)   Tarrasch-Berger                                        Page 50
+&(78)   Nimzowitsch-Alapin                                     Page 51
+&(79)   Nimzowitsch-Amateur                                    Page 51
+&(80)   Nimzowitsch-Nilsson                                    Page 52
+
+
+
+
+^C^I !(TOC) Click here to return to Table of Contents
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#V
+^C^I Chapter 5. On exchanging
+
+&(81)   Exchange in Order to Open a File                       Page 53
+&(82)   Destroying a Defender                                  Page 54
+&(83)   Exchange to Avoid a Loss of Time                       Page 54
+&(84)   "Selling one's life"                                   Page 54
+&(85)   Bernstein-Perlis                                       Page 55
+&(86)   Rosselli-Rubinstein                                    Page 56
+&(87)   Rosselli-Rubinstein                                    Page 56
+&(88)   Nimzowitsch-Druwa                                      Page 56
+
+
+
+
+^C^I !(TOC) Click here to return to Table of Contents
+
+
+
+
+
+
+
+
+
+
+
+
+
+#VI
+^C^I Chapter 6. Elements of endgame strategy
+
+&(89)   Centralization of the King                             Page 58
+&(90)   Rubinstein-Nimzowitsch                                 Page 58
+&(91)   Centralization                                         Page 59
+&(92)   Centralization 2                                       Page 59
+&(93)   The Shelter                                            Page 60
+&(94)   The Shelter 2                                          Page 60
+&(95)   Bridge Building                                        Page 60
+&(96)   Aggressive Rooks                                       Page 61
+&(97)   Aggressive Rooks 2                                     Page 62
+&(98)   Aggressive Rooks 3                                     Page 62
+&(99)   The Knight as a Defender                               Page 63
+&(100)  The Bishop as a Defender                               Page 63
+&(101)  Nimzowitsch-Jacobsen                                   Page 65
+&(102)  "Materialization" of a Rank                            Page 65
+&(103)  Capablanca-Martinez                                    Page 65
+&(104)  Nimzowitsch-Spielmann                                  Page 66
+&(105)  Thomas-Nimzowitsch                                     Page 66
+&(106)  Post-Alekhine                                          Page 67
+&(107)  Cohn-Nimzowitsch                                       Page 67
+
+
+^C^I !(TOC) Click here to return to Table of Contents
+
+
+
+
+
+
+
+
+#VII
+^C^I Chapter 7. The pin
+
+&(108)  The Total Pin                                          Page 70
+&(109)  The Total Pin 2                                        Page 70
+&(110)  Win of a Pinned Piece with a Pawn Attack               Page 71
+&(111)  Win of a Pinned Piece with a Pawn Attack 2             Page 71
+&(112)  Win of a Pinned Piece with a Pawn Attack 3             Page 71
+&(113)  The Exchange Combination                               Page 72
+&(114)  Morphy-Duke of Brunswick and Count Isouard             Page 72
+&(115)  The Exchange Combination 2                             Page 73
+&(116)  The 1st and 2nd Motives                                Page 73
+&(117)  Tarrasch-Unknown                                       Page 73
+&(118)  Unpinning                                              Page 74
+&(119)  Unpinning 2                                            Page 74
+&(120)  Cohen-Nimzowitsch                                      Page 74
+&(121)  Unpinning 3                                            Page 75
+&(122)  The "Question"                                         Page 75
+&(123)  Ignoring the Threat                                    Page 76
+&(124)  Bringing Reserves to Unpin                             Page 77
+&(125)  Bringing Reserves to Unpin 2                           Page 77
+&(126)  Maneuvering Before Unpinning                           Page 77
+&(127)  Unpinning 4                                            Page 78
+&(128)  Unpinning 5                                            Page 78
+&(129)  Unpinning 6                                            Page 78
+&(130)  Nimzowitsch-Vidmar                                     Page 78
+^C^I !(TOC) Click here to return to Table of Contents
+
+
+
+
+
+
+
+#VIII
+^C^I Chapter 8. Discovered check
+
+&(131)  Discovered Check                                       Page 82
+&(132)  The See-Saw                                            Page 82
+&(133)  The See-Saw 2                                          Page 83
+&(134)  Torre-Lasker                                           Page 83
+&(135)  Double Check                                           Page 83
+&(136)  Double Check 2                                         Page 84
+&(137)  Double Check 3                                         Page 84
+&(138)  Reti-Tartakower                                        Page 84
+&(139)  Nimzowitsch-Ryckhoff                                   Page 85
+
+
+
+
+^C^I !(TOC) Click here to return to Table of Contents
+
+
+
+
+
+
+
+
+
+
+
+
+#IX
+^C^I Chapter 9. The pawn chain
+
+&(140)  The Pawn Chain                                         Page 87
+&(141)  The Pawn Chain 2                                       Page 88
+&(142)  The Pawn Chain 3                                       Page 90
+&(143)  The Pawn Chain 4                                       Page 92
+&(144)  Blockading the Pawn Chain                              Page 93
+&(145)  Widening the Blockading Ring                           Page 93
+&(146)  The Siege of the Pawn Chain                            Page 94
+&(147)  The Base as a Weakness in the Endgame                  Page 96
+&(148)  Exploiting a Weak Base                                 Page 97
+&(149)  Transfer of the Attack                                 Page 99
+&(150)  Transfer of the Attack 2                               Page 100
+
+
+
+^C^I !(TOC) Click here to return to Table of Contents
+
+
+
+
+
+
+
+
+
+
+
+#X
+^C^I Chapter 10. Positional play and the center
+
+&(151)  Nimzowitsch-Amateur                                    Page 105
+&(152)  The Freeing Move                                       Page 107
+&(153)  The Freeing Move 2                                     Page 107
+&(154)  Nimzowitsch-Giese                                      Page 108
+&(155)  Nimzowitsch-Alekhine                                   Page 108
+&(156)  The Mobile Pawn Mass                                   Page 110
+&(157)  The Mobile Pawn Mass                                   Page 111
+&(158)  The Invasion of the Center                             Page 111
+&(159)  Capablanca-Martinez                                    Page 111
+&(160)  The Invasion of the Center 2                           Page 112
+&(161)  The Change of Front                                    Page 112
+&(162)  Berntsson-Bjurulf                                      Page 113
+&(163)  Opocensky-Nimzowitsch                                  Page 115
+&(164)  Nimzowitsch-Alekhine                                   Page 115
+&(165)  Yates-Nimzowitsch                                      Page 116
+&(166)  Rubinstein-Nimzowitsch                                 Page 117
+
+
+^C^I !(TOC) Click here to return to Table of Contents
+
+
+
+
+
+
+
+#XI
+^C^I Chapter 11. The doubled pawn and restraint
+
+&(167)  Static Weakness of the Doubled Pawn                    Page 121
+&(168)  Doubled Pawns                                          Page 122
+&(169)  Haakanson-Nimzowitsch                                  Page 123
+&(170)  Janowsky-Nimzowitsch                                   Page 123
+&(171)  Nimzowitsch-Rosselli                                   Page 124
+&(172)  Nimzowitsch-Samisch                                    Page 124
+&(173)  Spielmann-Rubinstein                                   Page 125
+&(174)  Nimzowitsch-Perlis                                     Page 126
+&(175)  Yates-Olland                                           Page 127
+&(176)  Teichmann-Bernstein                                    Page 127
+&(177)  Billecard-Bernstein                                    Page 128
+&(178)  The Mysterious Rook Move                               Page 129
+&(179)  The Mysterious Rook Move 2                             Page 129
+&(180)  The Mysterious Rook Move 3                             Page 130
+&(181)  Kupchik-Capablanca                                     Page 130
+&(182)  Gottschall-Nimzowitsch                                 Page 130
+&(183)  The Freeing Move                                       Page 131
+&(184)  The Mobile Center Pawn                                 Page 133
+&(185)  First restrain, Next Blockade, Lastly Destroy          Page 133
+&(186)  Shoosmith-Nimzowitsch                                  Page 133
+&(187)  Restraint                                              Page 134
+&(188)  Van Vliet-Nimzowitsch                                  Page 134
+&(189)  Restraint 2                                            Page 135
+&(190)  Nimzowitsch-Reti                                       Page 135
+&(191)  Special Variation                                      Page 135
+&(192)  Blockade Spanning Half the Board                       Page 136
+&(193)  Huge Sensation                                         Page 136
+
+
+
+
+
+
+^C^I !(TOC) Click here to return to Table of Contents
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#XII
+^C^I Chapter 12. The isolated d-pawn and its descendants
+
+&(194)  Isolated d-Pawn                                        Page 137
+&(195)  Nimzowitsch-Taubenhaus                                 Page 139
+&(196)  Rubinstein-Lasker                                      Page 140
+&(197)  Lasker-Tarrasch                                        Page 141
+&(198)  Nimzowitsch-Giersing and Kinch                         Page 142
+&(199)  The Isolani                                            Page 144
+&(200)  Rubinstein-Nimzowitsch                                 Page 145
+&(201)  Nimzowitsch-Tartakower                                 Page 145
+&(202)  Bernstein-Teichmann                                    Page 145
+
+
+
+
+^C^I !(TOC) Click here to return to Table of Contents
+
+
+
+
+
+
+
+
+
+
+
+
+#XIII
+^C^I Chapter 13. The two bishops
+
+&(203)  The Bishop vs. the Knight                              Page 147
+&(204)  The Horrwitz Bishops                                   Page 148
+&(205)  The Horrwitz Bishops 2                                 Page 148
+&(206)  Richter-Tarrasch                                       Page 149
+&(207)  Harmonist-Tarrasch                                     Page 150
+&(208)  Michel-Tartakower                                      Page 151
+
+
+
+
+^C^I !(TOC) Click here to return to Table of Contents
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#XIV
+^C^I Chapter 14. Overprotection
+
+&(209)  Nimzowitsch-Rubinstein                                 Page 153
+&(210)  Nimzowitsch-Spielmann                                  Page 154
+&(211)  Reti-Yates                                             Page 154
+&(212)  Overprotection                                         Page 155
+&(213)  Three Amateurs-Nimzowitsch                             Page 156
+&(214)  Nimzowitsch-Jacobson                                   Page 156
+&(215)  Tarrasch-Barthmann                                     Page 157
+
+
+
+
+^C^I !(TOC) Click here to return to Table of Contents
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#XV 
+^C^I Chapter 15. Maneuvering against weaknesses
+
+&(216)  Rubinstein-Selesnieff                                  Page 160
+&(217)  Kalaschnikow-Nimzowitsch                               Page 160
+&(218)  Nimzowitsch-Kalinsky                                   Page 161
+&(219)  Von Gottschall-Nimzowitsch                             Page 162
+&(220)  Von Holzhausen-Nimzowitsch                             Page 163
+&(221)  Teichmann-Nimzowitsch                                  Page 163
+&(222)  Vestergaard-Nimzowitsch                                Page 164
+&(223)  Seifert-Nimzowitsch                                    Page 164
+&(224)  Lasker-Salwe                                           Page 164
+
+^C^I !(TOC) Click here to return to Table of Contents
+
+^C Copyright 1992, ChessBase USA
+^C P.O. Box 133
+^C Hagerstown, Md. 21741
+
+

@@ -1,0 +1,14 @@
+Here are collected all the 300 positions from Fred Reinfeld's book "Win at Chess" (the precursor of Reinfeld's well known "1001" books), complete with the solutions (and some training questions in Chess Base capability).
+
+These positions are extracted from actual master games. They are increasingly difficult as you proceed in the book. 
+
+The book is in descriptive notation, and it is very cheap (a real bargain), like other Reinfeld's books.
+
+I have checked nearly all the positions with Fritz, and I have found some alternate solution and some surprising possible defence, for example in the positions n° 157, 210, 258.
+
+Author: Fred Reinfeld
+Publisher: Dover Publications
+Year of publication: 1958
+(originally published by David McKay Company in 1945 under the title "Chess Quiz"; published in Canada by General Publishing Company Ltd., and in the United Kingdom by Constable and Company, Ltd.)
+ISBN: 0-486-20438-3
+Library od Congress Catalog Card Number: 57-14882

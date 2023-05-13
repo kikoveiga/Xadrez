@@ -1,0 +1,11 @@
+The games of the Zuerich 1953 candidates tournament
+Both collections have the same games:
+
+zuer53.cbv   games annofritzed
+Tcsip.cbv    games without annotations, ordered as they appear
+             in the Bronstein's and Euwe's tournament books. See also
+             the two text-files in this collection.
+
+Thanks to WW Simpson for the Tcsip.cbv contribution! 
+
+G. Ossimitz

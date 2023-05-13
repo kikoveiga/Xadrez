@@ -1,0 +1,8 @@
+Set of PGN positions useful for testing
+software or yourself.  Can be imported into
+databases using conversion utilities.  The
+positions were converted from the SAN test
+suites in the Internet Chess Library at
+caissa.onenet.ca in pub/chess/Tests. See
+MANIFEST.TXT, included in archive.
+

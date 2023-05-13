@@ -1,0 +1,5 @@
+100 selected games of Alexander Alekhine
+according to the book
+Müller, Hans / A. Pawelczak: Schachgenie Aljechin
+(Chess Genius Alekhine). ISBN: 3-88086-051-3
+About half of the games are annotated with Fritz5.

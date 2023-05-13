@@ -1,0 +1,12 @@
+Here are collected all the games from Alex Dunne's "How to become a candidate master", annofritzed with Hiarcs 7.32 on a Pentium 300 MHz PC (96 MB RAM), 90 seconds a move.
+
+The book is intended for Category I (Class A) USCF players who want to be promoted to Expert Class (Candidate Master).
+The annotations in the Chess Base file are completely different from those in the book, which is totally centred on the psychological and strategical aspects of the games. That is, this CB file is useless without the book.
+
+Author: Alex Dunne
+Publisher: Thinkers' Press, Davenport, IOWA
+Year of publication: 1992
+(First printing September 1985;
+Second, revised, printing September 1986;
+Third printing May 1992)
+ISBN: 0-938650-62-9

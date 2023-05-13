@@ -1,0 +1,1 @@
+Resh-BGOC contains all 110+1 games from Samuel Reshevsky's "Best Games of Chess" (first published as "Reshevsky on Chess" in 1948). They have been annofritzed with Fritz 6a on a PIII-450 @ 20 seconds a move.

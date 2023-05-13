@@ -1,0 +1,165 @@
+Manifest: brief description of EPD test suites
+
+Revised: 1994.06.05
+
+
+Total EPD files: 13
+
+
+Total positions: 6660
+
+
+Background and History:
+
+    Title:  A Test Suite for Chess Programs
+    Author: Kevin J. Lang and Warren D. Smith
+    From:   ICCA Journal, Volume 16, Number 3
+    Date:   1993
+    ISSN:   0920-234X
+
+    Title:  PGN Standard and Implementation Guide (section 16.2: EPD)
+    Author: Steven J. Edwards
+    From:   pub/chess/PGN/Standard via ftp at chess.uoknor.edu
+    Date:   1994
+    ISSN:   none
+
+
+Redactions and contributions by:
+
+    Hans Berliner
+    Murray Campbell
+    Gary Crum
+    Steven J. Edwards
+    Lloyd Lim
+    Warren D. Smith
+
+
+Contributing programs:
+
+    Deep Thought
+    Flea
+    GNUchess
+    HiTech
+    Mephisto
+    Spector
+    Zarkov
+
+
+File: BK.epd
+
+    Title:  Advances in Computer Chess 3 (The Bratko-Kopec Experiment)
+    Author: I. Bratko and Danny Kopec
+    Date:   1982
+    ISBN:   0-08-026898-6
+    Count:  24
+
+
+File: BWTC.epd
+
+    Title:  1001 Brilliant Ways to Checknate
+    Author: Fred Reinfeld
+    Date:   1955
+    ISBN:   0-87980-110-7
+    Count:  1001
+
+
+File: ECE3.epd
+
+    Title:  Encyclopedia of Chess Endgames (vol. 3) (extract)
+    Author: A. Adorjan, et al.
+    Date:   1986
+    ISBN:   ?
+    Count:  1797
+
+
+File: ECM.epd
+
+    Title:  Encyclopedia of Chess Middlegames (extract)
+    Author: N. Krogius, A. Livsic, B. Parma, M. Taimanov
+    Date:   1980
+    ISBN:   None
+    Count:  879
+
+
+File: GMG1.epd
+
+    Title:  Bent Larsen's Good Move Guide (ch. 1 extract)
+    Author: Bent Larsen
+    Date:   1982
+    ISBN:   0-19-217593-9
+    Count:  100
+
+
+File: GMG2.epd
+
+    Title:  Bent Larsen's Good Move Guide (ch. 2 extract)
+    Author: Bent Larsen
+    Date:   1982
+    ISBN:   0-19-217593-9
+    Count:  48
+
+
+File: GMG3.epd
+
+    Title:  Bent Larsen's Good Move Guide (ch. 4 extract)
+    Author: Bent Larsen
+    Date:   1982
+    ISBN:   0-19-217593-9
+    Count:  63
+
+
+File: IMCP.epd
+
+    Title:  Ideal Mate Chess Problems (extract)
+    Author: E. Albert
+    Date:   1966
+    ISBN:   ?
+    Count:  106
+
+
+File: MES.epd
+
+    Title:  1234 Modern Endgame Studies
+    Author: M. A. Sutherland and H. M. Lommer
+    Date:   1968
+    ISBN:   486-21884-8
+    Count:  1258
+
+
+File: TWGCG.epd
+
+    Title:  The World's Greatest Chess Games
+    Author: Reuben Fine
+    Date:   1951
+    ISBN:   ?
+    Count:  50
+
+
+File: TYPP.epd
+
+    Title:  Test Your Positional Play
+    Author: Robert Bellin and Pietro Ponzetto
+    Date:   1985
+    ISBN:   ?
+    Count:  33
+
+
+File: WAC.epd
+
+    Title:  Win at Chess
+    Author: Fred Reinfeld
+    Date:   1958
+    ISBN:   0-486-20438-3
+    Count:  300
+
+
+File: WCSAC.epd
+
+    Title:  1001 Winning Chess Sacrifices and Combinations
+    Author: Fred Reinfeld
+    Date:   1955
+    ISBN:   0-87980-111-5
+    Count:  1001
+
+
+Manifest: EOF
