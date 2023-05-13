@@ -1,0 +1,25 @@
+0. Turn your internet connection OFF.
+
+1. Run Keygen, {Select Gui: Chess Base 16}, {Select Engine: none}, press {New Serial}.
+
+2. Start installer, it will ask you for Activation key.
+
+3. Copy and paste serial number to Activation form of ChessBase, paste {CB16} to the last textbox, press {Next}.
+
+4. Choose {Do not close applications...} if you see {Files in Use} message.
+
+5. Close Activation window at the end of installation, reboot.
+
+6. Run Keygen again, {Select Gui: Chess Base 16}, {Select Engine: none}, press {New Serial}.
+
+7. Save your serial number to a text file, the GUI may ask for it later.
+
+8. Choose {Built-in Activation}, press {Activate}.
+
+9. Close Activation window of ChessBase, press {OK} on {Fill the 4 characters...} message, press {OK} on the next message.
+
+10. Start ChessBase, enter serial from step 7 if Chessbase ask for it, press {No, thanks} on {Login - ChessBase Account} form.
+
+11. Quit Chessbase, insall Update.
+
+12. Block ChessBase with firewall, it's safe to turn your internet connection on now.
