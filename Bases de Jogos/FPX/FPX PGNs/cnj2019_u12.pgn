@@ -1,0 +1,616 @@
+[Event "CN Jovens 2019 - U12"]
+[Site "Portimão POR"]
+[Date "2019.04.13"]
+[Round "1.1"]
+[White "Guia, Artur"]
+[Black "Sismeiro, Sofia"]
+[Result "1-0"]
+[ECO "C79"]
+[WhiteElo "1782"]
+[BlackElo "1015"]
+[WhiteFideId "1946781"]
+[BlackFideId "1952587"]
+[PlyCount "113"]
+[EventDate "2019.??.??"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O d6 6. Re1 b5 7. Bb3 Be7 8. c3
+O-O 9. h3 Bb7 10. d3 Na5 11. Bc2 c5 12. Nbd2 Nc6 13. Nf1 Re8 14. Ng3 Qd7 15. Nf5
+Bf8 16. Bg5 Qd8 17. Ne3 h6 18. Bh4 g6 19. Nd5 Bg7 20. Qd2 Kh7 21. a4 Na5 22.
+Bxf6 Bxf6 23. Nxf6+ Qxf6 24. Nh2 Bc8 25. axb5 axb5 26. b4 Qd8 27. bxa5 Rxa5 28.
+Ng4 Bxg4 29. hxg4 Rxa1 30. Rxa1 Qh4 31. Ra7 Kg7 32. Bb3 Rf8 33. Qe2 Qf6 34. Qf3
+Qxf3 35. gxf3 h5 36. Rd7 hxg4 37. fxg4 Kg8 38. Rxd6 Kh8 39. Rf6 Kg7 40. Rc6 f5
+41. gxf5 gxf5 42. Rxc5 fxe4 43. dxe4 Kf6 44. Rxb5 Rc8 45. c4 Ke6 46. c5+ Kd7 47.
+Bd5 Ke7 48. Rb7+ Kd8 49. c6 Ra8 50. c7+ Kc8 51. Rb8+ Rxb8 52. cxb8=Q+ Kxb8 53.
+Kg2 Kc7 54. Kg3 Kd6 55. Kg4 Kc5 56. Kf5 Kd6 57. Kf6 1-0
+
+[Event "CN Jovens 2019 - U12"]
+[Site "Portimão POR"]
+[Date "2019.04.13"]
+[Round "1.2"]
+[White "Azevedo, Nuno"]
+[Black "Silva, Daniel"]
+[Result "0-1"]
+[ECO "B00"]
+[BlackElo "1642"]
+[WhiteFideId "1956078"]
+[BlackFideId "1951378"]
+[PlyCount "60"]
+[EventDate "2019.??.??"]
+
+1. e4 b6 2. d3 Bb7 3. Nf3 e6 4. Nc3 Bb4 5. Bd2 h6 6. a3 Bxc3 7. Bxc3 Nf6 8. Bxf6
+Qxf6 9. Be2 Qxb2 10. O-O Nc6 11. Qb1 Qc3 12. Qb3 Nd4 13. Nxd4 Qxd4 14. c3 Qf6
+15. Bf3 Qg5 16. Rfe1 O-O 17. g3 f5 18. Qb5 Qe7 19. Qe5 d6 20. Qd4 e5 21. Qc4+
+Kh8 22. Ra2 Rad8 23. g4 fxe4 24. Bxe4 d5 25. Qa4 dxe4 26. dxe4 Qe6 27. Rc2 Qxg4+
+28. Kf1 Qh3+ 29. Kg1 Rd6 30. Re3 Rd1+ 0-1
+
+[Event "CN Jovens 2019 - U12"]
+[Site "Portimão POR"]
+[Date "2019.04.13"]
+[Round "1.3"]
+[White "Korotkyi, Daniyil"]
+[Black "Basilio, José Bruno"]
+[Result "1-0"]
+[ECO "C20"]
+[WhiteElo "1530"]
+[WhiteFideId "1946722"]
+[BlackFideId "1949233"]
+[PlyCount "45"]
+[EventDate "2019.??.??"]
+
+1. e4 e5 2. c4 Nf6 3. d3 Bb4+ 4. Bd2 Bxd2+ 5. Nxd2 O-O 6. Ngf3 Nc6 7. Be2 a6 8.
+O-O b5 9. a3 bxc4 10. Nxc4 Re8 11. Rc1 h6 12. b4 d6 13. Ne3 Bb7 14. Qb3 Nd4 15.
+Nxd4 exd4 16. Nf5 d5 17. f3 g6 18. Nxh6+ Kg7 19. Ng4 Nxg4 20. fxg4 dxe4 21.
+Qxf7+ Kh8 22. Rxc7 Qh4 23. Qg7# 1-0
+
+[Event "CN Jovens 2019 - U12"]
+[Site "Portimão POR"]
+[Date "2019.04.13"]
+[Round "1.4"]
+[White "Borges, Leonor"]
+[Black "Gonçalves, Lucas"]
+[Result "0-1"]
+[ECO "C53"]
+[BlackElo "1529"]
+[WhiteFideId "1954369"]
+[BlackFideId "1945360"]
+[PlyCount "51"]
+[EventDate "2019.??.??"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Nf6 5. d3 d6 6. h3 h6 7. O-O O-O 8. Nbd2 a6
+9. Re1 Na5 10. Bb3 Nxb3 11. Nxb3 Ba7 12. Nbd2 Be6 13. Nf1 Nh7 14. Ng3 Qf6 15.
+Be3 Bxe3 16. Rxe3 Ng5 17. Qe2 Nxf3+ 18. Rxf3 Qg6 19. Re3 f5 20. Qh5 Qxh5 21.
+Nxh5 f4 22. Rf3 g6 23. Nxf4 Rxf4 24. Rxf4 exf4 25. f3 h5 26. h4 0-1
+
+[Event "CN Jovens 2019 - U12"]
+[Site "Portimão POR"]
+[Date "2019.04.14"]
+[Round "2.1"]
+[White "Canelas, Miguel"]
+[Black "Guia, Artur"]
+[Result "0-1"]
+[ECO "A45"]
+[WhiteElo "1169"]
+[BlackElo "1782"]
+[WhiteFideId "1941968"]
+[BlackFideId "1946781"]
+[PlyCount "66"]
+[EventDate "2019.??.??"]
+
+1. d4 Nf6 2. Bf4 g6 3. e3 Bg7 4. Nf3 d6 5. h3 O-O 6. Bd3 Nbd7 7. Nbd2 b6 8. c4
+Bb7 9. O-O Re8 10. Qc2 e5 11. Bg5 e4 12. Nxe4 Bxe4 13. Bxe4 Rxe4 14. Qxe4 Nxe4
+15. Bxd8 Rxd8 16. Rad1 Re8 17. Ne1 a5 18. Nc2 Nb8 19. b4 Nc6 20. a3 Ra8 21. b5
+Ne7 22. Rd3 d5 23. cxd5 Nxd5 24. Ra1 a4 25. Nb4 Nxb4 26. axb4 Bf8 27. Rda3 Bxb4
+28. Rxa4 Rxa4 29. Rxa4 Bd6 30. f3 Nc3 31. Rc4 Nxb5 32. e4 Nxd4 33. e5 Bxe5 0-1
+
+[Event "CN Jovens 2019 - U12"]
+[Site "Portimão POR"]
+[Date "2019.04.14"]
+[Round "2.2"]
+[White "Silva, Daniel"]
+[Black "Marques, David Santos"]
+[Result "1-0"]
+[ECO "A00"]
+[WhiteElo "1642"]
+[BlackElo "1158"]
+[WhiteFideId "1951378"]
+[BlackFideId "1960334"]
+[PlyCount "51"]
+[EventDate "2019.??.??"]
+
+1. g3 e5 2. Bg2 d5 3. d3 Nf6 4. Nc3 Bf5 5. Bg5 c6 6. Nf3 Nbd7 7. e4 dxe4 8. Nxe4
+Bxe4 9. dxe4 h6 10. Bxf6 Nxf6 11. Qxd8+ Rxd8 12. Nxe5 Bd6 13. Nd3 O-O 14. O-O-O
+Rfe8 15. Rhe1 Bc7 16. f4 Nd7 17. e5 Bb6 18. b4 a6 19. c4 a5 20. c5 Bc7 21. a3 g6
+22. Nf2 Re6 23. Bh3 f5 24. Bf1 Nb8 25. Rxd8+ Bxd8 26. Bc4 1-0
+
+[Event "CN Jovens 2019 - U12"]
+[Site "Portimão POR"]
+[Date "2019.04.14"]
+[Round "2.3"]
+[White "Cordeiro, João Pedro Pereira"]
+[Black "Korotkyi, Daniyil"]
+[Result "0-1"]
+[ECO "B32"]
+[WhiteElo "1132"]
+[BlackElo "1530"]
+[WhiteFideId "1950738"]
+[BlackFideId "1946722"]
+[PlyCount "52"]
+[EventDate "2019.??.??"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 e5 5. Nxc6 bxc6 6. Nc3 Bb4 7. Bd2 Nf6 8.
+f3 O-O 9. Bc4 d6 10. a3 Bxc3 11. Bxc3 Bb7 12. Qe2 c5 13. Ba6 Bxa6 14. Qxa6 Qb6
+15. Qa5 Rab8 16. b3 Qc6 17. O-O-O Rb6 18. Bb2 Rfb8 19. Rd3 c4 20. Rc3 Ra6 21.
+Rxc4 Qxc4 22. bxc4 Rxa5 23. Rd1 Ra6 24. c5 dxc5 25. Bxe5 Re8 26. Bg3 h6 0-1
+
+[Event "CN Jovens 2019 - U12"]
+[Site "Portimão POR"]
+[Date "2019.04.14"]
+[Round "2.4"]
+[White "Gonçalves, Lucas"]
+[Black "Areal, Beatriz"]
+[Result "1-0"]
+[ECO "B13"]
+[WhiteElo "1529"]
+[BlackElo "1105"]
+[WhiteFideId "1945360"]
+[BlackFideId "1949110"]
+[PlyCount "93"]
+[EventDate "2019.??.??"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. Bd3 Qc7 5. c3 Nc6 6. h3 e6 7. Nf3 h6 8. O-O
+Nf6 9. Be3 Bd6 10. Re1 O-O 11. Qd2 Ne4 12. Qc1 Re8 13. Bxe4 dxe4 14. Nfd2 f5 15.
+Nc4 Be7 16. Bf4 Qd8 17. Nbd2 g5 18. Bh2 b5 19. Ne5 Nxe5 20. Bxe5 Bf6 21. Bxf6
+Qxf6 22. f3 exf3 23. Nxf3 Bb7 24. Qe3 Bxf3 25. Qxf3 Rab8 26. Re5 Qf7 27. Rae1
+Kf8 28. Qc6 Rb6 29. Qc5+ Kg7 30. d5 g4 31. hxg4 fxg4 32. dxe6 Rbxe6 33. Rxe6
+Rxe6 34. Rxe6 Qxe6 35. Qxa7+ Kf6 36. Qd4+ Kf7 37. Qf4+ Ke7 38. Qb4+ Kf7 39. Qxb5
+Qe1+ 40. Qf1+ Qxf1+ 41. Kxf1 g3 42. a4 Ke7 43. Ke2 h5 44. Kf3 Kd7 45. a5 Kc7 46.
+b4 Kd6 47. Ke4 1-0
+
+[Event "CN Jovens 2019 - U12"]
+[Site "Portimão POR"]
+[Date "2019.04.14"]
+[Round "3.1"]
+[White "Guia, Artur"]
+[Black "Sarabando, Rodrigo"]
+[Result "1-0"]
+[ECO "A45"]
+[WhiteElo "1782"]
+[BlackElo "1447"]
+[WhiteFideId "1946781"]
+[BlackFideId "1950010"]
+[PlyCount "71"]
+[EventDate "2019.??.??"]
+
+1. d4 Nf6 2. Bg5 Ne4 3. Bf4 d6 4. f3 Nf6 5. e4 g6 6. Nc3 Bg7 7. Qd2 O-O 8. h4
+Nfd7 9. h5 e5 10. Bh6 g5 11. Bxg5 f6 12. Bh6 Qe7 13. Nd5 Qd8 14. Rh3 c6 15. Rg3
+Rf7 16. Ne3 Nb6 17. dxe5 d5 18. Qd4 Kh8 19. Bxg7+ Rxg7 20. exf6 Rf7 21. e5 Be6
+22. f4 Qd7 23. Bd3 Qe8 24. f5 Bc8 25. e6 Bxe6 26. fxe6 Qxe6 27. O-O-O N8d7 28.
+Bf5 Qd6 29. Rg7 Rxg7 30. fxg7+ Kg8 31. Qg4 Re8 32. Bxd7 Nxd7 33. Nf5 Qf6 34. Rf1
+Ne5 35. Qf4 Nf7 36. Kb1 1-0
+
+[Event "CN Jovens 2019 - U12"]
+[Site "Portimão POR"]
+[Date "2019.04.14"]
+[Round "3.2"]
+[White "Sousa, Gil O T"]
+[Black "Silva, Daniel"]
+[Result "0-1"]
+[ECO "B00"]
+[WhiteElo "1426"]
+[BlackElo "1642"]
+[WhiteFideId "1948709"]
+[BlackFideId "1951378"]
+[PlyCount "85"]
+[EventDate "2019.??.??"]
+
+1. e4 b6 2. d4 Bb7 3. Bd3 e6 4. Nf3 c5 5. c3 h6 6. O-O Nf6 7. Qe2 Be7 8. Nbd2
+O-O 9. Re1 cxd4 10. cxd4 d5 11. e5 Nfd7 12. Nf1 Nc6 13. Ng3 Rc8 14. a3 Na5 15.
+Bf4 Nb3 16. Rad1 Re8 17. Qe3 g5 18. Nh5 Na5 19. Bg3 Nc4 20. Bxc4 dxc4 21. h4 Kh7
+22. Rd2 Kg6 23. Qe2 Kxh5 24. Nxg5+ Kg6 25. Nh3 Rg8 26. Qg4+ Kh7 27. Qh5 Qf8 28.
+d5 Bxd5 29. Rxd5 exd5 30. Qf5+ Kh8 31. Qxd7 Bc5 32. Kh1 Rd8 33. Qf5 Qg7 34. Rg1
+Qg6 35. Qf3 d4 36. h5 Qe6 37. Nf4 Qf5 38. e6 fxe6 39. Ng6+ Kh7 40. Qb7+ Rg7 41.
+Qa6 Qxh5+ 42. Nh4 Be7 43. Qa5 0-1
+
+[Event "CN Jovens 2019 - U12"]
+[Site "Portimão POR"]
+[Date "2019.04.14"]
+[Round "3.3"]
+[White "Korotkyi, Daniyil"]
+[Black "Paiva, Rodrigo"]
+[Result "1/2-1/2"]
+[ECO "C02"]
+[WhiteElo "1530"]
+[BlackElo "1360"]
+[WhiteFideId "1946722"]
+[BlackFideId "1952340"]
+[PlyCount "89"]
+[EventDate "2019.??.??"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Bb5 Qb6 6. Bxc6+ bxc6 7. Nf3 cxd4 8.
+cxd4 Nh6 9. Nc3 Nf5 10. a3 c5 11. dxc5 Bxc5 12. Qc2 Qc7 13. Na4 Bb4+ 14. Nc3 Ba5
+15. Be3 Nxe3 16. fxe3 O-O 17. O-O Ba6 18. Rfe1 Rfc8 19. Rac1 Bxc3 20. Qxc3 Qxc3
+21. Rxc3 Rxc3 22. bxc3 Rb8 23. Nd4 Bd3 24. Rd1 Bc4 25. h4 a6 26. g4 Kf8 27. h5
+h6 28. a4 Rb2 29. Nc6 Ke8 30. e4 Kd7 31. exd5 exd5 32. Nd4 Kc7 33. e6 fxe6 34.
+Nxe6+ Kd6 35. Nxg7 Be2 36. Rd4 Ke5 37. Ne8 Rb7 38. Kf2 Bc4 39. Rd1 Rb3 40. Re1+
+Kf4 41. Nd6 Rxc3 42. Nxc4 Rxc4 43. Re6 Rc2+ 44. Ke1 Kxg4 45. Rxh6 1/2-1/2
+
+[Event "CN Jovens 2019 - U12"]
+[Site "Portimão POR"]
+[Date "2019.04.14"]
+[Round "3.4"]
+[White "Almeida, Pedro Bastos"]
+[Black "Gonçalves, Lucas"]
+[Result "1-0"]
+[ECO "D02"]
+[WhiteElo "1288"]
+[BlackElo "1529"]
+[WhiteFideId "1952439"]
+[BlackFideId "1945360"]
+[PlyCount "105"]
+[EventDate "2019.??.??"]
+
+1. d4 d5 2. Nf3 Nf6 3. c3 Bf5 4. Bf4 e6 5. e3 c5 6. Bd3 Bg6 7. Bxb8 Rxb8 8. Bb5+
+Nd7 9. Ne5 Ke7 10. Nxd7 Ra8 11. Nxc5 Qa5 12. Be2 Ke8 13. Nb3 Qc7 14. N1d2 Bd6
+15. f4 f5 16. Nf3 b6 17. Qd2 h6 18. Nh4 Bf7 19. Nf3 Rc8 20. Ne5 Bxe5 21. dxe5
+Ke7 22. Qd4 Be8 23. Qb4+ Kd8 24. Qd6+ Qxd6 25. exd6 Kd7 26. Bb5+ Kxd6 27. Bxe8
+Rhxe8 28. Kf2 Rc7 29. Nd4 a6 30. Rac1 g6 31. Rc2 Ra8 32. h3 Rg8 33. g4 Rcg7 34.
+c4 Rc7 35. b3 Rgc8 36. Rhc1 fxg4 37. hxg4 e5 38. Ne2 Rc5 39. Rc3 h5 40. g5 exf4
+41. exf4 Rf8 42. cxd5 Kxd5 43. Rxc5+ bxc5 44. Rc4 Re8 45. Nc3+ Kc6 46. Ne4 Kb6
+47. Nxc5 Rd8 48. Na4+ Kb7 49. Ke2 Rd5 50. Nc3 Rf5 51. Kf3 Rf7 52. Ne4 Rd7 53.
+Nc5+ 1-0
+
+[Event "CN Jovens 2019 - U12"]
+[Site "Portimão POR"]
+[Date "2019.04.15"]
+[Round "4.1"]
+[White "Nalivaiko, Maksim"]
+[Black "Guia, Artur"]
+[Result "0-1"]
+[ECO "B30"]
+[BlackElo "1782"]
+[WhiteFideId "1963228"]
+[BlackFideId "1946781"]
+[PlyCount "90"]
+[EventDate "2019.??.??"]
+
+1. e4 c5 2. Nf3 Nc6 3. Nc3 g6 4. Bc4 Bg7 5. O-O d6 6. d3 Nf6 7. Be3 O-O 8. Qe2
+Bg4 9. h3 Bxf3 10. Qxf3 Ne5 11. Qe2 e6 12. Bf4 Nc6 13. Bg5 Nd4 14. Qd2 a6 15. a3
+b5 16. Ba2 Qc7 17. b3 Nd7 18. Rac1 Qa5 19. Nb1 Qxd2 20. Nxd2 Ne2+ 21. Kh1 Nxc1
+22. Rxc1 Rfe8 23. c3 Rac8 24. Nf3 Ne5 25. Ne1 a5 26. c4 bxc4 27. bxc4 Rb8 28.
+Bd2 Rb2 29. Bxa5 Rxa2 30. Bc7 Rxa3 31. Rd1 Rea8 32. Kg1 Ra1 33. Rxa1 Rxa1 34.
+Kf1 Nxd3 35. Ke2 Nxe1 36. Bxd6 Bd4 37. g3 Nc2 38. Bf4 Na3 39. Kd3 Bxf2 40. g4
+Kf8 41. Bg5 Bd4 42. Bf4 e5 43. Bg5 Ra2 44. Bf6 Nc2 45. Bg5 Nb4# 0-1
+
+[Event "CN Jovens 2019 - U12"]
+[Site "Portimão POR"]
+[Date "2019.04.15"]
+[Round "4.2"]
+[White "Silva, Daniel"]
+[Black "Almeida, Pedro Bastos"]
+[Result "1/2-1/2"]
+[ECO "A00"]
+[WhiteElo "1642"]
+[BlackElo "1288"]
+[WhiteFideId "1951378"]
+[BlackFideId "1952439"]
+[PlyCount "97"]
+[EventDate "2019.??.??"]
+
+1. g3 d5 2. Nf3 e6 3. Bg2 Nf6 4. O-O Be7 5. d3 O-O 6. Nbd2 Nc6 7. c3 Re8 8. Qc2
+e5 9. e4 dxe4 10. dxe4 Bf8 11. Nc4 Bg4 12. Bg5 h6 13. Bxf6 Qxf6 14. Ne3 Be6 15.
+Rad1 Bc5 16. Nd5 Bxd5 17. Rxd5 Bd6 18. Rfd1 Red8 19. a3 Bf8 20. Qb3 b6 21. c4
+Bc5 22. Qd3 Rxd5 23. cxd5 Nd4 24. Nxd4 Bxd4 25. Qc2 Qd6 26. Bf1 Qc5 27. Qxc5
+Bxc5 28. Bb5 Rd8 29. Kg2 a5 30. f4 f6 31. a4 Kh7 32. Be2 Re8 33. f5 Rd8 34. Bh5
+Rd7 35. Bg6+ Kg8 36. Bh5 Kh7 37. Bf3 Rd8 38. Rd3 Rd7 39. g4 Bd4 40. b3 Bc5 41.
+Rd2 Bb4 42. Rc2 Bc5 43. Kf1 Kg8 44. Ke2 Kf7 45. Kd3 Ke8 46. Kc4 Kd8 47. Kb5 Kc8
+48. Be2 Kb7 49. Bf3 1/2-1/2
+
+[Event "CN Jovens 2019 - U12"]
+[Site "Portimão POR"]
+[Date "2019.04.15"]
+[Round "4.3"]
+[White "Torres, Francisco Medeiros"]
+[Black "Korotkyi, Daniyil"]
+[Result "1/2-1/2"]
+[ECO "B30"]
+[WhiteElo "1235"]
+[BlackElo "1530"]
+[WhiteFideId "1947648"]
+[BlackFideId "1946722"]
+[PlyCount "64"]
+[EventDate "2019.??.??"]
+
+1. e4 c5 2. Nf3 Nc6 3. c3 e5 4. Bc4 Be7 5. d3 Qb6 6. Qb3 Qxb3 7. Bxb3 Nf6 8.
+Nbd2 O-O 9. O-O d6 10. h3 h6 11. Re1 Rb8 12. Nf1 b5 13. Ng3 Na5 14. Be3 Nxb3 15.
+axb3 a6 16. d4 exd4 17. cxd4 cxd4 18. Nxd4 Bb7 19. Bd2 Bd8 20. Bb4 Bb6 21. Ndf5
+Bc5 22. Bxc5 dxc5 23. Rac1 Nd7 24. Red1 Rfd8 25. Nd6 Bc6 26. f3 g6 27. f4 Kf8
+28. e5 h5 29. h4 Ke7 30. Nde4 Bxe4 31. Nxe4 Rdc8 32. Kf2 b4 1/2-1/2
+
+[Event "CN Jovens 2019 - U12"]
+[Site "Portimão POR"]
+[Date "2019.04.15"]
+[Round "4.4"]
+[White "Paiva, Rodrigo"]
+[Black "Nunes, João Augusto"]
+[Result "0-1"]
+[ECO "A40"]
+[WhiteElo "1360"]
+[BlackElo "1098"]
+[WhiteFideId "1952340"]
+[BlackFideId "1959271"]
+[PlyCount "109"]
+[EventDate "2019.??.??"]
+
+1. d4 e6 2. c4 d5 3. Nc3 c6 4. Nf3 Nf6 5. Bg5 Nbd7 6. cxd5 cxd5 7. e3 Qa5 8.
+Bxf6 Nxf6 9. Qc2 Bb4 10. a3 Bd6 11. b4 Bxb4 12. Rc1 Qxa3 13. Bd3 Bxc3+ 14. Qxc3
+Qxc3+ 15. Rxc3 O-O 16. Ke2 Bd7 17. Rb1 Bc6 18. Ne5 Rfc8 19. f3 g6 20. Kd2 Rc7
+21. Ba6 Rac8 22. Rxc6 Rxc6 23. Nxc6 Rxc6 24. Bxb7 Rb6 25. Rxb6 axb6 26. e4 dxe4
+27. fxe4 Kf8 28. Kd3 Ke7 29. e5 Nd5 30. Kc4 Nc7 31. Bc8 f6 32. Bb7 f5 33. h3 h5
+34. h4 Kf7 35. Bc6 Ke7 36. Kb4 Kf8 37. Kc4 Kg7 38. Bb7 g5 39. hxg5 Kg6 40. d5
+exd5+ 41. Bxd5 Kxg5 42. Kd4 b5 43. Kc5 Nxd5 44. Kxd5 b4 45. Kc4 f4 46. e6 Kf6
+47. e7 Kxe7 48. Kxb4 f3 49. gxf3 h4 50. Kc4 h3 51. Kd4 h2 52. Ke5 h1=Q 53. f4
+Qh5+ 54. Ke4 Ke6 55. Ke3 0-1
+
+[Event "CN Jovens 2019 - U12"]
+[Site "Portimão POR"]
+[Date "2019.04.16"]
+[Round "5.1"]
+[White "Guia, Artur"]
+[Black "Silva, Daniel"]
+[Result "0-1"]
+[ECO "A00"]
+[WhiteElo "1782"]
+[BlackElo "1642"]
+[WhiteFideId "1946781"]
+[BlackFideId "1951378"]
+[PlyCount "66"]
+[EventDate "2019.??.??"]
+
+1. b3 Nf6 2. Bb2 d5 3. e3 Bf5 4. Nc3 e6 5. h3 h6 6. Nf3 c6 7. Bd3 Bxd3 8. cxd3
+Bd6 9. Qe2 O-O 10. O-O Nbd7 11. Rac1 Qe7 12. d4 Nh7 13. Nb1 a5 14. a4 f5 15. Ne5
+Nxe5 16. dxe5 Bb4 17. f4 Rfd8 18. d4 Nf8 19. Bc3 Nd7 20. Bxb4 Qxb4 21. Qc2 Rac8
+22. Qc3 c5 23. Rc2 cxd4 24. Qxc8 Rxc8 25. Rxc8+ Kh7 26. exd4 Qxd4+ 27. Kh1 Nc5
+28. Nd2 Nd3 29. Nf3 Qxf4 30. Re8 Nc5 31. Rb1 Qg3 32. Re7 Nd3 33. Rxe6 Nf4 0-1
+
+[Event "CN Jovens 2019 - U12"]
+[Site "Portimão POR"]
+[Date "2019.04.16"]
+[Round "5.2"]
+[White "Almeida, Pedro Bastos"]
+[Black "Torres, Francisco Medeiros"]
+[Result "1-0"]
+[ECO "D02"]
+[WhiteElo "1288"]
+[BlackElo "1235"]
+[WhiteFideId "1952439"]
+[BlackFideId "1947648"]
+[PlyCount "117"]
+[EventDate "2019.??.??"]
+
+1. d4 d5 2. Nf3 e6 3. Bf4 c6 4. e3 Nd7 5. a3 Ngf6 6. c4 Be7 7. Be2 O-O 8. O-O b6
+9. Ne5 Bb7 10. Nd2 dxc4 11. Ndxc4 c5 12. Nxd7 Qxd7 13. Ne5 Qd8 14. Bf3 Bxf3 15.
+Nxf3 cxd4 16. Nxd4 Bc5 17. Nb5 Qxd1 18. Rfxd1 a6 19. Nc3 Rfd8 20. b4 Be7 21.
+Rxd8+ Bxd8 22. Rd1 b5 23. h3 Be7 24. Bd6 Bd8 25. Bc5 Bc7 26. f3 Rd8 27. Rxd8+
+Bxd8 28. e4 Nd7 29. Bd6 Bb6+ 30. Kf1 f6 31. Ke2 e5 32. Kd3 Kf7 33. Nd5 Ke6 34.
+Bc7 Ba7 35. Ba5 f5 36. Nc7+ Kf6 37. Nxa6 f4 38. Nc7 Bb6 39. Bxb6 Nxb6 40. Nxb5
+Kg5 41. Ke2 Kh4 42. Kf2 g5 43. Nc3 h5 44. a4 g4 45. hxg4 hxg4 46. a5 Na8 47. b5
+g3+ 48. Ke2 Kg5 49. b6 Kf6 50. b7 Nc7 51. b8=Q Ne6 52. Qd6 Kf7 53. Qxe5 Ke7 54.
+Nd5+ Kd7 55. Nxf4 Nc7 56. a6 Kc8 57. Nd5 Nxd5 58. Qxd5 Kb8 59. Qb7# 1-0
+
+[Event "CN Jovens 2019 - U12"]
+[Site "Portimão POR"]
+[Date "2019.04.16"]
+[Round "5.3"]
+[White "Nunes, João Augusto"]
+[Black "Gonçalves, Lucas"]
+[Result "0-1"]
+[ECO "C52"]
+[WhiteElo "1098"]
+[BlackElo "1529"]
+[WhiteFideId "1959271"]
+[BlackFideId "1945360"]
+[PlyCount "92"]
+[EventDate "2019.??.??"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. b4 Bxb4 5. c3 Ba5 6. d4 exd4 7. O-O Nge7 8.
+Qb3 O-O 9. Ng5 Ne5 10. cxd4 Nxc4 11. Qxc4 c6 12. Qb3 d5 13. e5 Ng6 14. Qg3 Bf5
+15. f4 Qb6 16. Be3 Qb2 17. Na3 Qxa3 18. h4 Nxh4 19. Qxh4 Qxe3+ 20. Kh1 h6 21.
+Nf3 Bd2 22. g4 Be4 23. Qh3 Qxf4 24. Kg2 Bc3 25. Rad1 Bxd4 26. Rxd4 Bxf3+ 27.
+Qxf3 Qxd4 28. Qg3 Rae8 29. g5 Qxe5 30. gxh6 Qxg3+ 31. Kxg3 gxh6 32. Rg1 Kh7 33.
+Kh2 Re2+ 34. Kh1 Rfe8 35. a4 R8e4 36. Rg2 Rxg2 37. Kxg2 c5 38. a5 a6 39. Kf3 c4
+40. Kf2 c3 41. Kg2 c2 42. Kf2 c1=Q 43. Kg2 Qf4 44. Kh3 Qg4+ 45. Kh2 Re2+ 46. Kh1
+Qg2# 0-1
+
+[Event "CN Jovens 2019 - U12"]
+[Site "Portimão POR"]
+[Date "2019.04.16"]
+[Round "5.4"]
+[White "Korotkyi, Daniyil"]
+[Black "Canelas, Miguel"]
+[Result "1-0"]
+[ECO "B20"]
+[WhiteElo "1530"]
+[BlackElo "1169"]
+[WhiteFideId "1946722"]
+[BlackFideId "1941968"]
+[PlyCount "47"]
+[EventDate "2019.??.??"]
+
+1. e4 c5 2. c4 Nc6 3. Nc3 g6 4. d3 Bg7 5. Bd2 Nf6 6. Nf3 d6 7. h3 O-O 8. Be2 Bd7
+9. O-O Rb8 10. a3 Nd4 11. Nxd4 cxd4 12. Nd5 Nxd5 13. exd5 b5 14. b3 bxc4 15.
+bxc4 Rb7 16. Qc2 Qc7 17. Rab1 Rfb8 18. Rb4 a5 19. Rxb7 Rxb7 20. Rb1 Rxb1+ 21.
+Qxb1 Qc5 22. Qb8+ Bf8 23. Qd8 Qa7 24. Bh6 1-0
+
+[Event "CN Jovens 2019 - U12"]
+[Site "Portimão POR"]
+[Date "2019.04.16"]
+[Round "6.1"]
+[White "Silva, Daniel"]
+[Black "Korotkyi, Daniyil"]
+[Result "1/2-1/2"]
+[ECO "A04"]
+[WhiteElo "1642"]
+[BlackElo "1530"]
+[WhiteFideId "1951378"]
+[BlackFideId "1946722"]
+[PlyCount "25"]
+[EventDate "2019.??.??"]
+
+1. Nf3 g6 2. g3 Bg7 3. Bg2 e5 4. d3 Ne7 5. O-O O-O 6. e4 h6 7. Nc3 c6 8. Be3 d6
+9. Ne1 f5 10. f4 Na6 11. Qd2 Kh7 12. Nf3 b6 13. Rae1 1/2-1/2
+
+[Event "CN Jovens 2019 - U12"]
+[Site "Portimão POR"]
+[Date "2019.04.16"]
+[Round "6.2"]
+[White "Guia, Artur"]
+[Black "Almeida, Pedro Bastos"]
+[Result "1-0"]
+[ECO "D02"]
+[WhiteElo "1782"]
+[BlackElo "1288"]
+[WhiteFideId "1946781"]
+[BlackFideId "1952439"]
+[PlyCount "112"]
+[EventDate "2019.??.??"]
+
+1. d4 d5 2. Nf3 g6 3. Bf4 Bg7 4. e3 Nf6 5. Nbd2 O-O 6. Be2 Bf5 7. Ne5 Bd7 8. c4
+Nc6 9. O-O Nxe5 10. dxe5 Ne4 11. cxd5 Nxd2 12. Qxd2 c6 13. Rfd1 cxd5 14. Qxd5
+Bc6 15. Qxd8 Rfxd8 16. Bf3 Bxf3 17. gxf3 Rac8 18. Rac1 Rxc1 19. Rxc1 e6 20. Rc7
+Rb8 21. Kf1 g5 22. Bxg5 Bxe5 23. Rc2 b6 24. f4 Bg7 25. b3 h6 26. Bh4 Rb7 27. Ke2
+Rd7 28. f3 Kh7 29. a4 Bf8 30. Be1 a5 31. Rc6 Bc5 32. Bxa5 Bxe3 33. Kxe3 bxa5 34.
+Rc5 Ra7 35. Kd4 Kg6 36. Kc4 f5 37. Rc6 Kf6 38. Kb5 Rb7+ 39. Rb6 Ra7 40. b4 axb4
+41. Kxb4 h5 42. a5 h4 43. a6 h3 44. Kc3 Ra8 45. Kd3 Rd8+ 46. Ke3 Ke7 47. a7 Ra8
+48. Ra6 Kd7 49. Kf2 Kc7 50. Kg3 Kb7 51. Ra2 Rxa7 52. Rxa7+ Kxa7 53. Kxh3 Kb7 54.
+Kh4 Kc7 55. Kg5 Kd7 56. Kf6 Kd6 1-0
+
+[Event "CN Jovens 2019 - U12"]
+[Site "Portimão POR"]
+[Date "2019.04.16"]
+[Round "6.3"]
+[White "Gonçalves, Lucas"]
+[Black "Sousa, Gil O T"]
+[Result "0-1"]
+[ECO "C01"]
+[WhiteElo "1529"]
+[BlackElo "1426"]
+[WhiteFideId "1945360"]
+[BlackFideId "1948709"]
+[PlyCount "70"]
+[EventDate "2019.??.??"]
+
+1. e4 e6 2. d4 d5 3. exd5 exd5 4. Nf3 Nf6 5. Bd3 Bd6 6. Bg5 Be6 7. O-O Nc6 8.
+Re1 h6 9. Bh4 g5 10. Bg3 Bxg3 11. fxg3 Qd6 12. c3 O-O-O 13. Nbd2 Rdg8 14. Qc2 h5
+15. Bf5 h4 16. Bxe6+ fxe6 17. Ne5 Nxe5 18. Rxe5 Ng4 19. Re2 hxg3 20. h3 Nf2 21.
+Rxf2 gxf2+ 22. Kxf2 g4 23. hxg4 Rxg4 24. Rg1 Rf8+ 25. Nf3 Qg3+ 26. Ke2 Rxf3 27.
+gxf3 Qh2+ 28. Ke3 Qxg1+ 29. Qf2 Qxf2+ 30. Kxf2 Rg7 31. Kf1 Kd7 32. Kf2 Kd6 33.
+Kf1 e5 34. dxe5+ Kxe5 35. Kf2 Kf4 0-1
+
+[Event "CN Jovens 2019 - U12"]
+[Site "Portimão POR"]
+[Date "2019.04.16"]
+[Round "6.4"]
+[White "Marques, David Santos"]
+[Black "Sousa, David O T"]
+[Result "0-1"]
+[ECO "B71"]
+[WhiteElo "1158"]
+[BlackElo "1524"]
+[WhiteFideId "1960334"]
+[BlackFideId "1948695"]
+[PlyCount "48"]
+[EventDate "2019.??.??"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. f4 Nbd7 7. Bb5 Bg7 8. e5
+dxe5 9. fxe5 Ng8 10. e6 fxe6 11. Nxe6 Bxc3+ 12. bxc3 Qb6 13. Qg4 Ngf6 14. Qc4
+Rb8 15. Bf4 a6 16. Nc7+ Kd8 17. Ne6+ Ke8 18. Bxd7+ Bxd7 19. Bxb8 Bxe6 20. Bc7
+Qe3+ 21. Qe2 Qxc3+ 22. Kf2 Ng4+ 23. Kg1 Qxa1+ 24. Qf1 Qd4+ 0-1
+
+[Event "CN Jovens 2019 - U12"]
+[Site "Portimão POR"]
+[Date "2019.04.17"]
+[Round "7.1"]
+[White "Sousa, Gil O T"]
+[Black "Guia, Artur"]
+[Result "1/2-1/2"]
+[ECO "B35"]
+[WhiteElo "1426"]
+[BlackElo "1782"]
+[WhiteFideId "1948709"]
+[BlackFideId "1946781"]
+[PlyCount "41"]
+[EventDate "2019.??.??"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 g6 5. Nc3 Bg7 6. Be3 Nf6 7. Bc4 Qa5 8. f3
+Qb4 9. Nxc6 bxc6 10. Bb3 d6 11. Qd2 a5 12. a3 Qb7 13. O-O O-O 14. Kh1 Bd7 15.
+Bh6 Qc8 16. Bxg7 Kxg7 17. Ne2 Be6 18. Nd4 Bxb3 19. Nxb3 a4 20. Nd4 Qa6 21. Qg5
+1/2-1/2
+
+[Event "CN Jovens 2019 - U12"]
+[Site "Portimão POR"]
+[Date "2019.04.17"]
+[Round "7.2"]
+[White "Sousa, David O T"]
+[Black "Silva, Daniel"]
+[Result "1/2-1/2"]
+[ECO "B00"]
+[WhiteElo "1524"]
+[BlackElo "1642"]
+[WhiteFideId "1948695"]
+[BlackFideId "1951378"]
+[PlyCount "32"]
+[EventDate "2019.??.??"]
+
+1. e4 d6 2. d4 Nf6 3. Bd3 g6 4. h3 Bg7 5. Nf3 O-O 6. Be3 Nc6 7. c3 e5 8. d5 Ne7
+9. g4 Nd7 10. Rg1 Nc5 11. b4 Nxd3+ 12. Qxd3 c6 13. c4 a5 14. b5 cxd5 15. cxd5
+Kh8 16. Qd2 Ng8 1/2-1/2
+
+[Event "CN Jovens 2019 - U12"]
+[Site "Portimão POR"]
+[Date "2019.04.17"]
+[Round "7.3"]
+[White "Korotkyi, Daniyil"]
+[Black "Sismeiro, Sofia"]
+[Result "1-0"]
+[ECO "B01"]
+[WhiteElo "1530"]
+[BlackElo "1015"]
+[WhiteFideId "1946722"]
+[BlackFideId "1952587"]
+[PlyCount "87"]
+[EventDate "2019.??.??"]
+
+1. e4 d5 2. exd5 Nf6 3. d4 Bg4 4. Be2 Bxe2 5. Nxe2 Nxd5 6. c4 Nb6 7. O-O e6 8.
+Nbc3 Be7 9. b3 O-O 10. Bb2 N8d7 11. Qc2 Nf6 12. Rad1 c6 13. Rfe1 Qc7 14. h3 Rad8
+15. Ne4 Nbd7 16. f3 h6 17. Kh1 Nxe4 18. fxe4 Nf6 19. e5 Nh5 20. g4 f6 21. gxh5
+fxe5 22. dxe5 Qb6 23. Rxd8 Bxd8 24. Bd4 c5 25. Be3 Qc6+ 26. Kg1 Qf3 27. Nf4 Bh4
+28. Re2 g5 29. hxg6 Qg3+ 30. Ng2 Qf3 31. Nxh4 Qf1+ 32. Kh2 Qa1 33. Rf2 Qxe5+ 34.
+Kg1 Qxe3 35. Qe2 Qg5+ 36. Ng2 Rd8 37. Qxe6+ Kh8 38. Qf6+ Qxf6 39. Rxf6 Kg7 40.
+Rf7+ Kxg6 41. Rxb7 Kf5 42. Rxa7 Ke4 43. Re7+ Kf3 44. Re3# 1-0
+
+[Event "CN Jovens 2019 - U12"]
+[Site "Portimão POR"]
+[Date "2019.04.17"]
+[Round "7.4"]
+[White "Almeida, Pedro Bastos"]
+[Black "Sarabando, Rodrigo"]
+[Result "0-1"]
+[ECO "E97"]
+[WhiteElo "1288"]
+[BlackElo "1447"]
+[WhiteFideId "1952439"]
+[BlackFideId "1950010"]
+[PlyCount "130"]
+[EventDate "2019.??.??"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 e5 7. O-O Nc6 8. d5 Ne7
+9. Nd2 a5 10. f4 Nd7 11. Nf3 f5 12. fxe5 Nxe5 13. Nxe5 Bxe5 14. Qc2 fxe4 15.
+Rxf8+ Qxf8 16. Qxe4 Nf5 17. Be3 Nxe3 18. Qxe3 Qg7 19. Kh1 Bxc3 20. bxc3 Bd7 21.
+Qd4 Re8 22. Bf3 Bf5 23. Qd2 Qe5 24. a4 Bc2 25. h3 Bf5 26. Qd4 b6 27. Qd2 Qe3 28.
+Qxe3 Rxe3 29. Rc1 Bxh3 30. gxh3 Rxf3 31. Kg2 Rf4 32. c5 dxc5 33. c4 Kf7 34. Kg3
+g5 35. Rc3 Rf1 36. Rf3+ Rxf3+ 37. Kxf3 h5 38. Ke3 Kf6 39. Ke4 g4 40. h4 g3 41.
+Kf3 Kf5 42. Kxg3 Ke4 43. Kh3 Kf3 44. Kh2 Kg4 45. Kg2 Kxh4 46. Kh2 Kg4 47. Kg2
+Kf4 48. Kh3 Ke4 49. Kh4 Kd4 50. Kxh5 Kxc4 51. Kg4 Kxd5 52. Kf3 Kc4 53. Ke3 Kb3
+54. Ke4 c4 55. Kd5 c3 56. Kc6 c2 57. Kxc7 c1=Q+ 58. Kb7 Kxa4 59. Kxb6 Qg5 60.
+Ka6 Qb5+ 61. Ka7 Qc6 62. Kb8 Qd7 63. Ka8 Kb5 64. Kb8 Kb6 65. Ka8 Qe8# 0-1
+

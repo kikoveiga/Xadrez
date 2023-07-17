@@ -1,0 +1,1236 @@
+[Event "Taça de Portugal 2018-19"]
+[Site "Porto POR"]
+[Date "2019.05.04"]
+[Round "3.1.1"]
+[White "Dias, Ricardo"]
+[Black "Guimarães, Rui"]
+[Result "1-0"]
+[ECO "B75"]
+[WhiteElo "2128"]
+[BlackElo "2145"]
+[WhiteFideId "1930060"]
+[BlackFideId "1901486"]
+[WhiteTeam "CA Téssera Xadrez"]
+[BlackTeam "GX 113"]
+[PlyCount "109"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 Nc6 8. Bc4
+Bd7 9. Qd2 Rc8 10. Bb3 O-O 11. O-O-O Nxd4 12. Bxd4 b5 13. e5 dxe5 14. Bxe5 Bc6
+15. Nd5 Bxd5 16. Bxd5 Qb6 17. Qe2 a5 18. Kb1 e6 19. Be4 b4 20. h4 Rfd8 21. Rxd8+
+Rxd8 22. g4 Qc5 23. Bd3 Rd5 24. Re1 a4 25. h5 Nxh5 26. Bxg7 Nxg7 27. Qh2 Rd8 28.
+Qh6 a3 29. Qe3 Rd4 30. Qe5 Qxe5 31. Rxe5 h5 32. gxh5 gxh5 33. Re4 Nf5 34. Rxd4
+Nxd4 35. c3 bxc3 36. bxc3 Nxf3 37. Be2 Ne5 38. Bxh5 f5 39. Kc2 Kg7 40. Kb3 Ng4
+41. Kxa3 e5 42. Kb3 Kf6 43. a4 Ke6 44. Kc4 Kd6 45. a5 Ne3+ 46. Kb5 e4 47. a6 Nd5
+48. a7 f4 49. c4 Nc7+ 50. Kb6 f3 51. Bg4 Na8+ 52. Kb7 Ke5 53. Kxa8 Kf4 54. Bxf3
+Kxf3 55. Kb8 1-0
+
+[Event "Taça de Portugal 2018-19"]
+[Site "Porto POR"]
+[Date "2019.05.04"]
+[Round "3.1.2"]
+[White "Pintor, Ariana"]
+[Black "Silva, Stéphane"]
+[Result "0-1"]
+[ECO "C00"]
+[WhiteElo "1940"]
+[BlackElo "2043"]
+[WhiteFideId "1902806"]
+[BlackFideId "1900846"]
+[WhiteTeam "GX 113"]
+[BlackTeam "CA Téssera Xadrez"]
+[WhiteTitle "WFM"]
+[BlackTitle "NM"]
+[PlyCount "144"]
+
+1. e4 e6 2. Qe2 c5 3. g3 Nc6 4. c3 d5 5. d3 Nf6 6. Bg2 Be7 7. f4 O-O 8. Nf3 b5
+9. e5 Nd7 10. Na3 b4 11. Nc2 bxc3 12. bxc3 Rb8 13. O-O Ba6 14. g4 Qc7 15. Rd1
+Rfe8 16. Qf2 f6 17. d4 cxd4 18. cxd4 fxe5 19. fxe5 Rbc8 20. Nce1 Rf8 21. Qg3 Qa5
+22. Bd2 Qa4 23. Be3 Rb8 24. g5 Rfc8 25. g6 hxg6 26. Qxg6 Nf8 27. Qg3 Kf7 28.
+Ng5+ Ke8 29. Bh3 Nd8 30. Rd2 Qa3 31. Rf2 Rc3 32. Ng2 Rb2 33. Rxb2 Qxb2 34. Qe1
+Rxe3 35. Nxe3 Bxg5 36. Rd1 Qxa2 37. Nf1 Qe2 38. Qxe2 Bxe2 39. Ra1 a6 40. Kf2 Bb5
+41. Ng3 Nc6 42. Rd1 Bd8 43. Nh5 g6 44. Nf4 Kf7 45. Ke3 Bb6 46. Rd2 Nxe5 47. Rf2
+Nc4+ 48. Kd3 Nd6+ 49. Ke3 Ne4 50. Rc2 g5 51. Nd3 Nd7 52. Bg2 Nd6 53. Nc5 Nf5+
+54. Kd2 Nxd4 55. Nxd7 Ba5+ 56. Kc1 Nxc2 57. Ne5+ Kf6 58. Ng4+ Kf5 59. Bh3 Nd4
+60. Ne3+ Ke5 61. Ng4+ Kd6 62. Ne3 Nf3 63. Ng4 e5 64. Bg2 e4 65. h3 Nh4 66. Bh1
+Ke6 67. Ne3 Ke5 68. Kd1 d4 69. Ng4+ Kf4 70. Nf6 e3 71. Nh5+ Ke5 72. Ng3 d3 0-1
+
+[Event "Taça de Portugal 2018-19"]
+[Site "Porto POR"]
+[Date "2019.05.04"]
+[Round "3.1.3"]
+[White "Carvalho, Vítor"]
+[Black "Mano, Nuno"]
+[Result "1-0"]
+[ECO "B52"]
+[WhiteElo "1866"]
+[BlackElo "1635"]
+[WhiteFideId "1908766"]
+[BlackFideId "1942034"]
+[WhiteTeam "CA Téssera Xadrez"]
+[BlackTeam "GX 113"]
+[PlyCount "111"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Bd7 4. Bxd7+ Qxd7 5. c4 Nf6 6. Nc3 Nc6 7. O-O g6 8.
+d4 cxd4 9. Nxd4 Bg7 10. Nde2 O-O 11. f3 Rfd8 12. b3 a6 13. Bb2 Rab8 14. a4 Nh5
+15. Kh1 e6 16. Qd2 Na5 17. Qc2 Qe7 18. Ba3 Qc7 19. Rac1 Bh6 20. f4 Rbc8 21. g4
+Nxf4 22. Nxf4 d5 23. Nfxd5 exd5 24. Nxd5 Rxd5 25. exd5 Bxc1 26. Rxc1 Qf4 27. Qd3
+Re8 28. Rf1 Qxg4 29. Qf3 Qe4 30. Qxe4 Rxe4 31. Rf3 f5 32. Bb4 Nxc4 33. bxc4 Rxc4
+34. Rd3 Rc7 35. d6 Rd7 36. a5 Kf7 37. Re3 f4 38. Re4 g5 39. Kg2 h6 40. Kf3 Kf6
+41. Re8 Kf7 42. Rh8 Kg7 43. Bc3+ Kg6 44. Bb4 Kg7 45. Rc8 Kf7 46. Bc5 Ke6 47.
+Re8+ Kf7 48. Re7+ Rxe7 49. dxe7 Ke8 50. Kg4 Kf7 51. Kh5 Ke8 52. Kxh6 g4 53. Kg6
+g3 54. hxg3 fxg3 55. Kf6 g2 56. Ke6 1-0
+
+[Event "Taça de Portugal 2018-19"]
+[Site "Porto POR"]
+[Date "2019.05.04"]
+[Round "3.1.4"]
+[White "Magalhães, Guilherme"]
+[Black "Sá, Cláudio"]
+[Result "0-1"]
+[ECO "A10"]
+[WhiteElo "1198"]
+[BlackElo "1867"]
+[WhiteFideId "1957449"]
+[BlackFideId "1902903"]
+[WhiteTeam "GX 113"]
+[BlackTeam "CA Téssera Xadrez"]
+[PlyCount "85"]
+
+1. c4 f5 2. Nc3 Nf6 3. g3 g6 4. Bg2 Bg7 5. Nf3 O-O 6. O-O d6 7. d4 a5 8. Rb1 Qe8
+9. Bd2 e5 10. dxe5 dxe5 11. Qc1 Na6 12. Bh6 c6 13. Bxg7 Kxg7 14. Re1 Nc5 15. Qc2
+e4 16. Nd4 e3 17. f4 Be6 18. Nd1 Rd8 19. Nf3 Bf7 20. Qc1 Ng4 21. h3 Nf6 22. Nxe3
+Nce4 23. Nf1 Qe7 24. Ne5 Qc5+ 25. Kh2 Rfe8 26. Rd1 h5 27. b3 Rxd1 28. Qxd1 Nc3
+29. Qc2 Nxb1 30. Qxb1 Qf2 31. Qd3 h4 32. Qe3 hxg3+ 33. Kh1 Nh5 34. Qxf2 gxf2 35.
+e3 g5 36. Nd3 Rd8 37. Nxf2 gxf4 38. exf4 Nxf4 39. Bf3 a4 40. Kh2 axb3 41. axb3
+Nd3 42. Kg3 f4+ 43. Kg2 0-1
+
+[Event "Taça de Portugal 2018-19"]
+[Site "Porto POR"]
+[Date "2019.05.04"]
+[Round "3.2.1"]
+[White "Lombaers, Peter"]
+[Black "Veiga, Francisco"]
+[Result "0-1"]
+[ECO "A20"]
+[WhiteElo "2372"]
+[BlackElo "2312"]
+[WhiteFideId "1032852"]
+[BlackFideId "1930087"]
+[WhiteTeam "GX Porto 'A'"]
+[BlackTeam "EX Porto 'A'"]
+[WhiteTitle "FM"]
+[BlackTitle "FM"]
+[PlyCount "76"]
+
+1. c4 e5 2. g3 d6 3. Nc3 Nc6 4. Bg2 Be6 5. d3 Qd7 6. Rb1 h5 7. h4 Nge7 8. b4 d5
+9. b5 Nd8 10. cxd5 Nxd5 11. Nxd5 Bxd5 12. Nf3 f6 13. a4 a6 14. O-O axb5 15. axb5
+Bc5 16. Bb2 Ba2 17. Rc1 Qxb5 18. Qc2 Ne6 19. d4 exd4 20. Qg6+ Kf8 21. Bxd4 Bxd4
+22. Nxd4 Nxd4 23. Rxc7 Nf5 24. Ra1 Ne7 25. Qc2 Qe5 26. Qc1 Kf7 27. Bxb7 Ra5 28.
+f4 Qxe2 29. Rc2 Qe6 30. Qd2 Bb3 31. Rxa5 Bxc2 32. Qxc2 Qe1+ 33. Kh2 Qxa5 34.
+Qc4+ Kg6 35. Qe4+ Nf5 36. Bc6 Rd8 37. Kh3 Kh6 38. g4 Qc3+ 0-1
+
+[Event "Taça de Portugal 2018-19"]
+[Site "Porto POR"]
+[Date "2019.05.04"]
+[Round "3.2.2"]
+[White "Sismeiro, Miguel"]
+[Black "Silva, António"]
+[Result "1/2-1/2"]
+[ECO "B00"]
+[WhiteElo "1986"]
+[BlackElo "2134"]
+[WhiteFideId "1950975"]
+[BlackFideId "1900293"]
+[WhiteTeam "EX Porto 'A'"]
+[BlackTeam "GX Porto 'A'"]
+[BlackTitle "NM"]
+[PlyCount "135"]
+
+1. e4 Nc6 2. d4 d5 3. e5 Bf5 4. c3 e6 5. Nf3 f6 6. exf6 Nxf6 7. Bd3 Bd6 8. Bxf5
+exf5 9. O-O O-O 10. Bg5 Qd7 11. Bxf6 Rxf6 12. Nbd2 Re8 13. Re1 Rxe1+ 14. Qxe1
+Re6 15. Qf1 Nd8 16. Qd3 Nf7 17. Re1 c6 18. Rxe6 Qxe6 19. Kf1 Kf8 20. Qe2 Ke7 21.
+g3 Qxe2+ 22. Kxe2 Ke6 23. Nb3 b6 24. Nc1 g5 25. Nd3 h6 26. Nd2 g4 27. f4 c5 28.
+dxc5 bxc5 29. c4 Nd8 30. Ne1 Nc6 31. Nc2 h5 32. Kd3 h4 33. Nf1 h3 34. cxd5+ Kxd5
+35. Nfe3+ Ke6 36. Nf1 Kd5 37. Nce3+ Ke6 38. Nxf5 Kxf5 39. Ne3+ Ke6 40. Nxg4 Nb4+
+41. Kc4 Nxa2 42. Nf2 Nc1 43. Nxh3 Ne2 44. Kd3 Nd4 45. Ke4 a5 46. Ng5+ Kd7 47.
+Kd5 Nc6 48. Ne4 Ne7+ 49. Kc4 Kc6 50. Nxd6 Kxd6 51. Kb5 Nd5 52. Kxa5 Ne3 53. h4
+Kd5 54. h5 Ng4 55. Kb5 c4 56. Kb4 Kd4 57. Kb5 Kd5 58. Kb4 Kd4 59. f5 Kd5 60. Kc3
+Kc5 61. f6 Nxf6 62. h6 Nh7 63. b3 cxb3 64. Kxb3 Kd4 65. Kb4 Ke4 66. Kc4 Kf5 67.
+Kd5 Kg6 68. Ke4 1/2-1/2
+
+[Event "Taça de Portugal 2018-19"]
+[Site "Porto POR"]
+[Date "2019.05.04"]
+[Round "3.2.3"]
+[White "Rodrigues, José A A"]
+[Black "Marques, Ricardo T T"]
+[Result "1-0"]
+[ECO "E20"]
+[WhiteElo "2108"]
+[BlackElo "1913"]
+[WhiteFideId "1901834"]
+[BlackFideId "1949438"]
+[WhiteTeam "GX Porto 'A'"]
+[BlackTeam "EX Porto 'A'"]
+[PlyCount "68"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. f3 d5 5. a3 Bxc3+ 6. bxc3 c5 7. e3 O-O 8. Bd3
+Nc6 9. cxd5 exd5 10. Ne2 c4 11. Bb1 Re8 12. O-O b5 13. Ng3 Na5 14. Bc2 Bb7 15.
+Re1 Nd7 16. e4 Nb6 17. e5 Bc8 18. f4 Na4 19. Bxa4 bxa4 20. Ra2 Nb3 21. f5 Kh8
+22. Be3 Rg8 23. Rf2 Qa5 24. Qc2 Bd7 25. Rf4 Qd8 26. Qe2 g6 27. fxg6 fxg6 28. Rf6
+Qe8 29. Bh6 Be6 30. Qe3 Qd7 31. Ne2 Rge8 32. Ref1 Qe7 33. Nf4 Bg8 34. Rxg6 Bf7
+1-0
+
+[Event "Taça de Portugal 2018-19"]
+[Site "Porto POR"]
+[Date "2019.05.04"]
+[Round "3.2.4"]
+[White "Borges, Guilherme Deola"]
+[Black "Ferreira, Paulo"]
+[Result "0-1"]
+[ECO "A53"]
+[WhiteElo "2171"]
+[BlackElo "2050"]
+[WhiteFideId "2109085"]
+[BlackFideId "1900820"]
+[WhiteTeam "EX Porto 'A'"]
+[BlackTeam "GX Porto 'A'"]
+[BlackTitle "NM"]
+[PlyCount "84"]
+
+1. d4 Nf6 2. c4 d6 3. Nc3 Nbd7 4. e4 e5 5. d5 Be7 6. Bd3 Nc5 7. Bc2 a5 8. Nge2
+O-O 9. O-O Bd7 10. a4 Ne8 11. f4 exf4 12. Bxf4 g6 13. Qd2 Ng7 14. Nd4 Bf6 15.
+Rae1 Nh5 16. e5 dxe5 17. Bxe5 Bg5 18. Qf2 f6 19. Bg3 Nxg3 20. hxg3 f5 21. Ne6
+Nxe6 22. dxe6 Bc6 23. Rd1 Qe7 24. Rfe1 f4 25. Rd4 fxg3 26. Qxg3 Qc5 27. Qe5 Qxe5
+28. Rxe5 Bf6 29. Rde4 Bxe4 30. Rxe4 c6 31. Bb3 Be7 32. Re2 Rad8 33. Ne4 Kg7 34.
+c5 Rf5 35. Nd6 Rxc5 36. Nxb7 Rc1+ 37. Kh2 Rb8 38. Nxa5 Rc5 39. Nxc6 Rxc6 40. Bd5
+Rc5 41. Bf3 Rb4 42. Rf2 Rh4+ 0-1
+
+[Event "Taça de Portugal 2018-19"]
+[Site "Porto POR"]
+[Date "2019.05.04"]
+[Round "3.3.1"]
+[White "Gonzalez Perez, Arian"]
+[Black "Dias, Ivo"]
+[Result "1-0"]
+[ECO "B17"]
+[WhiteElo "2467"]
+[BlackElo "2180"]
+[WhiteFideId "3507777"]
+[BlackFideId "1901680"]
+[WhiteTeam "GD Dias Ferreira 'A'"]
+[BlackTeam "CX A2D 'A'"]
+[WhiteTitle "IM"]
+[BlackTitle "CM"]
+[PlyCount "79"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nd7 5. Nf3 Ngf6 6. Ng3 e6 7. Be2 c5 8. O-O
+Be7 9. b3 O-O 10. Bb2 b6 11. c4 Bb7 12. Re1 Re8 13. Qc2 Qc7 14. Rad1 Rad8 15. a3
+Bf8 16. dxc5 Nxc5 17. Bxf6 gxf6 18. b4 Nd7 19. Nh5 Bg7 20. Nd4 a6 21. Bd3 Nf8
+22. Nxg7 Kxg7 23. Be4 Ng6 24. Bxb7 Qxb7 25. Re3 Qc7 26. Qe2 Kg8 27. Rc3 Qe5 28.
+Re3 Qc7 29. Rd2 Qf4 30. g3 Qg5 31. Kh1 f5 32. f4 Qf6 33. Nc6 Qa1+ 34. Kg2 Rc8
+35. Nd4 Red8 36. Rd1 Qxd4 37. Rxd4 Rxd4 38. Rxe6 Rcxc4 39. Rxb6 Re4 40. Qb2 1-0
+
+[Event "Taça de Portugal 2018-19"]
+[Site "Porto POR"]
+[Date "2019.05.04"]
+[Round "3.3.2"]
+[White "Romano, João"]
+[Black "Srinath, Rao S. V."]
+[Result "1/2-1/2"]
+[ECO "A45"]
+[WhiteElo "2055"]
+[BlackElo "2433"]
+[WhiteFideId "1938541"]
+[BlackFideId "5028876"]
+[WhiteTeam "CX A2D 'A'"]
+[BlackTeam "GD Dias Ferreira 'A'"]
+[BlackTitle "FM"]
+[PlyCount "95"]
+
+1. d4 Nf6 2. g3 g6 3. Bg2 c6 4. e4 d6 5. Ne2 Bg7 6. a4 a5 7. Nbc3 Nbd7 8. h3 Qc7
+9. O-O O-O 10. Be3 e5 11. Qd2 exd4 12. Bxd4 Ne5 13. Rad1 c5 14. Bxe5 dxe5 15.
+Nb5 Qe7 16. Nec3 Bd7 17. Qd6 Qxd6 18. Nxd6 Bc6 19. Nc4 Ne8 20. Nd5 Bf6 21. Ndb6
+Ra6 22. Nd7 Bxa4 23. Nxf8 Kxf8 24. Na3 Bc6 25. Rfe1 b5 26. Bf1 Rb6 27. Nb1 Nc7
+28. Nc3 Ne6 29. Nd5 Bxd5 30. Rxd5 Nd4 31. Kg2 c4 32. c3 Ne6 33. h4 a4 34. Kg1
+Be7 35. Red1 Nc5 36. Rxe5 a3 37. bxa3 Na4 38. Rd7 Bxa3 39. Ra7 Bd6 40. Rxb5 Rxb5
+41. Rxa4 Rc5 42. Bxc4 Be5 43. Bd5 Rxc3 44. Ra7 Rxg3+ 45. fxg3 Bd4+ 46. Kg2 Bxa7
+47. Kf3 f6 48. Bc4 1/2-1/2
+
+[Event "Taça de Portugal 2018-19"]
+[Site "Porto POR"]
+[Date "2019.05.04"]
+[Round "3.3.3"]
+[White "Jimenez Ruano, Adrian"]
+[Black "Novais, Carlos"]
+[Result "1-0"]
+[ECO "A06"]
+[WhiteElo "2248"]
+[BlackElo "2086"]
+[WhiteFideId "22276050"]
+[BlackFideId "1904450"]
+[WhiteTeam "GD Dias Ferreira 'A'"]
+[BlackTeam "CX A2D 'A'"]
+[PlyCount "151"]
+
+1. Nf3 d5 2. b3 Nf6 3. Bb2 e6 4. e3 Be7 5. c4 O-O 6. Nc3 c5 7. cxd5 exd5 8. d4
+Nc6 9. Be2 a6 10. O-O Re8 11. Rc1 cxd4 12. Nxd4 Ne5 13. Nf3 Ng6 14. Na4 Ne4 15.
+Bd4 Ba3 16. Bb2 Bf8 17. Qd4 Be6 18. Rfd1 Qe7 19. Nc3 Nf6 20. Ne5 Rad8 21. Bf3
+Qd6 22. Nxg6 fxg6 23. Na4 Bf7 24. Nc5 Re7 25. e4 dxe4 26. Qxd6 Rxd6 27. Rxd6
+exf3 28. Rd8 Be8 29. Bxf6 gxf6 30. gxf3 Kf7 31. Ne4 Bc6 32. Kg2 Bh6 33. Rc2 Re5
+34. Rc8 Bf4 35. Rc7+ Kf8 36. Rxh7 Rf5 37. Rh8+ Kg7 38. Rc8 Bd5 39. R2c3 Be5 40.
+Rd3 Bc6 41. Ng3 Rf4 42. Rcd8 Kf7 43. Re3 Bd4 44. Rd3 Be5 45. h3 Ke7 46. Rh8 Kf7
+47. Ne2 Rb4 48. Re3 Kg7 49. Rd8 Kf7 50. Rd1 Rh4 51. Ng1 Rh5 52. a4 Rg5+ 53. Kf1
+Rf5 54. Ke2 Bf4 55. Rc3 Be5 56. Rc4 Bh2 57. f4 Bxf4 58. Rxc6 bxc6 59. Rd7+ Ke6
+60. Ra7 a5 61. Nf3 Rc5 62. Nd4+ Kd5 63. Kd3 Bd6 64. h4 Ke5 65. Rxa5 Rxa5 66.
+Nxc6+ Kf4 67. Nxa5 Kf3 68. Nb7 Bb8 69. a5 Kxf2 70. b4 f5 71. b5 f4 72. b6 f3 73.
+Nc5 Kg1 74. Ne4 Bd6 75. a6 Bc5 76. a7 1-0
+
+[Event "Taça de Portugal 2018-19"]
+[Site "Porto POR"]
+[Date "2019.05.04"]
+[Round "3.3.4"]
+[White "Silva, Mariana"]
+[Black "Andrade, Ricardo Sarmento"]
+[Result "1/2-1/2"]
+[ECO "B32"]
+[WhiteElo "1905"]
+[BlackElo "1720"]
+[WhiteFideId "1911899"]
+[BlackFideId "1942514"]
+[WhiteTeam "CX A2D 'A'"]
+[BlackTeam "GD Dias Ferreira 'A'"]
+[WhiteTitle "WCM"]
+[PlyCount "109"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 e5 5. Nb5 d6 6. N1c3 a6 7. Na3 b5 8. Nd5
+Nge7 9. c4 Nd4 10. Be3 Nxd5 11. exd5 Nf5 12. Bd2 g6 13. cxb5 Bg7 14. bxa6 O-O
+15. Bc4 e4 16. Qc1 e3 17. Bxe3 Nxe3 18. fxe3 Qb6 19. Rb1 Re8 20. O-O Rxe3 21.
+Kh1 Re5 22. Qd2 Bxa6 23. Bxa6 Qxa6 24. Rf3 Rae8 25. Rbf1 Qb7 26. Nc4 Rxd5 27.
+Qf4 Rf5 28. Nxd6 Rxf4 29. Nxb7 Rxf3 30. gxf3 Rb8 31. Nc5 Rxb2 32. a4 Bd4 33. Rc1
+Ra2 34. Rc4 Bxc5 35. Rxc5 Rxa4 36. Kg2 Rf4 37. Kg3 Rf6 38. Ra5 Kg7 39. Rc5 h6
+40. h4 Rf5 41. Rc4 g5 42. Kg4 Ra5 43. hxg5 Rxg5+ 44. Kh4 Rg1 45. Rc6 Rf1 46. Kg3
+f6 47. Kg2 Ra1 48. Rc5 Kg6 49. Kg3 Rg1+ 50. Kh4 Rg5 51. Rc4 Rf5 52. Kg3 h5 53.
+Ra4 Kg5 54. Rb4 Ra5 55. Rc4 1/2-1/2
+
+[Event "Taça de Portugal 2018-19"]
+[Site "Porto POR"]
+[Date "2019.05.04"]
+[Round "3.4.1"]
+[White "Machado, Mário Massena"]
+[Black "Margarido, José"]
+[Result "0-1"]
+[ECO "A45"]
+[WhiteElo "1839"]
+[BlackElo "2105"]
+[WhiteFideId "1933183"]
+[BlackFideId "1914227"]
+[WhiteTeam "GX Porto 'B'"]
+[BlackTeam "Profigaia/Escola Profissional 'A'"]
+[PlyCount "191"]
+
+1. d4 Nf6 2. Bf4 b6 3. Nf3 Bb7 4. Nbd2 c5 5. e3 g6 6. c3 Bg7 7. Bd3 O-O 8. h3 d5
+9. O-O Nc6 10. Re1 Nd7 11. Bg3 Re8 12. Bb5 a6 13. Ba4 Rc8 14. Qe2 b5 15. Bb3 Na5
+16. Rec1 Qb6 17. Bc2 Nc6 18. a3 a5 19. Bd3 b4 20. axb4 axb4 21. c4 e6 22. Nb3
+dxc4 23. Rxc4 cxd4 24. exd4 Ncb8 25. Rxc8 Rxc8 26. Be4 Ba6 27. Bd3 Bb7 28. Be4
+Bf8 29. Ng5 Nf6 30. Bxb7 Qxb7 31. Be5 Nbd7 32. Bf4 Qd5 33. Qd1 Nh5 34. Be3 Bg7
+35. Nf3 Nhf6 36. Nc5 Nxc5 37. dxc5 Qxd1+ 38. Rxd1 Nd5 39. Bd4 Bxd4 40. Nxd4 Rxc5
+41. Rd2 Rc1+ 42. Kh2 Kg7 43. g3 g5 44. Kg2 Kg6 45. Nb3 Rc4 46. Na5 Rc7 47. Nb3
+h5 48. Nd4 Rc1 49. Nb3 Rb1 50. Nd4 Kf6 51. Kf3 Kg6 52. Nc6 Rc1 53. Nd4 Rc4 54.
+Kg2 Rc1 55. Kf3 Re1 56. Nc2 Rh1 57. Kg2 Rb1 58. Nd4 Rc1 59. Kf3 Rc4 60. Kg2 Rc8
+61. Kf3 Rh8 62. Nc6 h4 63. g4 Nf4 64. Nxb4 Rb8 65. Rd4 Nxh3 66. Nd3 Rb3 67. Ke2
+Ng1+ 68. Kf1 Nf3 69. Rd8 Rb5 70. Kg2 Ne5 71. Nxe5+ Rxe5 72. Rd2 Rb5 73. Rc2 Rb4
+74. f3 Rb3 75. Re2 Kf6 76. Kf2 Ke7 77. Kg2 Kd6 78. Kf2 Kd5 79. Kg2 Kd4 80. Kf2
+Rd3 81. Re4+ Kd5 82. Re2 Rd1 83. Rc2 f5 84. gxf5 exf5 85. b4 Rb1 86. Rc5+ Ke6
+87. Rc6+ Kf7 88. Rc5 Kg6 89. b5 Rb2+ 90. Kg1 h3 91. Rd5 Kf6 92. Rc5 Ke6 93. Kh1
+Rf2 94. Rc3 Ke5 95. Rb3 g4 96. Rc3 0-1
+
+[Event "Taça de Portugal 2018-19"]
+[Site "Porto POR"]
+[Date "2019.05.04"]
+[Round "3.4.2"]
+[White "Sousa, Hugo C"]
+[Black "Monteiro, Alberto Pinto"]
+[Result "1-0"]
+[ECO "B06"]
+[WhiteElo "2065"]
+[BlackElo "1837"]
+[WhiteFideId "1930842"]
+[BlackFideId "1922998"]
+[WhiteTeam "Profigaia/Escola Profissional 'A'"]
+[BlackTeam "GX Porto 'B'"]
+[PlyCount "112"]
+
+1. e4 g6 2. d4 Bg7 3. Nf3 d6 4. Nc3 Nf6 5. h3 O-O 6. Bg5 Nc6 7. Qd2 e5 8. d5 Ne7
+9. O-O-O a6 10. Bd3 b5 11. h4 Bg4 12. Ne2 Qe8 13. Ng3 Nh5 14. Nxh5 gxh5 15. Rdg1
+f6 16. Be3 Qf7 17. Be2 c6 18. c4 cxd5 19. cxd5 Qg6 20. Bd3 h6 21. Ne1 Rac8+ 22.
+Kb1 f5 23. f3 fxe4 24. fxe4 Rf6 25. Qa5 Be2 26. Qd2 Bxd3+ 27. Qxd3 Rc4 28. b3
+Rxe4 29. Nc2 Qg4 30. Qd2 Nf5 31. Bb6 Re2 32. Qc3 Ne7 33. Rd1 Qf5 34. Bd8 e4 35.
+Nd4 Nxd5 36. Qc1 Qe5 37. Nxe2 Rf2 38. Nd4 e3 39. Ba5 b4 40. Qc8+ Kh7 41. Bxb4 e2
+42. Qc2+ Kh8 43. Qc8+ Rf8 44. Qc4 exd1=Q+ 45. Rxd1 Ne3 46. Qe2 Qe4+ 47. Qd3 Qg4
+48. Rd2 Rf1+ 49. Kb2 Qc8 50. Bc3 Rf4 51. Qxe3 Be5 52. Ne2 Rf5 53. Qxh6+ Kg8 54.
+Bxe5 Rxe5 55. Qg6+ Kf8 56. Qxd6+ Qf5 1-0
+
+[Event "Taça de Portugal 2018-19"]
+[Site "Porto POR"]
+[Date "2019.05.04"]
+[Round "3.4.3"]
+[White "Araújo, José Veríssimo"]
+[Black "Pintor, Simão"]
+[Result "0-1"]
+[ECO "B31"]
+[WhiteElo "1804"]
+[BlackElo "2078"]
+[WhiteFideId "1901052"]
+[BlackFideId "1904787"]
+[WhiteTeam "GX Porto 'B'"]
+[BlackTeam "Profigaia/Escola Profissional 'A'"]
+[PlyCount "110"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 g6 4. Bxc6 bxc6 5. d4 Nf6 6. e5 Nd5 7. c4 Nc7 8. O-O
+Bg7 9. Re1 O-O 10. d5 cxd5 11. cxd5 d6 12. Nc3 Bg4 13. Bf4 Rb8 14. b3 Rb4 15.
+Bg3 Rd4 16. Qe2 Nxd5 17. Nxd5 Rxd5 18. exd6 exd6 19. Rad1 Rd4 20. Qa6 Bxf3 21.
+gxf3 Qa8 22. Rxd4 Bxd4 23. Qxd6 Qxf3 24. Qc7 h5 25. Qe7 Bf6 26. Qe4 Qxe4 27.
+Rxe4 Rd8 28. Ra4 h4 29. Bxh4 g5 30. Bg3 Rd7 31. Ra6 Kg7 32. Rc6 Rd5 33. Ra6 Rd2
+34. Rxa7 Bd4 35. Re7 Rxa2 36. h4 gxh4 37. Bxh4 Rb2 38. Bg3 Rxb3 39. Be5+ Kf8 40.
+Bd6 Rb6 41. Re6+ Kg8 42. Re8+ Kh7 43. Be5 Bxe5 44. Rxe5 Rc6 45. Re3 c4 46. Rc3
+Kg6 47. Kg2 Kf5 48. Kf3 Ke5 49. Ke3 f5 50. f4+ Kd5 51. Rc2 Re6+ 52. Kf3 Re4 53.
+Ra2 c3 54. Ra5+ Kd4 55. Ra1 c2 0-1
+
+[Event "Taça de Portugal 2018-19"]
+[Site "Porto POR"]
+[Date "2019.05.04"]
+[Round "3.4.4"]
+[White "Lopes, Bruno"]
+[Black "Nunes, Fernando"]
+[Result "0-1"]
+[ECO "A04"]
+[WhiteElo "1557"]
+[BlackElo "1761"]
+[WhiteFideId "1936069"]
+[BlackFideId "1922122"]
+[WhiteTeam "Profigaia/Escola Profissional 'A'"]
+[BlackTeam "GX Porto 'B'"]
+[PlyCount "114"]
+
+1. Nf3 c5 2. g3 Nc6 3. Bg2 Nf6 4. O-O g6 5. d3 Bg7 6. Nbd2 O-O 7. e4 d6 8. h3
+Bd7 9. c3 Qc8 10. Kh2 Nh5 11. Ng1 e5 12. Nc4 Qc7 13. a4 Be6 14. Ne3 Na5 15. Nd5
+Bxd5 16. exd5 c4 17. Ne2 Nb3 18. Ra3 Nxc1 19. Nxc1 f5 20. dxc4 Qxc4 21. Qb3 Qxb3
+22. Rxb3 Rf7 23. Ne2 b6 24. c4 f4 25. Bf3 fxg3+ 26. Nxg3 Nf6 27. Bg4 Nxg4+ 28.
+hxg4 Rf4 29. Rc3 Rc8 30. b3 Rxg4 31. Re3 Bh6 32. Re4 Rf4 33. Kg2 Rcf8 34. Rxf4
+Rxf4 35. Rd1 Rd4 36. Rxd4 exd4 37. Kf3 Kf7 38. Ke2 Ke7 39. Kd3 Bg7 40. Ne2 g5
+41. Ng3 Be5 42. b4 a5 43. bxa5 bxa5 44. Ne4 g4 45. Ng3 Kf6 46. Ne4+ Kf5 47. c5
+dxc5 48. Nxc5 h5 49. Nb7 h4 50. d6 h3 51. d7 Bc7 52. Nd6+ Ke6 53. Ne4 h2 54.
+d8=Q Bxd8 55. Ng3 Bh4 56. Nh1 Bxf2 57. Nxf2 g3 0-1
+
+[Event "Taça de Portugal 2018-19"]
+[Site "Carcavelos POR"]
+[Date "2019.05.04"]
+[Round "3.5.1"]
+[White "Perez Candelario, Manuel"]
+[Black "Pereira, Rúben"]
+[Result "1-0"]
+[ECO "B32"]
+[WhiteElo "2606"]
+[BlackElo "2444"]
+[WhiteFideId "2210622"]
+[BlackFideId "1903063"]
+[WhiteTeam "A.XAT -Montemor o Novo"]
+[BlackTeam "Estrelas S. João de Brito 'A'"]
+[WhiteTitle "GM"]
+[BlackTitle "IM"]
+[PlyCount "75"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Qb6 5. Nb3 Nf6 6. Nc3 e6 7. Qe2 Bb4 8.
+Bd2 O-O 9. a3 Be7 10. e5 Ne8 11. O-O-O Qc7 12. f4 d6 13. Nb5 Qb8 14. N5d4 Bd7
+15. Nf3 d5 16. h4 a5 17. Be3 b6 18. Ng5 g6 19. g4 Ng7 20. Qh2 f6 21. Bd3 fxe5
+22. Nxh7 Kxh7 23. h5 e4 24. hxg6+ Kxg6 25. Qh7+ Kf7 26. Rh6 Rg8 27. Bxe4 dxe4
+28. Rxd7 Ra7 29. Rd1 Qc8 30. f5 exf5 31. Rf1 Rh8 32. Qxh8 Qxh8 33. Rxh8 Bf6 34.
+gxf5 Ne5 35. Bxb6 Rb7 36. Bxa5 e3 37. Rh2 Nc4 38. Bc3 0-1
+
+[Event "Taça de Portugal 2018-19"]
+[Site "Carcavelos POR"]
+[Date "2019.05.04"]
+[Round "3.5.2"]
+[White "Nogueira, Nélson"]
+[Black "Santos Latasa, Jaime"]
+[Result "0-1"]
+[ECO "E32"]
+[WhiteElo "2244"]
+[BlackElo "2581"]
+[WhiteFideId "1901478"]
+[BlackFideId "2293307"]
+[WhiteTeam "Estrelas S. João de Brito 'A'"]
+[BlackTeam "A.XAT -Montemor o Novo"]
+[WhiteTitle "IM"]
+[BlackTitle "GM"]
+[PlyCount "112"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 O-O 5. Nf3 d5 6. e3 b6 7. a3 Bxc3+ 8. bxc3
+Ba6 9. cxd5 Bxf1 10. Kxf1 Qxd5 11. c4 Qh5 12. Bb2 Nbd7 13. h3 c5 14. Qe2 Rac8
+15. Rc1 Rc7 16. Kg1 Rfc8 17. Kh2 Qf5 18. Rhe1 Qe4 19. Nd2 Qg6 20. Kg1 h6 21. a4
+cxd4 22. exd4 Qf5 23. Bc3 Nf8 24. Qe5 Qxe5 25. Rxe5 Ng6 26. Re3 Ne7 27. a5 b5
+28. c5 a6 29. Bb2 Nc6 30. Nb3 Rd7 31. Kf1 Nd5 32. Rf3 f6 33. g3 Kf7 34. Rd3 h5
+35. h4 Nde7 36. Rcd1 Rcd8 37. Ke2 Nf5 38. Bc3 Rd5 39. R3d2 Ke7 40. Rd3 Kd7 41.
+Kf3 Kc7 42. Ke4 Nfe7 43. R3d2 Rf5 44. Bb2 Nd5 45. Re1 Rh8 46. Rh1 Rh6 47. Ba1
+Rg6 48. Kd3 Rf3+ 49. Kc2 Ndb4+ 50. Kb2 Nd3+ 51. Ka2 Nxf2 52. Rf1 Rgxg3 53. Rdxf2
+Rxb3 54. Bb2 Nb4+ 55. Kb1 Nd3 56. Re2 Rg4 0-1
+
+[Event "Taça de Portugal 2018-19"]
+[Site "Carcavelos POR"]
+[Date "2019.05.04"]
+[Round "3.5.3"]
+[White "Dias, Paulo"]
+[Black "Ferreira, Luís Pedro"]
+[Result "1-0"]
+[ECO "A41"]
+[WhiteElo "2306"]
+[BlackElo "2142"]
+[WhiteFideId "1900803"]
+[BlackFideId "1925393"]
+[WhiteTeam "A.XAT -Montemor o Novo"]
+[BlackTeam "Estrelas S. João de Brito 'A'"]
+[WhiteTitle "IM"]
+[BlackTitle "NM"]
+[PlyCount "97"]
+
+1. d4 d6 2. Nf3 Nf6 3. c4 g6 4. Nc3 Bg7 5. g3 O-O 6. Bg2 Nbd7 7. O-O e5 8. h3 c6
+9. e4 a5 10. Re1 exd4 11. Nxd4 Nc5 12. Bf4 Re8 13. Nb3 Bf8 14. Nxc5 dxc5 15.
+Qxd8 Rxd8 16. Bg5 Be7 17. e5 Nd5 18. cxd5 Bxg5 19. Ne4 Bh6 20. dxc6 bxc6 21.
+Nxc5 Rb8 22. Rad1 Bf5 23. Rxd8+ Rxd8 24. Nb7 Rd2 25. Nxa5 Rxb2 26. Nxc6 Be6 27.
+a4 Ra2 28. Bd5 Bxd5 29. Ne7+ Kg7 30. Nxd5 Rxa4 31. f4 Ra8 32. Kg2 Kh8 33. Rc1
+Bf8 34. Rc7 Kg8 35. e6 Bg7 36. Rxf7 Ra5 37. Ne7+ Kh8 38. Nc6 Ra2+ 39. Kf3 Ra3+
+40. Ke4 Kg8 41. Ra7 Rxa7 42. Nxa7 Bc3 43. Nc6 Kg7 44. Kd5 Kf8 45. e7+ Ke8 46.
+Ke6 h5 47. Ne5 Bb4 48. Nxg6 Be1 49. f5 1-0
+
+[Event "Taça de Portugal 2018-19"]
+[Site "Carcavelos POR"]
+[Date "2019.05.04"]
+[Round "3.5.4"]
+[White "Fernandes, Alberto"]
+[Black "Martins, Bruno"]
+[Result "0-1"]
+[ECO "C05"]
+[WhiteElo "2072"]
+[BlackElo "2204"]
+[WhiteFideId "1900277"]
+[BlackFideId "1942255"]
+[WhiteTeam "Estrelas S. João de Brito 'A'"]
+[BlackTeam "A.XAT -Montemor o Novo"]
+[WhiteTitle "NM"]
+[PlyCount "54"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. f4 c5 6. c3 Nc6 7. Ndf3 Qb6 8. Ne2
+cxd4 9. cxd4 Bb4+ 10. Kf2 f6 11. g3 fxe5 12. fxe5 Ndxe5 13. Nxe5 Nxe5 14. Kg2
+Ng6 15. Nf4 O-O 16. Nxg6 hxg6 17. Bf4 Bd6 18. Bxd6 Qxd6 19. Be2 e5 20. Qd2 Bf5
+21. Rhf1 Be4+ 22. Kg1 Qb6 23. Rxf8+ Rxf8 24. Rf1 Rc8 25. Bd1 Rc4 26. Bb3 Rxd4
+27. Qf2 Rd2 0-1
+
+[Event "Taça de Portugal 2018-19"]
+[Site "Carcavelos POR"]
+[Date "2019.05.04"]
+[Round "3.6.1"]
+[White "Fernandes, António"]
+[Black "Ferreira, Victor"]
+[Result "1-0"]
+[ECO "A45"]
+[WhiteElo "2405"]
+[BlackElo "1958"]
+[WhiteFideId "1900021"]
+[BlackFideId "1902865"]
+[WhiteTeam "AX Portugal/Atlantidiagonal 'A'"]
+[BlackTeam "Casa do Xadrez"]
+[WhiteTitle "GM"]
+[PlyCount "83"]
+
+1. d4 Nf6 2. g3 g6 3. Bg2 Bg7 4. e4 d6 5. Nc3 O-O 6. Nge2 c5 7. d5 Nbd7 8. O-O
+a6 9. a4 Rb8 10. a5 b6 11. axb6 Nxb6 12. h3 Ne8 13. f4 Nc7 14. g4 Nb5 15. Na4
+Nxa4 16. Rxa4 Qb6 17. c3 Nc7 18. Ra3 Nb5 19. Ra1 Nc7 20. Ng3 Bd7 21. Rf2 Qb3 22.
+Qe1 Qb7 23. Be3 Qc8 24. Qd2 Rb3 25. Bf1 Bb5 26. Qc2 Bxf1 27. Nxf1 Qb7 28. Bc1
+Rb8 29. Ra2 Qc8 30. Nd2 R3b5 31. Nc4 Qd7 32. Qd3 Rb3 33. Be3 Qb5 34. h4 Qd7 35.
+f5 f6 36. Na5 R3b5 37. Rg2 Kf7 38. fxg6+ hxg6 39. h5 gxh5 40. gxh5 Qh3 41. Rxg7+
+Kxg7 42. Bh6+ 1-0
+
+[Event "Taça de Portugal 2018-19"]
+[Site "Carcavelos POR"]
+[Date "2019.05.04"]
+[Round "3.6.2"]
+[White "Vinagre, Pedro"]
+[Black "Reis, Luís Sousa"]
+[Result "0-1"]
+[ECO "B01"]
+[WhiteElo "1887"]
+[BlackElo "2151"]
+[WhiteFideId "1905104"]
+[BlackFideId "1900609"]
+[WhiteTeam "Casa do Xadrez"]
+[BlackTeam "AX Portugal/Atlantidiagonal 'A'"]
+[BlackTitle "NM"]
+[PlyCount "70"]
+
+1. e4 d5 2. exd5 Nf6 3. d4 Bg4 4. Be2 Bxe2 5. Qxe2 Qxd5 6. Nf3 e6 7. c4 Bb4+ 8.
+Nc3 Bxc3+ 9. bxc3 Qe4 10. Ba3 Nc6 11. Nd2 Qxg2 12. O-O-O Qh3 13. f3 O-O-O 14.
+Rhg1 g6 15. Rg3 Qh5 16. Rdg1 Qa5 17. Kb2 Qb6+ 18. Nb3 h6 19. Rb1 Nd7 20. Kc1 Qa6
+21. Kb2 Nb6 22. Nd2 Na4+ 23. Kc2 Nxc3 24. Kxc3 Qxa3+ 25. Nb3 Rxd4 26. Rg4 Rhd8
+27. Rxd4 Rxd4 28. Rb2 Qb4+ 29. Kc2 Qxc4+ 30. Kb1 Qxe2 31. Rxe2 Rd3 32. Rf2 Nd4
+33. Nd2 Kd8 34. f4 Ke7 35. Ne4 b6 0-1
+
+[Event "Taça de Portugal 2018-19"]
+[Site "Carcavelos POR"]
+[Date "2019.05.04"]
+[Round "3.6.3"]
+[White "Carneiro, Carlos"]
+[Black "António, Luís"]
+[Result "1-0"]
+[ECO "D02"]
+[WhiteElo "2104"]
+[BlackElo "1831"]
+[WhiteFideId "1900170"]
+[BlackFideId "1906690"]
+[WhiteTeam "AX Portugal/Atlantidiagonal 'A'"]
+[BlackTeam "Casa do Xadrez"]
+[WhiteTitle "NM"]
+[PlyCount "147"]
+
+1. d4 d5 2. Nf3 Nf6 3. c4 e6 4. Nc3 Be7 5. Bf4 O-O 6. e3 c6 7. cxd5 exd5 8. Qc2
+Bg4 9. Ne5 Bh5 10. Bd3 Nbd7 11. O-O Nxe5 12. dxe5 Nd7 13. Bxh7+ Kh8 14. Bf5 f6
+15. e6 Ne5 16. Bxe5 fxe5 17. g4 g6 18. gxh5 gxf5 19. f4 e4 20. Kh1 Qd6 21. Rg1
+Rg8 22. Ne2 Qxe6 23. b4 Rxg1+ 24. Rxg1 Rg8 25. Ng3 Kh7 26. b5 Rg7 27. Qa4 Bc5
+28. bxc6 bxc6 29. Qb3 Bb6 30. a4 Qg8 31. Qc3 Qe6 32. a5 Bd8 33. Rb1 Bh4 34. a6
+Qc8 35. h6 Kxh6 36. Rb7 Rxb7 37. axb7 Qxb7 38. Nxf5+ Kh5 39. Qc1 Bf6 40. Qd1+
+Kg6 41. Qg4+ Kh7 42. Qh5+ Kg8 43. Qg6+ Bg7 44. h4 Qb1+ 45. Kh2 Qb2+ 46. Kh3 Qf6
+47. Qe8+ Kh7 48. Ne7 Bf8 49. Nxc6 Qf5+ 50. Kg3 Qg6+ 51. Qxg6+ Kxg6 52. Nxa7 Bc5
+53. Nc6 Bxe3 54. Ne7+ Kh5 55. Nxd5 Bd2 56. Nf6+ Kg6 57. Nxe4 Be1+ 58. Kg4 Bb4
+59. f5+ Kh6 60. f6 Ba3 61. Kf5 Bb2 62. f7 Kg7 63. Ke6 Ba3 64. Ng3 Kg6 65. Nf5
+Bf8 66. Ne7+ Kg7 67. h5 Kh6 68. Ng6 Bg7 69. Ke7 Kg5 70. Nf8 Kf5 71. Ne6 Bh6 72.
+f8=Q+ Bxf8+ 73. Kxf8 Kf6 74. Kg8 1-0
+
+[Event "Taça de Portugal 2018-19"]
+[Site "Carcavelos POR"]
+[Date "2019.05.04"]
+[Round "3.6.4"]
+[White "Nascimento, Carlos"]
+[Black "Pereira, Fernando Melão"]
+[Result "0-1"]
+[ECO "B20"]
+[WhiteElo "1848"]
+[BlackElo "2006"]
+[WhiteFideId "1902393"]
+[BlackFideId "1900153"]
+[WhiteTeam "Casa do Xadrez"]
+[BlackTeam "AX Portugal/Atlantidiagonal 'A'"]
+[BlackTitle "NM"]
+[PlyCount "74"]
+
+1. e4 c5 2. g3 d5 3. Bg2 dxe4 4. Bxe4 Nf6 5. Bg2 Bg4 6. f3 Bf5 7. Ne2 Nc6 8. O-O
+Qd7 9. Na3 h5 10. d3 h4 11. Be3 hxg3 12. Nxg3 Bh3 13. Qd2 Bxg2 14. Qxg2 Nd5 15.
+Bd2 Nf4 16. Bxf4 Qd4+ 17. Qf2 Qxf4 18. Nb5 a6 19. Nc3 e6 20. Rae1 Be7 21. Re4
+Qd6 22. Rfe1 Kf8 23. Kg2 Bf6 24. Nd1 Bd4 25. Qf1 Ne7 26. c3 Bf6 27. Nf2 Ng6 28.
+Rd1 Nh4+ 29. Rxh4 Rxh4 30. Nfe4 Qd5 31. Qf2 Be7 32. Qe3 Rd8 33. b3 g6 34. Qf2
+Kg7 35. Nf1 Qf5 36. Nfg3 Qh3+ 37. Kg1 f5 0-1
+
+[Event "Taça de Portugal 2018-19"]
+[Site "Marinha Grande POR"]
+[Date "2019.05.12"]
+[Round "3.7.1"]
+[White "Soares, Luís"]
+[Black "Martín Duque, Jesus"]
+[Result "1/2-1/2"]
+[ECO "A57"]
+[WhiteElo "2036"]
+[BlackElo "2365"]
+[WhiteFideId "1904124"]
+[BlackFideId "2208954"]
+[WhiteTeam "NS São Miguel"]
+[BlackTeam "AA Coimbra"]
+[BlackTitle "FM"]
+[PlyCount "82"]
+[EventDate "2019.01.12"]
+
+1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. b6 e6 6. Nc3 Nxd5 7. Nxd5 exd5 8. Qxd5
+Nc6 9. e4 Be7 10. Nf3 Rb8 11. Ne5 O-O 12. Nc4 Nd4 13. Bd3 d6 14. Qh5 f5 15. Ne3
+g6 16. Qd1 fxe4 17. Bxe4 Be6 18. Nd5 Bf5 19. Qd3 Bg5 20. O-O Bxe4 21. Qxe4 Re8
+22. Qd3 Bxc1 23. Raxc1 Ne2+ 24. Kh1 Nxc1 25. Rxc1 Rb7 26. Qxa6 Rf7 27. Qc4 Kf8
+28. f4 Qh4 29. Rf1 Re1 30. g3 Rxf1+ 31. Qxf1 Qd8 32. Qc4 Qe8 33. Kg2 Qe1 34. Qd3
+g5 35. f5 Qe5 36. f6 Qxb2+ 37. Kh3 h5 38. Qf5 Qe5 39. Qc8+ Qe8 40. b7 Rxb7 41.
+Qxb7 Qe6+ 1/2-1/2
+
+[Event "Taça de Portugal 2018-19"]
+[Site "Marinha Grande POR"]
+[Date "2019.05.12"]
+[Round "3.7.2"]
+[White "Diogo, Vasco"]
+[Black "Fernandes, Afonso"]
+[Result "1-0"]
+[ECO "C00"]
+[WhiteElo "2194"]
+[BlackElo "1927"]
+[WhiteFideId "1902628"]
+[BlackFideId "1914138"]
+[WhiteTeam "AA Coimbra"]
+[BlackTeam "NS São Miguel"]
+[WhiteTitle "FM"]
+[PlyCount "95"]
+[EventDate "2019.01.12"]
+
+1. e4 e6 2. d4 d5 3. c4 dxe4 4. Nc3 Nf6 5. Be3 Be7 6. Qc2 Nc6 7. O-O-O Nb4 8.
+Qb3 O-O 9. a3 Nc6 10. h3 b6 11. g4 Bb7 12. g5 Ne8 13. Qc2 Na5 14. h4 Nd6 15. d5
+Naxc4 16. dxe6 Nxe3 17. fxe3 fxe6 18. Bh3 Kh8 19. Bxe6 Qe8 20. Nh3 Nf5 21. Bd7
+Qh5 22. Bxf5 Rxf5 23. Nf4 Qe8 24. Kb1 Bd6 25. Nce2 Bxf4 26. Nxf4 Rxf4 27. exf4
+e3 28. Rhe1 Be4 29. Rd3 Qf7 30. Rexe3 Bxd3 31. Qxd3 Qxf4 32. Re4 Qd6 33. Qxd6
+cxd6 34. Re7 Kg8 35. Kc2 Rc8+ 36. Kd3 a5 37. Rb7 d5 38. Rxb6 Rc4 39. h5 a4 40.
+Rb4 Rxb4 41. axb4 Kf7 42. Kd4 Ke6 43. b5 Kd6 44. b6 Kc6 45. b7 Kxb7 46. Kxd5 Kb6
+47. Kc4 Ka5 48. Kc5 1-0
+
+[Event "Taça de Portugal 2018-19"]
+[Site "Marinha Grande POR"]
+[Date "2019.05.12"]
+[Round "3.7.3"]
+[White "Rego, João Rui"]
+[Black "Garcia Dorado, Alberto"]
+[Result "0-1"]
+[ECO "C00"]
+[WhiteElo "1761"]
+[BlackElo "2235"]
+[WhiteFideId "1934465"]
+[BlackFideId "2252244"]
+[WhiteTeam "NS São Miguel"]
+[BlackTeam "AA Coimbra"]
+[BlackTitle "CM"]
+[PlyCount "64"]
+[EventDate "2019.01.12"]
+
+1. e4 e6 2. d3 d5 3. Nd2 c5 4. Ngf3 Nc6 5. g3 Bd6 6. Bg2 Nge7 7. O-O O-O 8. Re1
+Qc7 9. Qe2 f6 10. c3 Bd7 11. Nf1 d4 12. h4 e5 13. N3h2 b5 14. h5 Be6 15. g4 c4
+16. Ng3 Rad8 17. Nf5 Bc5 18. h6 g6 19. Ng7 Bf7 20. Qf3 cxd3 21. Nh5 Be6 22. Ng7
+Bf7 23. Nh5 Bc4 24. Nxf6+ Kh8 25. Bd2 dxc3 26. bxc3 g5 27. Bxg5 Qd6 28. Bh4 Ng6
+29. Qf5 Rf7 30. Bg5 Rdf8 31. Nf3 Be6 32. Qxe6 Qxe6 0-1
+
+[Event "Taça de Portugal 2018-19"]
+[Site "Marinha Grande POR"]
+[Date "2019.05.12"]
+[Round "3.7.4"]
+[White "Fernandes, João Pedro"]
+[Black "Martins, José Manuel"]
+[Result "1-0"]
+[ECO "C12"]
+[WhiteElo "2004"]
+[BlackElo "1503"]
+[WhiteFideId "1926624"]
+[BlackFideId "1936247"]
+[WhiteTeam "AA Coimbra"]
+[BlackTeam "NS São Miguel"]
+[PlyCount "51"]
+[EventDate "2019.01.12"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 Bb4 5. exd5 Bxc3+ 6. bxc3 exd5 7. Bd3 h6 8.
+Bh4 O-O 9. Ne2 Be6 10. O-O Nc6 11. Qd2 Re8 12. f4 Bg4 13. Ng3 Qd6 14. Bxf6 Qxf6
+15. f5 h5 16. h3 h4 17. hxg4 hxg3 18. g5 Qd6 19. f6 Qe6 20. Rab1 Qg4 21. Qf4
+Qxf4 22. Rxf4 Na5 23. Rbf1 gxf6 24. gxf6 Re3 25. Rg4+ Kf8 26. Bh7 1-0
+
+[Event "Taça de Portugal 2018-19"]
+[Site "Carcavelos POR"]
+[Date "2019.05.04"]
+[Round "3.8.1"]
+[White "Silva, Marco"]
+[Black "Martins, André"]
+[Result "0-1"]
+[ECO "E61"]
+[WhiteElo "2094"]
+[BlackElo "2091"]
+[WhiteFideId "1900722"]
+[BlackFideId "1924281"]
+[WhiteTeam "CR Estarreja"]
+[BlackTeam "GD Cavadas"]
+[PlyCount "116"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. g3 O-O 5. Bg2 d6 6. Nf3 Nc6 7. O-O Bf5 8. d5
+Nb8 9. Nd4 Bc8 10. e4 e5 11. dxe6 fxe6 12. Nc2 e5 13. Nd5 c6 14. Nxf6+ Qxf6 15.
+Ne3 Qe7 16. Rb1 a5 17. b3 Na6 18. a3 Nc5 19. b4 axb4 20. axb4 Ne6 21. Nc2 Bf6
+22. Be3 Bg5 23. Bb6 Ra6 24. Be3 Bxe3 25. Nxe3 Nd4 26. Ra1 Rxa1 27. Qxa1 Be6 28.
+Qb2 Qd7 29. f4 Bh3 30. c5 Bxg2 31. Kxg2 dxc5 32. bxc5 Qe6 33. f5 gxf5 34. exf5
+Nxf5 35. Nxf5 Rxf5 36. Rxf5 Qxf5 37. Qb3+ Kh8 38. Qe3 Kg7 39. h4 h5 40. Kg1 Kf6
+41. Qh6+ Qg6 42. Qf8+ Ke6 43. Qd6+ Kf5 44. Qd3+ e4 45. Qe3 Qg4 46. Kf2 Ke5 47.
+Ke1 Qf3 48. Qg5+ Kd4 49. Qg7+ Kxc5 50. Qe7+ Kd5 51. Qd7+ Kc4 52. Qe6+ Kb5 53.
+Qe5+ c5 54. Qb2+ Kc6 55. Qe5 Kb5 56. Qe8+ Kb4 57. Qe5 b5 58. Qb2+ Qb3 0-1
+
+[Event "Taça de Portugal 2018-19"]
+[Site "Carcavelos POR"]
+[Date "2019.05.04"]
+[Round "3.8.2"]
+[White "Guerreiro, Raul"]
+[Black "Rodrigues, José António"]
+[Result "0-1"]
+[ECO "B13"]
+[WhiteElo "2059"]
+[BlackElo "2000"]
+[WhiteFideId "1905821"]
+[BlackFideId "1911643"]
+[WhiteTeam "GD Cavadas"]
+[BlackTeam "CR Estarreja"]
+[PlyCount "112"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nf3 e6 6. Be2 Nc6 7. O-O dxc4 8.
+Bxc4 a6 9. Nc3 b5 10. Bb3 Be7 11. Bf4 O-O 12. Rc1 Nb4 13. Qe2 Bb7 14. Rfd1 Rc8
+15. a3 Nbd5 16. Nxd5 Bxd5 17. Rxc8 Qxc8 18. Rc1 Qa8 19. Bxd5 Nxd5 20. Be5 Rc8
+21. Rc2 Rc6 22. Ne1 Qc8 23. Rxc6 Qxc6 24. Qc2 Qxc2 25. Nxc2 f5 26. Kf1 g5 27.
+Ke2 Kf7 28. Kd3 h5 29. g3 g4 30. Ne3 h4 31. Bb8 h3 32. Ba7 Nxe3 33. Kxe3 Bg5+
+34. Kd3 Ke7 35. b3 Kd6 36. a4 Kd5 37. axb5 axb5 38. Bb6 Be7 39. Ba7 Bd6 40. Ke3
+Kc6 41. Ke2 f4 42. Kf1 Kd5 43. Bb6 Ke4 44. gxf4 Bxf4 45. Kg1 Bd2 46. Kf1 Bf4 47.
+Kg1 Kd3 48. Bc5 Kc3 49. b4 Kd3 50. Kh1 Ke2 51. Kg1 Bd2 52. Kh1 Be1 53. Kg1 Bxf2+
+54. Kh1 Be1 55. Kg1 Bd2 56. Bd6 Be3+ 0-1
+
+[Event "Taça de Portugal 2018-19"]
+[Site "Carcavelos POR"]
+[Date "2019.05.04"]
+[Round "3.8.3"]
+[White "Andrade, Carlos"]
+[Black "Turta, Stelian"]
+[Result "1/2-1/2"]
+[ECO "D10"]
+[WhiteElo "1973"]
+[BlackElo "1936"]
+[WhiteFideId "1903772"]
+[BlackFideId "1924680"]
+[WhiteTeam "CR Estarreja"]
+[BlackTeam "GD Cavadas"]
+[PlyCount "113"]
+
+1. d4 d5 2. c4 c6 3. cxd5 cxd5 4. Bf4 e6 5. Nc3 Bd6 6. Bxd6 Qxd6 7. e3 Nf6 8.
+Bd3 O-O 9. f4 Nc6 10. Nf3 a6 11. O-O Bd7 12. Rc1 Rac8 13. Ne5 Ne7 14. g4 g6 15.
+g5 Nh5 16. Rf3 f6 17. gxf6 Nxf6 18. Rf1 Nf5 19. Qe2 Kg7 20. Kh1 Bc6 21. Rg1 Be8
+22. Bxf5 exf5 23. Ne4 Nxe4 24. Rxc8 Bb5 25. Qc2 Rxc8 26. Qxc8 Bc6 27. a3 Qf6 28.
+Qc7+ Kg8 29. Rc1 Nf2+ 30. Kg2 Ng4 31. Nxg4 fxg4 32. Qc8+ Kg7 33. Qxg4 Qe7 34.
+Kf2 Qe4 35. h4 Qd3 36. Qe2 Qf5 37. Rh1 Bb5 38. Qd1 Bd3 39. h5 Be4 40. h6+ Kf7
+41. Rh2 Qd7 42. Kg3 Qb5 43. Rd2 Qa5 44. Qc1 Qb6 45. Qc5 Qd8 46. Rd1 g5 47. Rc1
+gxf4+ 48. exf4 Qg8+ 49. Kh4 Qd8+ 50. Kg3 Qg8+ 51. Kf2 Qg2+ 52. Ke1 Qg3+ 53. Kd2
+Qd3+ 54. Ke1 Qg3+ 55. Kd2 Qd3+ 56. Ke1 Qg3+ 57. Kd2 1/2-1/2
+
+[Event "Taça de Portugal 2018-19"]
+[Site "Carcavelos POR"]
+[Date "2019.05.04"]
+[Round "3.8.4"]
+[White "Silva, Flávio"]
+[Black "Conceição, Miguel"]
+[Result "1-0"]
+[ECO "A20"]
+[WhiteElo "1967"]
+[BlackElo "1957"]
+[WhiteFideId "1903691"]
+[BlackFideId "1902857"]
+[WhiteTeam "GD Cavadas"]
+[BlackTeam "CR Estarreja"]
+[PlyCount "79"]
+
+1. c4 e5 2. g3 Nf6 3. Bg2 Be7 4. Nc3 O-O 5. Nf3 Nc6 6. O-O d5 7. cxd5 Nxd5 8. a3
+Be6 9. d3 f6 10. Nxd5 Bxd5 11. e4 Be6 12. Be3 Nd4 13. Nxd4 exd4 14. Bd2 Qd7 15.
+b4 Rac8 16. Rc1 c5 17. Qe2 b6 18. Rfe1 b5 19. bxc5 Bxc5 20. Ra1 Qe7 21. Reb1 a6
+22. Bb4 Rc7 23. Ba5 Ra7 24. Qb2 Rc8 25. h4 Qd6 26. Bf1 f5 27. exf5 Bxf5 28. a4
+Bd7 29. axb5 axb5 30. Bg2 Rf8 31. Bd2 Rxa1 32. Rxa1 b4 33. Rb1 Rb8 34. Bf4 Qb6
+35. Bxb8 Qxb8 36. Qa2+ Kf8 37. Qd5 Qd6 38. Qf3+ Qf6 39. Qa8+ Kf7 40. Qd5+ 1-0
+
+[Event "Taça de Portugal 2018-19"]
+[Site "Coimbra POR"]
+[Date "2019.06.08"]
+[Round "4.1.1"]
+[White "Margarido, José"]
+[Black "Spraggett, Kevin"]
+[Result "0-1"]
+[ECO "B10"]
+[WhiteElo "2105"]
+[BlackElo "2513"]
+[WhiteFideId "1914227"]
+[BlackFideId "2600013"]
+[WhiteTeam "Profigaia/Escola Profissional 'A'"]
+[BlackTeam "AX Portugal/Atlantidiagonal 'A'"]
+[BlackTitle "GM"]
+[PlyCount "92"]
+[EventDate "2019.??.??"]
+
+1. e4 c6 2. Nc3 d5 3. Nf3 dxe4 4. Nxe4 Nf6 5. Qe2 Bf5 6. Nxf6+ gxf6 7. d3 e6 8.
+Nh4 Bg6 9. g3 Nd7 10. Bg2 Bd6 11. O-O f5 12. d4 Be7 13. Nxg6 hxg6 14. c4 Bf6 15.
+Rd1 O-O 16. Be3 Re8 17. Qc2 Qc7 18. Rd3 e5 19. dxe5 Nxe5 20. Rd2 Re6 21. h3 Qa5
+22. Rdd1 Rae8 23. a3 Qc7 24. Rd2 Nd7 25. Rad1 Nf8 26. Rd3 a6 27. b4 a5 28. Bf3
+axb4 29. axb4 Rxe3 30. Rxe3 Rxe3 31. fxe3 Qxg3+ 32. Qg2 Qe5 33. Qd2 Ne6 34. Bg2
+Kg7 35. Kh1 Bd8 36. Rc1 Bf6 37. Rb1 Ng5 38. b5 Ne4 39. Qe1 Be7 40. bxc6 bxc6 41.
+Kg1 Bc5 42. Bxe4 Qxe4 43. Qc3+ Kh7 44. Rb7 Bxe3+ 45. Kf1 Qf3+ 46. Ke1 Bf2+ 0-1
+
+[Event "Taça de Portugal 2018-19"]
+[Site "Coimbra POR"]
+[Date "2019.06.08"]
+[Round "4.1.2"]
+[White "Fernandes, António"]
+[Black "Sousa, Hugo C"]
+[Result "1/2-1/2"]
+[ECO "A04"]
+[WhiteElo "2405"]
+[BlackElo "2065"]
+[WhiteFideId "1900021"]
+[BlackFideId "1930842"]
+[WhiteTeam "AX Portugal/Atlantidiagonal 'A'"]
+[BlackTeam "Profigaia/Escola Profissional 'A'"]
+[WhiteTitle "GM"]
+[PlyCount "86"]
+[EventDate "2019.??.??"]
+
+1. Nf3 Nf6 2. g3 g6 3. Bg2 Bg7 4. O-O O-O 5. c4 d6 6. d4 Nc6 7. Nc3 a6 8. Nd5
+Nh5 9. h3 e6 10. Nc3 Rb8 11. e4 b5 12. Bg5 f6 13. Be3 f5 14. Bg5 Qd7 15. cxb5
+axb5 16. d5 Nd8 17. exf5 exf5 18. Nd4 Nf6 19. Qd2 b4 20. Nce2 Ne4 21. Qc1 Nxg5
+22. Qxg5 Ba6 23. Rfe1 Bxe2 24. Nc6 Nxc6 25. dxc6 Qd8 26. Qxd8 Rfxd8 27. Rxe2 Re8
+28. Rae1 Kf8 29. Rxe8+ Rxe8 30. Rxe8+ Kxe8 31. a3 Bxb2 32. axb4 Bc3 33. b5 Bd4
+34. Kf1 Ke7 35. Bd5 Kf6 36. f4 h6 37. Ke2 h5 38. Kf3 Bb6 39. g4 hxg4+ 40. hxg4
+fxg4+ 41. Kxg4 Bc5 42. Kf3 g5 43. fxg5+ Kxg5 1/2-1/2
+
+[Event "Taça de Portugal 2018-19"]
+[Site "Coimbra POR"]
+[Date "2019.06.08"]
+[Round "4.1.3"]
+[White "Pintor, Simão"]
+[Black "Reis, Luís Sousa"]
+[Result "0-1"]
+[ECO "A04"]
+[WhiteElo "2078"]
+[BlackElo "2151"]
+[WhiteFideId "1904787"]
+[BlackFideId "1900609"]
+[WhiteTeam "Profigaia/Escola Profissional 'A'"]
+[BlackTeam "AX Portugal/Atlantidiagonal 'A'"]
+[BlackTitle "NM"]
+[PlyCount "104"]
+[EventDate "2019.??.??"]
+
+1. Nf3 Nf6 2. g3 b5 3. Bg2 Bb7 4. O-O c5 5. c4 bxc4 6. Nc3 d5 7. Ne5 Qc7 8. Qa4+
+Nbd7 9. d4 cxd4 10. Nb5 Qb6 11. Bf4 a6 12. Nxd4 Qxd4 13. Rfd1 Qc5 14. Rac1 Qb5
+15. Rxc4 Qxa4 16. Rxa4 e6 17. e4 Nxe5 18. Bxe5 Bc6 19. Rad4 dxe4 20. Bxf6 gxf6
+21. Rc1 Bd5 22. Bxe4 Bxe4 23. Rxe4 Bd6 24. Ra4 Kd7 25. Kg2 Rhc8 26. Rxc8 Kxc8
+27. Rh4 Kd7 28. Rxh7 Ke7 29. Rh4 Rb8 30. b3 a5 31. Rc4 Rb4 32. Rc8 Rb8 33. Rc6
+a4 34. bxa4 Rb2 35. h4 Rxa2 36. Rc4 f5 37. Kf3 Kf6 38. Rc6 Ke5 39. Rc8 Rxa4 40.
+h5 f6 41. Rc1 Ra3+ 42. Kg2 Ra8 43. Rd1 Bc5 44. Re1+ Kd6 45. Rh1 Ra2 46. h6 Rxf2+
+47. Kh3 Ra2 48. Kh4 Ke7 49. h7 Ra8 50. Rb1 Kf7 51. Kh5 Rh8 52. Kh6 Bf8+ 0-1
+
+[Event "Taça de Portugal 2018-19"]
+[Site "Coimbra POR"]
+[Date "2019.06.08"]
+[Round "4.1.4"]
+[White "Teixeira, Ricardo Jorge"]
+[Black "Figueiredo, Bruno"]
+[Result "1/2-1/2"]
+[ECO "A45"]
+[WhiteElo "1843"]
+[BlackElo "1878"]
+[WhiteFideId "1918923"]
+[BlackFideId "1904434"]
+[WhiteTeam "AX Portugal/Atlantidiagonal 'A'"]
+[BlackTeam "Profigaia/Escola Profissional 'A'"]
+[PlyCount "55"]
+[EventDate "2019.??.??"]
+
+1. d4 Nf6 2. Bf4 g6 3. e3 Bg7 4. Nf3 O-O 5. Be2 d6 6. Nbd2 Nbd7 7. O-O h6 8. c3
+Nh5 9. Qb3 Nxf4 10. exf4 c5 11. Bb5 Nf6 12. dxc5 dxc5 13. Rad1 Qc7 14. g3 e6 15.
+Rfe1 a6 16. Bf1 b5 17. Bg2 Bb7 18. Ne5 Bxg2 19. Kxg2 c4 20. Qc2 Nd5 21. Ndf3 Qb7
+22. Kg1 Rad8 23. Nd4 Bxe5 24. Rxe5 Ne7 25. Rde1 Nc6 26. Nxc6 Qxc6 27. Rxe6 fxe6
+28. Qxg6+ 1/2-1/2
+
+[Event "Taça de Portugal 2018-19"]
+[Site "Coimbra POR"]
+[Date "2019.06.08"]
+[Round "4.2.1"]
+[White "Taboas Rodriguez, Daniel"]
+[Black "Dias, Ricardo"]
+[Result "1-0"]
+[ECO "A48"]
+[WhiteElo "2357"]
+[BlackElo "2128"]
+[WhiteFideId "2208466"]
+[BlackFideId "1930060"]
+[WhiteTeam "AA Coimbra"]
+[BlackTeam "CA TÃ©ssera Xadrez"]
+[WhiteTitle "FM"]
+[PlyCount "109"]
+[EventDate "2019.??.??"]
+
+1. d4 Nf6 2. Nf3 g6 3. c4 Bg7 4. Nc3 d5 5. cxd5 Nxd5 6. e4 Nxc3 7. bxc3 c5 8.
+Be3 Qa5 9. Qd2 Nc6 10. Rc1 cxd4 11. cxd4 Qxd2+ 12. Kxd2 f5 13. e5 Be6 14. Bc4
+Bxc4 15. Rxc4 O-O 16. g3 Rfd8 17. Ke2 h6 18. h4 Rd7 19. Rb1 e6 20. a4 Ne7 21. a5
+Nd5 22. Bd2 Bf8 23. Rbc1 Rad8 24. Rg1 Rc7 25. Rxc7 Nxc7 26. Rb1 Rb8 27. Kd3 b5
+28. axb6 axb6 29. Ne1 Kf7 30. Ng2 Be7 31. Bxh6 b5 32. Bd2 Ra8 33. Rb3 Ke8 34.
+Nf4 Kf7 35. Rc3 Ra7 36. Rc6 g5 37. hxg5 Bxg5 38. Ba5 Bxf4 39. Rxc7+ Rxc7 40.
+Bxc7 Bg5 41. Bb6 f4 42. g4 Bh4 43. f3 Be1 44. Bc5 Ba5 45. Ba3 Be1 46. Bc1 Bg3
+47. Ke4 b4 48. Kd3 b3 49. Kc3 Bf2 50. Bb2 Kg6 51. Kxb3 Kg5 52. Kc4 Kh4 53. d5
+exd5+ 54. Kxd5 Bb6 55. Ke4 1-0
+
+[Event "Taça de Portugal 2018-19"]
+[Site "Coimbra POR"]
+[Date "2019.06.08"]
+[Round "4.2.2"]
+[White "Silva, Stéphane"]
+[Black "Diogo, Vasco"]
+[Result "0-1"]
+[ECO "B23"]
+[WhiteElo "2043"]
+[BlackElo "2194"]
+[WhiteFideId "1900846"]
+[BlackFideId "1902628"]
+[WhiteTeam "CA TÃ©ssera Xadrez"]
+[BlackTeam "AA Coimbra"]
+[WhiteTitle "NM"]
+[BlackTitle "FM"]
+[PlyCount "122"]
+[EventDate "2019.??.??"]
+
+1. e4 c5 2. Nc3 Nc6 3. f4 e6 4. Nf3 d5 5. Bb5 d4 6. Bxc6+ bxc6 7. Ne2 Nf6 8. d3
+Be7 9. O-O a5 10. a4 c4 11. dxc4 Nxe4 12. Qd3 f5 13. Ng3 Nxg3 14. hxg3 c5 15.
+Qe2 O-O 16. Bd2 Bf6 17. Ne5 Qc7 18. Rae1 Re8 19. b3 Bb7 20. Nd3 Be4 21. Bc1 Rac8
+22. Nf2 Bc6 23. Nd3 Be4 24. Nf2 Bb7 25. Nd3 g6 26. Ba3 Qb6 27. Bc1 h5 28. Ne5
+Kg7 29. Nd7 Qd8 30. Nxf6 Qxf6 31. Bd2 Be4 32. Bxa5 e5 33. Qd1 exf4 34. gxf4 h4
+35. Re2 h3 36. g3 Rc6 37. Kh2 Kf7 38. Rff2 Qd6 39. Re1 Qd7 40. Bd2 Rce6 41. Rff1
+Qc6 42. Rf2 Qb7 43. Qc1 Qd7 44. Qd1 Qc7 45. Qc1 Qb7 46. a5 R8e7 47. Kg1 Qd7 48.
+Kh2 Qc7 49. Qd1 Qa7 50. Qc1 Qa8 51. Kg1 Qe8 52. Kh2 Bc6 53. Rxe6 Rxe6 54. Qf1
+Bg2 55. Qd1 Bb7 56. Qf1 Qc6 57. g4 Re8 58. g5 Rh8 59. Kg3 Qe4 60. Qd3 Qh1 61.
+Qf1 Qxf1 0-1
+
+[Event "Taça de Portugal 2018-19"]
+[Site "Coimbra POR"]
+[Date "2019.06.08"]
+[Round "4.2.3"]
+[White "Garcia Dorado, Alberto"]
+[Black "Carvalho, Vítor"]
+[Result "1-0"]
+[ECO "E60"]
+[WhiteElo "2235"]
+[BlackElo "1866"]
+[WhiteFideId "2252244"]
+[BlackFideId "1908766"]
+[WhiteTeam "AA Coimbra"]
+[BlackTeam "CA TÃ©ssera Xadrez"]
+[WhiteTitle "CM"]
+[PlyCount "47"]
+[EventDate "2019.??.??"]
+
+1. d4 Nf6 2. c4 g6 3. Nf3 Bg7 4. g3 O-O 5. Bg2 d5 6. O-O c6 7. Nc3 e6 8. Qd3
+Nbd7 9. Rd1 Qe7 10. e4 dxe4 11. Nxe4 Nxe4 12. Qxe4 c5 13. d5 e5 14. d6 Qd8 15.
+Qd5 h6 16. Be3 Qa5 17. Nd2 Rb8 18. Nb3 Qb4 19. Bd2 Nb6 20. Bxb4 Nxd5 21. Bxc5 b6
+22. d7 Bxd7 23. Bxf8 Bxf8 24. Bxd5 1-0
+
+[Event "Taça de Portugal 2018-19"]
+[Site "Coimbra POR"]
+[Date "2019.06.08"]
+[Round "4.2.4"]
+[White "Sá, Cláudio"]
+[Black "Fernandes, João Pedro"]
+[Result "0-1"]
+[ECO "B23"]
+[WhiteElo "1867"]
+[BlackElo "2004"]
+[WhiteFideId "1902903"]
+[BlackFideId "1926624"]
+[WhiteTeam "CA TÃ©ssera Xadrez"]
+[BlackTeam "AA Coimbra"]
+[PlyCount "86"]
+[EventDate "2019.??.??"]
+
+1. e4 c5 2. Nc3 e6 3. f4 Nc6 4. Nf3 d5 5. Bb5 Nf6 6. e5 Nd7 7. Bxc6 bxc6 8. d3
+Be7 9. O-O O-O 10. Ne2 Ba6 11. c3 c4 12. d4 c5 13. f5 exf5 14. Nf4 cxd4 15. cxd4
+Nb6 16. e6 Bd6 17. exf7+ Rxf7 18. Ne6 Qf6 19. Neg5 Rff8 20. Nh4 g6 21. Re1 Rae8
+22. Nhf3 f4 23. Nh3 Bc8 24. Nf2 Bf5 25. Ne5 Bxe5 26. dxe5 Rxe5 27. Bxf4 Rxe1+
+28. Qxe1 Bd7 29. Be5 Qf5 30. Bc3 Bc6 31. Qd2 Qf4 32. Qe2 Bd7 33. Rf1 d4 34. Bd2
+d3 35. Qe1 Qf5 36. Bc3 Nd5 37. Bd4 Nf4 38. Bxa7 Qd5 39. Ne4 Ne2+ 40. Kh1 Qxe4
+41. Rxf8+ Kxf8 42. Qb4+ Kf7 43. Qd6 Qf5 0-1
+
+[Event "Taça de Portugal 2018-19"]
+[Site "Coimbra POR"]
+[Date "2019.06.08"]
+[Round "4.3.1"]
+[White "Kurylski, Leonardo"]
+[Black "Silva, António"]
+[Result "1-0"]
+[ECO "A81"]
+[WhiteElo "1947"]
+[BlackElo "2134"]
+[WhiteFideId "1928988"]
+[BlackFideId "1900293"]
+[WhiteTeam "GD Cavadas"]
+[BlackTeam "GX Porto 'A'"]
+[BlackTitle "NM"]
+[PlyCount "73"]
+[EventDate "2019.??.??"]
+
+1. d4 f5 2. g3 Nf6 3. Bg2 d5 4. Nh3 e6 5. O-O Be7 6. b3 c6 7. f3 O-O 8. Ba3 Bxa3
+9. Nxa3 Qe7 10. Qc1 e5 11. e3 Na6 12. Nf2 f4 13. exf4 exf4 14. Re1 Qd6 15. g4
+Bd7 16. c3 Rae8 17. Nc2 Rxe1+ 18. Nxe1 g5 19. Ned3 Be8 20. b4 Nd7 21. Qa3 Bg6
+22. Re1 Re8 23. Rxe8+ Bxe8 24. Nc5 Ndxc5 25. bxc5 Qe7 26. Qb2 Bg6 27. Bf1 Nb8
+28. Kg2 Qc7 29. Qe2 Kf7 30. h4 h6 31. Nh3 Kf6 32. h5 Bf7 33. Qc2 Kg7 34. Qf5 Nd7
+35. Nxg5 hxg5 36. Qxg5+ Kh8 37. h6 1-0
+
+[Event "Taça de Portugal 2018-19"]
+[Site "Coimbra POR"]
+[Date "2019.06.08"]
+[Round "4.3.2"]
+[White "Rodrigues, José A A"]
+[Black "Guerreiro, Raul"]
+[Result "1/2-1/2"]
+[ECO "A43"]
+[WhiteElo "2108"]
+[BlackElo "2059"]
+[WhiteFideId "1901834"]
+[BlackFideId "1905821"]
+[WhiteTeam "GX Porto 'A'"]
+[BlackTeam "GD Cavadas"]
+[PlyCount "63"]
+[EventDate "2019.??.??"]
+
+1. d4 c5 2. d5 e6 3. c4 exd5 4. cxd5 d6 5. Nc3 Nf6 6. e4 Be7 7. f4 O-O 8. Nf3
+Re8 9. Be2 Bf8 10. Nd2 Bd7 11. a4 Na6 12. Bxa6 bxa6 13. O-O Rb8 14. Qc2 Ng4 15.
+Nf3 f5 16. e5 dxe5 17. fxe5 Nxe5 18. Nxe5 Rxe5 19. Bf4 Bd6 20. Rf3 Qf6 21. Bxe5
+Qxe5 22. g3 Qd4+ 23. Qf2 Rxb2 24. Qxd4 cxd4 25. Nd1 Rb4 26. Nf2 g6 27. Rfa3 Rb2
+28. R3a2 Rb3 29. Rd1 Rb4 30. Rda1 Rb3 31. Rc1 Rb4 32. Rd1 1/2-1/2
+
+[Event "Taça de Portugal 2018-19"]
+[Site "Coimbra POR"]
+[Date "2019.06.08"]
+[Round "4.3.3"]
+[White "Turta, Stelian"]
+[Black "Ferreira, Paulo"]
+[Result "0-1"]
+[ECO "A46"]
+[WhiteElo "1936"]
+[BlackElo "2050"]
+[WhiteFideId "1924680"]
+[BlackFideId "1900820"]
+[WhiteTeam "GD Cavadas"]
+[BlackTeam "GX Porto 'A'"]
+[BlackTitle "NM"]
+[PlyCount "78"]
+[EventDate "2019.??.??"]
+
+1. d4 Nf6 2. Nf3 d6 3. h3 Nbd7 4. Bf4 c6 5. e3 Qb6 6. Qc1 g6 7. Be2 Bg7 8. O-O
+O-O 9. a4 a5 10. Nbd2 Re8 11. Nc4 Qc7 12. Na3 e5 13. Bh2 Nf8 14. Re1 N6d7 15. c4
+Ne6 16. Qd1 f5 17. Rb1 Rf8 18. Bf1 f4 19. d5 Nec5 20. exf4 exf4 21. Ng5 Ne5 22.
+f3 Bf5 23. Ne4 Bxe4 24. fxe4 f3 25. Kh1 fxg2+ 26. Kxg2 Qe7 27. dxc6 bxc6 28. Nc2
+Qg5+ 29. Kh1 Rf2 30. Re2 Raf8 31. Ne3 Nxe4 32. Bg2 Rxe2 33. Qxe2 Nf2+ 34. Kg1
+Nxh3+ 35. Kh1 Nf2+ 36. Kg1 Nf3+ 37. Kxf2 Nd4+ 38. Bf3 Nxe2 39. Kxe2 Bd4 0-1
+
+[Event "Taça de Portugal 2018-19"]
+[Site "Coimbra POR"]
+[Date "2019.06.08"]
+[Round "4.3.4"]
+[White "Ribeiro, Dinis"]
+[Black "Silva, Flávio"]
+[Result "0-1"]
+[ECO "A00"]
+[WhiteElo "1929"]
+[BlackElo "1967"]
+[WhiteFideId "1903675"]
+[BlackFideId "1903691"]
+[WhiteTeam "GX Porto 'A'"]
+[BlackTeam "GD Cavadas"]
+[PlyCount "84"]
+[EventDate "2019.??.??"]
+
+1. b3 Nf6 2. Bb2 e6 3. e3 Be7 4. Nf3 b6 5. d4 Bb7 6. Nbd2 d5 7. Bd3 Nbd7 8. O-O
+O-O 9. Ne5 Ne4 10. f3 Nxd2 11. Qxd2 f5 12. Bb5 Nxe5 13. dxe5 a6 14. Bd3 c5 15.
+Rfd1 b5 16. c4 dxc4 17. bxc4 b4 18. Qc2 Qb6 19. a4 Rad8 20. Rd2 g6 21. Rad1 Qc7
+22. Be2 Rxd2 23. Rxd2 Rd8 24. Rxd8+ Qxd8 25. Qd1 Qxd1+ 26. Bxd1 Kf8 27. Kf2 Ke8
+28. Bc2 Kd8 29. Ke2 Kc7 30. h3 Kb6 31. g4 Ka5 32. f4 Bg2 33. gxf5 gxf5 34. Kf2
+Bc6 35. e4 Bxe4 36. Bxe4 fxe4 37. Ke3 Kxa4 38. Kxe4 Kb3 39. Bc1 Kc2 40. f5 exf5+
+41. Kxf5 Kxc1 42. Ke6 Bh4 0-1
+
+[Event "Taça de Portugal 2018-19"]
+[Site "Coimbra POR"]
+[Date "2019.06.08"]
+[Round "4.4.1"]
+[White "Perez Candelario, Manuel"]
+[Black "Ferreira, Jorge"]
+[Result "1/2-1/2"]
+[ECO "C88"]
+[WhiteElo "2606"]
+[BlackElo "2532"]
+[WhiteFideId "2210622"]
+[BlackFideId "1910850"]
+[WhiteTeam "A.XAT -Montemor o Novo"]
+[BlackTeam "GD Dias Ferreira 'A'"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[PlyCount "54"]
+[EventDate "2019.??.??"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3
+O-O 9. h3 Na5 10. Bc2 c5 11. d4 Qc7 12. b4 cxb4 13. cxb4 Nc4 14. Nbd2 Be6 15.
+Nxc4 Bxc4 16. Bb2 d5 17. dxe5 Nxe4 18. a3 a5 19. bxa5 Rxa5 20. Bxe4 dxe4 21. Nd2
+Be6 22. Nxe4 Rd8 23. Qe2 Qc4 24. Qe3 Qc2 25. Re2 Qd3 26. Nd6 Qxe3 27. Rxe3 Bxd6
+1/2-1/2
+
+[Event "Taça de Portugal 2018-19"]
+[Site "Coimbra POR"]
+[Date "2019.06.08"]
+[Round "4.4.2"]
+[White "Srinath, Rao S. V."]
+[Black "Santos Latasa, Jaime"]
+[Result "0-1"]
+[ECO "B20"]
+[WhiteElo "2433"]
+[BlackElo "2581"]
+[WhiteFideId "5028876"]
+[BlackFideId "2293307"]
+[WhiteTeam "GD Dias Ferreira 'A'"]
+[BlackTeam "A.XAT -Montemor o Novo"]
+[WhiteTitle "FM"]
+[BlackTitle "GM"]
+[PlyCount "62"]
+[EventDate "2019.??.??"]
+
+1. e4 c5 2. c3 Nf6 3. e5 Nd5 4. d4 cxd4 5. Nf3 Nc6 6. cxd4 d6 7. Bc4 Nb6 8. Bb3
+dxe5 9. d5 Na5 10. Nc3 f6 11. Be3 Bd7 12. O-O Nbc4 13. Qe2 Nxe3 14. fxe3 Nxb3
+15. axb3 Qb6 16. Nd2 g6 17. d6 Qxd6 18. Nde4 Qe6 19. Nc5 Qg4 20. Qxg4 Bxg4 21.
+Nd5 O-O-O 22. e4 e6 23. Rfc1 exd5 24. Ne6+ Kb8 25. Nxd8 Bh6 26. Nc6+ bxc6 27.
+Rxc6 Be3+ 28. Kf1 Bd7 29. Rxf6 Bb5+ 30. Ke1 d4 31. Ra5 a6 0-1
+
+[Event "Taça de Portugal 2018-19"]
+[Site "Coimbra POR"]
+[Date "2019.06.08"]
+[Round "4.4.3"]
+[White "Dâmaso, Rui"]
+[Black "Andrés González, Iván"]
+[Result "1/2-1/2"]
+[ECO "B52"]
+[WhiteElo "2438"]
+[BlackElo "2321"]
+[WhiteFideId "1900030"]
+[BlackFideId "2217783"]
+[WhiteTeam "A.XAT -Montemor o Novo"]
+[BlackTeam "GD Dias Ferreira 'A'"]
+[WhiteTitle "IM"]
+[BlackTitle "FM"]
+[PlyCount "53"]
+[EventDate "2019.??.??"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Bd7 4. Bxd7+ Qxd7 5. O-O Nf6 6. Qe2 e6 7. d4 cxd4 8.
+Nxd4 Nc6 9. Rd1 Rc8 10. b3 Nxd4 11. Rxd4 Qc6 12. Rc4 Qd7 13. Rd4 Qc6 14. Rc4 Qd7
+15. Rxc8+ Qxc8 16. Ba3 Qc6 17. Nd2 Be7 18. c4 Nd7 19. Nf3 Qc7 20. Rd1 O-O 21.
+Qe3 a6 22. Qd4 Nc5 23. Bxc5 dxc5 24. Qe3 Rd8 25. Rxd8+ Qxd8 26. g3 f6 27. Kg2
+1/2-1/2
+
+[Event "Taça de Portugal 2018-19"]
+[Site "Coimbra POR"]
+[Date "2019.06.08"]
+[Round "4.4.4"]
+[White "León Iglesias, Francisco"]
+[Black "Rego, Pedro"]
+[Result "0-1"]
+[ECO "A04"]
+[WhiteElo "2131"]
+[BlackElo "2228"]
+[WhiteFideId "2212544"]
+[BlackFideId "1904310"]
+[WhiteTeam "GD Dias Ferreira 'A'"]
+[BlackTeam "A.XAT -Montemor o Novo"]
+[BlackTitle "FM"]
+[EventDate "2019.??.??"]
+
+1. Nf3 c5 2. b3 Nf6 3. Bb2 e6 4. c4 Nc6 5. g3 b6 6. Bg2 Bb7 7. O-O Be7 8. d4
+cxd4 9. Nxd4 O-O 10. Nc3 Qb8 11. Nc2 Rd8 12. e4 a6 13. Re1 d6 14. Kh1 b5 15.
+cxb5 axb5 16. Nxb5 Ne5 17. a4 Neg4 18. Kg1 Ne5 19. Qe2 Ned7 20. Ncd4 Nc5 21. f3
+e5 22. Nf5 Bf8 23. Qe3 g6 24. Qg5 Nd3 25. Qxf6 gxf5 26. Reb1 Bc6 27. Qg5+ Bg7
+28. Qd2 Bxb5 29. axb5 Qb6+ 30. Kf1 Qxb5 31. Qe2 Qxb3 32. Rd1 Nxb2 33. Rab1 Rdb8
+34. Rd2 Ra2 35. Bh3 Bh6 36. Rc2 Be3 37. Bxf5 Bd4 38. f4 Rba8 39. Kg2 Qxc2 0-1
+

@@ -1,0 +1,661 @@
+[Event "CN Jovens 2018 - U10"]
+[Site "Luso POR"]
+[Date "2018.03.24"]
+[Round "1.1"]
+[White "Silva, Daniel"]
+[Black "Ferreira, Eduardo"]
+[Result "1-0"]
+[ECO "B40"]
+[WhiteElo "1661"]
+[WhiteFideId "1951378"]
+[BlackFideId "1957481"]
+[PlyCount "57"]
+[EventDate "2018.??.??"]
+
+1. e4 c5 2. Nf3 e6 3. d4 Nc6 4. d5 exd5 5. exd5 Nb8 6. d6 b6 7. Qe2+ Ne7 8. dxe7
+Bxe7 9. Nc3 O-O 10. Bf4 Re8 11. O-O-O Bf6 12. Qd2 Bb7 13. Nb5 Na6 14. Nd6 Bxf3
+15. gxf3 Re7 16. Bxa6 Re6 17. Bb7 Rb8 18. Nxf7 Kxf7 19. Bxb8 Qxb8 20. Bd5 Qe5
+21. Bxe6+ dxe6 22. Qc3 Qf4+ 23. Qe3 Qb4 24. Qb3 Qf4+ 25. Kb1 c4 26. Qe3 Qb8 27.
+Rd7+ Ke8 28. Qxe6+ Kf8 29. Qf7# 1-0
+
+[Event "CN Jovens 2018 - U10"]
+[Site "Luso POR"]
+[Date "2018.03.24"]
+[Round "1.2"]
+[White "Ferreira, Ines"]
+[Black "Sousa, Gil O T"]
+[Result "0-1"]
+[ECO "C46"]
+[BlackElo "1502"]
+[BlackFideId "1948709"]
+[PlyCount "48"]
+[EventDate "2018.??.??"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. Be2 Bc5 5. O-O O-O 6. d3 h6 7. Bd2 d6 8. b4
+Bxb4 9. Rb1 Bxc3 10. Bxc3 b6 11. Qd2 Re8 12. h3 d5 13. Qc1 dxe4 14. dxe4 Nxe4
+15. Rb4 Nxc3 16. Bd3 e4 17. Ne1 exd3 18. Nxd3 Ne2+ 19. Kh1 Nxc1 20. Rxc1 Nxb4
+21. Nxb4 Qd2 22. Ra1 Re1+ 23. Kh2 Qf4+ 24. g3 Qxf2# 0-1
+
+[Event "CN Jovens 2018 - U10"]
+[Site "Luso POR"]
+[Date "2018.03.24"]
+[Round "1.3"]
+[White "Sousa, David O T"]
+[Black "Ferreira, Leo"]
+[Result "1-0"]
+[ECO "C41"]
+[WhiteElo "1438"]
+[WhiteFideId "1948695"]
+[PlyCount "39"]
+[EventDate "2018.??.??"]
+
+1. e4 e5 2. Nf3 d6 3. d4 f6 4. Nc3 Be6 5. Be3 Qd7 6. d5 Bf7 7. Bb5 c6 8. Bd3 c5
+9. Bb5 Nc6 10. dxc6 bxc6 11. Ba4 Rb8 12. b3 Rb4 13. O-O Nh6 14. Qd2 Be7 15. Rad1
+a5 16. Bxc5 dxc5 17. Qxd7+ Kf8 18. Qc8+ Bd8 19. Rxd8+ Ke7 20. Qd7# 1-0
+
+[Event "CN Jovens 2018 - U10"]
+[Site "Luso POR"]
+[Date "2018.03.24"]
+[Round "1.4"]
+[White "Gaspar, Tiago Ribeiro"]
+[Black "Almeida, Pedro Bastos"]
+[Result "0-1"]
+[ECO "B01"]
+[BlackElo "1329"]
+[WhiteFideId "1952498"]
+[BlackFideId "1952439"]
+[PlyCount "22"]
+[EventDate "2018.??.??"]
+
+1. e4 d5 2. Nc3 d4 3. Nce2 e5 4. Nf3 Nc6 5. d3 Bg4 6. h3 Bxf3 7. gxf3 g6 8. Bd2
+Bg7 9. f4 Nge7 10. fxe5 Nxe5 11. Bf4 Nf3# 0-1
+
+[Event "CN Jovens 2018 - U10"]
+[Site "Luso POR"]
+[Date "2018.03.25"]
+[Round "2.1"]
+[White "Azevedo, Nuno Filipe Pires"]
+[Black "Silva, Daniel"]
+[Result "0-1"]
+[ECO "C50"]
+[BlackElo "1661"]
+[WhiteFideId "1956078"]
+[BlackFideId "1951378"]
+[PlyCount "24"]
+[EventDate "2018.??.??"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. O-O d6 5. d3 h6 6. Nc3 Bg4 7. h3 Bh5 8. Nh4
+Bxd1 9. Rxd1 Qxh4 10. g3 Qxg3+ 11. Kh1 Qf3+ 12. Kg1 Bxf2+ 0-1
+
+[Event "CN Jovens 2018 - U10"]
+[Site "Luso POR"]
+[Date "2018.03.25"]
+[Round "2.2"]
+[White "Sousa, Gil O T"]
+[Black "Camacho, Francisco Miguel"]
+[Result "1-0"]
+[ECO "C55"]
+[WhiteElo "1502"]
+[WhiteFideId "1948709"]
+[BlackFideId "1959115"]
+[PlyCount "55"]
+[EventDate "2018.??.??"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d3 d6 5. c3 Be7 6. Nbd2 O-O 7. d4 Bg4 8. d5
+Nh5 9. dxc6 bxc6 10. h3 Bd7 11. Nf1 Nf6 12. Ng3 Rb8 13. O-O d5 14. exd5 cxd5 15.
+Bxd5 c6 16. Bb3 e4 17. Ne5 Rb7 18. Re1 Be8 19. Qxd8 Bxd8 20. Nxe4 Nxe4 21. Rxe4
+Re7 22. Bg5 Rc7 23. Bxd8 Rc8 24. Be7 Rc7 25. Bxf8 Kxf8 26. Rae1 c5 27. Ng6+ fxg6
+28. Rxe8# 1-0
+
+[Event "CN Jovens 2018 - U10"]
+[Site "Luso POR"]
+[Date "2018.03.25"]
+[Round "2.3"]
+[White "Campos, Francisco Garcia"]
+[Black "Sousa, David O T"]
+[Result "0-1"]
+[ECO "C44"]
+[BlackElo "1438"]
+[WhiteFideId "1956493"]
+[BlackFideId "1948695"]
+[PlyCount "42"]
+[EventDate "2018.??.??"]
+
+1. e4 e5 2. Nf3 Nc6 3. a3 Nf6 4. Nc3 d6 5. h3 Be6 6. Bc4 Bxc4 7. d3 Be6 8. Bg5
+Be7 9. Qd2 O-O 10. O-O h6 11. Bxf6 Bxf6 12. Rfe1 d5 13. Qe3 d4 14. Qd2 dxc3 15.
+Qxc3 Nd4 16. Rac1 Nxf3+ 17. gxf3 Bxh3 18. Re2 Bg5 19. Rce1 Bf4 20. Rf1 Qg5+ 21.
+Kh1 Qg2# 1-0
+
+[Event "CN Jovens 2018 - U10"]
+[Site "Luso POR"]
+[Date "2018.03.25"]
+[Round "2.4"]
+[White "Almeida, Pedro Bastos"]
+[Black "Castro, Rafael"]
+[Result "1-0"]
+[ECO "A40"]
+[WhiteElo "1329"]
+[WhiteFideId "1952439"]
+[BlackFideId "1959123"]
+[PlyCount "35"]
+[EventDate "2018.??.??"]
+
+1. d4 e6 2. c4 Bb4+ 3. Bd2 Bf8 4. Nc3 Qe7 5. d5 c6 6. dxe6 fxe6 7. Nf3 a6 8. Bg5
+Nf6 9. e4 h6 10. Bh4 g5 11. Bg3 d6 12. e5 Ng8 13. exd6 Qxd6 14. Bxd6 Bxd6 15.
+Qxd6 Bd7 16. Ne5 Bc8 17. Rd1 h5 18. Qd8# 1-0
+
+[Event "CN Jovens 2018 - U10"]
+[Site "Luso POR"]
+[Date "2018.03.25"]
+[Round "3.1"]
+[White "Silva, Daniel"]
+[Black "Abreu, Duarte Ferreira"]
+[Result "1-0"]
+[ECO "B01"]
+[WhiteElo "1661"]
+[WhiteFideId "1951378"]
+[BlackFideId "1962167"]
+[PlyCount "45"]
+[EventDate "2018.??.??"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd8 4. d4 Nf6 5. Nf3 Bg4 6. Be2 Nc6 7. Be3 Bxf3 8.
+Bxf3 e6 9. O-O Bb4 10. Ne4 Nxe4 11. Bxe4 e5 12. Bxc6+ bxc6 13. dxe5 Qe7 14. f4
+Bc5 15. Qf3 O-O 16. Rae1 Bb4 17. c3 Bc5 18. Kh1 Bxe3 19. Rxe3 Qc5 20. Qe4 Qb5
+21. Qb1 Qc5 22. Rh3 Rad8 23. Qxh7# 1-0
+
+[Event "CN Jovens 2018 - U10"]
+[Site "Luso POR"]
+[Date "2018.03.25"]
+[Round "3.2"]
+[White "André, Diogo Ferreira"]
+[Black "Sousa, Gil O T"]
+[Result "0-1"]
+[ECO "C50"]
+[BlackElo "1502"]
+[WhiteFideId "1953214"]
+[BlackFideId "1948709"]
+[PlyCount "56"]
+[EventDate "2018.??.??"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. O-O Nf6 5. Nc3 d6 6. h3 O-O 7. d3 h6 8. Be3
+Bb6 9. Qd2 Ne7 10. Rfe1 Ng6 11. Qe2 Be6 12. Bb3 Re8 13. Rad1 d5 14. Bxb6 axb6
+15. a3 d4 16. Na2 Bxb3 17. cxb3 Nf4 18. Qd2 Qd7 19. Kf1 N6h5 20. Ng1 Re6 21. g4
+Nf6 22. Rc1 Nh7 23. Qd1 Rf6 24. Qf3 Qb5 25. Red1 Ng5 26. Qg3 Nxe4 27. Qf3 Nh5
+28. Qxe4 Ng3+ 0-1
+
+[Event "CN Jovens 2018 - U10"]
+[Site "Luso POR"]
+[Date "2018.03.25"]
+[Round "3.3"]
+[White "Sousa, David O T"]
+[Black "Almeida, Marta Dias"]
+[Result "1-0"]
+[ECO "B32"]
+[WhiteElo "1438"]
+[WhiteFideId "1948695"]
+[BlackFideId "1956060"]
+[PlyCount "49"]
+[EventDate "2018.??.??"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 b6 4. Nc3 Nf6 5. d5 Nb4 6. e5 Ng4 7. d6 g6 8. h3 Nh6
+9. Nb5 Rb8 10. Nc7+ Qxc7 11. dxc7 Rb7 12. a3 Nc6 13. Ba6 Bg7 14. Bxb7 Bxb7 15.
+O-O O-O 16. Bxh6 Bxh6 17. Qxd7 Bc8 18. Qxc6 Be6 19. Rad1 Bf5 20. Rd8 Bxc2 21.
+Rxf8+ Bxf8 22. c8=Q Bd3 23. Q6e8 h5 24. Qxf8+ Kh7 25. Qh8# 1-0
+
+[Event "CN Jovens 2018 - U10"]
+[Site "Luso POR"]
+[Date "2018.03.25"]
+[Round "3.4"]
+[White "Fernandes, Martim Bernardo"]
+[Black "Almeida, Pedro Bastos"]
+[Result "0-1"]
+[ECO "B01"]
+[BlackElo "1329"]
+[WhiteFideId "1960547"]
+[BlackFideId "1952439"]
+[PlyCount "64"]
+[EventDate "2018.??.??"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd8 4. d4 e6 5. Nf3 Bb4 6. Bg5 Bxc3+ 7. bxc3 Ne7 8.
+Bb5+ Bd7 9. Bxd7+ Qxd7 10. Bxe7 Qxe7 11. O-O O-O 12. Qb1 b6 13. Qc1 Nd7 14. c4
+c5 15. c3 Qf6 16. Qc2 Rac8 17. h4 h6 18. g4 Qxf3 19. Rfe1 Qxg4+ 20. Kh1 Qxh4+
+21. Kg1 Nf6 22. f3 Nh5 23. Qh2 Qxh2+ 24. Kxh2 cxd4 25. Rac1 Rxc4 26. cxd4 Rxd4
+27. Red1 Rxd1 28. Rxd1 Rc8 29. Rd7 Rc2+ 30. Kh3 Rxa2 31. Kg4 Nf6+ 32. Kf4 Nxd7
+0-1
+
+[Event "CN Jovens 2018 - U10"]
+[Site "Luso POR"]
+[Date "2018.03.26"]
+[Round "4.1"]
+[White "Duarte, Francisco"]
+[Black "Silva, Daniel"]
+[Result "0-1"]
+[ECO "D53"]
+[WhiteElo "1228"]
+[BlackElo "1661"]
+[WhiteFideId "1941011"]
+[BlackFideId "1951378"]
+[PlyCount "72"]
+[EventDate "2018.??.??"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5 Be7 5. Nf3 Nbd7 6. e3 O-O 7. Qc2 c6 8. Bd3
+dxc4 9. Bxc4 Nd5 10. Bxe7 Qxe7 11. O-O h6 12. e4 N5b6 13. Bd3 e5 14. Rfe1 exd4
+15. Nxd4 Ne5 16. Bf1 Qc5 17. Rad1 Rd8 18. Nb3 Qe7 19. f4 Rxd1 20. Rxd1 Ng4 21.
+Qd3 Be6 22. Nd4 Qh4 23. Qg3 Qxg3 24. hxg3 Bc4 25. Re1 Rd8 26. Nf3 Bxf1 27. Kxf1
+Nc4 28. b3 Nce3+ 29. Kg1 Kf8 30. Re2 Rd3 31. Na4 b5 32. Nb2 Rc3 33. Kh1 Nf1 34.
+Kg1 Nxg3 35. Rd2 Nxe4 36. g3 Nxd2 0-1
+
+[Event "CN Jovens 2018 - U10"]
+[Site "Luso POR"]
+[Date "2018.03.26"]
+[Round "4.2"]
+[White "Sousa, Gil O T"]
+[Black "Couto, Clara"]
+[Result "1-0"]
+[ECO "D30"]
+[WhiteElo "1502"]
+[BlackElo "1143"]
+[WhiteFideId "1948709"]
+[BlackFideId "1950118"]
+[PlyCount "53"]
+[EventDate "2018.??.??"]
+
+1. d4 d5 2. c4 e6 3. cxd5 exd5 4. Nc3 Nf6 5. Bg5 Be7 6. e3 O-O 7. Qc2 Nbd7 8.
+Bd3 h6 9. Bh4 b6 10. Nf3 g6 11. Ne5 Bb7 12. Bxf6 Bxf6 13. Ng4 Bg7 14. O-O-O Re8
+15. h4 Nf6 16. Ne5 Qd6 17. f4 Bc8 18. Rdg1 Be6 19. g4 Nh7 20. h5 Nf8 21. hxg6
+fxg6 22. Nxg6 Bf7 23. Nxf8 Rxf8 24. g5 Rae8 25. gxh6 Rxe3 26. Bh7+ Kh8 27. hxg7#
+1-0
+
+[Event "CN Jovens 2018 - U10"]
+[Site "Luso POR"]
+[Date "2018.03.26"]
+[Round "4.3"]
+[White "Martins, Vasco"]
+[Black "Sousa, David O T"]
+[Result "0-1"]
+[ECO "C50"]
+[WhiteElo "1147"]
+[BlackElo "1438"]
+[WhiteFideId "1952986"]
+[BlackFideId "1948695"]
+[PlyCount "84"]
+[EventDate "2018.??.??"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. O-O d6 5. h3 Nf6 6. Nc3 Be6 7. Bb3 Qd7 8. d3
+O-O-O 9. Bg5 h6 10. Be3 Bb6 11. Bxb6 cxb6 12. Qd2 g5 13. Bxe6 fxe6 14. Nh2 Rdg8
+15. Ng4 Nxg4 16. hxg4 h5 17. f3 hxg4 18. fxg4 Qh7 19. Kf2 Nd4 20. Ke1 Qh4+ 21.
+Qf2 Nxc2+ 22. Kd1 Qxf2 23. Rxf2 Nxa1 24. Rf1 Rf8 25. Rxf8+ Rxf8 26. Ne2 Rf1+ 27.
+Kd2 Rf2 28. g3 Nc2 29. Kxc2 Rxe2+ 30. Kc1 Rg2 31. a3 Rxg3 32. Kc2 Rxg4 33. Kc3
+Rf4 34. Kb3 g4 35. Kc3 g3 36. Kb3 g2 37. Ka2 g1=Q 38. Kb3 Qb1 39. Kc3 Rf3 40.
+Kb3 Rxd3+ 41. Kc4 Qc2+ 42. Kb4 Qb3# 0-1
+
+[Event "CN Jovens 2018 - U10"]
+[Site "Luso POR"]
+[Date "2018.03.26"]
+[Round "4.4"]
+[White "Almeida, Pedro Bastos"]
+[Black "Dias, Leonardo Ribeiro"]
+[Result "1-0"]
+[ECO "D31"]
+[WhiteElo "1329"]
+[BlackElo "1134"]
+[WhiteFideId "1952439"]
+[BlackFideId "1949845"]
+[PlyCount "105"]
+[EventDate "2018.??.??"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Be7 4. Nf3 Nf6 5. Bg5 h6 6. Bh4 a6 7. e3 dxc4 8. Bxc4
+b5 9. Bd3 Bb7 10. Bxf6 Bxf6 11. Be4 Bxe4 12. Nxe4 Nd7 13. Rc1 Rc8 14. Qc2 O-O
+15. Qc6 Nb8 16. Nxf6+ Qxf6 17. Qe4 Qe7 18. Ne5 Qb4+ 19. Ke2 Qxb2+ 20. Rc2 Qa3
+21. Rhc1 Qe7 22. Nc6 Qd6 23. Nxb8 Rxb8 24. h3 Qd5 25. Qxd5 exd5 26. Rxc7 a5 27.
+Rd7 Rfd8 28. Rxd8+ Rxd8 29. Rc5 Rb8 30. Rxd5 a4 31. Kd3 Kf8 32. Kc2 Rc8+ 33. Rc5
+Rxc5+ 34. dxc5 Ke7 35. Kc3 Kd7 36. Kb4 Kc6 37. a3 f6 38. g4 g5 39. f4 gxf4 40.
+exf4 Kd5 41. Kxb5 h5 42. gxh5 f5 43. h6 Ke6 44. h7 Kd5 45. h8=Q Ke4 46. Qe5+ Kf3
+47. Kc4 Kg3 48. Kd3 Kxh3 49. Qxf5+ Kh4 50. Qg5+ Kh3 51. Ke3 Kh2 52. Kf2 Kh1 53.
+Qg1# 1-0
+
+[Event "CN Jovens 2018 - U10"]
+[Site "Luso POR"]
+[Date "2018.03.26"]
+[Round "5.1"]
+[White "Silva, Daniel"]
+[Black "Almeida, Pedro Bastos"]
+[Result "1-0"]
+[ECO "B01"]
+[WhiteElo "1661"]
+[BlackElo "1329"]
+[WhiteFideId "1951378"]
+[BlackFideId "1952439"]
+[PlyCount "43"]
+[EventDate "2018.??.??"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd8 4. d4 e6 5. Nf3 Nf6 6. Bc4 Bb4 7. O-O O-O 8.
+Ne2 Nc6 9. c3 Be7 10. Bf4 b6 11. Qc2 Bb7 12. Bd3 g6 13. Ng3 Re8 14. Ne4 Nxe4 15.
+Bxe4 Rb8 16. Qd2 Nxd4 17. Bxb7 Nxf3+ 18. Bxf3 Qxd2 19. Bxd2 Rbd8 20. Bf4 c5 21.
+Bc6 Rf8 22. Bh6 1-0
+
+[Event "CN Jovens 2018 - U10"]
+[Site "Luso POR"]
+[Date "2018.03.26"]
+[Round "5.2"]
+[White "Oliveira, Afonso"]
+[Black "Sousa, Gil O T"]
+[Result "0-1"]
+[ECO "C04"]
+[WhiteElo "1100"]
+[BlackElo "1502"]
+[WhiteFideId "1949128"]
+[BlackFideId "1948709"]
+[PlyCount "28"]
+[EventDate "2018.??.??"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nc6 4. Ngf3 Nf6 5. Bd3 Nb4 6. Qe2 Bd7 7. Bb5 Nxc2+ 8.
+Kd1 Nxa1 9. Bxd7+ Qxd7 10. Ne5 Qa4+ 11. b3 Qa6 12. Qe3 Qxa2 13. exd5 Nxd5 14.
+Qe1 Nc3# 0-1
+
+[Event "CN Jovens 2018 - U10"]
+[Site "Luso POR"]
+[Date "2018.03.26"]
+[Round "5.3"]
+[White "Sousa, David O T"]
+[Black "Duarte, Francisco"]
+[Result "1-0"]
+[ECO "B43"]
+[WhiteElo "1438"]
+[BlackElo "1228"]
+[WhiteFideId "1948695"]
+[BlackFideId "1941011"]
+[PlyCount "33"]
+[EventDate "2018.??.??"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Nc3 b5 6. e5 Qb6 7. Be3 Bc5 8. Ne4
+Bxd4 9. Nd6+ Kf8 10. Bxd4 Qa5+ 11. Bc3 Qc7 12. Qf3 Nh6 13. Qxa8 Ke7 14. Bb4 Kd8
+15. Qe4 Nc6 16. Qh4+ Ne7 17. Nxf7+ 1-0
+
+[Event "CN Jovens 2018 - U10"]
+[Site "Luso POR"]
+[Date "2018.03.26"]
+[Round "5.4"]
+[White "Almeida, Marta Dias"]
+[Black "Martins, Vasco"]
+[Result "0-1"]
+[ECO "C62"]
+[BlackElo "1147"]
+[WhiteFideId "1956060"]
+[BlackFideId "1952986"]
+[PlyCount "70"]
+[EventDate "2018.??.??"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 d6 4. O-O Bd7 5. d3 Nf6 6. Bg5 g6 7. d4 a6 8. Bc4 b5
+9. Bb3 Bg7 10. dxe5 Nxe5 11. Nxe5 dxe5 12. h3 Bc6 13. Nc3 Qxd1 14. Raxd1 Nxe4
+15. Nxe4 Bxe4 16. Rde1 Bc6 17. Re3 Rc8 18. Bf4 f6 19. Rfe1 Kf8 20. Be6 Re8 21.
+Bg3 Rxe6 22. R3e2 Bh6 23. Rd1 Ke7 24. Rd3 Rd8 25. Rxd8 Kxd8 26. Rd2+ Bxd2 27.
+Bh4 Rd6 28. c3 Bf4 29. Bxf6+ Rxf6 30. g3 Bc1 31. Kf1 Be3 32. b3 Rxf2+ 33. Ke1
+Rxa2 34. c4 Bf3 35. cxb5 Ra1# 0-1
+
+[Event "CN Jovens 2018 - U10"]
+[Site "Luso POR"]
+[Date "2018.03.27"]
+[Round "6.1"]
+[White "Sousa, Gil O T"]
+[Black "Sousa, David O T"]
+[Result "1/2-1/2"]
+[ECO "C54"]
+[WhiteElo "1502"]
+[BlackElo "1438"]
+[WhiteFideId "1948709"]
+[BlackFideId "1948695"]
+[PlyCount "30"]
+[EventDate "2018.??.??"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Nf6 5. d4 exd4 6. cxd4 Bb4+ 7. Bd2 Bxd2+ 8.
+Nbxd2 d5 9. exd5 Nxd5 10. Qb3 Nce7 11. O-O O-O 12. Rfe1 c6 13. Ne4 Qb6 14. Nc3
+Qxb3 15. Bxb3 Bg4 1/2-1/2
+
+[Event "CN Jovens 2018 - U10"]
+[Site "Luso POR"]
+[Date "2018.03.27"]
+[Round "6.2"]
+[White "Martins, Vasco"]
+[Black "Silva, Daniel"]
+[Result "0-1"]
+[ECO "C50"]
+[WhiteElo "1147"]
+[BlackElo "1661"]
+[WhiteFideId "1952986"]
+[BlackFideId "1951378"]
+[PlyCount "80"]
+[EventDate "2018.??.??"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. O-O d6 5. h3 Nf6 6. Nc3 Be6 7. Bb3 Qd7 8. Ba4
+a6 9. d4 exd4 10. Bxc6 Qxc6 11. Nxd4 Qb6 12. Na4 Qa7 13. Nxc5 dxc5 14. Nf5 g6
+15. Ng7+ Ke7 16. Nxe6 fxe6 17. Bg5 h6 18. Bxf6+ Kxf6 19. Qf3+ Kg7 20. Qc3+ Kh7
+21. Qf6 Rhf8 22. Qxe6 Rae8 23. Qd7+ Kh8 24. Rfe1 Qb6 25. Qd2 Kg7 26. Qc3+ Kh7
+27. Rad1 Re7 28. e5 c4 29. Rd2 Qe6 30. Qg3 Rf5 31. Rde2 Ref7 32. a3 b5 33. b4 g5
+34. Qc3 h5 35. g4 hxg4 36. hxg4 Rf3 37. Qd4 R7f4 38. Qd2 Qxg4+ 39. Kf1 Qh3+ 40.
+Kg1 Rg4# 0-1
+
+[Event "CN Jovens 2018 - U10"]
+[Site "Luso POR"]
+[Date "2018.03.27"]
+[Round "6.3"]
+[White "Almeida, Pedro Bastos"]
+[Black "Oliveira, Afonso"]
+[Result "1-0"]
+[ECO "A40"]
+[WhiteElo "1329"]
+[BlackElo "1100"]
+[WhiteFideId "1952439"]
+[BlackFideId "1949128"]
+[PlyCount "109"]
+[EventDate "2018.??.??"]
+
+1. d4 e6 2. c4 d5 3. Nc3 Nf6 4. Nf3 Bb4 5. Bd2 Nc6 6. a3 Be7 7. Bf4 Bd6 8. Bxd6
+cxd6 9. e3 dxc4 10. Bxc4 d5 11. Bb5 Bd7 12. Bxc6 Bxc6 13. Ne5 O-O 14. h4 a6 15.
+h5 h6 16. g4 Ne4 17. Nxe4 dxe4 18. Nxc6 bxc6 19. Qc2 Qa5+ 20. b4 Qd5 21. Rc1
+Rac8 22. Qc4 Qb5 23. Qxb5 cxb5 24. Kd2 Rxc1 25. Rxc1 Rd8 26. Rc6 e5 27. Kc3 Ra8
+28. dxe5 a5 29. bxa5 Rxa5 30. Kb4 Ra4+ 31. Kb3 Ra5 32. e6 fxe6 33. Rxe6 Ra4 34.
+Re5 Ra8 35. Rxe4 Rf8 36. f4 Rd8 37. Rd4 Re8 38. e4 Rf8 39. f5 Rc8 40. Kb4 Rc1
+41. Kxb5 Rb1+ 42. Rb4 Rg1 43. e5 Kf7 44. a4 Re1 45. e6+ Ke7 46. a5 Re5+ 47. Kb6
+Rd5 48. a6 Rd6+ 49. Kb7 Rxa6 50. Kxa6 Kf6 51. Re4 Ke7 52. Kb6 Ke8 53. e7 g5 54.
+fxg6 Kd7 55. e8=Q+ 1-0
+
+[Event "CN Jovens 2018 - U10"]
+[Site "Luso POR"]
+[Date "2018.03.27"]
+[Round "6.4"]
+[White "Couto, Clara"]
+[Black "Farias, David"]
+[Result "0-1"]
+[ECO "C50"]
+[WhiteElo "1143"]
+[BlackElo "1077"]
+[WhiteFideId "1950118"]
+[BlackFideId "1955004"]
+[PlyCount "78"]
+[EventDate "2018.??.??"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. d4 exd4 5. c3 Nge7 6. cxd4 Bb4+ 7. Bd2 Bxd2+
+8. Nbxd2 O-O 9. O-O d5 10. exd5 Nxd5 11. h3 Re8 12. Qc2 Na5 13. Rfe1 Nxc4 14.
+Nxc4 Be6 15. Nce5 Rc8 16. Qe4 g6 17. Nd2 Bf5 18. Qf3 c6 19. g4 Be6 20. Ne4 Rf8
+21. Qg3 a6 22. Rad1 Nb4 23. a3 Nc2 24. Re2 Nxd4 25. Re3 Ne2+ 26. Rxe2 Qxd1+ 27.
+Kg2 Qxe2 28. Nf6+ Kh8 29. Qh4 Bd5+ 30. Kh2 Qxe5+ 31. Kg1 Qe1+ 32. Kh2 Qh1+ 33.
+Kg3 Qg2+ 34. Kf4 Qh2+ 35. Ke3 Rce8+ 36. Kd2 Qf4+ 37. Kd3 Qc4+ 38. Kd2 Re2+ 39.
+Kd1 Qc2# 0-1
+
+[Event "CN Jovens 2018 - U10"]
+[Site "Luso POR"]
+[Date "2018.03.27"]
+[Round "7.1"]
+[White "Silva, Daniel"]
+[Black "Sousa, Gil O T"]
+[Result "1-0"]
+[ECO "C01"]
+[WhiteElo "1661"]
+[BlackElo "1502"]
+[WhiteFideId "1951378"]
+[BlackFideId "1948709"]
+[PlyCount "55"]
+[EventDate "2018.??.??"]
+
+1. e4 e6 2. d4 d5 3. exd5 exd5 4. Bd3 Bd6 5. c3 Nc6 6. Nf3 Nge7 7. Qc2 h6 8. h3
+Be6 9. Nbd2 Qd7 10. Nf1 Nf5 11. Bd2 g6 12. Ne3 Nxe3 13. Bxe3 Ne7 14. Qd2 Bf5 15.
+g4 Bxd3 16. Qxd3 h5 17. O-O-O O-O-O 18. Ng5 Rdf8 19. Rhg1 f6 20. Nf3 hxg4 21.
+hxg4 Rh3 22. Qf1 Rfh8 23. Qe2 Qa4 24. Kb1 Nc6 25. g5 f5 26. Bc1 Kb8 27. Rde1
+R3h7 28. Qe8+ 1-0
+
+[Event "CN Jovens 2018 - U10"]
+[Site "Luso POR"]
+[Date "2018.03.27"]
+[Round "7.2"]
+[White "Sousa, David O T"]
+[Black "Almeida, Pedro Bastos"]
+[Result "1-0"]
+[ECO "B01"]
+[WhiteElo "1438"]
+[BlackElo "1329"]
+[WhiteFideId "1948695"]
+[BlackFideId "1952439"]
+[PlyCount "139"]
+[EventDate "2018.??.??"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd8 4. d4 e6 5. Nf3 Nf6 6. Bg5 Be7 7. Bc4 b6 8. O-O
+Bb7 9. Re1 Nbd7 10. Qe2 Bxf3 11. Qxf3 O-O 12. Rad1 Re8 13. Bxf6 Bxf6 14. Ne4 Qe7
+15. Bb5 Rad8 16. Nxf6+ Qxf6 17. Qxf6 gxf6 18. d5 e5 19. d6 c5 20. Re3 Kh8 21.
+Rh3 Rg8 22. Ra3 a5 23. Rb3 Nf8 24. Bc4 Rb8 25. Bxf7 Rg4 26. Rg3 Rxg3 27. hxg3
+Kg7 28. d7 Rd8 29. Be8 b5 30. Rd5 Ne6 31. Rd6 Nc7 32. Rc6 Nxe8 33. dxe8=Q Rxe8
+34. Rxc5 Rb8 35. b3 Rb7 36. c4 bxc4 37. Rxc4 Kf7 38. f4 exf4 39. gxf4 Rb4 40.
+Rxb4 axb4 41. f5 h5 42. Kf2 Ke7 43. Ke3 Kd6 44. Ke4 h4 45. Kd4 Kc6 46. Kc4 Kd6
+47. Kxb4 Ke5 48. a4 Kf4 49. a5 Kg3 50. a6 Kxg2 51. a7 h3 52. a8=Q+ Kg1 53. Kc5
+h2 54. b4 h1=Q 55. Qxh1+ Kxh1 56. b5 Kg2 57. Kd5 Kf3 58. b6 Kf4 59. Ke6 Kg5 60.
+b7 Kg4 61. b8=Q Kf3 62. Kxf6 Kg4 63. Kg6 Kh4 64. Qf4+ Kh3 65. Kh5 Kg2 66. Qe3
+Kh2 67. Kh4 Kh1 68. Qe2 Kg1 69. Kg3 Kh1 70. Qg2# 1-0
+
+[Event "CN Jovens 2018 - U10"]
+[Site "Luso POR"]
+[Date "2018.03.27"]
+[Round "7.3"]
+[White "André, Diogo Ferreira"]
+[Black "Silva, José Lucas"]
+[Result "0-1"]
+[ECO "C50"]
+[BlackElo "1128"]
+[WhiteFideId "1953214"]
+[BlackFideId "1954342"]
+[PlyCount "68"]
+[EventDate "2018.??.??"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. O-O d6 5. h3 Nf6 6. Nc3 a6 7. d3 Na5 8. Bd5 h6
+9. Bd2 c6 10. Bb3 Nxb3 11. cxb3 O-O 12. Ne2 Ba7 13. Ng3 Re8 14. Nf5 Bxf5 15.
+exf5 Qd7 16. Bc3 Qxf5 17. Nh4 Qe6 18. Re1 Qd7 19. Qd2 e4 20. dxe4 Nxe4 21. Qd3
+Bxf2+ 22. Kh1 Bxe1 23. Bxe1 Re7 24. Nf3 Rae8 25. Rc1 Nc5 26. Qc3 Re3 27. Qd2 Nd3
+28. Rd1 Qe7 29. Bg3 Qf6 30. Kh2 Qxb2 31. Qxb2 Nxb2 32. Rxd6 Rd3 33. Rxd3 Nxd3
+34. Kg1 Nc1 0-1
+
+[Event "CN Jovens 2018 - U10"]
+[Site "Luso POR"]
+[Date "2018.03.27"]
+[Round "7.4"]
+[White "Farias, David"]
+[Black "Abreu, Duarte Ferreira"]
+[Result "1-0"]
+[ECO "C46"]
+[WhiteElo "1077"]
+[WhiteFideId "1955004"]
+[BlackFideId "1962167"]
+[PlyCount "47"]
+[EventDate "2018.??.??"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. Be2 Bc5 5. O-O d6 6. d3 Bg4 7. b3 Bh5 8. Bb2
+Ng4 9. h3 Bxf2+ 10. Rxf2 Nxf2 11. Kxf2 Nd4 12. Nxd4 Bxe2 13. Ndxe2 O-O 14. Kg1
+Qf6 15. Nd5 Qg5 16. Qc1 Qg6 17. Ne7+ Kh8 18. Nxg6+ fxg6 19. Qe3 Rf7 20. Rf1 Raf8
+21. Rxf7 Rxf7 22. Qxa7 b6 23. Qb8+ Rf8 24. Qxf8# 1-0
+
+[Event "CN Jovens 2018 - U10"]
+[Site "Luso POR"]
+[Date "2018.03.28"]
+[Round "8.1"]
+[White "Sousa, David O T"]
+[Black "Silva, Daniel"]
+[Result "1/2-1/2"]
+[ECO "C45"]
+[WhiteElo "1438"]
+[BlackElo "1661"]
+[WhiteFideId "1948695"]
+[BlackFideId "1951378"]
+[PlyCount "64"]
+[EventDate "2018.??.??"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Bc5 5. Be3 Qf6 6. c3 Nge7 7. Bc4 a6 8.
+O-O O-O 9. Re1 b5 10. Bb3 Bb6 11. Nxc6 dxc6 12. Bxb6 cxb6 13. Qd4 Qxd4 14. cxd4
+Be6 15. Bc2 Rad8 16. Rd1 f5 17. f3 b4 18. Bb3 Bxb3 19. axb3 a5 20. Rd3 Ng6 21.
+d5 Nf4 22. Rd2 fxe4 23. fxe4 cxd5 24. g3 Ng6 25. exd5 Ne7 26. d6 Nf5 27. d7 Rf7
+28. Re2 Rfxd7 29. Re6 Rd6 30. Re5 Nh6 31. Re4 Nf7 32. Kf2 Ng5 1/2-1/2
+
+[Event "CN Jovens 2018 - U10"]
+[Site "Luso POR"]
+[Date "2018.03.28"]
+[Round "8.2"]
+[White "Silva, José Lucas"]
+[Black "Farias, David"]
+[Result "0-1"]
+[ECO "C57"]
+[WhiteElo "1128"]
+[BlackElo "1077"]
+[WhiteFideId "1954342"]
+[BlackFideId "1955004"]
+[PlyCount "96"]
+[EventDate "2018.??.??"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 d5 5. exd5 Nxd5 6. Qh5 g6 7. Qf3 Qxg5 8.
+Bxd5 Nd8 9. O-O Bg7 10. Re1 O-O 11. d4 Qe7 12. Bf4 Qb4 13. Qc3 Qxc3 14. bxc3
+exf4 15. Nd2 Be6 16. Bf3 Nc6 17. Rab1 Nd8 18. Ne4 Bxa2 19. Rb2 Bd5 20. Rb4 b6
+21. c4 Bb7 22. d5 f5 23. Rb3 fxe4 24. Rxe4 a5 25. h3 a4 26. Ra3 Bb2 27. Ra2 a3
+28. Re7 Rc8 29. Bg4 Rb8 30. c3 Rf7 31. Re8+ Kg7 32. Be6 Rf6 33. Re7+ Kf8 34.
+Rxh7 Nxe6 35. Rh8+ Kg7 36. Rxb8 Nc5 37. Re8 Ba6 38. Re7+ Rf7 39. Re2 Bxc4 40.
+Raxb2 axb2 41. Rxb2 Bxd5 42. Rd2 c6 43. g3 fxg3 44. fxg3 Ne4 45. Rd3 Ng5 46. h4
+Nf3+ 47. Kf2 Ne5+ 48. Ke2 Bc4 0-1
+
+[Event "CN Jovens 2018 - U10"]
+[Site "Luso POR"]
+[Date "2018.03.28"]
+[Round "8.3"]
+[White "Sousa, Gil O T"]
+[Black "Duarte, Francisco"]
+[Result "1-0"]
+[ECO "C54"]
+[WhiteElo "1502"]
+[BlackElo "1228"]
+[WhiteFideId "1948709"]
+[BlackFideId "1941011"]
+[PlyCount "87"]
+[EventDate "2018.??.??"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Nf6 5. d4 exd4 6. cxd4 Bb4+ 7. Nc3 Bxc3+ 8.
+bxc3 Nxe4 9. Ba3 d5 10. Bd3 Bf5 11. Qc2 Ne7 12. O-O O-O 13. Nh4 Bg6 14. Nxg6
+fxg6 15. Bxe4 dxe4 16. Qxe4 Re8 17. Qxb7 Nd5 18. Qb3 Rb8 19. Qc2 Nf4 20. Rfe1
+Rxe1+ 21. Rxe1 Qd5 22. f3 Qg5 23. Be7 Nh3+ 24. Kh1 Re8 25. Qb3+ Kh8 26. gxh3 Qd2
+27. Rg1 Qe3 28. Qf7 Qxe7 29. Qxe7 Rxe7 30. Rb1 Kg8 31. Rb7 Re1+ 32. Kg2 Re2+ 33.
+Kg3 Rxa2 34. Rxc7 a5 35. c4 a4 36. Ra7 a3 37. c5 Kf8 38. d5 Ra1 39. c6 a2 40. d6
+Rg1+ 41. Kf2 a1=Q 42. Rxa1 Rxa1 43. c7 Rc1 44. d7 1-0
+
+[Event "CN Jovens 2018 - U10"]
+[Site "Luso POR"]
+[Date "2018.03.28"]
+[Round "8.4"]
+[White "Almeida, Pedro Bastos"]
+[Black "Mendonca, Lourenco Maria"]
+[Result "1-0"]
+[ECO "D06"]
+[WhiteElo "1329"]
+[BlackElo "1034"]
+[WhiteFideId "1952439"]
+[BlackFideId "1956361"]
+[PlyCount "49"]
+[EventDate "2018.??.??"]
+
+1. d4 d5 2. c4 Nf6 3. Nc3 b6 4. Bg5 Bb7 5. Bxf6 exf6 6. Nf3 c6 7. e3 Be7 8. Be2
+O-O 9. cxd5 cxd5 10. O-O Nc6 11. Rc1 Qd7 12. Qb3 Na5 13. Qc2 Rac8 14. Bb5 Bc6
+15. Bxc6 Nxc6 16. Qb3 Nb4 17. a3 Nd3 18. Rcd1 Nc5 19. dxc5 bxc5 20. Rxd5 Qe6 21.
+Qc2 Bd8 22. Rfd1 Qa6 23. Qa4 Qxa4 24. Nxa4 c4 25. Nc5 1-0
+

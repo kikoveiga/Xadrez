@@ -1,0 +1,364 @@
+[Event "10th World University Chess Championship"]
+[Site "Novokuznetsk RUS"]
+[Date "2008.03.??"]
+[Round "1"]
+[White "Pokazanjev, Nikolai"]
+[Black "Viela, Marco"]
+[Result "1-0"]
+[WhiteElo "2405"]
+[BlackElo "2161"]
+[ECO "C96"]
+[PlyCount "75"]
+[WhiteCountry "RUS"]
+[BlackCountry "POR"]
+[EventDate "2008.??.??"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. h3
+d6 9. c3 Na5 10. Bc2 c5 11. d4 Qc7 12. d5 Rb8 13. b3 c4 14. b4 Nb7 15. a4 bxa4
+16. Bxa4 a5 17. Bc6 axb4 18. cxb4 Bd7 19. Qa4 Qc8 20. Nfd2 c3 21. Nxc3 Nh5
+22. Bxd7 Qxc3 23. Ra3 Qc7 24. Qc6 Bd8 25. Nc4 Nf6 26. Qxc7 Bxc7 27. Bc6 Nd8
+28. b5 Nxc6 29. bxc6 Rb4 30. Rc3 Ra8 31. f3 Ra2 32. f4 exf4 33. Bxf4 Ne8 34. e5
+dxe5 35. Bxe5 Bxe5 36. Rxe5 Kf8 37. d6 Rb1+ 38. Kh2 1-0
+
+[Event "10th World University Chess Championship"]
+[Site "Novokuznetsk RUS"]
+[Date "2008.03.??"]
+[Round "2"]
+[White "Viela, Marco"]
+[Black "Bilegt, Batkhorol"]
+[Result "0-1"]
+[WhiteElo "2161"]
+[BlackElo "2211"]
+[ECO "B22"]
+[PlyCount "82"]
+[WhiteCountry "POR"]
+[BlackCountry "MGL"]
+[EventDate "2008.??.??"]
+
+1. e4 c5 2. c3 d6 3. d4 cxd4 4. cxd4 Nf6 5. Nc3 e6 6. Nf3 Nc6 7. Be2 d5 8. e5
+Ne4 9. O-O Nxc3 10. bxc3 Na5 11. Bg5 Qc7 12. Bd3 Bd7 13. Qe2 Rc8 14. Rab1 a6
+15. Qe3 Ba3 16. Bh4 h6 17. Qf4 Qxc3 18. Be2 Qc2 19. Rfe1 O-O 20. Rbd1 Bb5
+21. Bxb5 axb5 22. Rb1 Qc6 23. Bf6 Rfe8 24. Qg4 Bf8 25. Nd2 Qc2 26. Nf3 b4
+27. Rxb4 Qg6 28. Qxg6 fxg6 29. Rb5 gxf6 30. exf6 Bd6 31. Rd1 Ra8 32. Ne5 Bxe5
+33. dxe5 Rec8 34. g3 Rc2 35. a4 Ra7 36. Rdb1 Ra6 37. Re1 b6 38. Rd1 Nc4
+39. Rbxd5 exd5 40. e6 Rd2 41. Re1 Ra8 0-1
+
+[Event "10th World University Chess Championship"]
+[Site "Novokuznetsk RUS"]
+[Date "2008.03.??"]
+[Round "3"]
+[White "Otte, Marijn"]
+[Black "Viela, Marco"]
+[Result "1-0"]
+[WhiteElo "2192"]
+[BlackElo "2161"]
+[ECO "C24"]
+[PlyCount "83"]
+[WhiteCountry "NED"]
+[BlackCountry "POR"]
+[EventDate "2008.??.??"]
+
+1. e4 e5 2. Bc4 Nf6 3. d3 c6 4. Nf3 d5 5. Bb3 Bg4 6. h3 Bxf3 7. Qxf3 Be7 8. O-O
+O-O 9. exd5 Nxd5 10. Re1 Bf6 11. Nd2 Na6 12. Ne4 Nac7 13. Bd2 Be7 14. Rad1 Ne6
+15. c3 Kh8 16. Ng3 Bf6 17. Nh5 Ndf4 18. d4 Nxh5 19. dxe5 Bg5 20. Be3 Qe7
+21. Bxe6 Bxe3 22. Rxe3 Qxe6 23. Qxh5 Qxa2 24. Qe2 Rad8 25. Red3 Rxd3 26. Rxd3
+Qe6 27. Qe3 a6 28. Rd6 Qf5 29. b4 h6 30. f4 Re8 31. g4 Qb1+ 32. Kg2 Qa2+ 33. Kg3
+Qc4 34. f5 h5 35. e6 hxg4 36. hxg4 Qf1 37. e7 Rxe7 38. Qxe7 Qg1+ 39. Kf4 Qf1+
+40. Kg5 Qc1+ 41. Kh5 f6 42. Qe8+ 1-0
+
+[Event "10th World University Chess Championship"]
+[Site "Novokuznetsk RUS"]
+[Date "2008.03.??"]
+[Round "5"]
+[White "Viela, Marco"]
+[Black "Kojima, Shinya"]
+[Result "1-0"]
+[WhiteElo "2161"]
+[BlackElo "2205"]
+[ECO "B33"]
+[PlyCount "95"]
+[WhiteCountry "POR"]
+[BlackCountry "JPN"]
+[EventDate "2008.??.??"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. Bg5 a6
+8. Na3 b5 9. Nd5 Be7 10. Bxf6 Bxf6 11. c3 Bg5 12. Nc2 Ne7 13. Ncb4 O-O 14. a4
+bxa4 15. Qxa4 Nxd5 16. Nxd5 Bd7 17. Qa3 Bc6 18. Bc4 a5 19. b3 Kh8 20. O-O f5
+21. f3 Ra7 22. exf5 Bxd5 23. Bxd5 Be3+ 24. Kh1 Rxf5 25. Qa4 Rf4 26. Qb5 Rf8
+27. Ra4 Qb6 28. Qd3 Rf4 29. Rfa1 Rxa4 30. Rxa4 g6 31. Rc4 Bc5 32. f4 exf4
+33. Rxf4 Kg7 34. Qf3 Qd8 35. Rf7+ Rxf7 36. Qxf7+ Kh8 37. h3 Be3 38. b4 a4 39. b5
+a3 40. Kh2 Bd2 41. b6 Bxc3 42. b7 Be5+ 43. g3 Qb8 44. Qd7 Qa7 45. Qe8+ Kg7
+46. Qg8+ Kh6 47. Qf8+ Bg7 48. Qf4+ 1-0
+
+[Event "10th World University Chess Championship"]
+[Site "Novokuznetsk RUS"]
+[Date "2008.03.??"]
+[Round "6"]
+[White "Viela, Marco"]
+[Black "Van Eijk, Sander"]
+[Result "1/2-1/2"]
+[WhiteElo "2161"]
+[BlackElo "2283"]
+[ECO "B22"]
+[PlyCount "54"]
+[WhiteCountry "POR"]
+[BlackCountry "NED"]
+[EventDate "2008.??.??"]
+
+1. e4 c5 2. c3 d5 3. exd5 Qxd5 4. d4 Nc6 5. Nf3 Bg4 6. Be2 cxd4 7. cxd4 e6
+8. Nc3 Qa5 9. O-O Nf6 10. Be3 Bd6 11. Qb3 Qb4 12. Rfd1 Rd8 13. Ne5 Bxe2 14. Nxe2
+Ne7 15. Qxb4 Bxb4 16. Nf4 O-O 17. Rac1 Nfd5 18. Kf1 Ba5 19. Nxd5 Rxd5 20. b4 Bb6
+21. a4 f6 22. Nd3 Bxd4 23. Rc7 Bxe3 24. Rxe7 Bh6 25. Rxb7 Rfd8 26. Ke2 e5 27. f3
+Rd4 1/2-1/2
+
+[Event "10th World University Chess Championship"]
+[Site "Novokuznetsk RUS"]
+[Date "2008.03.??"]
+[Round "7"]
+[White "Noroozi, Omid"]
+[Black "Viela, Marco"]
+[Result "1-0"]
+[WhiteElo "2223"]
+[BlackElo "2161"]
+[ECO "A28"]
+[PlyCount "55"]
+[WhiteCountry "IRI"]
+[BlackCountry "POR"]
+[EventDate "2008.??.??"]
+
+1. c4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. e3 Be7 5. a3 a5 6. d4 exd4 7. Nxd4 d5 8. cxd5
+Nxd5 9. Nxc6 bxc6 10. Qa4 Bb7 11. Bd2 O-O 12. Be2 Nb6 13. Qc2 c5 14. Ne4 c4
+15. Bc3 Qd5 16. Ng3 Qxg2 17. O-O-O Qxf2 18. Rhg1 Qxe3+ 19. Kb1 f6 20. Nf5 Qe4
+21. Rxg7+ Kh8 22. Rxe7 Qxc2+ 23. Kxc2 Nd5 24. Rxd5 Bxd5 25. Ne3 Bf7 26. Bxf6+
+Kg8 27. Nf5 h5 28. Bxc4 1-0
+
+[Event "10th World University Chess Championship"]
+[Site "Novokuznetsk RUS"]
+[Date "2008.03.??"]
+[Round "8"]
+[White "Viela, Marco"]
+[Black "Wyss, Jonas"]
+[Result "1-0"]
+[WhiteElo "2161"]
+[BlackElo "2181"]
+[ECO "C18"]
+[PlyCount "65"]
+[WhiteCountry "POR"]
+[BlackCountry "SUI"]
+[EventDate "2008.??.??"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Ne7 7. Qg4 O-O 8. Bd3
+Nbc6 9. Bd2 f5 10. exf6 Rxf6 11. Qh4 h6 12. Nf3 c4 13. Be2 Nf5 14. Qh5 Qf8
+15. g4 Nd6 16. g5 hxg5 17. Bxg5 Qf7 18. Ne5 Qxh5 19. Bxh5 Rf5 20. f4 Nxe5
+21. dxe5 Nb5 22. Kd2 Nc7 23. Bg6 Rf8 24. h4 Bd7 25. h5 Be8 26. Rag1 Bf7 27. Be7
+Rfe8 28. Bd6 Nb5 29. h6 Nxd6 30. exd6 Rf8 31. hxg7 Kxg7 32. Be4+ Kf6 33. Rh6+
+1-0
+
+[Event "10th World University Chess Championship"]
+[Site "Novokuznetsk RUS"]
+[Date "2008.03.??"]
+[Round "9"]
+[White "Akhanov, Dauren"]
+[Black "Viela, Marco"]
+[Result "0-1"]
+[WhiteElo "2135"]
+[BlackElo "2161"]
+[ECO "C77"]
+[PlyCount "66"]
+[WhiteCountry "KAZ"]
+[BlackCountry "POR"]
+[EventDate "2008.??.??"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. d3 d6 6. c3 g6 7. O-O Bg7 8. Qe2
+O-O 9. Rd1 Qe7 10. Nbd2 b5 11. Bc2 Rd8 12. Nf1 d5 13. Ne3 d4 14. cxd4 exd4
+15. Nf1 Bg4 16. h3 Bxf3 17. Qxf3 Nb4 18. Bb3 c5 19. a4 Rac8 20. axb5 axb5
+21. Nd2 Nd7 22. Ra7 Ra8 23. Rxa8 Rxa8 24. e5 Rf8 25. e6 fxe6 26. Qe2 Ne5 27. Ne4
+Nbxd3 28. Bg5 Qf7 29. Bc2 c4 30. b3 h6 31. bxc4 bxc4 32. Nd6 Qxf2+ 33. Qxf2 Nxf2
+0-1
+
+[Event "10th World University Chess Championship"]
+[Site "Novokuznetsk RUS"]
+[Date "2008.03.??"]
+[Round "1"]
+[White "Castro, Francisco"]
+[Black "Moosavian, S.Hamed"]
+[Result "0-1"]
+[WhiteElo "2152"]
+[BlackElo "2349"]
+[ECO "C09"]
+[PlyCount "148"]
+[WhiteCountry "POR"]
+[BlackCountry "IRI"]
+[EventDate "2008.??.??"]
+
+1. e4 e6 2. d4 d5 3. Nd2 c5 4. exd5 exd5 5. Bb5+ Nc6 6. Ngf3 Bd6 7. O-O Ne7
+8. dxc5 Bxc5 9. Nb3 Bd6 10. c3 Bg4 11. Be2 Bc7 12. Nfd4 Qd6 13. g3 Bxe2 14. Qxe2
+Qf6 15. Qf3 Qg6 16. Bf4 Bxf4 17. Qxf4 O-O 18. Rfe1 Rfd8 19. Re2 Qh5 20. Qf3 Qh3
+21. Rae1 Ng6 22. Qf5 Qxf5 23. Nxf5 Kf8 24. Kg2 b6 25. h4 h5 26. Nfd4 Nxd4
+27. Nxd4 Rd7 28. Nc6 f6 29. f4 Rc8 30. Nd4 Kf7 31. Kf3 Ne7 32. Re6 Ng6 33. Rc6
+Rxc6 34. Nxc6 Ne7 35. Nxe7 Rxe7 36. Rd1 Ke6 37. Re1+ Kd6 38. Rd1 b5 39. Rd4 Re1
+40. Rb4 Kc5 41. a4 a6 42. axb5 axb5 43. Rd4 Rf1+ 44. Kg2 Rb1 45. b4+ Kd6 46. Kf3
+Ke6 47. Rd3 Rf1+ 48. Ke2 Rc1 49. Ke3 Re1+ 50. Kf2 Rb1 51. Ke3 Rb3 52. Kd2 Ra3
+53. Ke3 Ra7 54. Kf3 Rd7 55. g4 hxg4+ 56. Kxg4 Rc7 57. f5+ Kd6 58. Kh5 Rc4
+59. Rg3 Ke5 60. Rxg7 Kxf5 61. Rd7 Ke6 62. Rb7 Rxc3 63. Rxb5 Rg3 64. Rb8 d4
+65. Rd8 Ke5 66. b5 Rb3 67. Kg6 Rxb5 68. Re8+ Kf4 69. Kxf6 Rh5 70. Rd8 Ke3
+71. Rg8 Rxh4 72. Rg3+ Kf4 73. Rd3 Rh6+ 74. Kg7 Rd6 0-1
+
+[Event "10th World University Chess Championship"]
+[Site "Novokuznetsk RUS"]
+[Date "2008.03.??"]
+[Round "2"]
+[White "Van Assendelft, Floris"]
+[Black "Castro, Francisco"]
+[Result "1-0"]
+[WhiteElo "2283"]
+[BlackElo "2152"]
+[ECO "C02"]
+[PlyCount "103"]
+[WhiteCountry "NED"]
+[BlackCountry "POR"]
+[EventDate "2008.??.??"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. a3 Nh6 7. b4 cxd4 8. cxd4
+Nf5 9. Bb2 Bd7 10. g4 Nfe7 11. h3 Rc8 12. Bd3 Ng6 13. Qd2 Be7 14. h4 Qd8 15. h5
+Nh4 16. Nxh4 Bxh4 17. Qe3 a6 18. Nd2 h6 19. Ke2 Na7 20. Kf3 Bb5 21. Bb1 Ba4
+22. Kg2 Bc2 23. f4 Bxb1 24. Raxb1 Be7 25. Nf3 Rc2+ 26. Kg3 Nc8 27. Qd3 Rc4
+28. f5 Kd7 29. Rbc1 b5 30. fxe6+ fxe6 31. Rc2 Rxc2 32. Qxc2 Nb6 33. Rf1 Qe8
+34. Ne1 Nc4 35. Bc1 Rf8 36. Rxf8 Qxf8 37. Nf3 Qf7 38. Kg2 Kd8 39. Qh7 Qf8
+40. Qg6 Kd7 41. Ne1 Bxb4 42. axb4 Qxb4 43. Nd3 Qc3 44. Nc5+ Kc7 45. Nxe6+ Kb6
+46. Nc5+ Ka5 47. Qxa6+ Kb4 48. Qa2 Qxd4 49. Na6+ Kc3 50. Qa1+ Kd3 51. Nb4+ Ke4
+52. Qb1+ 1-0
+
+[Event "10th World University Chess Championship"]
+[Site "Novokuznetsk RUS"]
+[Date "2008.03.??"]
+[Round "4"]
+[White "Castro, Francisco"]
+[Black "Yurkov, P."]
+[Result "0-1"]
+[WhiteElo "2152"]
+[BlackElo "2232"]
+[ECO "B32"]
+[PlyCount "104"]
+[WhiteCountry "POR"]
+[BlackCountry "KAZ"]
+[EventDate "2008.??.??"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 e5 5. Nb5 a6 6. Nd6+ Bxd6 7. Qxd6 Qf6
+8. Qd1 Qg6 9. f3 Nge7 10. Nc3 O-O 11. Be3 d6 12. Qd2 b5 13. O-O-O Rd8 14. h4 h5
+15. Bb6 Rd7 16. g4 Rb8 17. Be3 Rd8 18. gxh5 Qxh5 19. Be2 b4 20. Na4 Qh7 21. Bb6
+Rd7 22. Bf1 d5 23. Bh3 f5 24. exf5 Rdb7 25. Qg5 Bxf5 26. Bxf5 Qxf5 27. Qxf5 Nxf5
+28. Rxd5 Rxb6 29. Nxb6 Rxb6 30. c3 Kf7 31. h5 Ke6 32. Rd2 bxc3 33. bxc3 Nce7
+34. Rg2 Kf7 35. Re1 Rb5 36. Rb2 Rc5 37. Kd2 Nd6 38. Rb4 a5 39. Rg4 Kf6 40. Reg1
+Ndf5 41. Kd3 Rd5+ 42. Ke2 Rb5 43. Kd3 Rd5+ 44. Ke2 Rd8 45. Rc4 Nd5 46. Rc6+ Kf7
+47. Rb1 Nf4+ 48. Kf1 Rd2 49. Rb7+ Kg8 50. Rb5 Ne3+ 51. Kg1 Nh3+ 52. Kh1 Nf1 0-1
+
+[Event "10th World University Chess Championship"]
+[Site "Novokuznetsk RUS"]
+[Date "2008.03.??"]
+[Round "5"]
+[White "Otte, Marijn"]
+[Black "Castro, Francisco"]
+[Result "1-0"]
+[WhiteElo "2192"]
+[BlackElo "2152"]
+[ECO "C05"]
+[PlyCount "43"]
+[WhiteCountry "NED"]
+[BlackCountry "POR"]
+[EventDate "2008.??.??"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. Bd3 c5 6. c3 Nc6 7. Ngf3 Be7 8. O-O
+a5 9. Re1 cxd4 10. cxd4 Qb6 11. Nb1 Nxd4 12. Nxd4 Qxd4 13. Nc3 Qb6 14. Be3 Qd8
+15. Bf4 Bg5 16. Nxd5 exd5 17. e6 Be7 18. Qh5 Rf8 19. exd7+ Qxd7 20. Bg5 g6
+21. Qxh7 f6 22. Bb5 1-0
+
+[Event "10th World University Chess Championship"]
+[Site "Novokuznetsk RUS"]
+[Date "2008.03.??"]
+[Round "6"]
+[White "Kojima, Shinya"]
+[Black "Castro, Francisco"]
+[Result "1-0"]
+[WhiteElo "2205"]
+[BlackElo "2152"]
+[ECO "A34"]
+[PlyCount "111"]
+[WhiteCountry "JPN"]
+[BlackCountry "POR"]
+[EventDate "2008.??.??"]
+
+1. Nf3 Nf6 2. c4 c5 3. Nc3 d5 4. cxd5 Nxd5 5. d4 Nxc3 6. bxc3 g6 7. e3 Bg7
+8. Be2 O-O 9. O-O Nd7 10. Rb1 e5 11. Ba3 Re8 12. Qb3 cxd4 13. Bc4 Qf6 14. Ng5
+Qxg5 15. Bxf7+ Kh8 16. Bxe8 Nf6 17. Ba4 Ne4 18. Qd5 Nxc3 19. Qf7 h5 20. f4 exf4
+21. exf4 Qf5 22. Qe8+ Kh7 23. Rbe1 b5 24. Bb3 Bb7 25. Qe7 Be4 26. Bb2 Bd3
+27. Rf3 Bc4 28. Bxc4 bxc4 29. Bxc3 dxc3 30. Rxc3 Qxf4 31. Re4 Qd2 32. Rcxc4 Rf8
+33. Re2 Qd1+ 34. Re1 Qd2 35. Qe3 Qxa2 36. Rc7 Rf7 37. Rxf7 Qxf7 38. h3 Qd5
+39. Qxa7 Qd4+ 40. Qxd4 Bxd4+ 41. Kf1 Kh6 42. Ke2 Kg5 43. Kf3 Bc3 44. Rd1 Bb2
+45. Rd5+ Kh6 46. Kf4 Kg7 47. Rc5 Ba3 48. Rc6 Kh6 49. Ke5 Kg5 50. Ke6 Kh4
+51. Rc4+ Kg5 52. Kf7 Kf5 53. Ra4 Bd6 54. Ra5+ Kf4 55. Kxg6 h4 56. Kh5 1-0
+
+[Event "10th World University Chess Championship"]
+[Site "Novokuznetsk RUS"]
+[Date "2008.03.??"]
+[Round "7"]
+[White "Castro, Francisco"]
+[Black "Wyss, Jonas"]
+[Result "1-0"]
+[WhiteElo "2152"]
+[ECO "B87"]
+[PlyCount "143"]
+[WhiteCountry "POR"]
+[BlackCountry "SUI"]
+[EventDate "2008.??.??"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. Bb3 b5 8. O-O
+Be7 9. Re1 O-O 10. a3 Qc7 11. Qf3 Nc6 12. Nxc6 Qxc6 13. Qg3 Kh8 14. Bg5 Bb7
+15. Rad1 Rad8 16. Kh1 Qc5 17. Bc1 Qh5 18. Rd3 Nd7 19. Qf4 Ne5 20. Rh3 Qg6
+21. Rg3 Qf6 22. Qe3 Nc4 23. Bxc4 bxc4 24. Qa7 Rd7 25. Bg5 Qe5 26. f4 Qa5
+27. Bxe7 Rxe7 28. Qd4 f5 29. Qxd6 Ref7 30. e5 Bd5 31. Rge3 Rd8 32. Qb4 Qxb4
+33. axb4 Rb7 34. Nxd5 Rxd5 35. c3 Kg8 36. h3 a5 37. bxa5 Rxa5 38. Rb1 Rab5
+39. Re2 Rb3 40. Rc2 Kf7 41. Kh2 h6 42. h4 g5 43. hxg5 hxg5 44. g3 Kg6 45. Kg2 g4
+46. Kf2 Rb8 47. Ke3 Rd8 48. Rd2 Rdb8 49. Rd6 Kf7 50. Kd4 Rc8 51. Rd7+ Kg6
+52. Ke3 Rh8 53. Rd2 Rb7 54. Rg1 Rhb8 55. Rgg2 Rc8 56. Rh2 Rcb8 57. Rd6 Re7
+58. Rc6 Rd8 59. Rxc4 Red7 60. Rd4 Rxd4 61. cxd4 Rb8 62. Rd2 Rb3+ 63. Rd3 Rxb2
+64. d5 exd5 65. Kd4 Rb5 66. Rc3 Kg7 67. Rc7+ Kf8 68. e6 Ke8 69. Ke5 d4+ 70. Kf6
+Rb8 71. Rh7 Kd8 72. Rh8+ 1-0
+
+[Event "10th World University Chess Championship"]
+[Site "Novokuznetsk RUS"]
+[Date "2008.03.??"]
+[Round "8"]
+[White "Baimoldinov, Aidar"]
+[Black "Castro, Francisco"]
+[Result "1-0"]
+[BlackElo "2152"]
+[ECO "D74"]
+[PlyCount "61"]
+[WhiteCountry "KAZ"]
+[BlackCountry "POR"]
+[EventDate "2008.??.??"]
+
+1. d4 Nf6 2. c4 g6 3. Nf3 Bg7 4. g3 d5 5. cxd5 Nxd5 6. Bg2 O-O 7. O-O Nd7 8. e4
+N5b6 9. Nc3 c5 10. d5 Nc4 11. Qe2 Nd6 12. g4 b6 13. e5 Ne8 14. Bf4 Nc7 15. Rfe1
+Ba6 16. Qd2 Rc8 17. Rad1 Nb8 18. Bh6 Qd7 19. h3 Rfd8 20. Qg5 Qe8 21. Bxg7 Kxg7
+22. Nh4 Kh8 23. d6 Ne6 24. Qe3 exd6 25. exd6 Nd4 26. Qf4 Qf8 27. Re7 Rd7
+28. Rde1 Bc4 29. Nf3 Nxf3+ 30. Bxf3 Be6 31. R1xe6 1-0
+
+[Event "10th World University Chess Championship"]
+[Site "Novokuznetsk RUS"]
+[Date "2008.03.??"]
+[Round "9"]
+[White "Mohale, T."]
+[Black "Castro, Francisco"]
+[Result "1/2-1/2"]
+[BlackElo "2152"]
+[ECO "C10"]
+[PlyCount "20"]
+[WhiteCountry "RSA"]
+[BlackCountry "POR"]
+[EventDate "2008.??.??"]
+
+1. e4 e6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Bd3 Nbd7 6. c3 Be7 7. Nf3 b6
+8. O-O Bb7 9. Nxf6+ Nxf6 10. Bf4 Bd6 1/2-1/2
+

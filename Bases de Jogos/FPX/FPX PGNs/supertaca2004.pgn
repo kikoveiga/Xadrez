@@ -1,0 +1,101 @@
+[Event "Supertaça 2004"]
+[Site "Viseu POR"]
+[Date "2004.02.14"]
+[Round "1.1.1"]
+[White "Spraggett, Kevin"]
+[Black "Fernandes, António"]
+[Result "0-1"]
+[ECO "B95"]
+[WhiteElo "2530"]
+[BlackElo "2457"]
+[WhiteFideId "2600013"]
+[BlackFideId "1900021"]
+[WhiteTeam "GX Guarda"]
+[BlackTeam "AX Gaia"]
+[WhiteTitle "GM"]
+[BlackTitle "IM"]
+[PlyCount "52"]
+[EventDate "2004.??.??"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. Qe2 h6 8. Bh4
+g5 9. Bg3 Nbd7 10. h4 Rg8 11. hxg5 hxg5 12. O-O-O Qc7 13. f3 Ne5 14. Be1 Bd7 15.
+g3 O-O-O 16. f4 Nc6 17. Nf3 gxf4 18. gxf4 Be7 19. Bf2 d5 20. e5 Ne4 21. Nxe4
+dxe4 22. Nd4 Nb4 23. a3 Nd3+ 24. Rxd3 exd3 25. Qxd3 Bc5 26. Qd1 Ba4 0-1
+
+[Event "Supertaça 2004"]
+[Site "Viseu POR"]
+[Date "2004.02.14"]
+[Round "1.1.2"]
+[White "Guerra Bastida, Diego"]
+[Black "Ribeiro, Fernando"]
+[Result "1/2-1/2"]
+[ECO "B90"]
+[WhiteElo "2393"]
+[BlackElo "2173"]
+[WhiteFideId "2201089"]
+[BlackFideId "1900382"]
+[WhiteTeam "AX Gaia"]
+[BlackTeam "GX Guarda"]
+[BlackTitle "FM"]
+[PlyCount "98"]
+[EventDate "2004.??.??"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 e5 7. Nb3 Be6 8. f3
+Nbd7 9. g4 h6 10. Qd2 Qc7 11. O-O-O O-O-O 12. Qf2 Be7 13. Kb1 Nc5 14. h4 Kb8 15.
+Bh3 Nfd7 16. g5 hxg5 17. hxg5 g6 18. Bxe6 fxe6 19. f4 exf4 20. Bxf4 Rxh1 21.
+Rxh1 Nxb3 22. axb3 Nf8 23. Be3 Qc6 24. Qf7 Qe8 25. Rf1 Qxf7 26. Rxf7 Re8 27. Ne2
+Kc8 28. Rg7 Bd8 29. Bf4 e5 30. Be3 Re7 31. Rg8 Rf7 32. Nc3 Kd7 33. Nd5 Ke8 34.
+c4 Rh7 35. Bb6 Bxb6 36. Nf6+ Kf7 37. Rxf8+ Kxf8 38. Nxh7+ Kf7 39. Nf6 Bd8 40.
+Nd5 Bxg5 41. Kc2 Bf4 42. Kd3 g5 43. b4 Kg6 44. Ke2 g4 45. Kf2 Kg5 46. Kg2 Bc1
+47. b3 Bf4 48. Ne7 Bd2 49. Nd5 Bf4 1/2-1/2
+
+[Event "Supertaça 2004"]
+[Site "Viseu POR"]
+[Date "2004.02.14"]
+[Round "1.1.3"]
+[White "Ferreira, António"]
+[Black "Almeida, Rui Camejo"]
+[Result "1-0"]
+[ECO "B07"]
+[WhiteElo "2167"]
+[BlackElo "2290"]
+[WhiteFideId "1900110"]
+[BlackFideId "1900064"]
+[WhiteTeam "GX Guarda"]
+[BlackTeam "AX Gaia"]
+[WhiteTitle "FM"]
+[PlyCount "75"]
+[EventDate "2004.??.??"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 c6 4. f4 g6 5. Nf3 Bg7 6. Bd3 Qb6 7. e5 Nd5 8. exd6
+exd6 9. Qe2+ Ne7 10. O-O Bf5 11. Re1 Bf6 12. Ne4 Bxe4 13. Qxe4 Nd7 14. g4 h6 15.
+g5 hxg5 16. fxg5 Be5 17. Kg2 d5 18. Qe2 Bd6 19. Bf4 c5 20. c4 Kf8 21. b4 dxc4
+22. bxc5 cxd3 23. cxb6 dxe2 24. Bxd6 Nxb6 25. Rxe2 Nbd5 26. Rae1 Re8 27. Kg3 Rh7
+28. Re5 Rd8 29. Bxe7+ Nxe7 30. Rxe7 Rb8 31. Rc7 a5 32. Ree7 b5 33. Ne5 Rd8 34.
+Red7 Rb8 35. Nxg6+ Kg8 36. Ne5 b4 37. g6 Rg7 38. Rxf7 1-0
+
+[Event "Supertaça 2004"]
+[Site "Viseu POR"]
+[Date "2004.02.14"]
+[Round "1.1.4"]
+[White "Padeiro, José"]
+[Black "Costa, João Guerra"]
+[Result "0-1"]
+[ECO "B40"]
+[WhiteElo "2276"]
+[BlackElo "2146"]
+[WhiteFideId "1901311"]
+[BlackFideId "1901737"]
+[WhiteTeam "AX Gaia"]
+[BlackTeam "GX Guarda"]
+[PlyCount "80"]
+[EventDate "2004.??.??"]
+
+1. e4 c5 2. Nf3 e6 3. c3 d5 4. exd5 exd5 5. d4 Nf6 6. Be2 Be7 7. Nbd2 Nc6 8.
+dxc5 Bxc5 9. Nb3 Bb6 10. O-O h6 11. Nbd4 O-O 12. h3 Bc7 13. Be3 a6 14. Qa4 Qd6
+15. Nxc6 bxc6 16. Qd4 Qd8 17. Bf4 Re8 18. Bxc7 Qxc7 19. Bd3 c5 20. Qh4 Rb8 21.
+b3 Qa5 22. Qf4 Bb7 23. b4 Qa3 24. bxc5 Qxc5 25. Qd4 Qa5 26. Rfe1 Rxe1+ 27. Rxe1
+Rc8 28. Re7 Qxc3 29. Rxb7 Qa3 30. Bf5 Re8 31. Qb2 Qd6 32. Qb4 Qc6 33. Rb8 Qc1+
+34. Kh2 Qc7+ 35. g3 Rxb8 36. Qa3 Ne4 37. Bxe4 dxe4 38. Nd2 Qc2 39. Qe3 Qd3 40.
+Qf4 Rd8 0-1
+

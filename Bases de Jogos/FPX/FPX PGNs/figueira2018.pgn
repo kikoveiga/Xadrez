@@ -1,0 +1,5048 @@
+[Event "IX Torneio Int. da Figueira da Foz"]
+[Site "Figueira da Foz POR"]
+[Date "2018.10.28"]
+[Round "1.1"]
+[White "Del Rio Angelis, Salvador"]
+[Black "Fernandes, João Pedro"]
+[Result "1-0"]
+[ECO "E00"]
+[WhiteElo "2547"]
+[BlackElo "2067"]
+[WhiteFideId "2203138"]
+[BlackFideId "1926624"]
+[WhiteTitle "GM"]
+[WhiteCountry "ESP"]
+[BlackCountry "POR"]
+[PlyCount "71"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 c5 4. d5 exd5 5. cxd5 d6 6. e4 g6 7. Be2 Bg7 8. Be3
+O-O 9. Nf3 a6 10. a4 Bg4 11. Nd2 Bxe2 12. Qxe2 Re8 13. O-O Nbd7 14. Bg5 Qc7 15.
+Kh1 Rab8 16. f4 b5 17. axb5 axb5 18. Nxb5 Qb6 19. Na3 Nxd5 20. Nac4 Qc7 21. Qd3
+Nb4 22. Qxd6 Qxd6 23. Nxd6 Re6 24. N2c4 Nb6 25. f5 Nxc4 26. fxe6 Nxd6 27. Bf4
+fxe6 28. Bxd6 Rc8 29. Bxc5 Nd3 30. Be3 Nxb2 31. Ra6 e5 32. Rfa1 Rd8 33. Ra8 Rxa8
+34. Rxa8+ Kf7 35. Ra7+ Kg8 36. Rc7 1-0
+
+[Event "IX Torneio Int. da Figueira da Foz"]
+[Site "Figueira da Foz POR"]
+[Date "2018.10.28"]
+[Round "1.2"]
+[White "Fernandes, Miguel"]
+[Black "Jakubowski, Krzystof"]
+[Result "1/2-1/2"]
+[ECO "A40"]
+[WhiteElo "2048"]
+[BlackElo "2511"]
+[WhiteFideId "1920456"]
+[BlackFideId "1112848"]
+[BlackTitle "GM"]
+[WhiteCountry "POR"]
+[BlackCountry "POL"]
+[PlyCount "103"]
+
+1. d4 g6 2. c4 Bg7 3. Nc3 c5 4. d5 d6 5. e4 e5 6. g3 Na6 7. Bg2 Nc7 8. Nge2 a6
+9. a4 b6 10. O-O h5 11. f4 h4 12. Qd3 hxg3 13. Qxg3 Rh7 14. fxe5 Bxe5 15. Bf4
+Qe7 16. Bxe5 Qxe5 17. Qxe5+ dxe5 18. a5 b5 19. d6 Ne6 20. cxb5 axb5 21. Nxb5 Ba6
+22. Nec3 Kd7 23. Rf2 Nh6 24. Bh3 f5 25. Nd5 Bxb5 26. Nf6+ Kxd6 27. Nxh7 Nf4 28.
+Bg2 Ra7 29. Rd2+ Bd3 30. Ng5 c4 31. Bf3 Kc5 32. Kf2 Kb5 33. Kg3 Ka6 34. Re1 Re7
+35. Nh3 Nh5+ 36. Bxh5 gxh5 37. Nf2 fxe4 38. Nxe4 Nf5+ 39. Kf2 Kxa5 40. Ng3 Nd4
+41. Nxh5 Kb4 42. Re3 e4 43. Ng3 Nc2 44. Rdxd3 cxd3 45. Rxe4+ Rxe4 46. Nxe4 Kb3
+47. h4 Nd4 48. h5 Nf5 49. Kf3 Kxb2 50. Kf4 Nh6 51. Kg5 Ng8 52. Kf4 1/2-1/2
+
+[Event "IX Torneio Int. da Figueira da Foz"]
+[Site "Figueira da Foz POR"]
+[Date "2018.10.28"]
+[Round "1.3"]
+[White "Stella, Andrea"]
+[Black "Sismeiro, Miguel"]
+[Result "1-0"]
+[ECO "D56"]
+[WhiteElo "2500"]
+[BlackElo "2008"]
+[WhiteFideId "827061"]
+[BlackFideId "1950975"]
+[WhiteTitle "GM"]
+[WhiteCountry "ITA"]
+[BlackCountry "POR"]
+[PlyCount "57"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5 Be7 5. e3 O-O 6. Nf3 h6 7. Bh4 Ne4 8. Bxe7
+Qxe7 9. Rc1 Nxc3 10. Rxc3 c6 11. Bd3 Nd7 12. O-O dxc4 13. Rxc4 e5 14. Bc2 e4 15.
+Nd2 Nf6 16. Rc5 Be6 17. Re5 Qc7 18. Nxe4 Ng4 19. Rh5 g6 20. Rh4 h5 21. Ng5 Qe7
+22. Nf3 Bd5 23. e4 Bc4 24. Re1 Qc7 25. h3 Nf6 26. Qc1 Be6 27. Qh6 Nh7 28. e5 Qe7
+29. Rxh5 1-0
+
+[Event "IX Torneio Int. da Figueira da Foz"]
+[Site "Figueira da Foz POR"]
+[Date "2018.10.28"]
+[Round "1.4"]
+[White "Adams, Philip"]
+[Black "Rotstein, Arkadij"]
+[Result "0-1"]
+[ECO "B40"]
+[WhiteElo "1980"]
+[BlackElo "2476"]
+[WhiteFideId "411256"]
+[BlackFideId "4662997"]
+[BlackTitle "GM"]
+[WhiteCountry "ENG"]
+[BlackCountry "GER"]
+[PlyCount "84"]
+
+1. e4 c5 2. Nf3 e6 3. c3 Nf6 4. e5 Nd5 5. d4 cxd4 6. cxd4 d6 7. Bc4 Nc6 8. O-O
+Be7 9. exd6 Qxd6 10. Nc3 O-O 11. Re1 a6 12. Bb3 Rd8 13. Ne4 Qc7 14. a3 Bd7 15.
+Qd3 h6 16. Bd2 Be8 17. Bc2 Nf4 18. Qe3 Ng6 19. Rac1 Qb6 20. Bc3 Rac8 21. Ng3 Nf8
+22. Nh5 f6 23. Nf4 Bf7 24. h4 Bd6 25. Bb1 Ne7 26. Ne2 Nd5 27. Qd2 Qb5 28. Ba2
+Bh5 29. Bxd5 exd5 30. Nh2 Bxe2 31. Rxe2 Bf4 32. Qxf4 Qxe2 33. Re1 Qd3 34. Ng4
+Re8 35. Re3 Rxe3 36. Nxe3 Qb1+ 37. Kh2 Qe4 38. Qg3 h5 39. Nf1 Ng6 40. Ne3 Qxh4+
+41. Qxh4 Nxh4 42. Nxd5 Nf5 0-1
+
+[Event "IX Torneio Int. da Figueira da Foz"]
+[Site "Figueira da Foz POR"]
+[Date "2018.10.28"]
+[Round "1.5"]
+[White "Galego, Luís"]
+[Black "Felizes, Paulo"]
+[Result "1-0"]
+[ECO "D02"]
+[WhiteElo "2473"]
+[BlackElo "1965"]
+[WhiteFideId "1900072"]
+[BlackFideId "1900889"]
+[WhiteTitle "GM"]
+[WhiteCountry "POR"]
+[BlackCountry "POR"]
+[PlyCount "31"]
+
+1. d4 d5 2. Nf3 Nc6 3. Bf4 Bg4 4. e3 e6 5. c4 Nf6 6. Nc3 Bd6 7. Bg5 dxc4 8. Bxc4
+O-O 9. O-O Na5 10. Be2 Bxf3 11. Bxf3 c6 12. Ne4 Be7 13. Nxf6+ Bxf6 14. Bxf6 gxf6
+15. Rc1 Qb6 16. Rc5 1-0
+
+[Event "IX Torneio Int. da Figueira da Foz"]
+[Site "Figueira da Foz POR"]
+[Date "2018.10.28"]
+[Round "1.6"]
+[White "Lopez De Turiso, José Angel"]
+[Black "Oratovsky, Michael"]
+[Result "0-1"]
+[ECO "A21"]
+[WhiteElo "1933"]
+[BlackElo "2466"]
+[WhiteFideId "2207680"]
+[BlackFideId "2802090"]
+[BlackTitle "GM"]
+[WhiteCountry "ESP"]
+[BlackCountry "ISR"]
+[PlyCount "40"]
+
+1. c4 e5 2. Nc3 Bb4 3. Qc2 Nf6 4. Nf3 Qe7 5. a3 Bxc3 6. Qxc3 Nc6 7. e3 d5 8. Be2
+e4 9. Nd4 Nxd4 10. Qxd4 dxc4 11. Bxc4 O-O 12. d3 Bf5 13. dxe4 Rad8 14. Qc3 Nxe4
+15. Qb3 Qg5 16. g3 Bg4 17. Be2 Bxe2 18. Kxe2 Qh5+ 19. Ke1 Qf3 20. Rf1 Nc5 0-1
+
+[Event "IX Torneio Int. da Figueira da Foz"]
+[Site "Figueira da Foz POR"]
+[Date "2018.10.28"]
+[Round "1.7"]
+[White "Romanishin, Oleg"]
+[Black "Morais, Vítor"]
+[Result "1-0"]
+[ECO "A46"]
+[WhiteElo "2443"]
+[BlackElo "1918"]
+[WhiteFideId "14100088"]
+[BlackFideId "1900552"]
+[WhiteTitle "GM"]
+[WhiteCountry "UKR"]
+[BlackCountry "POR"]
+[PlyCount "104"]
+
+1. d4 Nf6 2. Nf3 d6 3. g3 g6 4. Bg2 Bg7 5. O-O O-O 6. a4 a5 7. Nc3 Nc6 8. d5 Nb4
+9. h3 e5 10. dxe6 fxe6 11. Ng5 h6 12. Nge4 e5 13. Nxf6+ Qxf6 14. Ne4 Qe7 15. c3
+Nc6 16. b4 Kh7 17. b5 Nd8 18. b6 Nf7 19. Ba3 c5 20. c4 Be6 21. Qd3 Rfd8 22. h4
+Bf5 23. Rfd1 h5 24. Bc1 Rd7 25. Bd2 Qd8 26. Qb3 Ra6 27. Rab1 Bh6 28. Be1 Kg7 29.
+Bc3 g5 30. hxg5 Bxg5 31. f4 Bf6 32. Nxf6 Qxf6 33. e4 Bg4 34. Rf1 Qh6 35. Qb2 Kg8
+36. Qf2 exf4 37. gxf4 Ra8 38. Kh1 Kf8 39. Rbe1 Qe6 40. Rc1 Nh6 41. Qh4 Rf7 42.
+f5 Qe7 43. f6 Qd7 44. Qg5 Rh7 45. e5 Nf7 46. Qg6 Nxe5 47. Bxe5 dxe5 48. f7 Rh8
+49. Bd5 Rd8 50. Qg8+ Ke7 51. Qg7 Kd6 52. Rf6+ Kxd5 1-0
+
+[Event "IX Torneio Int. da Figueira da Foz"]
+[Site "Figueira da Foz POR"]
+[Date "2018.10.28"]
+[Round "1.8"]
+[White "Pipiras, Filipa"]
+[Black "Vasallo, Mauricio"]
+[Result "1/2-1/2"]
+[ECO "E61"]
+[WhiteElo "1853"]
+[BlackElo "2378"]
+[WhiteFideId "1944894"]
+[BlackFideId "101648"]
+[BlackTitle "IM"]
+[WhiteCountry "POR"]
+[BlackCountry "ESP"]
+[PlyCount "154"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. Nf3 d6 5. Bg5 h6 6. Bh4 g5 7. Bg3 Nh5 8. e3 c5
+9. d5 Qa5 10. Qd2 Nd7 11. Bd3 a6 12. O-O O-O 13. Qc2 b5 14. cxb5 axb5 15. Nxb5
+Ba6 16. Nc3 Bxd3 17. Qxd3 Rfb8 18. Rab1 Bxc3 19. bxc3 Qxa2 20. Rxb8+ Rxb8 21.
+Qe4 Re8 22. Qd3 Ndf6 23. e4 Rb8 24. Nd2 Nxg3 25. hxg3 Nd7 26. Nc4 Qa6 27. Rd1
+Rb7 28. Ne3 Qxd3 29. Rxd3 h5 30. f4 Rb1+ 31. Rd1 Rb3 32. Rc1 Nf6 33. e5 Ne4 34.
+exd6 exd6 35. Nf5 Nxc3 36. Re1 gxf4 37. gxf4 Rb6 38. Re8+ Kh7 39. Rd8 Ne4 40.
+Re8 Nf6 41. Rd8 Ne4 42. Re8 Rb4 43. Rd8 Rb1+ 44. Kh2 Rb6 45. Re8 Nc3 46. Rd8 Nb5
+47. Kg3 Kg6 48. Ne7+ Kf6 49. Ng8+ Kg7 50. Ne7 Nd4 51. Kh4 Kf6 52. Nc8 Nf5+ 53.
+Kxh5 Rb3 54. Rd7 Ng7+ 55. Kg4 Nf5 56. Nxd6 Rg3+ 57. Kh5 Nxd6 58. Rxd6+ Kf5 59.
+Rc6 Rxg2 60. Kh6 Kxf4 61. Rxc5 Ke5 62. Rc7 f5 63. Rf7 Rg8 64. Kh7 Rg1 65. Kh6
+Rg2 66. Kh5 Rg8 67. Kh6 f4 68. d6 Ke4 69. d7 Kf3 70. Kh7 Rd8 71. Kg6 Kg3 72. Kf6
+f3 73. Ke7 Rxd7+ 74. Kxd7 f2 75. Ke6 Kg2 76. Ke5 f1=Q 77. Rxf1 Kxf1 1/2-1/2
+
+[Event "IX Torneio Int. da Figueira da Foz"]
+[Site "Figueira da Foz POR"]
+[Date "2018.10.28"]
+[Round "1.9"]
+[White "Alshameary Puente, Ismael"]
+[Black "Pais, Bruno"]
+[Result "1-0"]
+[ECO "D15"]
+[WhiteElo "2369"]
+[BlackElo "1836"]
+[WhiteFideId "2225166"]
+[BlackFideId "1911341"]
+[WhiteTitle "FM"]
+[WhiteCountry "ESP"]
+[BlackCountry "POR"]
+[PlyCount "65"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 e6 5. Bg5 Nbd7 6. Qc2 Qa5 7. Nd2 Bb4 8. a3
+Ne4 9. Ndxe4 dxe4 10. Bd2 f5 11. Nxe4 Bxd2+ 12. Nxd2 Nf6 13. e3 O-O 14. b4 Qc7
+15. Nf3 b6 16. c5 b5 17. Be2 Bd7 18. O-O a5 19. Ne5 Nd5 20. Bf3 axb4 21. e4 fxe4
+22. Bxe4 Nf6 23. axb4 Nxe4 24. Qxe4 Rac8 25. Ra3 Rf6 26. Rh3 h6 27. g4 g5 28. f4
+Rcf8 29. Rhf3 Be8 30. fxg5 Rxf3 31. Rxf3 Rxf3 32. Nxf3 hxg5 33. Nxg5 1-0
+
+[Event "IX Torneio Int. da Figueira da Foz"]
+[Site "Figueira da Foz POR"]
+[Date "2018.10.28"]
+[Round "1.10"]
+[White "Marques, João"]
+[Black "Perez Garcia, Rodney Oscar"]
+[Result "0-1"]
+[ECO "A12"]
+[WhiteElo "1807"]
+[BlackElo "2362"]
+[WhiteFideId "1930540"]
+[BlackFideId "3500918"]
+[BlackTitle "IM"]
+[WhiteCountry "POR"]
+[BlackCountry "CUB"]
+[PlyCount "106"]
+
+1. c4 c6 2. Nf3 d5 3. b3 Bg4 4. Bb2 Bxf3 5. exf3 Nf6 6. d4 e6 7. Be2 Bb4+ 8. Bc3
+Bd6 9. O-O Nbd7 10. Nd2 O-O 11. g3 e5 12. dxe5 Bxe5 13. Bxe5 Nxe5 14. f4 Ned7
+15. Nf3 Re8 16. Re1 Qb6 17. cxd5 Nxd5 18. Bc4 Qa5 19. Qd2 Qxd2 20. Nxd2 N7b6 21.
+Kf1 Kf8 22. Rxe8+ Rxe8 23. Re1 Rd8 24. Bxd5 Nxd5 25. Nc4 Nc3 26. Rc1 Nd5 27. Na5
+Rd7 28. a3 Ke8 29. h3 Kd8 30. Nc4 Kc7 31. Kg2 f6 32. Kf3 Nb6 33. Nxb6 Kxb6 34.
+Rc3 c5 35. g4 Kb5 36. h4 a5 37. f5 b6 38. g5 Rd4 39. Kg3 a4 40. bxa4+ Kxa4 41.
+Re3 c4 42. gxf6 gxf6 43. Re6 c3 44. Rxf6 Rc4 45. Re6 c2 46. Re1 c1=Q 47. Rxc1
+Rxc1 48. Kg4 Kxa3 49. f6 b5 50. f7 Rc8 51. Kf5 b4 52. Kf6 b3 53. Kg7 b2 0-1
+
+[Event "IX Torneio Int. da Figueira da Foz"]
+[Site "Figueira da Foz POR"]
+[Date "2018.10.28"]
+[Round "1.11"]
+[White "Martín Duque, Jesus"]
+[Black "Puglia, Francesco"]
+[Result "1-0"]
+[ECO "B51"]
+[WhiteElo "2354"]
+[BlackElo "1803"]
+[WhiteFideId "2208954"]
+[BlackFideId "2820060"]
+[WhiteTitle "FM"]
+[WhiteCountry "ESP"]
+[BlackCountry "ITA"]
+[PlyCount "193"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Nd7 4. O-O a6 5. Bd3 g6 6. c3 Bg7 7. Bc2 Ngf6 8. d4
+O-O 9. e5 dxe5 10. dxe5 Ne8 11. Qe2 e6 12. Bg5 Qc7 13. Re1 h6 14. Bh4 Rb8 15. a4
+b5 16. axb5 axb5 17. Nbd2 Nb6 18. Bg3 Na4 19. Reb1 c4 20. Nxc4 Nxc3 21. bxc3
+bxc4 22. Rxb8 Qxb8 23. Qxc4 Nc7 24. Rb1 Ba6 25. Qc6 Qc8 26. Rb6 Rd8 27. h4 Rd5
+28. Rxa6 Qxa6 29. Qxc7 Qa3 30. Qb8+ Bf8 31. Qb3 Qxb3 32. Bxb3 Rd3 33. Kf1 Rxc3
+34. Bd1 Be7 35. Nd2 Rd3 36. Ke2 Rd4 37. Bc2 Rb4 38. Ne4 Kg7 39. f3 f5 40. exf6+
+Bxf6 41. Be1 Rb8 42. Nxf6 Kxf6 43. Bc3+ Kf7 44. Be4 Rb5 45. Kd3 Rb1 46. Bd2 Rh1
+47. g3 Rh3 48. Bf4 g5 49. hxg5 hxg5 50. Be5 Rh2 51. Ke3 Ra2 52. g4 Ra5 53. Kd4
+Ra4+ 54. Kc5 Ke7 55. Bd6+ Kf7 56. Kc6 Ra1 57. Kd7 Rd1 58. Bc2 Rd2 59. Bb3 Re2
+60. Bc4 Re3 61. Be7 Rxf3 62. Bxe6+ Kg6 63. Kc6 Rc3+ 64. Kd5 Rf3 65. Ke4 Rf4+ 66.
+Ke5 Ra4 67. Bf5+ Kf7 68. Bxg5 Ra5+ 69. Kf4 Kg7 70. Kg3 Ra2 71. Be4 Ra4 72. Bf5
+Ra2 73. Bd8 Ra4 74. Kh4 Rc4 75. Kg5 Rc8 76. Ba5 Kg8 77. Be1 Kg7 78. Bf2 Rc6 79.
+Kf4 Ra6 80. g5 Ra4+ 81. Be4 Ra5 82. Bd4+ Kg8 83. Bf5 Ra6 84. g6 Rc6 85. Bb1 Ra6
+86. Bc2 Ra3 87. Bb2 Ra7 88. Bb3+ Kf8 89. Bd5 Rd7 90. Ke5 Ra7 91. Kf5 Re7 92. Kg5
+Rd7 93. Be6 Rb7 94. Kh6 Rxb2 95. g7+ Ke7 96. g8=Q Rh2+ 97. Kg5 1-0
+
+[Event "IX Torneio Int. da Figueira da Foz"]
+[Site "Figueira da Foz POR"]
+[Date "2018.10.28"]
+[Round "1.12"]
+[White "Morais, Mario M F"]
+[Black "Elissalt Cardenas, Hector"]
+[Result "0-1"]
+[ECO "A45"]
+[WhiteElo "1766"]
+[BlackElo "2316"]
+[WhiteFideId "1959506"]
+[BlackFideId "3500632"]
+[BlackTitle "IM"]
+[WhiteCountry "POR"]
+[BlackCountry "ESP"]
+[PlyCount "38"]
+
+1. d4 Nf6 2. Bf4 e6 3. Nf3 b6 4. e3 Bb7 5. Nbd2 Be7 6. Bd3 O-O 7. e4 c5 8. c3
+Nc6 9. O-O cxd4 10. Nxd4 e5 11. Nxc6 dxc6 12. Qe2 exf4 13. e5 Nd5 14. Rad1 Qc8
+15. a3 c5 16. c4 Nc7 17. Ne4 Qe6 18. Nf6+ Bxf6 19. exf6 Qxf6 0-1
+
+[Event "IX Torneio Int. da Figueira da Foz"]
+[Site "Figueira da Foz POR"]
+[Date "2018.10.28"]
+[Round "1.13"]
+[White "Garcia Dorado, Alberto"]
+[Black "Marçal, Paulo"]
+[Result "1-0"]
+[ECO "A49"]
+[WhiteElo "2206"]
+[BlackElo "1751"]
+[WhiteFideId "2252244"]
+[BlackFideId "1903837"]
+[WhiteTitle "CM"]
+[WhiteCountry "ESP"]
+[BlackCountry "POR"]
+[PlyCount "49"]
+
+1. d4 Nf6 2. Nf3 g6 3. g3 Bg7 4. Bg2 c6 5. O-O O-O 6. c4 d5 7. Nbd2 a5 8. b3 Re8
+9. Bb2 Nbd7 10. Qc2 a4 11. e4 dxe4 12. Nxe4 a3 13. Bc3 Nxe4 14. Qxe4 Nf6 15. Qe2
+Nd7 16. Rad1 Qc7 17. Rfe1 h5 18. Qe3 Nf6 19. h3 Bf5 20. Ne5 Rad8 21. Qf4 Nd7 22.
+Nxg6 Qxf4 23. Nxf4 e6 24. Nxh5 Rc8 25. Nxg7 1-0
+
+[Event "IX Torneio Int. da Figueira da Foz"]
+[Site "Figueira da Foz POR"]
+[Date "2018.10.28"]
+[Round "1.14"]
+[White "Asvestopoulou, Evdokia"]
+[Black "Röttgen, Jürgen"]
+[Result "0-1"]
+[ECO "D16"]
+[WhiteElo "1720"]
+[BlackElo "2169"]
+[WhiteFideId "4219198"]
+[BlackFideId "4629868"]
+[WhiteCountry "GRE"]
+[BlackCountry "GER"]
+[PlyCount "58"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 dxc4 5. a4 Bg4 6. e3 Nbd7 7. Bxc4 e6 8. O-O
+Be7 9. h3 Bh5 10. Re1 O-O 11. e4 e5 12. g4 exd4 13. Nxd4 Bg6 14. Bf4 Nb6 15. Bb3
+Bc5 16. Nf5 Bxf5 17. exf5 Nfd5 18. Nxd5 Nxd5 19. Bg3 Qa5 20. Qf3 Rad8 21. g5 Kh8
+22. Re4 f6 23. gxf6 Nxf6 24. Rh4 Qd2 25. Be5 Rd3 26. Rd1 Rxf3 27. Rxd2 Rxb3 28.
+Bxf6 Rxf6 29. Rd8+ Rf8 0-1
+
+[Event "IX Torneio Int. da Figueira da Foz"]
+[Site "Figueira da Foz POR"]
+[Date "2018.10.28"]
+[Round "1.15"]
+[White "Santos, António P"]
+[Black "Gama, João"]
+[Result "1-0"]
+[ECO "E61"]
+[WhiteElo "2155"]
+[BlackElo "1598"]
+[WhiteFideId "1900161"]
+[BlackFideId "1926667"]
+[WhiteTitle "FM"]
+[WhiteCountry "POR"]
+[BlackCountry "POR"]
+[PlyCount "121"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. Qb3 c6 6. g3 O-O 7. Bg2 e6 8. O-O
+Nbd7 9. Rd1 dxc4 10. Qxc4 Nb6 11. Qb3 Nbd5 12. Ne5 h6 13. e4 Nxc3 14. bxc3 Qb6
+15. Qc2 Rd8 16. a4 a5 17. Rb1 Qc7 18. Bf4 Qe7 19. Nc4 Nh5 20. Bc1 Nf6 21. Ba3
+Qe8 22. Bc5 Bf8 23. Bb6 Rd7 24. Nxa5 Be7 25. Nc4 Qf8 26. a5 Bd8 27. Ra1 Qg7 28.
+Ne5 Bxb6 29. axb6 Rxa1 30. Rxa1 Rd8 31. Ra8 Qf8 32. Nc4 Bd7 33. Ra7 Rb8 34. Na5
+Bc8 35. Qb2 c5 36. e5 Nd5 37. Bxd5 exd5 38. Qa3 cxd4 39. Qxf8+ Kxf8 40. cxd4 Ke7
+41. f4 Ke6 42. Kf2 f6 43. Kf3 fxe5 44. fxe5 Kf5 45. g4+ Ke6 46. Kf4 g5+ 47. Ke3
+Kd7 48. h3 Ke6 49. Kd2 Kd7 50. Kc3 Ke6 51. Kb4 Ke7 52. Nc6+ Ke6 53. Nxb8 Ke7 54.
+Nc6+ Ke6 55. Nd8+ Kd7 56. Nxb7 Bxb7 57. Rxb7+ Ke6 58. Ra7 h5 59. b7 hxg4 60.
+hxg4 Kd7 61. b8=Q+ 1-0
+
+[Event "IX Torneio Int. da Figueira da Foz"]
+[Site "Figueira da Foz POR"]
+[Date "2018.10.28"]
+[Round "1.16"]
+[White "Mões Joaquim, Carlos"]
+[Black "Margarido, José"]
+[Result "0-1"]
+[ECO "E38"]
+[WhiteElo "1415"]
+[BlackElo "2121"]
+[WhiteFideId "1928104"]
+[BlackFideId "1914227"]
+[WhiteCountry "CPV"]
+[BlackCountry "POR"]
+[PlyCount "58"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 c5 5. Nf3 cxd4 6. Nxd4 Nc6 7. Nxc6 bxc6 8.
+a3 Be7 9. e4 e5 10. Bd3 O-O 11. O-O d6 12. f4 Ng4 13. Qe2 exf4 14. Bxf4 Bg5 15.
+Rad1 Bxf4 16. Rxf4 Ne5 17. c5 Qg5 18. Qf1 Nxd3 19. Rxd3 Ba6 20. Rf5 Bxd3 21.
+Qxd3 Qc1+ 22. Nd1 dxc5 23. Rf1 Rad8 24. Qf3 Qd2 25. e5 Qd4+ 26. Kh1 Qxe5 27.
+Qxc6 Qe2 28. Qf3 Qxf3 29. gxf3 Rd2 0-1
+
+[Event "IX Torneio Int. da Figueira da Foz"]
+[Site "Figueira da Foz POR"]
+[Date "2018.10.28"]
+[Round "1.17"]
+[White "Dias, Ricardo"]
+[Black "Fonseca, René Gil"]
+[Result "1-0"]
+[ECO "C05"]
+[WhiteElo "2098"]
+[BlackElo "1378"]
+[WhiteFideId "1930060"]
+[BlackFideId "1957767"]
+[WhiteCountry "POR"]
+[BlackCountry "POR"]
+[PlyCount "83"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. Bd3 c5 6. c3 Nc6 7. Ne2 Be7 8. O-O
+O-O 9. f4 f5 10. exf6 Nxf6 11. Nf3 cxd4 12. cxd4 Nb4 13. Bb1 Bd7 14. Nc3 Rc8 15.
+Ne5 Qb6 16. Be3 Nc6 17. Qd3 Nb4 18. Nxd7 Nxd3 19. Nxb6 axb6 20. Bxd3 Bd6 21. Nb5
+Bb8 22. Rac1 Ng4 23. Rxc8 Rxc8 24. Rc1 Rf8 25. Bd2 Bxf4 26. Bxf4 Rxf4 27. Rc8+
+Kf7 28. Rc7+ Kf6 29. Rxb7 Nf2 30. Be2 Ne4 31. Bf3 Nd2 32. Kf2 Ne4+ 33. Ke3 g5
+34. Rxb6 Rh4 35. a4 g4 36. Bxe4 dxe4 37. a5 Rxh2 38. a6 Rxg2 39. a7 Rg3+ 40.
+Kxe4 Rg2 41. a8=Q Re2+ 42. Kf4 1-0
+
+[Event "IX Torneio Int. da Figueira da Foz"]
+[Site "Figueira da Foz POR"]
+[Date "2018.10.28"]
+[Round "1.18"]
+[White "Dong, Rafael"]
+[Black "Fernandes, Ricardo Paulos"]
+[Result "0-1"]
+[ECO "A15"]
+[WhiteElo "1360"]
+[BlackElo "2098"]
+[WhiteFideId "1958038"]
+[BlackFideId "1943464"]
+[WhiteCountry "POR"]
+[BlackCountry "POR"]
+[PlyCount "70"]
+
+1. c4 Nf6 2. g3 g6 3. Bg2 Bg7 4. Nf3 O-O 5. Nc3 d6 6. d4 Nbd7 7. O-O c6 8. e4 e5
+9. d5 Nc5 10. Qc2 cxd5 11. cxd5 a5 12. Be3 b6 13. Bxc5 bxc5 14. b3 Ba6 15. Rfe1
+Ne8 16. Nd2 f5 17. f3 Qg5 18. Nc4 f4 19. g4 Bc8 20. Nb6 Rb8 21. Nxc8 Rxc8 22.
+Qf2 Qd8 23. Bf1 h5 24. Bh3 Rc7 25. Qg2 g5 26. gxh5 Bh6 27. Bg4 Nf6 28. h3 Qb8
+29. Qe2 c4 30. bxc4 Nxg4 31. hxg4 Qb4 32. Rec1 Rxc4 33. Rab1 Rxc3 34. Rxb4 Rxc1+
+35. Kg2 axb4 0-1
+
+[Event "IX Torneio Int. da Figueira da Foz"]
+[Site "Figueira da Foz POR"]
+[Date "2018.10.28"]
+[Round "1.19"]
+[White "Lisowski, Krzysztof"]
+[Black "Dong, Fábio"]
+[Result "1-0"]
+[ECO "B40"]
+[WhiteElo "2095"]
+[BlackElo "1273"]
+[WhiteFideId "1110969"]
+[BlackFideId "1958020"]
+[WhiteCountry "POL"]
+[BlackCountry "POR"]
+[PlyCount "49"]
+
+1. e4 c5 2. Nf3 e6 3. b3 Nc6 4. Bb2 d5 5. exd5 exd5 6. Bb5 Bd7 7. O-O Nf6 8.
+Re1+ Ne7 9. Bxd7+ Nxd7 10. Nc3 d4 11. Ne4 Qc7 12. c3 dxc3 13. dxc3 O-O-O 14.
+Nd6+ Kb8 15. Nxf7 Rg8 16. Nxd8 Qxd8 17. Ne5 Kc8 18. Qg4 Kc7 19. Rad1 Nxe5 20.
+Rxe5 Qe8 21. Rxc5+ Kb8 22. Re5 g6 23. Rd7 h5 24. Qe6 Rg7 25. Qd6+ 1-0
+
+[Event "IX Torneio Int. da Figueira da Foz"]
+[Site "Figueira da Foz POR"]
+[Date "2018.10.28"]
+[Round "1.20"]
+[White "Ferreira, Cristina"]
+[Black "Guerreiro, Nuno"]
+[Result "0-1"]
+[ECO "D00"]
+[WhiteElo "1069"]
+[BlackElo "2069"]
+[WhiteFideId "1963082"]
+[BlackFideId "1903012"]
+[WhiteCountry "POR"]
+[BlackCountry "POR"]
+[PlyCount "66"]
+
+1. d4 d5 2. Nc3 Bf5 3. Nf3 e6 4. Bg5 Nf6 5. e3 h6 6. Bh4 Be7 7. Bb5+ c6 8. Be2
+O-O 9. O-O c5 10. Qd2 Nc6 11. Rad1 a6 12. a4 Rc8 13. b3 cxd4 14. exd4 Nb4 15.
+Bd3 Nxd3 16. cxd3 Bb4 17. Rc1 Qa5 18. Bxf6 Bxc3 19. Qf4 gxf6 20. Qg3+ Kh7 21.
+Rcd1 Rg8 22. Qh4 Rg6 23. g3 Bg4 24. Ng5+ Rxg5 25. Rc1 Rc6 26. f3 Bf5 27. f4
+Bxd4+ 28. Kg2 Qd2+ 29. Kf3 Qxd3+ 30. Kg2 Qe2+ 31. Kh1 Qxf1+ 32. Rxf1 Be4+ 33.
+Rf3 Bxf3# 0-1
+
+[Event "IX Torneio Int. da Figueira da Foz"]
+[Site "Figueira da Foz POR"]
+[Date "2018.10.29"]
+[Round "2.1"]
+[White "Elissalt Cardenas, Hector"]
+[Black "Del Rio Angelis, Salvador"]
+[Result "0-1"]
+[ECO "A04"]
+[WhiteElo "2316"]
+[BlackElo "2547"]
+[WhiteFideId "3500632"]
+[BlackFideId "2203138"]
+[WhiteTitle "IM"]
+[BlackTitle "GM"]
+[WhiteCountry "ESP"]
+[BlackCountry "ESP"]
+[PlyCount "64"]
+
+1. Nf3 b6 2. e4 Bb7 3. Nc3 e6 4. d4 Bb4 5. Bd3 Bxc3+ 6. bxc3 d6 7. O-O Nd7 8.
+Nd2 Ne7 9. f4 O-O 10. Qe1 c5 11. Nc4 Nf6 12. e5 Ne8 13. dxc5 bxc5 14. Rb1 Ba6
+15. Bd2 d5 16. Ne3 Bxd3 17. cxd3 Nc7 18. d4 Qd7 19. g4 f5 20. exf6 Rxf6 21. dxc5
+Na6 22. Ng2 Nxc5 23. Be3 Ne4 24. Bd4 Rf7 25. c4 h5 26. h3 hxg4 27. hxg4 Nc6 28.
+Ba1 Raf8 29. cxd5 Qxd5 30. Qh4 Nd2 31. g5 Nd4 32. Bxd4 Qxd4+ 0-1
+
+[Event "IX Torneio Int. da Figueira da Foz"]
+[Site "Figueira da Foz POR"]
+[Date "2018.10.29"]
+[Round "2.2"]
+[White "Röttgen, Jürgen"]
+[Black "Stella, Andrea"]
+[Result "0-1"]
+[ECO "A10"]
+[WhiteElo "2169"]
+[BlackElo "2500"]
+[WhiteFideId "4629868"]
+[BlackFideId "827061"]
+[BlackTitle "GM"]
+[WhiteCountry "GER"]
+[BlackCountry "ITA"]
+[PlyCount "40"]
+
+1. c4 g6 2. Nc3 c5 3. g3 Bg7 4. Bg2 Nc6 5. e3 d6 6. Nge2 h5 7. d4 cxd4 8. exd4
+Nh6 9. Bg5 Nf5 10. Be3 e5 11. Bxc6+ bxc6 12. Qd2 O-O 13. O-O-O Qa5 14. d5 Rb8
+15. b3 Bd7 16. Ne4 Qa6 17. N2c3 Rfc8 18. Rhe1 cxd5 19. Nxd5 Rxc4+ 20. Kb2 Rxe4
+0-1
+
+[Event "IX Torneio Int. da Figueira da Foz"]
+[Site "Figueira da Foz POR"]
+[Date "2018.10.29"]
+[Round "2.3"]
+[White "Rotstein, Arkadij"]
+[Black "Martín Duque, Jesus"]
+[Result "1/2-1/2"]
+[ECO "A07"]
+[WhiteElo "2476"]
+[BlackElo "2354"]
+[WhiteFideId "4662997"]
+[BlackFideId "2208954"]
+[WhiteTitle "GM"]
+[BlackTitle "FM"]
+[WhiteCountry "GER"]
+[BlackCountry "ESP"]
+[PlyCount "76"]
+
+1. Nf3 d5 2. g3 Bg4 3. Bg2 c6 4. O-O Nd7 5. d4 Ngf6 6. Nbd2 e6 7. Re1 Be7 8. e4
+O-O 9. c3 a5 10. a4 Bh5 11. Qb3 Rb8 12. exd5 exd5 13. Nf1 Bd6 14. Ne5 Re8 15.
+Bf4 Qc7 16. Nxd7 Qxd7 17. Bxd6 Qxd6 18. Rxe8+ Nxe8 19. Re1 Bg6 20. Nd2 Nf6 21.
+Qb6 Qd8 22. Qc5 Bf5 23. b4 axb4 24. cxb4 Ra8 25. a5 Be6 26. Nb3 Qf8 27. Qb6 Nd7
+28. Qxb7 Rb8 29. Qxc6 Qxb4 30. Re3 Nf6 31. a6 Rb6 32. Rxe6 fxe6 33. a7 Rxc6 34.
+a8=Q+ Kf7 35. Qxc6 Qxb3 36. Qc7+ Kf8 37. Qc8+ Kf7 38. Qc7+ Kf8 1/2-1/2
+
+[Event "IX Torneio Int. da Figueira da Foz"]
+[Site "Figueira da Foz POR"]
+[Date "2018.10.29"]
+[Round "2.4"]
+[White "Margarido, José"]
+[Black "Galego, Luís"]
+[Result "0-1"]
+[ECO "B40"]
+[WhiteElo "2121"]
+[BlackElo "2473"]
+[WhiteFideId "1914227"]
+[BlackFideId "1900072"]
+[BlackTitle "GM"]
+[WhiteCountry "POR"]
+[BlackCountry "POR"]
+[PlyCount "96"]
+
+1. e4 c5 2. Nf3 e6 3. c3 d5 4. exd5 Qxd5 5. d4 Nf6 6. Na3 Qd8 7. Nc2 Nc6 8. Bd3
+Be7 9. O-O O-O 10. Qe2 cxd4 11. Ncxd4 Nxd4 12. Nxd4 Bd7 13. Bf4 Nd5 14. Be5 Bf6
+15. Qe4 g6 16. Bxf6 Qxf6 17. Rfe1 Rad8 18. Bf1 Rfe8 19. Rad1 e5 20. Nb3 Bc6 21.
+Qg4 h5 22. Qg3 b6 23. Nd2 Nf4 24. Nf3 Rxd1 25. Rxd1 Kg7 26. Ne1 h4 27. Qe3 Qe6
+28. b3 Qf6 29. c4 Re6 30. Nd3 Rd6 31. Re1 Bxg2 32. Nxf4 exf4 33. Qe7 Bf3 34.
+Qxf6+ Kxf6 35. Bg2 Rd1 36. Rxd1 Bxd1 37. Bd5 Bg4 38. Kf1 Be6 39. Bc6 Ke5 40. Ke2
+Kd4 41. Kd2 g5 42. Ke2 g4 43. Kd2 f5 44. Bb7 a5 45. Bc6 Bf7 46. Bd7 g3 47. fxg3
+fxg3 48. Bc6 Bh5 0-1
+
+[Event "IX Torneio Int. da Figueira da Foz"]
+[Site "Figueira da Foz POR"]
+[Date "2018.10.29"]
+[Round "2.5"]
+[White "Oratovsky, Michael"]
+[Black "Garcia Dorado, Alberto"]
+[Result "1-0"]
+[ECO "C07"]
+[WhiteElo "2466"]
+[BlackElo "2206"]
+[WhiteFideId "2802090"]
+[BlackFideId "2252244"]
+[WhiteTitle "GM"]
+[BlackTitle "CM"]
+[WhiteCountry "ISR"]
+[BlackCountry "ESP"]
+[PlyCount "101"]
+
+1. e4 e6 2. d4 d5 3. Nd2 c5 4. Ngf3 cxd4 5. Nxd4 Nc6 6. Bb5 Bd7 7. Nxc6 bxc6 8.
+Bd3 Qc7 9. Qe2 Ne7 10. Nf3 Ng6 11. O-O Bd6 12. Re1 Nf4 13. Bxf4 Bxf4 14. g3 Bd6
+15. exd5 cxd5 16. Rac1 O-O 17. c4 Qa5 18. a3 g6 19. c5 Be7 20. Ne5 Qc7 21. b4
+Bc8 22. f4 a6 23. h4 f6 24. Nf3 Re8 25. Kg2 Bf8 26. h5 gxh5 27. Bb1 e5 28. fxe5
+fxe5 29. Nxe5 Bg4 30. Qd3 Bh6 31. Nxg4 hxg4 32. Qxd5+ Kh8 33. Qd4+ Bg7 34. Qxg4
+Bb2 35. Rcd1 Rg8 36. Qh3 Rxg3+ 37. Qxg3 Rg8 38. Qxg8+ Kxg8 39. Re3 Be5 40. Ba2+
+Kg7 41. Rd5 Bf4 42. Rf3 Kh8 43. Kf2 Bh6 44. Rd6 Bg7 45. Rf7 Qb8 46. Rfd7 Bf6 47.
+Bf7 Bh4+ 48. Kf3 Qf8 49. Re6 Qa8+ 50. c6 Be7 51. Rdxe7 1-0
+
+[Event "IX Torneio Int. da Figueira da Foz"]
+[Site "Figueira da Foz POR"]
+[Date "2018.10.29"]
+[Round "2.6"]
+[White "Fernandes, Ricardo Paulos"]
+[Black "Romanishin, Oleg"]
+[Result "0-1"]
+[ECO "A00"]
+[WhiteElo "2098"]
+[BlackElo "2443"]
+[WhiteFideId "1943464"]
+[BlackFideId "14100088"]
+[BlackTitle "GM"]
+[WhiteCountry "POR"]
+[BlackCountry "UKR"]
+[PlyCount "74"]
+
+1. b3 e5 2. Bb2 d6 3. e3 Nf6 4. c4 g6 5. d3 Bg7 6. Nd2 O-O 7. Qc2 c5 8. Ngf3 Nc6
+9. a3 b6 10. Be2 Bb7 11. O-O Rc8 12. Rad1 Re8 13. Rfe1 d5 14. cxd5 Nxd5 15. Qb1
+Qe7 16. Bf1 Rcd8 17. Qa1 h6 18. d4 e4 19. Ne5 Nxe5 20. dxe5 Bxe5 21. Bxe5 Qxe5
+22. Qxe5 Rxe5 23. f4 exf3 24. Nxf3 Ree8 25. Bc4 Kg7 26. Rd3 Nf6 27. Red1 Rxd3
+28. Rxd3 Be4 29. Rd6 Bxf3 30. gxf3 Rxe3 31. Kf2 Re7 32. a4 Rd7 33. Rc6 Ne8 34.
+Rc8 Nd6 35. Rc6 Nxc4 36. bxc4 Rd2+ 37. Ke3 Ra2 0-1
+
+[Event "IX Torneio Int. da Figueira da Foz"]
+[Site "Figueira da Foz POR"]
+[Date "2018.10.29"]
+[Round "2.7"]
+[White "Guerreiro, Nuno"]
+[Black "Alshameary Puente, Ismael"]
+[Result "0-1"]
+[ECO "A04"]
+[WhiteElo "2069"]
+[BlackElo "2369"]
+[WhiteFideId "1903012"]
+[BlackFideId "2225166"]
+[BlackTitle "FM"]
+[WhiteCountry "POR"]
+[BlackCountry "ESP"]
+[PlyCount "68"]
+
+1. Nf3 c5 2. g3 d5 3. c4 d4 4. b4 cxb4 5. a3 bxa3 6. Bxa3 Nc6 7. Bg2 e5 8. Bxf8
+Kxf8 9. d3 g6 10. O-O Kg7 11. Nbd2 Nf6 12. Qa4 Bd7 13. Rfb1 Qc7 14. Qa3 h6 15.
+Rb5 Rhe8 16. Qb2 Rab8 17. c5 Be6 18. Nc4 Bxc4 19. dxc4 a6 20. Rb3 Na5 21. Rb4
+Qxc5 22. Nd2 b6 23. Rb1 Re6 24. Ne4 Nxe4 25. Bxe4 Nxc4 26. Qc2 Rc8 27. Bb7 Rc7
+28. Qa2 a5 29. Rb5 Qa3 30. Qc2 Qe7 31. Bd5 Na3 32. Qa2 Nxb5 33. Rxb5 Rd6 34. Be4
+Rc1+ 0-1
+
+[Event "IX Torneio Int. da Figueira da Foz"]
+[Site "Figueira da Foz POR"]
+[Date "2018.10.29"]
+[Round "2.8"]
+[White "Perez Garcia, Rodney Oscar"]
+[Black "Santos, António P"]
+[Result "1-0"]
+[ECO "B92"]
+[WhiteElo "2362"]
+[BlackElo "2155"]
+[WhiteFideId "3500918"]
+[BlackFideId "1900161"]
+[WhiteTitle "IM"]
+[BlackTitle "FM"]
+[WhiteCountry "CUB"]
+[BlackCountry "POR"]
+[PlyCount "75"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e5 7. Nb3 Be7 8. Bg5
+Nbd7 9. a4 O-O 10. O-O h6 11. Bh4 b6 12. Bc4 Bb7 13. Nd2 g5 14. Bg3 Nc5 15. Re1
+Bc6 16. h4 Qd7 17. hxg5 hxg5 18. Bf1 Rfc8 19. Nc4 Rab8 20. f3 Nh5 21. Bf2 Ng7
+22. a5 bxa5 23. Bxc5 dxc5 24. Qxd7 Bxd7 25. Nxe5 Be6 26. Bxa6 Bf6 27. Bxc8 Rxc8
+28. Nd3 Bd4+ 29. Kf1 c4 30. Nc1 Rb8 31. N1e2 Bf6 32. Reb1 Nh5 33. Rxa5 Ng3+ 34.
+Nxg3 Bxc3 35. Rxg5+ Kf8 36. Ne2 Bxb2 37. c3 Bd7 38. Rd5 1-0
+
+[Event "IX Torneio Int. da Figueira da Foz"]
+[Site "Figueira da Foz POR"]
+[Date "2018.10.29"]
+[Round "2.9"]
+[White "Jakubowski, Krzystof"]
+[Black "Lisowski, Krzysztof"]
+[Result "1-0"]
+[ECO "A13"]
+[WhiteElo "2511"]
+[BlackElo "2095"]
+[WhiteFideId "1112848"]
+[BlackFideId "1110969"]
+[WhiteTitle "GM"]
+[WhiteCountry "POL"]
+[BlackCountry "POL"]
+[PlyCount "67"]
+
+1. c4 e6 2. d4 Nf6 3. Nc3 d5 4. cxd5 exd5 5. Bg5 Be7 6. e3 c6 7. Qc2 Nbd7 8. Bd3
+O-O 9. Nge2 Re8 10. O-O h6 11. Bf4 Nh5 12. Nxd5 Nxf4 13. Nxe7+ Qxe7 14. Nxf4 Nf6
+15. Rac1 a5 16. Qc5 Qd8 17. Rfd1 Bg4 18. Rd2 a4 19. h3 Ra5 20. Qb4 Bc8 21. Rc5
+Ra8 22. a3 g5 23. Ne2 Nd5 24. Qc4 Bd7 25. e4 b6 26. Rxc6 Bxc6 27. Qxc6 Nf6 28.
+e5 Re6 29. Qf3 Ne8 30. Qe4 Ra5 31. Nc3 Rg6 32. d5 Nc7 33. Bc2 Rc5 34. Qxa4 1-0
+
+[Event "IX Torneio Int. da Figueira da Foz"]
+[Site "Figueira da Foz POR"]
+[Date "2018.10.29"]
+[Round "2.10"]
+[White "Vasallo, Mauricio"]
+[Black "Dias, José"]
+[Result "1-0"]
+[ECO "D31"]
+[WhiteElo "2378"]
+[BlackElo "1605"]
+[WhiteFideId "101648"]
+[BlackFideId "1923943"]
+[WhiteTitle "IM"]
+[WhiteCountry "ESP"]
+[BlackCountry "POR"]
+[PlyCount "95"]
+
+1. d4 d5 2. c4 e6 3. Nc3 c6 4. Nf3 f5 5. Bf4 Nf6 6. e3 Bd6 7. Ne5 O-O 8. Bd3 a5
+9. h3 Bb4 10. Qc2 Nbd7 11. Nf3 Ne4 12. c5 a4 13. a3 Ba5 14. O-O Nxc3 15. bxc3
+Bc7 16. Rfe1 Nf6 17. Rab1 Bxf4 18. exf4 Qc7 19. g3 h6 20. h4 g6 21. Kg2 Rf7 22.
+Rb4 Qa5 23. Ne5 Rg7 24. Rb6 h5 25. Reb1 Nd7 26. Nxd7 Rxd7 27. R1b4 Qa7 28. Qe2
+Kf7 29. Bc2 Qb8 30. Bxa4 Qc7 31. Qb2 Ra7 32. Bd1 Qd8 33. a4 Qe7 34. Qd2 Kg7 35.
+Rb2 Kh7 36. Ra2 Ra6 37. a5 Rxb6 38. cxb6 c5 39. Ba4 Rd8 40. Bb5 Qd6 41. Qe3 c4
+42. Qe5 Qe7 43. a6 bxa6 44. Bxa6 Bxa6 45. Rxa6 Rd7 46. Ra8 Qg7 47. Qxg7+ Kxg7
+48. Ra7 1-0
+
+[Event "IX Torneio Int. da Figueira da Foz"]
+[Site "Figueira da Foz POR"]
+[Date "2018.10.29"]
+[Round "2.11"]
+[White "Veiga, Francisco"]
+[Black "Bouxo, Luís"]
+[Result "1-0"]
+[ECO "A06"]
+[WhiteElo "2272"]
+[BlackElo "1585"]
+[WhiteFideId "1930087"]
+[BlackFideId "1904647"]
+[WhiteTitle "FM"]
+[WhiteCountry "POR"]
+[BlackCountry "POR"]
+[PlyCount "73"]
+
+1. Nf3 d5 2. b3 Nf6 3. Bb2 c6 4. g3 Nbd7 5. Bg2 e6 6. O-O Bd6 7. c4 O-O 8. d4
+Ne4 9. Nfd2 f5 10. Nxe4 fxe4 11. f3 exf3 12. exf3 Qg5 13. f4 Qg6 14. Ba3 Bxa3
+15. Nxa3 Nf6 16. Qe2 Ng4 17. Nc2 Rf6 18. Ne1 Nh6 19. Nd3 Nf5 20. Ne5 Qe8 21. Qd2
+Qd8 22. c5 Bd7 23. b4 Be8 24. a4 a6 25. Rfe1 Qc8 26. Rab1 h5 27. Bf3 Rh6 28. Bg2
+h4 29. g4 Ne7 30. h3 Bg6 31. Rb3 Bh7 32. g5 Rh5 33. Bf3 g6 34. Ng4 Kg7 35. Nf6
+Nf5 36. Bg4 Ng3 37. Rxe6 1-0
+
+[Event "IX Torneio Int. da Figueira da Foz"]
+[Site "Figueira da Foz POR"]
+[Date "2018.10.29"]
+[Round "2.12"]
+[White "Correia, Pedro Mourão"]
+[Black "Piasetski, Leon"]
+[Result "0-1"]
+[ECO "B02"]
+[WhiteElo "1518"]
+[BlackElo "2252"]
+[WhiteFideId "1959522"]
+[BlackFideId "2600072"]
+[WhiteTitle "AFM"]
+[BlackTitle "IM"]
+[WhiteCountry "POR"]
+[BlackCountry "CAN"]
+[PlyCount "92"]
+
+1. e4 Nf6 2. Nc3 d5 3. exd5 Nxd5 4. Nxd5 Qxd5 5. Qf3 Qe5+ 6. Qe3 Qd6 7. Nf3 c5
+8. Bb5+ Bd7 9. Bxd7+ Nxd7 10. O-O g6 11. c3 Bg7 12. d4 cxd4 13. Nxd4 O-O 14. Ne2
+a6 15. Qh3 Nc5 16. Be3 Rad8 17. Bh6 Bxh6 18. Qxh6 Qd2 19. Qe3 Qxe3 20. fxe3 Rd2
+21. Nf4 Rfd8 22. b3 e5 23. Nh3 Ne4 24. c4 Rb2 25. Rab1 Rdd2 26. Rxb2 Rxb2 27.
+Re1 Rxa2 28. Kf1 Nd2+ 29. Kf2 Nxc4+ 30. Kf3 Nd2+ 31. Kg3 a5 32. Ng5 h6 33. Nf3
+Ne4+ 34. Kh4 g5+ 35. Nxg5 hxg5+ 36. Kh5 Kg7 37. Rg1 Rd2 38. h4 gxh4 39. Kxh4 f5
+40. Kh3 Kf6 41. Rc1 Re2 42. Kh2 Rxe3 43. Rc8 Rc3 44. Rf8+ Kg5 45. Re8 Nf6 46.
+Rxe5 Ng4+ 0-1
+
+[Event "IX Torneio Int. da Figueira da Foz"]
+[Site "Figueira da Foz POR"]
+[Date "2018.10.29"]
+[Round "2.13"]
+[White "Soares, Sara"]
+[Black "Fernandes, Miguel"]
+[Result "0-1"]
+[ECO "B01"]
+[WhiteElo "1481"]
+[BlackElo "2048"]
+[WhiteFideId "1948172"]
+[BlackFideId "1920456"]
+[WhiteCountry "POR"]
+[BlackCountry "POR"]
+[PlyCount "66"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. Nf3 Nf6 5. Bc4 g6 6. O-O Bg7 7. Re1 O-O 8.
+d3 a6 9. a4 b6 10. Bg5 Bb7 11. Bxf6 exf6 12. Qe2 f5 13. Qe7 Bxf3 14. Qxd6 cxd6
+15. gxf3 Nc6 16. Kg2 Nd4 17. Bb3 Rfe8 18. Rac1 Nxb3 19. cxb3 Bd4 20. Kf1 Rxe1+
+21. Rxe1 Rc8 22. Nd5 Rc5 23. Ne7+ Kf8 24. Re2 Bf6 25. b4 Rc1+ 26. Re1 Rxe1+ 27.
+Kxe1 Kxe7 28. b3 Bc3+ 29. Ke2 Bxb4 30. d4 h5 31. f4 d5 32. h4 Ke6 33. Ke3 Be7
+0-1
+
+[Event "IX Torneio Int. da Figueira da Foz"]
+[Site "Figueira da Foz POR"]
+[Date "2018.10.29"]
+[Round "2.14"]
+[White "Silva, Pedro Gil"]
+[Black "Gonçalves, Lucas"]
+[Result "1-0"]
+[ECO "C45"]
+[WhiteElo "1837"]
+[BlackElo "1401"]
+[WhiteFideId "1946102"]
+[BlackFideId "1945360"]
+[WhiteCountry "POR"]
+[BlackCountry "POR"]
+[PlyCount "128"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Bc5 5. Nb3 Bb6 6. Nc3 a6 7. Nd5 d6 8.
+Nxb6 cxb6 9. f3 Be6 10. Nd4 Bd7 11. Bc4 Nge7 12. Be3 O-O 13. O-O Rc8 14. Be2 Re8
+15. f4 Nxd4 16. Bxd4 Nc6 17. Bf3 g6 18. Bc3 Be6 19. Qd2 Qc7 20. f5 Bc4 21. f6
+Nd8 22. Rfd1 Ne6 23. h4 Rcd8 24. h5 gxh5 25. Bb4 Kh8 26. Bxd6 Qc6 27. e5 Qd7 28.
+Qh6 Rg8 29. Be7 Qb5 30. Bxd8 Qxe5 31. Be7 Qg3 32. Bf8 Nxf8 33. Be4 Bb5 34. Rd8
+Bc6 35. Qxf8 Bxe4 36. Qxg8+ Qxg8 37. Rxg8+ Kxg8 38. Re1 Bc6 39. Re5 h6 40. Re7
+Bd5 41. Rd7 Bc6 42. Rc7 b5 43. g3 a5 44. a3 b4 45. axb4 axb4 46. c4 bxc3 47.
+bxc3 Bd5 48. Kf2 b5 49. Ke3 Kh7 50. Kd4 Bb3 51. Ke5 Kg6 52. Rc8 Kh7 53. Kd6 Kg6
+54. Ke7 Bc4 55. Rg8+ Kf5 56. Rg7 h4 57. gxh4 Ke4 58. Rxf7 Kd3 59. Rf8 Kxc3 60.
+f7 Kd4 61. Rb8 Bxf7 62. Kxf7 Ke5 63. Rxb5+ Kf4 64. Kg6 Ke5 1-0
+
+[Event "IX Torneio Int. da Figueira da Foz"]
+[Site "Figueira da Foz POR"]
+[Date "2018.10.29"]
+[Round "2.15"]
+[White "Fernandes, João Pedro"]
+[Black "Pipiras, Filipa"]
+[Result "1/2-1/2"]
+[ECO "C88"]
+[WhiteElo "2067"]
+[BlackElo "1853"]
+[WhiteFideId "1926624"]
+[BlackFideId "1944894"]
+[WhiteCountry "POR"]
+[BlackCountry "POR"]
+[PlyCount "53"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. d3
+d6 9. c3 Na5 10. Bc2 c5 11. Nbd2 Nd7 12. Nf1 Nb6 13. Ne3 Re8 14. d4 exd4 15.
+cxd4 Nc6 16. d5 Nb4 17. Bb1 a5 18. a3 Na6 19. e5 dxe5 20. Nxe5 Bf6 21. Bxh7+
+Kxh7 22. Qh5+ Kg8 23. Qxf7+ Kh7 24. Qg6+ Kg8 25. Qf7+ Kh7 26. Qh5+ Kg8 27. Qf7+
+1/2-1/2
+
+[Event "IX Torneio Int. da Figueira da Foz"]
+[Site "Figueira da Foz POR"]
+[Date "2018.10.29"]
+[Round "2.16"]
+[White "Sismeiro, Miguel"]
+[Black "Morais, Mario M F"]
+[Result "1/2-1/2"]
+[ECO "B27"]
+[WhiteElo "2008"]
+[BlackElo "1766"]
+[WhiteFideId "1950975"]
+[BlackFideId "1959506"]
+[WhiteCountry "POR"]
+[BlackCountry "POR"]
+[PlyCount "50"]
+
+1. e4 c5 2. Nf3 g6 3. d4 cxd4 4. Nxd4 Bg7 5. c4 Nf6 6. Nc3 Nc6 7. Be3 Ng4 8.
+Qxg4 Nxd4 9. Qd1 e5 10. Be2 a6 11. O-O O-O 12. Qd2 d6 13. Rfd1 Be6 14. f3 Rc8
+15. b3 b5 16. Nd5 Bxd5 17. exd5 Nxe2+ 18. Qxe2 bxc4 19. bxc4 e4 20. Rac1 exf3
+21. Qxf3 Re8 22. Kh1 Qe7 23. Bf4 Be5 24. Re1 f6 25. Bxe5 fxe5 1/2-1/2
+
+[Event "IX Torneio Int. da Figueira da Foz"]
+[Site "Figueira da Foz POR"]
+[Date "2018.10.29"]
+[Round "2.17"]
+[White "Marçal, Paulo"]
+[Black "Adams, Philip"]
+[Result "0-1"]
+[ECO "B32"]
+[WhiteElo "1751"]
+[BlackElo "1980"]
+[WhiteFideId "1903837"]
+[BlackFideId "411256"]
+[WhiteCountry "POR"]
+[BlackCountry "ENG"]
+[PlyCount "52"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 g6 5. c3 Bg7 6. Be3 Nf6 7. Nd2 O-O 8. Be2
+Qc7 9. O-O d5 10. exd5 Nxd5 11. Nb5 Qd8 12. Bc5 b6 13. Ba3 a6 14. Nd4 Nxd4 15.
+cxd4 Bxd4 16. Bf3 Bb7 17. Qb3 Rb8 18. Rad1 Re8 19. Ne4 Bg7 20. Nc3 e6 21. Nxd5
+exd5 22. Bxd5 Bxd5 23. Rxd5 Qf6 24. Qg3 Rbd8 25. Rxd8 Qxd8 26. Qb3 b5 0-1
+
+[Event "IX Torneio Int. da Figueira da Foz"]
+[Site "Figueira da Foz POR"]
+[Date "2018.10.29"]
+[Round "2.18"]
+[White "Felizes, Paulo"]
+[Black "Asvestopoulou, Evdokia"]
+[Result "1-0"]
+[ECO "A45"]
+[WhiteElo "1965"]
+[BlackElo "1720"]
+[WhiteFideId "1900889"]
+[BlackFideId "4219198"]
+[WhiteCountry "POR"]
+[BlackCountry "GRE"]
+[PlyCount "79"]
+
+1. d4 Nf6 2. Bg5 d5 3. Nd2 h6 4. Bxf6 gxf6 5. c4 c5 6. cxd5 Qxd5 7. dxc5 Qxc5 8.
+Rc1 Qf5 9. e4 Qe6 10. Qh5 Rh7 11. Bc4 Qd7 12. Bb5 Nc6 13. Ngf3 a6 14. Ba4 b5 15.
+Bb3 Bb7 16. O-O Nd4 17. Nxd4 Qxd4 18. Rc7 Qb6 19. Rfc1 Rd8 20. Bd5 Bxd5 21. exd5
+Qd4 22. Qf5 Rg7 23. Rc8 e6 24. Rxd8+ Kxd8 25. dxe6 fxe6 26. Qc2 Ke8 27. Qc6+ Kf7
+28. Nb3 Qg4 29. Re1 Be7 30. g3 Rg5 31. Kg2 Rh5 32. Re4 Qh3+ 33. Kf3 Qf5+ 34. Rf4
+Qd3+ 35. Kg2 Rd5 36. Qxa6 Rd6 37. Qb7 Rd7 38. Qf3 Qc2 39. Qh5+ Kg7 40. Rg4+ 1-0
+
+[Event "IX Torneio Int. da Figueira da Foz"]
+[Site "Figueira da Foz POR"]
+[Date "2018.10.29"]
+[Round "2.19"]
+[White "Fonseca, René Gil"]
+[Black "Lopez De Turiso, José Angel"]
+[Result "0-1"]
+[ECO "C61"]
+[WhiteElo "1378"]
+[BlackElo "1933"]
+[WhiteFideId "1957767"]
+[BlackFideId "2207680"]
+[WhiteCountry "POR"]
+[BlackCountry "ESP"]
+[PlyCount "46"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nd4 4. Nxd4 exd4 5. O-O Bc5 6. Qg4 Kf8 7. Qf3 d6 8.
+Bc4 Nf6 9. h3 Qe7 10. d3 h6 11. Re1 g5 12. Qe2 Nd7 13. Na3 Ne5 14. Bd2 g4 15.
+Kh2 gxh3 16. Qh5 Bg4 17. Bxh6+ Ke8 18. Qg5 hxg2 19. Qxe7+ Kxe7 20. Kxg2 Bf3+ 21.
+Kg3 Rag8+ 22. Kf4 Rg4+ 23. Kf5 Rxh6 0-1
+
+[Event "IX Torneio Int. da Figueira da Foz"]
+[Site "Figueira da Foz POR"]
+[Date "2018.10.29"]
+[Round "2.20"]
+[White "Morais, Vítor"]
+[Black "Mões Joaquim, Carlos"]
+[Result "1-0"]
+[ECO "A09"]
+[WhiteElo "1918"]
+[BlackElo "1415"]
+[WhiteFideId "1900552"]
+[BlackFideId "1928104"]
+[WhiteCountry "POR"]
+[BlackCountry "CPV"]
+[PlyCount "91"]
+
+1. Nf3 d5 2. c4 d4 3. b4 Qd6 4. c5 Qd5 5. Bb2 e5 6. e3 Bg4 7. exd4 Bxf3 8. gxf3
+exd4 9. Bd3 Nf6 10. O-O Nc6 11. Re1+ Be7 12. a3 O-O 13. Be4 Nxe4 14. fxe4 Qd7
+15. Kh1 Ne5 16. Qb3 Rad8 17. f4 Ng4 18. Qf3 Bh4 19. Rf1 Rfe8 20. d3 Ne3 21. Rc1
+f5 22. Nd2 fxe4 23. dxe4 Ng4 24. Rf1 Rf8 25. Rac1 Nh6 26. Qb3+ Nf7 27. Nf3 Qe7
+28. e5 d3 29. Rcd1 Kh8 30. Rxd3 Rxd3 31. Qxd3 Nh6 32. Qe4 c6 33. Bd4 Ng4 34. f5
+h5 35. h3 Nxe5 36. Bxe5 Bf6 37. Qf4 Rd8 38. Bd6 Qe2 39. Rg1 Qb2 40. Ng5 Kg8 41.
+Ne6 Rd7 42. Qf3 h4 43. Nf4 a6 44. Qe4 Rd8 45. Nh5 Qxa3 46. Nxf6+ 1-0
+
+[Event "IX Torneio Int. da Figueira da Foz"]
+[Site "Figueira da Foz POR"]
+[Date "2018.10.29"]
+[Round "2.21"]
+[White "Pais, Bruno"]
+[Black "Dong, Rafael"]
+[Result "1-0"]
+[ECO "A45"]
+[WhiteElo "1836"]
+[BlackElo "1360"]
+[WhiteFideId "1911341"]
+[BlackFideId "1958038"]
+[WhiteCountry "POR"]
+[BlackCountry "POR"]
+[PlyCount "61"]
+
+1. d4 Nf6 2. g3 e6 3. Bg2 c5 4. Nf3 d5 5. O-O Nc6 6. e3 Bd6 7. Nbd2 b6 8. c4
+cxd4 9. Nxd4 Nxd4 10. exd4 Bb7 11. Qa4+ Qd7 12. Qxd7+ Nxd7 13. cxd5 Bxd5 14.
+Bxd5 exd5 15. Re1+ Kd8 16. Nf1 b5 17. Ne3 Nb6 18. Nf5 Bb4 19. Re2 g6 20. Ne3 Re8
+21. a3 Bf8 22. b3 Bg7 23. Bb2 Rc8 24. Rae1 a5 25. Kf1 a4 26. bxa4 bxa4 27. Rb1
+Nc4 28. Nxd5 Rxe2 29. Kxe2 Nxb2 30. Rxb2 Bxd4 31. Rd2 1-0
+
+[Event "IX Torneio Int. da Figueira da Foz"]
+[Site "Figueira da Foz POR"]
+[Date "2018.10.29"]
+[Round "2.22"]
+[White "Dong, Fábio"]
+[Black "Marques, João"]
+[Result "0-1"]
+[ECO "A16"]
+[WhiteElo "1273"]
+[BlackElo "1807"]
+[WhiteFideId "1958020"]
+[BlackFideId "1930540"]
+[WhiteCountry "POR"]
+[BlackCountry "POR"]
+[PlyCount "52"]
+
+1. c4 Nf6 2. Nc3 g6 3. g3 Bg7 4. Bg2 O-O 5. Nf3 d6 6. d4 c6 7. O-O Bf5 8. Re1
+Ne4 9. Bd2 Qb6 10. Qb3 Qxb3 11. axb3 Nxd2 12. Nxd2 Bxd4 13. Ra4 Nd7 14. Rea1 a6
+15. Rb4 Rab8 16. e3 Bg7 17. Rba4 Nc5 18. R4a2 Nd3 19. e4 Be6 20. Kf1 Nxb2 21.
+Rc1 Nd3 22. Rcc2 Nb4 23. Rab2 Nxc2 24. Rxc2 Rfc8 25. Ne2 b5 26. cxb5 Rxb5 0-1
+
+[Event "IX Torneio Int. da Figueira da Foz"]
+[Site "Figueira da Foz POR"]
+[Date "2018.10.29"]
+[Round "2.23"]
+[White "Puglia, Francesco"]
+[Black "Ferreira, Cristina"]
+[Result "1-0"]
+[ECO "C25"]
+[WhiteElo "1803"]
+[BlackElo "1069"]
+[WhiteFideId "2820060"]
+[BlackFideId "1963082"]
+[WhiteCountry "ITA"]
+[BlackCountry "POR"]
+[PlyCount "51"]
+
+1. e4 e5 2. Nc3 Nc6 3. f4 f6 4. Nf3 Be7 5. Bc4 Nh6 6. O-O Na5 7. Nxe5 Nxc4 8.
+Nxc4 d6 9. d4 Be6 10. d5 Bg4 11. Qe1 O-O 12. f5 Qd7 13. Bxh6 Rf7 14. Bd2 c6 15.
+Qh4 g5 16. Qxg4 Rg7 17. Rad1 b5 18. dxc6 Qxc6 19. Ne3 Bd8 20. Ncd5 a6 21. Bc3
+Kh8 22. Nxf6 Be7 23. Nh5 b4 24. Bxg7+ Kg8 25. f6 Qc5 26. Qe6# 1-0
+
+[Event "IX Torneio Int. da Figueira da Foz"]
+[Site "Figueira da Foz POR"]
+[Date "2018.10.30"]
+[Round "3.1"]
+[White "Del Rio Angelis, Salvador"]
+[Black "Oratovsky, Michael"]
+[Result "1-0"]
+[ECO "A41"]
+[WhiteElo "2547"]
+[BlackElo "2466"]
+[WhiteFideId "2203138"]
+[BlackFideId "2802090"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteCountry "ESP"]
+[BlackCountry "ISR"]
+[PlyCount "63"]
+
+1. d4 d6 2. Nf3 g6 3. c4 Bg7 4. Nc3 e5 5. e4 Nc6 6. Bg5 f6 7. Be3 Nh6 8. dxe5
+fxe5 9. c5 dxc5 10. Qxd8+ Kxd8 11. Bxc5 Bg4 12. O-O-O+ Kc8 13. Bc4 Bxf3 14. gxf3
+Nd4 15. f4 b6 16. Bxd4 exd4 17. Nb5 c5 18. Bd5 Rb8 19. Nxa7+ Kd7 20. Rhg1 Rbf8
+21. f5 Nf7 22. Kb1 Nd6 23. Rd3 Be5 24. Nc6 Bxh2 25. Rh1 Bf4 26. Rf3 Bg5 27. Rfh3
+gxf5 28. Rxh7+ Rxh7 29. Rxh7+ Ke8 30. e5 Nc8 31. f4 Ne7 32. Bf3 1-0
+
+[Event "IX Torneio Int. da Figueira da Foz"]
+[Site "Figueira da Foz POR"]
+[Date "2018.10.30"]
+[Round "3.2"]
+[White "Stella, Andrea"]
+[Black "Romanishin, Oleg"]
+[Result "1/2-1/2"]
+[ECO "E36"]
+[WhiteElo "2500"]
+[BlackElo "2443"]
+[WhiteFideId "827061"]
+[BlackFideId "14100088"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteCountry "ITA"]
+[BlackCountry "UKR"]
+[PlyCount "107"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 d5 5. a3 Bxc3+ 6. Qxc3 c5 7. dxc5 d4 8. Qg3
+Nc6 9. Nf3 O-O 10. Bh6 Nh5 11. Qg5 Qxg5 12. Bxg5 e5 13. b4 Re8 14. g3 e4 15. Nd2
+h6 16. Bf4 e3 17. Nb3 Nxf4 18. gxf4 a5 19. b5 a4 20. bxc6 axb3 21. Bg2 b2 22.
+Rb1 bxc6 23. Rxb2 Rxa3 24. fxe3 dxe3 25. O-O Bf5 26. Bxc6 Rc8 27. Bd5 Rxc5 28.
+Rb8+ Rc8 29. Rfb1 Rxb8 30. Rxb8+ Kh7 31. Kg2 Bg4 32. Bxf7 g5 33. fxg5 hxg5 34.
+Rb2 Ra1 35. Bd5 Rc1 36. h3 Bh5 37. Be4+ Kg7 38. Bd3 Rd1 39. Rb7+ Kf6 40. Rh7 Bf7
+41. Kf3 Rh1 42. c5 Rc1 43. c6 Rxc6 44. Rh6+ Ke5 45. Rxc6 Bd5+ 46. Kg4 Bxc6 47.
+Kxg5 Ke6 48. Bc4+ Ke7 49. h4 Kf8 50. Kg6 Be8+ 51. Kh6 Bd7 52. Kg6 Bg4 53. Kh7
+Bh5 54. Kh6 1/2-1/2
+
+[Event "IX Torneio Int. da Figueira da Foz"]
+[Site "Figueira da Foz POR"]
+[Date "2018.10.30"]
+[Round "3.3"]
+[White "Galego, Luís"]
+[Black "Perez Garcia, Rodney Oscar"]
+[Result "1/2-1/2"]
+[ECO "D02"]
+[WhiteElo "2473"]
+[BlackElo "2362"]
+[WhiteFideId "1900072"]
+[BlackFideId "3500918"]
+[WhiteTitle "GM"]
+[BlackTitle "IM"]
+[WhiteCountry "POR"]
+[BlackCountry "CUB"]
+[PlyCount "96"]
+
+1. d4 d5 2. Nf3 Nf6 3. c4 c6 4. e3 e6 5. Nc3 a6 6. Ne5 c5 7. cxd5 exd5 8. Bd3
+Nc6 9. O-O Be6 10. Qa4 cxd4 11. Nxc6 bxc6 12. exd4 Qc7 13. h3 Bd6 14. Bg5 Nd7
+15. Rac1 O-O 16. Ne2 Rfc8 17. f4 f6 18. Bh4 c5 19. Qc2 Nf8 20. Kh1 c4 21. Bf5
+Qb7 22. Nc3 Re8 23. Bxe6+ Nxe6 24. Qf5 Nxd4 25. Qxd5+ Qxd5 26. Nxd5 Rab8 27. Bf2
+Ne2 28. Rc2 Nxf4 29. Nxf4 Bxf4 30. Rxc4 Be3 31. Bxe3 Rxe3 32. Rf2 Rb5 33. b3 h5
+34. Rc7 a5 35. Kh2 Rbe5 36. Rfc2 Kh7 37. R2c5 Kh6 38. Rxe5 Rxe5 39. Rc4 g5 40.
+h4 gxh4 41. Rxh4 Kg5 42. Rc4 h4 43. Rc8 a4 44. Rg8+ Kh5 45. bxa4 Ra5 46. Rh8+
+Kg4 47. Rg8+ Kh5 48. Rh8+ Kg4 1/2-1/2
+
+[Event "IX Torneio Int. da Figueira da Foz"]
+[Site "Figueira da Foz POR"]
+[Date "2018.10.30"]
+[Round "3.4"]
+[White "Alshameary Puente, Ismael"]
+[Black "Rotstein, Arkadij"]
+[Result "1-0"]
+[ECO "A40"]
+[WhiteElo "2369"]
+[BlackElo "2476"]
+[WhiteFideId "2225166"]
+[BlackFideId "4662997"]
+[WhiteTitle "FM"]
+[BlackTitle "GM"]
+[WhiteCountry "ESP"]
+[BlackCountry "GER"]
+[PlyCount "103"]
+
+1. d4 g6 2. c4 Bg7 3. Nc3 d6 4. Nf3 Nd7 5. e4 e5 6. Be2 Ngf6 7. Be3 O-O 8. O-O
+c6 9. Qc2 h6 10. Rad1 Qe7 11. d5 c5 12. Ne1 Nh7 13. Qc1 h5 14. Nd3 h4 15. a3 f5
+16. exf5 gxf5 17. f4 exf4 18. Nxf4 Ne5 19. h3 Nf6 20. Rde1 Bd7 21. Qc2 Rae8 22.
+Nb5 Bc8 23. Nxa7 Nc6 24. Bh5 Nxa7 25. Bxe8 Rxe8 26. Bxc5 Qxe1 27. Rxe1 Rxe1+ 28.
+Kf2 Re4 29. Bxd6 Rd4 30. Bb8 b5 31. cxb5 Rd2+ 32. Qxd2 Ne4+ 33. Ke2 Nxd2 34. b6
+Nb5 35. Kxd2 Bxb2 36. a4 Na3 37. Ng6 Bf6 38. Bc7 Nc4+ 39. Ke2 Kf7 40. Nf4 Ba6
+41. Kf3 Bd4 42. Ne6 Bxb6 43. Kf4 Kf6 44. Bxb6 Nxb6 45. Nc7 Bb7 46. d6 Bxg2 47.
+a5 Nd7 48. a6 Nb6 49. a7 Bxh3 50. Kf3 Bf1 51. d7 Ke7 52. Nd5+ 1-0
+
+[Event "IX Torneio Int. da Figueira da Foz"]
+[Site "Figueira da Foz POR"]
+[Date "2018.10.30"]
+[Round "3.5"]
+[White "Piasetski, Leon"]
+[Black "Jakubowski, Krzystof"]
+[Result "0-1"]
+[ECO "A04"]
+[WhiteElo "2252"]
+[BlackElo "2511"]
+[WhiteFideId "2600072"]
+[BlackFideId "1112848"]
+[WhiteTitle "IM"]
+[BlackTitle "GM"]
+[WhiteCountry "CAN"]
+[BlackCountry "POL"]
+[PlyCount "92"]
+
+1. Nf3 b6 2. g3 Bb7 3. Bg2 c5 4. O-O Nf6 5. c4 g6 6. d4 cxd4 7. Qxd4 Bg7 8. Nc3
+O-O 9. Qh4 Re8 10. Bh6 Bh8 11. Rfd1 d6 12. Rac1 Nbd7 13. Ne1 Qb8 14. Bxb7 Qxb7
+15. Ng2 a6 16. a4 Nc5 17. Ne3 Qd7 18. Ned5 Rab8 19. Bg5 Nxd5 20. cxd5 Bxc3 21.
+Rxc3 f6 22. Bc1 Qxa4 23. Rd4 Qb5 24. Re3 a5 25. g4 Rb7 26. Rh3 e5 27. dxe6 Rxe6
+28. Re3 Qc6 29. Bd2 Rbe7 30. Rxe6 Rxe6 31. Be3 Ne4 32. Rd1 Qb5 33. Rc1 Nc5 34.
+g5 Qxe2 35. gxf6 h5 36. Qg5 Qg4+ 37. Qxg4 hxg4 38. Bd4 Kf7 39. Rd1 Re2 40. Be3
+Rxb2 41. Rxd6 Ne6 42. Rxb6 Rxb6 43. Bxb6 a4 44. Ba5 Kxf6 45. Bb4 Kf5 46. Kg2 Nd4
+0-1
+
+[Event "IX Torneio Int. da Figueira da Foz"]
+[Site "Figueira da Foz POR"]
+[Date "2018.10.30"]
+[Round "3.6"]
+[White "Martín Duque, Jesus"]
+[Black "Silva, Pedro Gil"]
+[Result "1-0"]
+[ECO "B12"]
+[WhiteElo "2354"]
+[BlackElo "1837"]
+[WhiteFideId "2208954"]
+[BlackFideId "1946102"]
+[WhiteTitle "FM"]
+[WhiteCountry "ESP"]
+[BlackCountry "POR"]
+[PlyCount "104"]
+
+1. e4 c6 2. d4 d5 3. e5 c5 4. dxc5 Nc6 5. f4 e6 6. Be3 d4 7. Bf2 Bxc5 8. Nd2
+Nge7 9. Qf3 b6 10. a3 a5 11. Bd3 Ba6 12. Ne2 a4 13. O-O Bxd3 14. cxd3 Qd5 15.
+Ne4 Ra5 16. Rac1 Rb5 17. Rxc5 Rxc5 18. Nxc5 Qxf3 19. gxf3 bxc5 20. Rc1 Kd7 21.
+Rxc5 Rb8 22. Rc4 Rxb2 23. Nxd4 Rd2 24. Rxa4 Rxd3 25. Nxc6 Nxc6 26. Kg2 f6 27.
+exf6 gxf6 28. Ra8 Rc3 29. a4 Ra3 30. Bb6 h5 31. a5 Nb4 32. Rd8+ Kc6 33. Rc8+ Kd7
+34. Rc7+ Kd6 35. Kg3 Ra2 36. Rh7 Nd5 37. Rxh5 Nxb6 38. axb6 Rb2 39. Rh6 f5 40.
+h4 Rxb6 41. Rh7 Rb1 42. h5 e5 43. Rh6+ Kd5 44. Rf6 e4 45. Rxf5+ Kd4 46. fxe4
+Kxe4 47. Re5+ Kd4 48. Kg4 Rg1+ 49. Kf5 Rh1 50. Kg6 Rg1+ 51. Rg5 Ra1 52. f5 Kd5
+1-0
+
+[Event "IX Torneio Int. da Figueira da Foz"]
+[Site "Figueira da Foz POR"]
+[Date "2018.10.30"]
+[Round "3.7"]
+[White "Fernandes, Miguel"]
+[Black "Veiga, Francisco"]
+[Result "1/2-1/2"]
+[ECO "A61"]
+[WhiteElo "2048"]
+[BlackElo "2272"]
+[WhiteFideId "1920456"]
+[BlackFideId "1930087"]
+[BlackTitle "FM"]
+[WhiteCountry "POR"]
+[BlackCountry "POR"]
+[PlyCount "112"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. Nf3 g6 7. Nd2 Nbd7 8. e4
+Bg7 9. Be2 O-O 10. O-O Re8 11. Qc2 Ne5 12. a4 Bg4 13. f3 Bc8 14. Nd1 Nh5 15. Ne3
+Qg5 16. Ra3 Nf4 17. Re1 h5 18. Kh1 h4 19. Ndc4 Nxc4 20. Bxc4 f5 21. Bf1 fxe4 22.
+Nc4 Be5 23. Nxe5 Rxe5 24. Rxe4 Bf5 25. Bxf4 Qxf4 26. Rxf4 Bxc2 27. Kg1 Kg7 28.
+Rc3 Bf5 29. Rxh4 Rxd5 30. Re3 g5 31. Rc4 Rd2 32. f4 g4 33. Rcc3 Rxb2 34. Bd3
+Bxd3 35. Rcxd3 Rd8 36. Rd5 Rb4 37. Rg5+ Kf6 38. Rxg4 d5 39. Re5 Rxf4 40. Rxd5
+Rxg4 41. Rxd8 Rxa4 42. Rc8 c4 43. h4 b5 44. Rc6+ Ke7 45. Kf2 Kd7 46. Rc5 a6 47.
+h5 Ra1 48. g4 Kd6 49. Rc8 Ke5 50. g5 Rh1 51. g6 Kf6 52. Rc6+ Kg7 53. Rc7+ Kg8
+54. Rc8+ Kg7 55. Rc7+ Kh8 56. Rc8+ Kg7 1/2-1/2
+
+[Event "IX Torneio Int. da Figueira da Foz"]
+[Site "Figueira da Foz POR"]
+[Date "2018.10.30"]
+[Round "3.8"]
+[White "Elissalt Cardenas, Hector"]
+[Black "Vasallo, Mauricio"]
+[Result "1/2-1/2"]
+[ECO "E14"]
+[WhiteElo "2316"]
+[BlackElo "2378"]
+[WhiteFideId "3500632"]
+[BlackFideId "101648"]
+[WhiteTitle "IM"]
+[BlackTitle "IM"]
+[WhiteCountry "ESP"]
+[BlackCountry "ESP"]
+[PlyCount "74"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. e3 Bb7 5. Bd3 d5 6. O-O Nbd7 7. b3 Bd6 8. Bb2
+O-O 9. Ne5 Qe7 10. a4 Bb4 11. Na3 dxc4 12. Naxc4 Nxe5 13. Nxe5 Rfd8 14. Qe2 c5
+15. dxc5 Bxc5 16. a5 Bd5 17. e4 Bxb3 18. Nc6 Qc7 19. Nxd8 Rxd8 20. axb6 axb6 21.
+Bxf6 gxf6 22. Rfb1 Qe5 23. Ra7 b5 24. Rb7 Bc4 25. Bxc4 bxc4 26. Qxc4 Rd4 27. Qb5
+Qh5 28. Qb3 Rxe4 29. Qg3+ Rg4 30. Qf3 Qg6 31. Rd1 Rd4 32. Rxd4 Bxd4 33. Rb8+ Kg7
+34. Qa3 Qc2 35. Qg3+ Qg6 36. Kf1 Qxg3 37. hxg3 f5 1/2-1/2
+
+[Event "IX Torneio Int. da Figueira da Foz"]
+[Site "Figueira da Foz POR"]
+[Date "2018.10.30"]
+[Round "3.9"]
+[White "Garcia Dorado, Alberto"]
+[Black "Felizes, Paulo"]
+[Result "1-0"]
+[ECO "A57"]
+[WhiteElo "2206"]
+[BlackElo "1965"]
+[WhiteFideId "2252244"]
+[BlackFideId "1900889"]
+[WhiteTitle "CM"]
+[WhiteCountry "ESP"]
+[BlackCountry "POR"]
+[PlyCount "33"]
+
+1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 e6 5. Nc3 exd5 6. Nxd5 Bb7 7. e4 a6 8. b6
+Bxd5 9. exd5 Qxb6 10. Nf3 Qb4+ 11. Bd2 Qe4+ 12. Be2 Bd6 13. O-O O-O 14. Bc3 Nxd5
+15. Bd3 Nxc3 16. Bxe4 Nxd1 17. Raxd1 1-0
+
+[Event "IX Torneio Int. da Figueira da Foz"]
+[Site "Figueira da Foz POR"]
+[Date "2018.10.30"]
+[Round "3.10"]
+[White "Adams, Philip"]
+[Black "Röttgen, Jürgen"]
+[Result "1/2-1/2"]
+[ECO "A04"]
+[WhiteElo "1980"]
+[BlackElo "2169"]
+[WhiteFideId "411256"]
+[BlackFideId "4629868"]
+[WhiteCountry "ENG"]
+[BlackCountry "GER"]
+[PlyCount "80"]
+
+1. Nf3 c5 2. c4 b6 3. g3 Bb7 4. Bg2 Nf6 5. O-O e6 6. b3 Be7 7. Bb2 O-O 8. Nc3 a6
+9. e3 d6 10. d3 Qc7 11. Rc1 Nbd7 12. Qe2 Rfe8 13. Rfd1 Rad8 14. d4 Qb8 15. Nh4
+Bxg2 16. Kxg2 Bf8 17. Kg1 Qb7 18. Qf3 Qxf3 19. Nxf3 g6 20. Rc2 cxd4 21. Nxd4 Nc5
+22. b4 Nce4 23. Nxe4 Nxe4 24. f3 e5 25. fxe4 exd4 26. Bxd4 b5 27. cxb5 axb5 28.
+Rc7 Rxe4 29. Rb7 Ra8 30. Rxb5 Rxa2 31. Rb8 f5 32. Rc1 Kf7 33. Rc7+ Re7 34. Rbb7
+Rc2 35. Rxe7+ Bxe7 36. b5 Ke6 37. h4 Rc1+ 38. Kf2 Rb1 39. b6 Bf6 40. Bxf6 Kxf6
+1/2-1/2
+
+[Event "IX Torneio Int. da Figueira da Foz"]
+[Site "Figueira da Foz POR"]
+[Date "2018.10.30"]
+[Round "3.11"]
+[White "Santos, António P"]
+[Black "Morais, Vítor"]
+[Result "1-0"]
+[ECO "D15"]
+[WhiteElo "2155"]
+[BlackElo "1918"]
+[WhiteFideId "1900161"]
+[BlackFideId "1900552"]
+[WhiteTitle "FM"]
+[WhiteCountry "POR"]
+[BlackCountry "POR"]
+[PlyCount "79"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 e6 5. Bg5 Be7 6. e3 Nbd7 7. Qc2 O-O 8. Rd1
+h6 9. Bh4 dxc4 10. Bxc4 b5 11. Bd3 Bb7 12. O-O a6 13. a4 Rc8 14. Bxf6 Nxf6 15.
+Ne4 Nd5 16. Nc5 Bxc5 17. Qxc5 Qe7 18. Qxe7 Nxe7 19. Ne5 Rfd8 20. Be4 f5 21. Bf3
+Nd5 22. Bxd5 cxd5 23. axb5 axb5 24. b4 Rc2 25. Ra1 Ra8 26. Rxa8+ Bxa8 27. h4 Bc6
+28. Ra1 Be8 29. Ra6 Rb2 30. Rxe6 Kf8 31. Nd3 Rb3 32. Nf4 Rxb4 33. Nxd5 Rb1+ 34.
+Kh2 Bf7 35. Re5 Bxd5 36. Rxd5 g6 37. h5 Kf7 38. Rd7+ Ke6 39. hxg6 Kf6 40. g7 1-0
+
+[Event "IX Torneio Int. da Figueira da Foz"]
+[Site "Figueira da Foz POR"]
+[Date "2018.10.30"]
+[Round "3.12"]
+[White "Lopez De Turiso, José Angel"]
+[Black "Margarido, José"]
+[Result "0-1"]
+[ECO "A30"]
+[WhiteElo "1933"]
+[BlackElo "2121"]
+[WhiteFideId "2207680"]
+[BlackFideId "1914227"]
+[WhiteCountry "ESP"]
+[BlackCountry "POR"]
+[PlyCount "98"]
+
+1. c4 c5 2. Nf3 Nc6 3. Nc3 g6 4. e3 Nf6 5. d4 cxd4 6. Nxd4 Bg7 7. c5 O-O 8. Be2
+Nxd4 9. Qxd4 b6 10. cxb6 Bb7 11. O-O Nd5 12. Qd2 Nxc3 13. bxc3 axb6 14. Bb2 Qc7
+15. c4 Bxb2 16. Qxb2 Be4 17. f3 Bf5 18. g4 Be6 19. Rac1 Ra5 20. Rc3 Rfa8 21. a3
+h5 22. gxh5 Rxh5 23. f4 Rc5 24. h4 b5 25. h5 Bxc4 26. hxg6 fxg6 27. Qc2 Kf7 28.
+Bd3 Rg8 29. a4 Qc8 30. Qg2 Bd5 31. Rxc5 Qxc5 32. Qh3 bxa4 33. Kf2 Qb6 34. Rb1
+Qe6 35. f5 Qf6 36. e4 Bb3 37. e5 Qb6+ 38. Ke2 gxf5 39. Qxf5+ Ke8 40. Qe4 Qc6 41.
+Qxc6 dxc6 42. Rc1 Kd7 43. Ke3 Bd5 44. Bf5+ e6 45. Bd3 Rg4 46. Rb1 Kc7 47. Rf1 a3
+48. Ra1 a2 49. Bc2 Kb6 0-1
+
+[Event "IX Torneio Int. da Figueira da Foz"]
+[Site "Figueira da Foz POR"]
+[Date "2018.10.30"]
+[Round "3.13"]
+[White "Pipiras, Filipa"]
+[Black "Fernandes, Ricardo Paulos"]
+[Result "0-1"]
+[ECO "E61"]
+[WhiteElo "1853"]
+[BlackElo "2098"]
+[WhiteFideId "1944894"]
+[BlackFideId "1943464"]
+[WhiteCountry "POR"]
+[BlackCountry "POR"]
+[PlyCount "68"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. Nf3 O-O 5. Bg5 c5 6. d5 b5 7. cxb5 d6 8. e4 a6
+9. bxa6 Bxa6 10. Bxa6 Nxa6 11. O-O h6 12. Be3 Qb6 13. Rb1 Rfb8 14. Nd2 Qa5 15.
+Nc4 Qb4 16. Qe2 Nc7 17. a3 Qb3 18. Nd2 Qb7 19. b4 Qc8 20. bxc5 dxc5 21. Qc4 Nd7
+22. Nb5 Nxb5 23. Rxb5 Rxa3 24. Rc1 Rba8 25. g3 Ra1 26. Rxa1 Rxa1+ 27. Kg2 Ra3
+28. Nb3 Ne5 29. Qxc5 Qg4 30. Qxa3 Qxe4+ 31. Kh3 g5 32. f3 Qxf3 33. Qa8+ Kh7 34.
+Qc8 Qf1# 0-1
+
+[Event "IX Torneio Int. da Figueira da Foz"]
+[Site "Figueira da Foz POR"]
+[Date "2018.10.30"]
+[Round "3.14"]
+[White "Lisowski, Krzysztof"]
+[Black "Pais, Bruno"]
+[Result "1-0"]
+[ECO "B40"]
+[WhiteElo "2095"]
+[BlackElo "1836"]
+[WhiteFideId "1110969"]
+[BlackFideId "1911341"]
+[WhiteCountry "POL"]
+[BlackCountry "POR"]
+[PlyCount "39"]
+
+1. e4 c5 2. Nf3 e6 3. b3 b6 4. Bb2 Bb7 5. Nc3 a6 6. Qe2 d6 7. d4 cxd4 8. Nxd4
+Qc7 9. O-O-O Nf6 10. g4 Nc6 11. Nxc6 Qxc6 12. Nd5 e5 13. g5 Nxd5 14. exd5 Qc5
+15. f4 Bxd5 16. Rxd5 Qxd5 17. Bg2 e4 18. Bxe4 Qe6 19. f5 Qe7 20. f6 1-0
+
+[Event "IX Torneio Int. da Figueira da Foz"]
+[Site "Figueira da Foz POR"]
+[Date "2018.10.30"]
+[Round "3.15"]
+[White "Marques, João"]
+[Black "Guerreiro, Nuno"]
+[Result "1-0"]
+[ECO "A20"]
+[WhiteElo "1807"]
+[BlackElo "2069"]
+[WhiteFideId "1930540"]
+[BlackFideId "1903012"]
+[WhiteCountry "POR"]
+[BlackCountry "POR"]
+[PlyCount "111"]
+
+1. c4 e5 2. g3 Nf6 3. Bg2 Nc6 4. Nc3 Bc5 5. Nf3 d6 6. O-O a6 7. d3 O-O 8. a3 h6
+9. Bd2 Ne7 10. b4 Ba7 11. a4 Ng6 12. b5 Bc5 13. Qc2 Re8 14. Rab1 axb5 15. axb5
+c6 16. e4 Be6 17. Ra1 Qd7 18. Ra4 Rxa4 19. Qxa4 Rd8 20. Ra1 Qc7 21. Qc2 d5 22.
+cxd5 cxd5 23. Rc1 Rc8 24. Qb2 Qd6 25. Nxd5 Nxd5 26. exd5 Bxd5 27. Be3 Rc7 28.
+Bxc5 Rxc5 29. h4 Rxc1+ 30. Qxc1 Ne7 31. Qc3 f6 32. Ne1 Bxg2 33. Nxg2 Kh7 34. Ne3
+Qb6 35. Qc4 Qd6 36. Qe4+ f5 37. Nxf5 Nxf5 38. Qxf5+ Qg6 39. Qxg6+ Kxg6 40. Kg2
+Kf5 41. Kf3 h5 42. b6 Ke6 43. Ke4 Kd6 44. f3 Kc6 45. Kxe5 Kxb6 46. d4 Kc7 47.
+Kd5 Kd7 48. g4 g6 49. gxh5 gxh5 50. f4 Ke7 51. Kc5 Ke6 52. d5+ Kd7 53. f5 Ke7
+54. Kb6 Kd6 55. f6 Kxd5 56. f7 1-0
+
+[Event "IX Torneio Int. da Figueira da Foz"]
+[Site "Figueira da Foz POR"]
+[Date "2018.10.30"]
+[Round "3.16"]
+[White "Morais, Mario M F"]
+[Black "Puglia, Francesco"]
+[Result "0-1"]
+[ECO "A45"]
+[WhiteElo "1766"]
+[BlackElo "1803"]
+[WhiteFideId "1959506"]
+[BlackFideId "2820060"]
+[WhiteCountry "POR"]
+[BlackCountry "ITA"]
+[PlyCount "62"]
+
+1. d4 Nf6 2. Bf4 g6 3. e3 Bg7 4. Nd2 d6 5. Bd3 Nbd7 6. Ngf3 O-O 7. a4 c5 8. c3
+e5 9. Bg5 h6 10. Bh4 g5 11. Bg3 Nh5 12. Ne4 d5 13. Bc2 dxe4 14. Nxe5 Nxe5 15.
+Bxe5 Bxe5 16. Qxh5 Bg7 17. Bxe4 cxd4 18. cxd4 Qe7 19. Bf3 Qb4+ 20. Kf1 Bf5 21.
+g4 Bg6 22. Qh3 Qxb2 23. Kg2 f5 24. Bd5+ Kh7 25. Ra2 Qb6 26. gxf5 Rxf5 27. e4
+Rxd5 28. exd5 Qxd4 29. Re2 g4 30. Qe3 Qxd5+ 31. Kg3 Qxh1 0-1
+
+[Event "IX Torneio Int. da Figueira da Foz"]
+[Site "Figueira da Foz POR"]
+[Date "2018.10.30"]
+[Round "3.17"]
+[White "Bouxo, Luís"]
+[Black "Fernandes, João Pedro"]
+[Result "0-1"]
+[ECO "A65"]
+[WhiteElo "1585"]
+[BlackElo "2067"]
+[WhiteFideId "1904647"]
+[BlackFideId "1926624"]
+[WhiteCountry "POR"]
+[BlackCountry "POR"]
+[PlyCount "70"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6 7. Be2 Bg7 8. Nf3
+O-O 9. O-O Re8 10. Nd2 Nbd7 11. Qc2 a6 12. Nc4 Nb6 13. Ne3 Qe7 14. f3 Nbd7 15.
+a4 Ne5 16. Nc4 Nxc4 17. Bxc4 Nh5 18. g4 Nf6 19. Bg5 Qe5 20. Qd2 h5 21. h3 Nh7
+22. Bf4 Qe7 23. Qh2 Qf6 24. Rad1 Ng5 25. Be2 Nxh3+ 26. Qxh3 Qxf4 27. Qg2 Bd4+
+28. Rxd4 cxd4 29. Nd1 hxg4 30. Bd3 g3 31. Re1 Re5 32. Bf1 Bd7 33. b3 Rh5 34. Qe2
+Rh2 35. Bg2 Bh3 0-1
+
+[Event "IX Torneio Int. da Figueira da Foz"]
+[Site "Figueira da Foz POR"]
+[Date "2018.10.30"]
+[Round "3.18"]
+[White "Gonçalves, Lucas"]
+[Black "Sismeiro, Miguel"]
+[Result "0-1"]
+[ECO "C53"]
+[WhiteElo "1401"]
+[BlackElo "2008"]
+[WhiteFideId "1945360"]
+[BlackFideId "1950975"]
+[WhiteCountry "POR"]
+[BlackCountry "POR"]
+[PlyCount "102"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Nf6 5. d3 d6 6. Nbd2 O-O 7. O-O a6 8. a4
+Ba7 9. h3 Ne7 10. Re1 Ng6 11. Nf1 Be6 12. Bxe6 fxe6 13. Ne3 Qe8 14. Nf1 Nh5 15.
+Be3 Nhf4 16. Bxa7 Rxa7 17. Ne3 Qf7 18. Kh2 Nxg2 19. Kxg2 Qxf3+ 20. Qxf3 Nh4+ 21.
+Kg3 Nxf3 22. Red1 g5 23. Ng2 c5 24. b4 cxb4 25. cxb4 Nd4 26. Ne3 Raa8 27. Ra2
+Kf7 28. Nc4 Ke7 29. Nb6 Rf3+ 30. Kg2 Raf8 31. Nc4 h5 32. b5 axb5 33. axb5 Nb3
+34. Rb1 Rxd3 35. Ra7 Nc5 36. Na5 Rd2 37. Rf1 Nxe4 38. Rxb7+ Kf6 39. Rc7 Rb2 40.
+Rb7 Rc8 41. b6 Rc5 42. Ra1 Rxf2+ 43. Kg1 Rc3 44. Rc7 Rg3+ 45. Kh1 Rxh3+ 46. Kg1
+Rg3+ 47. Kh1 Rgg2 48. Ra3 Rh2+ 49. Kg1 Rfg2+ 50. Kf1 Nd2+ 51. Ke1 Rh1# 0-1
+
+[Event "IX Torneio Int. da Figueira da Foz"]
+[Site "Figueira da Foz POR"]
+[Date "2018.10.30"]
+[Round "3.19"]
+[White "Dias, José"]
+[Black "Correia, Pedro Mourão"]
+[Result "1-0"]
+[ECO "A04"]
+[WhiteElo "1605"]
+[BlackElo "1518"]
+[WhiteFideId "1923943"]
+[BlackFideId "1959522"]
+[BlackTitle "AFM"]
+[WhiteCountry "POR"]
+[BlackCountry "POR"]
+[PlyCount "103"]
+
+1. Nf3 Nf6 2. g3 c6 3. Bg2 d5 4. O-O Bf5 5. d3 Nbd7 6. Nbd2 e5 7. Qe1 Bd6 8. e4
+Be6 9. Ng5 Bg4 10. exd5 cxd5 11. c4 h6 12. Ngf3 O-O 13. cxd5 Bb4 14. a3 Ba5 15.
+b4 Bb6 16. h3 Bf5 17. Ne4 Nxd5 18. Bb2 Qe7 19. Rc1 a5 20. b5 f6 21. Nfd2 Qe6 22.
+Kh2 Qe7 23. Qe2 Be6 24. Nc4 Bc5 25. a4 Bb4 26. Rc2 N7b6 27. Ra1 Rfd8 28. Nxb6
+Nxb6 29. Qe3 Nd5 30. Qe2 Nb6 31. Nd2 Bxd2 32. Qxd2 Bb3 33. Ba3 Qd7 34. Rc3 Bxa4
+35. Bc5 Qxb5 36. Bxb6 Qxb6 37. Rxa4 Rd7 38. Qa2+ Kh8 39. Be4 Qa7 40. Rac4 Rad8
+41. Rc8 b5 42. Kg2 Rd6 43. R8c7 Qd4 44. Qf7 R6d7 45. Qg6 f5 46. Bxf5 Qd5+ 47.
+Kh2 Qg8 48. Rxd7 Rf8 49. Rcc7 Rf6 50. Qg4 h5 51. Qxh5+ Rh6 52. Qxh6+ 1-0
+
+[Event "IX Torneio Int. da Figueira da Foz"]
+[Site "Figueira da Foz POR"]
+[Date "2018.10.30"]
+[Round "3.20"]
+[White "Gama, João"]
+[Black "Soares, Sara"]
+[Result "1-0"]
+[ECO "C53"]
+[WhiteElo "1598"]
+[BlackElo "1481"]
+[WhiteFideId "1926667"]
+[BlackFideId "1948172"]
+[WhiteCountry "POR"]
+[BlackCountry "POR"]
+[PlyCount "105"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Nf6 5. d3 d6 6. Bb3 O-O 7. O-O Bb6 8. Nbd2
+a6 9. Nc4 Ba7 10. Ne3 Nh5 11. Nd5 h6 12. d4 Nf6 13. Re1 Bg4 14. h3 Bh5 15. Qd3
+exd4 16. Nxd4 Ne5 17. Qg3 Bg6 18. f4 Nh5 19. Qe3 c5 20. fxe5 cxd4 21. cxd4 dxe5
+22. Kh1 Bxd4 23. Qf3 Qh4 24. Bd2 Bxe4 25. Rxe4 Ng3+ 26. Kh2 Nxe4 27. Be1 Bf2 28.
+g3 Bxg3+ 29. Bxg3 Nxg3 30. Qxg3 Qxg3+ 31. Kxg3 Kh8 32. Re1 Rae8 33. Nb6 Re7 34.
+Nc4 e4 35. Kf4 f5 36. h4 g6 37. Rg1 Kg7 38. Ne3 Kh7 39. Nd5 Rd7 40. Ke5 Rdd8 41.
+Nf6+ Kg7 42. Nh5+ Kh7 43. Nf4 Rde8+ 44. Be6 Rg8 45. Nd5 Rgf8 46. Nf6+ Rxf6 47.
+Kxf6 e3 48. Bf7 Rf8 49. Ke7 Rc8 50. Bxg6+ Kh8 51. Bxf5 Rc5 52. Kf6 Rd5 53. Re1
+1-0
+
+[Event "IX Torneio Int. da Figueira da Foz"]
+[Site "Figueira da Foz POR"]
+[Date "2018.10.30"]
+[Round "3.21"]
+[White "Dong, Rafael"]
+[Black "Marçal, Paulo"]
+[Result "1-0"]
+[ECO "A15"]
+[WhiteElo "1360"]
+[BlackElo "1751"]
+[WhiteFideId "1958038"]
+[BlackFideId "1903837"]
+[WhiteCountry "POR"]
+[BlackCountry "POR"]
+[PlyCount "81"]
+
+1. c4 Nf6 2. g3 g6 3. Bg2 Bg7 4. Nf3 O-O 5. Nc3 c6 6. O-O d5 7. cxd5 cxd5 8. d4
+Nc6 9. b3 a6 10. e3 Re8 11. Bb2 Qc7 12. Rc1 Qd6 13. Na4 Nd7 14. Nc5 b6 15. Nxd7
+Bxd7 16. Qe2 a5 17. Rfd1 a4 18. Ne1 axb3 19. axb3 Na5 20. Rc3 b5 21. Rc5 e6 22.
+Qd3 Bf6 23. Ba3 Qb6 24. Rcc1 b4 25. Bb2 Bb5 26. Qc2 Rac8 27. Qxc8 Rxc8 28. Rxc8+
+Kg7 29. Ra1 Nxb3 30. Raa8 Bc6 31. Rcb8 Bb7 32. Rg8+ Kh6 33. Raf8 Qc7 34. f4 g5
+35. fxg5+ Bxg5 36. Nf3 Bxe3+ 37. Kh1 Qc2 38. h4 Ba6 39. Ne5 Qb1+ 40. Kh2 Bg1+
+41. Kh3 1-0
+
+[Event "IX Torneio Int. da Figueira da Foz"]
+[Site "Figueira da Foz POR"]
+[Date "2018.10.30"]
+[Round "3.22"]
+[White "Asvestopoulou, Evdokia"]
+[Black "Fonseca, René Gil"]
+[Result "1-0"]
+[ECO "A52"]
+[WhiteElo "1720"]
+[BlackElo "1378"]
+[WhiteFideId "4219198"]
+[BlackFideId "1957767"]
+[WhiteCountry "GRE"]
+[BlackCountry "POR"]
+[PlyCount "27"]
+
+1. d4 Nf6 2. c4 e5 3. dxe5 Ng4 4. Nf3 Bc5 5. e3 Nc6 6. Nc3 Ngxe5 7. Nxe5 Nxe5 8.
+Be2 d6 9. O-O O-O 10. Ne4 Qh4 11. Nxc5 dxc5 12. Qd5 Qe7 13. Rd1 Rd8 14. Qxd8+
+1-0
+
+[Event "IX Torneio Int. da Figueira da Foz"]
+[Site "Figueira da Foz POR"]
+[Date "2018.10.30"]
+[Round "3.23"]
+[White "Mões Joaquim, Carlos"]
+[Black "Dong, Fábio"]
+[Result "1/2-1/2"]
+[ECO "E32"]
+[WhiteElo "1415"]
+[BlackElo "1273"]
+[WhiteFideId "1928104"]
+[BlackFideId "1958020"]
+[WhiteCountry "CPV"]
+[BlackCountry "POR"]
+[PlyCount "95"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 O-O 5. Nf3 c5 6. a3 Bxc3+ 7. Qxc3 b6 8. e3
+d6 9. Be2 Bb7 10. O-O Nbd7 11. Rd1 Qc7 12. b3 Ne4 13. Qc2 Ndf6 14. Bb2 Rfd8 15.
+Nd2 Rac8 16. f3 Nxd2 17. Qxd2 d5 18. Rac1 Qe7 19. Bd3 h6 20. Bb1 cxd4 21. exd4
+Rc7 22. a4 Qd6 23. Qe3 Rdc8 24. c5 bxc5 25. dxc5 Rxc5 26. Rxc5 Qxc5 27. Bd4 Qb4
+28. h4 a6 29. g4 Qe7 30. Kf2 Nd7 31. Kg3 e5 32. Bf5 Re8 33. Re1 f6 34. Bg6 Rf8
+35. Kh3 Qd8 36. Bb2 d4 37. Qd3 Nb6 38. Ba3 Nd5 39. Bc1 Nf4+ 40. Bxf4 exf4 41. b4
+Qd5 42. Be4 Qd7 43. b5 axb5 44. axb5 Bxe4 45. Rxe4 Rb8 46. Rxd4 Qxb5 47. Qxb5
+Rxb5 48. Rxf4 1/2-1/2
+
+[Event "IX Torneio Int. da Figueira da Foz"]
+[Site "Figueira da Foz POR"]
+[Date "2018.10.31"]
+[Round "4.1"]
+[White "Alshameary Puente, Ismael"]
+[Black "Del Rio Angelis, Salvador"]
+[Result "0-1"]
+[ECO "A00"]
+[WhiteElo "2369"]
+[BlackElo "2547"]
+[WhiteFideId "2225166"]
+[BlackFideId "2203138"]
+[WhiteTitle "FM"]
+[BlackTitle "GM"]
+[WhiteCountry "ESP"]
+[BlackCountry "ESP"]
+[PlyCount "124"]
+
+1. e3 g6 2. Nf3 Bg7 3. d4 Nf6 4. Be2 d5 5. O-O O-O 6. c4 dxc4 7. Na3 c5 8. Nxc4
+Nc6 9. dxc5 Ne4 10. Nd4 Nxd4 11. exd4 Qxd4 12. Be3 Qxd1 13. Rfxd1 Be6 14. Rac1
+Rac8 15. Nd2 Nf6 16. Nb3 Nd5 17. Bd4 Nf4 18. Bf3 Bxb3 19. axb3 Bxd4 20. Rxd4 Ne6
+21. Rdc4 Rfd8 22. b4 Rc7 23. Rd1 Rxd1+ 24. Bxd1 b6 25. Bg4 f5 26. Bf3 Kg7 27. g4
+b5 28. Rc3 Nd4 29. g5 e5 30. Kg2 e4 31. Bd1 Nc6 32. f3 Nxb4 33. fxe4 fxe4 34.
+Kg3 Nd3 35. Be2 b4 36. Rc4 a5 37. Bxd3 exd3 38. c6 Kf7 39. Kf3 Ke6 40. Ke3 Kd5
+41. Kxd3 Rxc6 42. Rf4 Rc7 43. Rf8 Kc5 44. Kc2 Kb5+ 45. Kb3 a4+ 46. Ka2 Rc2 47.
+Rb8+ Kc4 48. Rc8+ Kd3 49. Rd8+ Ke3 50. Re8+ Kf3 51. Rf8+ Kg2 52. Kb1 Rf2 53. Ra8
+b3 54. Kc1 Rc2+ 55. Kd1 Rxb2 56. Rxa4 Rf2 57. Kc1 Kxh2 58. Rb4 b2+ 59. Kb1 Kg3
+60. Rc4 Rf5 61. Rc7 Rxg5 62. Rxh7 Rb5 0-1
+
+[Event "IX Torneio Int. da Figueira da Foz"]
+[Site "Figueira da Foz POR"]
+[Date "2018.10.31"]
+[Round "4.2"]
+[White "Jakubowski, Krzystof"]
+[Black "Martín Duque, Jesus"]
+[Result "1-0"]
+[ECO "A04"]
+[WhiteElo "2511"]
+[BlackElo "2354"]
+[WhiteFideId "1112848"]
+[BlackFideId "2208954"]
+[WhiteTitle "GM"]
+[BlackTitle "FM"]
+[WhiteCountry "POL"]
+[BlackCountry "ESP"]
+[PlyCount "45"]
+
+1. Nf3 Nf6 2. g3 d5 3. Bg2 e6 4. O-O Be7 5. d3 O-O 6. Nbd2 c5 7. e4 Nc6 8. Re1
+b5 9. e5 Nd7 10. Nf1 a5 11. h4 Ba6 12. Bf4 b4 13. N1h2 Rc8 14. Ng5 Qe8 15. Bh3
+Bd8 16. a3 bxa3 17. bxa3 Bc7 18. Qh5 h6 19. Ng4 hxg5 20. hxg5 Bd8 21. Nf6+ Nxf6
+22. gxf6 Nd4 23. Kg2 1-0
+
+[Event "IX Torneio Int. da Figueira da Foz"]
+[Site "Figueira da Foz POR"]
+[Date "2018.10.31"]
+[Round "4.3"]
+[White "Perez Garcia, Rodney Oscar"]
+[Black "Stella, Andrea"]
+[Result "0-1"]
+[ECO "C50"]
+[WhiteElo "2362"]
+[BlackElo "2500"]
+[WhiteFideId "3500918"]
+[BlackFideId "827061"]
+[WhiteTitle "IM"]
+[BlackTitle "GM"]
+[WhiteCountry "CUB"]
+[BlackCountry "ITA"]
+[PlyCount "80"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. O-O Nf6 5. d3 O-O 6. Bb3 h6 7. c3 d6 8. h3 a5
+9. Nbd2 Be6 10. Re1 Re8 11. Ba4 Qb8 12. d4 exd4 13. cxd4 b5 14. dxc5 bxa4 15.
+cxd6 cxd6 16. Qxa4 Qb7 17. Nc4 Bxc4 18. Qxc4 Rxe4 19. Rxe4 d5 20. Qc5 dxe4 21.
+Ne5 Nxe5 22. Qxe5 Nd7 23. Qd4 Nf8 24. Bd2 Ne6 25. Qe5 Rd8 26. Qxa5 Qxb2 27. Bc3
+Qc2 28. Re1 Rc8 29. Be5 Qc4 30. Bb2 Qd3 31. Qe5 Rc2 32. Qb8+ Kh7 33. Qe5 Kg8 34.
+Qb8+ Kh7 35. Qe5 Qd2 36. Qxe4+ Kg8 37. Qa8+ Kh7 38. Qe4+ g6 39. Ba1 Qxf2+ 40.
+Kh2 Ng5 0-1
+
+[Event "IX Torneio Int. da Figueira da Foz"]
+[Site "Figueira da Foz POR"]
+[Date "2018.10.31"]
+[Round "4.4"]
+[White "Romanishin, Oleg"]
+[Black "Galego, Luís"]
+[Result "1/2-1/2"]
+[ECO "A46"]
+[WhiteElo "2443"]
+[BlackElo "2473"]
+[WhiteFideId "14100088"]
+[BlackFideId "1900072"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteCountry "UKR"]
+[BlackCountry "POR"]
+[PlyCount "36"]
+
+1. d4 Nf6 2. Nf3 e6 3. g3 Be7 4. Bg2 O-O 5. c4 d6 6. O-O Nbd7 7. Nc3 a6 8. Bf4
+Nh5 9. Bd2 Nhf6 10. Qc2 c5 11. dxc5 Nxc5 12. Rad1 Qc7 13. Bf4 Ncd7 14. b3 h6 15.
+Nd2 Nh5 16. Be3 Nhf6 17. Bf4 Nh5 18. Be3 Nhf6 1/2-1/2
+
+[Event "IX Torneio Int. da Figueira da Foz"]
+[Site "Figueira da Foz POR"]
+[Date "2018.10.31"]
+[Round "4.5"]
+[White "Oratovsky, Michael"]
+[Black "Dias, Ricardo"]
+[Result "1-0"]
+[ECO "C53"]
+[WhiteElo "2466"]
+[BlackElo "2098"]
+[WhiteFideId "2802090"]
+[BlackFideId "1930060"]
+[WhiteTitle "GM"]
+[WhiteCountry "ISR"]
+[BlackCountry "POR"]
+[PlyCount "133"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Nf6 5. d3 a6 6. Nbd2 Ba7 7. Bb3 d6 8. Nf1
+Be6 9. Ng3 O-O 10. h3 h6 11. O-O Re8 12. Ba4 b5 13. Bc2 d5 14. exd5 Bxd5 15. Re1
+Qd7 16. Be3 Bb6 17. a3 Rad8 18. Bxb6 cxb6 19. Re3 Nh7 20. Qe2 Ng5 21. Nxg5 hxg5
+22. Qh5 Qe7 23. Rae1 g6 24. Qh6 Qf6 25. d4 Re6 26. dxe5 Nxe5 27. Nh5 gxh5 28.
+Qxf6 Rxf6 29. Rxe5 Bc4 30. Rxg5+ Kf8 31. Bh7 Be6 32. Rg8+ Ke7 33. Rxd8 Kxd8 34.
+Rd1+ Ke7 35. f3 Bb3 36. Rd4 Kf8 37. Kf2 Kg7 38. Be4 Re6 39. h4 Bc4 40. Bd3 Bxd3
+41. Rxd3 Kg6 42. Rd5 f6 43. Rd7 Kf5 44. Rd2 Kg6 45. Rd5 Kh6 46. g4 hxg4 47. fxg4
+Kg6 48. Kf3 Re1 49. Rd6 Rh1 50. Kg3 Rg1+ 51. Kf4 Rf1+ 52. Ke3 Re1+ 53. Kd2 Re4
+54. g5 Rxh4 55. gxf6 Rh2+ 56. Kc1 Rh5 57. Rxb6 a5 58. Ra6 a4 59. Rc6 Rh1+ 60.
+Kc2 Rh2+ 61. Kb1 Rh1+ 62. Ka2 Rh5 63. c4 Rf5 64. cxb5 Rxb5 65. Ra6 Kf7 66. Rxa4
+Kxf6 67. Re4 1-0
+
+[Event "IX Torneio Int. da Figueira da Foz"]
+[Site "Figueira da Foz POR"]
+[Date "2018.10.31"]
+[Round "4.6"]
+[White "Vasallo, Mauricio"]
+[Black "Lisowski, Krzysztof"]
+[Result "0-1"]
+[ECO "A04"]
+[WhiteElo "2378"]
+[BlackElo "2095"]
+[WhiteFideId "101648"]
+[BlackFideId "1110969"]
+[WhiteTitle "IM"]
+[WhiteCountry "ESP"]
+[BlackCountry "POL"]
+[PlyCount "59"]
+
+1. Nf3 Nf6 2. g3 e6 3. Bg2 d5 4. O-O Be7 5. d3 O-O 6. Nbd2 b6 7. e4 Bb7 8. e5
+Nfd7 9. Re1 c5 10. h4 Nc6 11. Nf1 Qc7 12. Bf4 b5 13. N1h2 b4 14. h5 a5 15. c3
+Ba6 16. Ng4 Kh8 17. h6 g6 18. Qd2 Rab8 19. Bg5 Bxg5 20. Nxg5 Ne7 21. Rad1 Nf5
+22. Ne4 dxe4 23. dxe4 Nxe5 24. Qf4 f6 25. exf5 exf5 26. Nxe5 fxe5 27. Rxe5 Bb7
+28. Bxb7 Rxb7 29. Re8 Rxe8 30. Qe3 0-1
+
+[Event "IX Torneio Int. da Figueira da Foz"]
+[Site "Figueira da Foz POR"]
+[Date "2018.10.31"]
+[Round "4.7"]
+[White "Veiga, Francisco"]
+[Black "Marques, João"]
+[Result "1-0"]
+[ECO "A04"]
+[WhiteElo "2272"]
+[BlackElo "1807"]
+[WhiteFideId "1930087"]
+[BlackFideId "1930540"]
+[WhiteTitle "FM"]
+[WhiteCountry "POR"]
+[BlackCountry "POR"]
+[PlyCount "63"]
+
+1. Nf3 Nf6 2. b3 g6 3. Bb2 Bg7 4. g3 O-O 5. Bg2 d6 6. d4 c6 7. O-O Nbd7 8. c4
+Qc7 9. Nc3 Re8 10. e4 e5 11. d5 c5 12. Qd3 a6 13. Rae1 Rb8 14. Nd2 Qd8 15. h3
+Nh5 16. a3 b6 17. Ba1 Qe7 18. Rb1 Qd8 19. b4 Bh6 20. Nb3 cxb4 21. axb4 Qc7 22.
+Bb2 Rf8 23. Bc1 Bg7 24. Bf3 Nhf6 25. Be3 Bb7 26. Rbc1 Rfc8 27. Na4 Qd8 28. Bg2
+Nh5 29. c5 b5 30. Nc3 Ndf6 31. c6 Ba8 32. Ra1 1-0
+
+[Event "IX Torneio Int. da Figueira da Foz"]
+[Site "Figueira da Foz POR"]
+[Date "2018.10.31"]
+[Round "4.8"]
+[White "Fernandes, Ricardo Paulos"]
+[Black "Garcia Dorado, Alberto"]
+[Result "1-0"]
+[ECO "A06"]
+[WhiteElo "2098"]
+[BlackElo "2206"]
+[WhiteFideId "1943464"]
+[BlackFideId "2252244"]
+[BlackTitle "CM"]
+[WhiteCountry "POR"]
+[BlackCountry "ESP"]
+[PlyCount "65"]
+
+1. Nf3 d5 2. d4 e6 3. c4 Nf6 4. Nc3 dxc4 5. Qa4+ Nbd7 6. Qxc4 a6 7. Bf4 c5 8.
+dxc5 Bxc5 9. b4 b5 10. Qb3 Be7 11. e4 Bb7 12. Nd2 e5 13. Be3 Ng4 14. Be2 Nxe3
+15. fxe3 Bg5 16. O-O Bxe3+ 17. Kh1 O-O 18. Nf3 Ba7 19. Rad1 Qe8 20. Nxb5 Qe7 21.
+Nd6 Nf6 22. Ng5 h6 23. Ndxf7 Rxf7 24. Nxf7 Kh7 25. Nd6 Bd4 26. Nf5 Qd7 27. Nxd4
+exd4 28. Qd3 Rd8 29. Rf4 Kh8 30. e5 Nd5 31. Rxd4 Qe7 32. Bf3 Rf8 33. Bxd5 1-0
+
+[Event "IX Torneio Int. da Figueira da Foz"]
+[Site "Figueira da Foz POR"]
+[Date "2018.10.31"]
+[Round "4.9"]
+[White "Puglia, Francesco"]
+[Black "Santos, António P"]
+[Result "0-1"]
+[ECO "B23"]
+[WhiteElo "1803"]
+[BlackElo "2155"]
+[WhiteFideId "2820060"]
+[BlackFideId "1900161"]
+[BlackTitle "FM"]
+[WhiteCountry "ITA"]
+[BlackCountry "POR"]
+[PlyCount "80"]
+
+1. e4 c5 2. Nc3 Nc6 3. Nf3 e6 4. d4 cxd4 5. Nxd4 Qc7 6. Be2 a6 7. O-O d6 8. Kh1
+Nf6 9. f4 Be7 10. a4 O-O 11. Nb3 b6 12. Bf3 Bb7 13. Be3 Rab8 14. Qe1 Na5 15.
+Nxa5 bxa5 16. Ba7 Ra8 17. Be3 Rfc8 18. Rd1 Bc6 19. Qf2 Rab8 20. Bc1 Rb4 21. e5
+dxe5 22. Bxc6 e4 23. f5 Qxc6 24. fxe6 Qxe6 25. Qf5 Qxf5 26. Rxf5 h6 27. Rxa5 Ng4
+28. Rf5 Rxc3 29. bxc3 Rb1 30. Rff1 Bc5 31. g3 Nf2+ 32. Rxf2 Bxf2 33. Kg2 Bb6 34.
+Kf1 Be3 35. Bxe3 Rxd1+ 36. Ke2 Ra1 37. Bd4 Rxa4 38. Ke3 f5 39. Kf4 Kf7 40. g4 g6
+0-1
+
+[Event "IX Torneio Int. da Figueira da Foz"]
+[Site "Figueira da Foz POR"]
+[Date "2018.10.31"]
+[Round "4.10"]
+[White "Margarido, José"]
+[Black "Fernandes, Miguel"]
+[Result "1/2-1/2"]
+[ECO "B10"]
+[WhiteElo "2121"]
+[BlackElo "2048"]
+[WhiteFideId "1914227"]
+[BlackFideId "1920456"]
+[WhiteCountry "POR"]
+[BlackCountry "POR"]
+[PlyCount "147"]
+
+1. e4 c6 2. Nc3 d5 3. Nf3 dxe4 4. Nxe4 Nf6 5. Qe2 Nxe4 6. Qxe4 Nd7 7. Bc4 Nf6 8.
+Ne5 e6 9. Qe2 Be7 10. c3 O-O 11. d4 c5 12. O-O cxd4 13. Rd1 Qa5 14. Rxd4 Rd8 15.
+Rxd8+ Qxd8 16. Bg5 Qc7 17. Rd1 b6 18. Bh4 Bb7 19. Bg3 Rd8 20. Rxd8+ Qxd8 21. Qd3
+Qxd3 22. Nxd3 Ne4 23. Bf4 Bd6 24. Be3 Kf8 25. f3 Nc5 26. Nxc5 Bxc5 27. Bxc5+
+bxc5 28. Kf2 Ke7 29. Ke3 Kd6 30. g3 f6 31. Bd3 h6 32. Be4 Bc8 33. f4 g5 34. b4
+e5 35. fxe5+ fxe5 36. b5 Be6 37. a4 Bb3 38. a5 Bc4 39. Bd3 Be6 40. Be4 Bc4 41.
+b6 axb6 42. axb6 Bf7 43. b7 Kc7 44. Kd3 Be6 45. Ke3 Bf7 46. Bc6 Bg6 47. Bd5 Bf5
+48. Be4 Be6 49. Kd3 Bf7 50. Bf3 Bg6+ 51. Kc4 e4 52. Be2 Kxb7 53. Kxc5 Kc7 54.
+Kd5 Kd7 55. Bf1 Kc7 56. Kd4 Kd6 57. Bg2 e3 58. Kxe3 Ke5 59. Bf3 h5 60. Be2 h4
+61. g4 Bf7 62. c4 Be6 63. h3 Bf7 64. Bf1 Bg6 65. Bg2 Bf7 66. c5 Bc4 67. c6 Ba6
+68. c7 Kd6 69. Kd4 Bc8 70. Bf3 Ba6 71. Bg2 Bc8 72. Bf1 Bb7 73. Bg2 Ke5+ 74. Ke4+
+1/2-1/2
+
+[Event "IX Torneio Int. da Figueira da Foz"]
+[Site "Figueira da Foz POR"]
+[Date "2018.10.31"]
+[Round "4.11"]
+[White "Rotstein, Arkadij"]
+[Black "Louzao Brea, Jose Luis"]
+[Result "1-0"]
+[ECO "C00"]
+[WhiteElo "2476"]
+[BlackElo "1835"]
+[WhiteFideId "4662997"]
+[BlackFideId "2270811"]
+[WhiteTitle "GM"]
+[WhiteCountry "GER"]
+[BlackCountry "ESP"]
+[PlyCount "67"]
+
+1. e4 e6 2. d3 d5 3. Qe2 Nf6 4. Nf3 Be7 5. g3 O-O 6. Bg2 b6 7. e5 Nfd7 8. O-O c5
+9. c4 Bb7 10. Nc3 d4 11. Ne4 Nc6 12. Bf4 Re8 13. h4 a6 14. h5 b5 15. b3 Nb4 16.
+h6 g6 17. a3 Nc6 18. Rfe1 Na5 19. Rab1 Bxe4 20. Qxe4 Qc7 21. Bg5 Rab8 22. Bxe7
+Rxe7 23. b4 Nc6 24. Rbc1 Qb6 25. cxb5 Qxb5 26. bxc5 Nxc5 27. Qh4 f6 28. exf6 Rd7
+29. Ng5 Nd8 30. Re5 Rc8 31. Bh3 Nxd3 32. Bxe6+ Kh8 33. Rxc8 Qxe5 34. Rxd8+ 1-0
+
+[Event "IX Torneio Int. da Figueira da Foz"]
+[Site "Figueira da Foz POR"]
+[Date "2018.10.31"]
+[Round "4.12"]
+[White "Sismeiro, Miguel"]
+[Black "Elissalt Cardenas, Hector"]
+[Result "0-1"]
+[ECO "B07"]
+[WhiteElo "2008"]
+[BlackElo "2316"]
+[WhiteFideId "1950975"]
+[BlackFideId "3500632"]
+[BlackTitle "IM"]
+[WhiteCountry "POR"]
+[BlackCountry "ESP"]
+[PlyCount "148"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 Nbd7 4. Nf3 e5 5. Bc4 exd4 6. Nxd4 Nb6 7. Bb3 c5 8.
+Nf3 c4 9. Ba4+ Nxa4 10. Nxa4 Nxe4 11. Qd5 Nc5 12. Qxc4 Qe7+ 13. Be3 b5 14. Qxb5+
+Bd7 15. Qa5 Nxa4 16. O-O-O Qd8 17. Qh5 Be7 18. Ng5 g6 19. Qh6 Bf8 20. Qh4 Bg7
+21. c3 h6 22. Qe4+ Kf8 23. Nf3 Qb8 24. Rd2 Bf5 25. Qxa4 Bxc3 26. Bd4 Bxd2+ 27.
+Nxd2 Qc7+ 28. Bc3 Re8 29. Qd4 Rh7 30. g4 Bc8 31. Kb1 Qc5 32. Qf4 Qd5 33. f3 g5
+34. Qb4 f5 35. Nc4 Rd7 36. gxf5 Qxf3 37. Rc1 Qd3+ 38. Ka1 Kg8 39. Qb3 Kh7 40.
+Bb4 Qxb3 41. axb3 Ba6 42. Nxd6 Re2 43. f6 Rf2 44. f7 Rdxf7 45. Nxf7 Rxf7 46. Bd6
+Bb5 47. Rc7 Rxc7 48. Bxc7 Kg6 49. Kb1 Kf5 50. Kc1 Ke4 51. Kd2 Kf3 52. Bb8 a6 53.
+b4 h5 54. Kc2 h4 55. Kd2 g4 56. Kc2 g3 57. Bxg3 hxg3 58. hxg3 Kxg3 59. b3 Kf4
+60. Kb2 Ke3 61. Kc3 Bd3 62. Kb2 Kd2 63. Ka3 Kc1 64. Ka2 Bf5 65. Ka1 Bb1 66. b5
+axb5 67. b4 Bd3 68. Ka2 Kc2 69. Ka3 Kc3 70. Ka2 Kxb4 71. Kb2 Bh7 72. Ka2 Kc3 73.
+Ka1 b4 74. Ka2 b3+ 0-1
+
+[Event "IX Torneio Int. da Figueira da Foz"]
+[Site "Figueira da Foz POR"]
+[Date "2018.10.31"]
+[Round "4.13"]
+[White "Silva, Pedro Gil"]
+[Black "Piasetski, Leon"]
+[Result "0-1"]
+[ECO "B43"]
+[WhiteElo "1837"]
+[BlackElo "2252"]
+[WhiteFideId "1946102"]
+[BlackFideId "2600072"]
+[BlackTitle "IM"]
+[WhiteCountry "POR"]
+[BlackCountry "CAN"]
+[PlyCount "94"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Nc3 b5 6. Bd3 Qb6 7. Nf3 d6 8. a4 b4
+9. Na2 Nf6 10. O-O Bb7 11. Re1 Nbd7 12. Be3 Qc7 13. Bg5 d5 14. exd5 Bxd5 15. c3
+b3 16. Nc1 Nc5 17. Bh4 Qb7 18. Bb1 Rd8 19. Qe2 Bxf3 20. gxf3 Qd7 21. Ra3 Qd2 22.
+Qxd2 Rxd2 23. Nxb3 Rxb2 24. Nxc5 Bxc5 25. Ra2 Rb3 26. Bxf6 gxf6 27. Rc1 Ba3 28.
+Rd1 Rxc3 29. Bd3 a5 30. Bb5+ Kf8 31. Rd8+ Kg7 32. Rxh8 Kxh8 33. Kg2 Kg7 34. Rd2
+Bc5 35. h3 f5 36. Re2 Kf6 37. Rd2 Kg5 38. Be8 f6 39. Bd7 e5 40. h4+ Kf4 41. Be6
+Rxf3 42. Rc2 Bd4 43. Bd5 e4 44. Rd2 Ke5 45. Bc6 Rc3 46. Bb5 f4 47. Re2 f3+ 0-1
+
+[Event "IX Torneio Int. da Figueira da Foz"]
+[Site "Figueira da Foz POR"]
+[Date "2018.10.31"]
+[Round "4.14"]
+[White "Röttgen, Jürgen"]
+[Black "Dias, José"]
+[Result "1-0"]
+[ECO "A04"]
+[WhiteElo "2169"]
+[BlackElo "1605"]
+[WhiteFideId "4629868"]
+[BlackFideId "1923943"]
+[WhiteCountry "GER"]
+[BlackCountry "POR"]
+[PlyCount "83"]
+
+1. Nf3 e6 2. c4 d5 3. e3 c6 4. b3 f5 5. Bb2 Nf6 6. Be2 Bd6 7. Qc2 O-O 8. O-O Qe7
+9. d4 b6 10. Ne5 Bb7 11. a4 Nbd7 12. Nd2 a5 13. Ndf3 Rac8 14. Rfc1 Rc7 15. Qd1
+Rfc8 16. Bc3 Ne4 17. Be1 Qf6 18. c5 Bxe5 19. cxb6 Bd6 20. Bxa5 Ra8 21. bxc7 Rxa5
+22. c8=Q+ Bxc8 23. Qe1 Ra8 24. Rxc6 Bb7 25. Rc2 g5 26. g3 h5 27. h4 g4 28. Nd2
+Bb4 29. Nxe4 Bxe1 30. Nxf6+ Nxf6 31. Rxe1 Ne4 32. Bb5 Nd6 33. Bd7 Bc8 34. Bxc8
+Nxc8 35. a5 Nd6 36. Rc6 Rd8 37. a6 Kf7 38. Rc7+ Kf6 39. a7 Ra8 40. Ra1 Nb5 41.
+Rb7 Nd6 42. Rb8 1-0
+
+[Event "IX Torneio Int. da Figueira da Foz"]
+[Site "Figueira da Foz POR"]
+[Date "2018.10.31"]
+[Round "4.15"]
+[White "Fernandes, João Pedro"]
+[Black "Adams, Philip"]
+[Result "1-0"]
+[ECO "B35"]
+[WhiteElo "2067"]
+[BlackElo "1980"]
+[WhiteFideId "1926624"]
+[BlackFideId "411256"]
+[WhiteCountry "POR"]
+[BlackCountry "ENG"]
+[PlyCount "83"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 g6 5. Nc3 Bg7 6. Be3 Nf6 7. Bc4 Qa5 8.
+O-O O-O 9. Bb3 d6 10. h3 Bd7 11. Qd3 Nxd4 12. Bxd4 Bc6 13. Nd5 Bxd5 14. exd5 Nd7
+15. Bxg7 Kxg7 16. Qd4+ Kg8 17. Rfe1 Rfe8 18. Re3 Qc5 19. Qd2 b5 20. Rae1 Ne5 21.
+Kh1 Qc7 22. f4 Nc4 23. Bxc4 bxc4 24. f5 Qd7 25. fxg6 hxg6 26. Re4 Kg7 27. Qc3+
+f6 28. Qxc4 Rac8 29. Qe2 Rc7 30. c4 Qd8 31. Qd3 Rb7 32. Rg4 g5 33. Qd4 Kg6 34.
+b3 Rh8 35. Re6 Kf7 36. Qe3 Qd7 37. Rge4 Qd8 38. Qf2 Qg8 39. c5 dxc5 40. d6 Qg6
+41. Rxe7+ Rxe7 42. Rxe7+ 1-0
+
+[Event "IX Torneio Int. da Figueira da Foz"]
+[Site "Figueira da Foz POR"]
+[Date "2018.10.31"]
+[Round "4.16"]
+[White "Dionízio, André"]
+[Black "Gama, João"]
+[Result "1-0"]
+[ECO "C53"]
+[WhiteElo "2013"]
+[BlackElo "1598"]
+[WhiteFideId "1920294"]
+[BlackFideId "1926667"]
+[WhiteCountry "POR"]
+[BlackCountry "POR"]
+[PlyCount "127"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Nf6 5. d3 d6 6. h3 a6 7. a4 Ba7 8. O-O O-O
+9. Re1 h6 10. Nbd2 Ne7 11. Nf1 Ng6 12. b4 c6 13. Bb3 Qc7 14. Qe2 Re8 15. Be3 Be6
+16. Bxe6 fxe6 17. Bxa7 Rxa7 18. g3 d5 19. N1d2 b6 20. d4 exd4 21. cxd4 Qe7 22.
+e5 Nh7 23. Qd3 Nhf8 24. Rec1 Qd7 25. Rc3 Rc8 26. Nb3 Ne7 27. Rac1 g5 28. Qc2
+Rac7 29. a5 Rb8 30. Qd2 Nh7 31. Kh2 Qc8 32. Ne1 Kg7 33. axb6 Rxb6 34. Nd3 Nf5
+35. Ra1 Ra7 36. Rc2 Nf8 37. f4 Kg6 38. Qf2 Rf7 39. Nbc5 Ng7 40. Rca2 Ra7 41.
+fxg5 hxg5 42. Qf6+ Kh7 43. Qxg5 Nf5 44. Rf2 Rg7 45. Qh5+ Kg8 46. Raf1 Nh7 47.
+Rxf5 exf5 48. Rxf5 Nf8 49. Qf3 Ne6 50. Nxe6 Qxe6 51. Rf8+ Kh7 52. Qh5+ Qh6 53.
+Rh8+ Kxh8 54. Qxh6+ Kg8 55. Qd6 a5 56. Qd8+ Kh7 57. Qxb6 axb4 58. Nxb4 Rg6 59.
+Qc7+ Kh6 60. Qf7 Rg7 61. Qf8 Kg6 62. e6 Kh7 63. e7 Rxe7 64. Qxe7+ 1-0
+
+[Event "IX Torneio Int. da Figueira da Foz"]
+[Site "Figueira da Foz POR"]
+[Date "2018.10.31"]
+[Round "4.17"]
+[White "Guerreiro, Nuno"]
+[Black "Pipiras, Filipa"]
+[Result "0-1"]
+[ECO "A00"]
+[WhiteElo "2069"]
+[BlackElo "1853"]
+[WhiteFideId "1903012"]
+[BlackFideId "1944894"]
+[WhiteCountry "POR"]
+[BlackCountry "POR"]
+[PlyCount "74"]
+
+1. Nc3 d5 2. d4 Nf6 3. Bf4 e6 4. e3 a6 5. Bd3 c5 6. h4 Nc6 7. Nf3 Be7 8. h5 h6
+9. Ne5 cxd4 10. exd4 Qb6 11. Ne2 Qxb2 12. c3 Qb6 13. Qc2 O-O 14. Qd2 Nxe5 15.
+dxe5 Ne4 16. Bxe4 dxe4 17. Rh3 Kh7 18. Qc2 Qc6 19. Nd4 Qd5 20. Rd1 Rd8 21. Rd2
+Bd7 22. c4 Qa5 23. Qxe4+ Kh8 24. Nb3 Qc7 25. Kf1 a5 26. Rdd3 b5 27. c5 a4 28.
+Nd4 Qxc5 29. Rhg3 b4 30. Rxg7 Kxg7 31. Rg3+ Bg5 32. Bxg5 hxg5 33. Rxg5+ Kf8 34.
+Qg4 Bb5+ 35. Kg1 Qxd4 36. Rg8+ Ke7 37. Qh4+ Qxh4 0-1
+
+[Event "IX Torneio Int. da Figueira da Foz"]
+[Site "Figueira da Foz POR"]
+[Date "2018.10.31"]
+[Round "4.18"]
+[White "Felizes, Paulo"]
+[Black "Dong, Rafael"]
+[Result "1-0"]
+[ECO "A45"]
+[WhiteElo "1965"]
+[BlackElo "1360"]
+[WhiteFideId "1900889"]
+[BlackFideId "1958038"]
+[WhiteCountry "POR"]
+[BlackCountry "POR"]
+[PlyCount "49"]
+
+1. d4 Nf6 2. Bg5 e6 3. e4 h6 4. Bxf6 Qxf6 5. Nf3 d6 6. Bd3 Nd7 7. Nbd2 a6 8. e5
+dxe5 9. Ne4 Qd8 10. dxe5 b5 11. a4 b4 12. Qe2 Bb7 13. Rd1 g5 14. Bc4 Qe7 15. O-O
+Bg7 16. Qe3 g4 17. Nd4 Bxe5 18. f4 gxf3 19. Nxf3 Bxb2 20. Rxd7 Kxd7 21. Rb1 Bxe4
+22. Qxe4 Bc3 23. Rd1+ Qd6 24. Rxd6+ cxd6 25. Qb7+ 1-0
+
+[Event "IX Torneio Int. da Figueira da Foz"]
+[Site "Figueira da Foz POR"]
+[Date "2018.10.31"]
+[Round "4.19"]
+[White "Ferreira, Cristina"]
+[Black "Lopez De Turiso, José Angel"]
+[Result "0-1"]
+[ECO "A84"]
+[WhiteElo "1069"]
+[BlackElo "1933"]
+[WhiteFideId "1963082"]
+[BlackFideId "2207680"]
+[WhiteCountry "POR"]
+[BlackCountry "ESP"]
+[PlyCount "88"]
+
+1. d4 f5 2. c4 Nf6 3. Nf3 d6 4. Bg5 Nbd7 5. e3 Ne4 6. Bh4 g6 7. Be2 Bg7 8. Nbd2
+Nxd2 9. Qxd2 O-O 10. O-O Qe8 11. Rac1 e5 12. c5 dxc5 13. dxc5 h6 14. Bc4+ Kh8
+15. Ng5 hxg5 16. Bxg5 Nxc5 17. f3 Be6 18. Qf2 Kg8 19. Qh4 Kf7 20. Rfd1 Rh8 21.
+Qf2 Bxc4 22. Rxc4 Ne6 23. Bh4 Bf6 24. Bxf6 Kxf6 25. Qg3 Rd8 26. Rcc1 c6 27. Qe1
+Qe7 28. e4 f4 29. Qf2 Rxd1+ 30. Rxd1 Qc5 31. Qxc5 Nxc5 32. Rd6+ Ne6 33. g4 Rd8
+34. Rxd8 Nxd8 35. h4 Ne6 36. Kg2 c5 37. Kh3 b5 38. g5+ Ke7 39. b3 c4 40. Kg4 c3
+41. h5 c2 42. hxg6 c1=Q 43. Kf5 Qg1 44. g7 Qxg5# 0-1
+
+[Event "IX Torneio Int. da Figueira da Foz"]
+[Site "Figueira da Foz POR"]
+[Date "2018.10.31"]
+[Round "4.20"]
+[White "Morais, Vítor"]
+[Black "Asvestopoulou, Evdokia"]
+[Result "1-0"]
+[ECO "A00"]
+[WhiteElo "1918"]
+[BlackElo "1720"]
+[WhiteFideId "1900552"]
+[BlackFideId "4219198"]
+[WhiteCountry "POR"]
+[BlackCountry "GRE"]
+[PlyCount "99"]
+
+1. b3 e5 2. Bb2 Nc6 3. e3 d6 4. c4 g6 5. Nf3 Bg7 6. Be2 f5 7. d3 Nf6 8. Nbd2 O-O
+9. O-O h6 10. Rb1 Ne7 11. b4 g5 12. a4 Ng6 13. Ne1 Be6 14. f3 Qe7 15. Nc2 f4 16.
+Ne4 Nxe4 17. dxe4 Bd7 18. b5 Kh7 19. Rf2 Be6 20. Bc1 Qf7 21. Qd3 a5 22. Bd2 b6
+23. Kh1 Bf6 24. g3 Bg7 25. Rg1 Rg8 26. Bc3 Raf8 27. Be1 Kh8 28. Bd2 Qe7 29. Na3
+Rf7 30. Nb1 fxe3 31. Bxe3 Nf8 32. Nc3 Nd7 33. Nd5 Bxd5 34. cxd5 Nc5 35. Qc2 Rgf8
+36. Rgf1 Kg8 37. Bd1 Kh8 38. Qc4 Kh7 39. Bc2 Kh8 40. Kg2 Re8 41. Qe2 Qf6 42. Rh1
+Bf8 43. h4 Rh7 44. hxg5 hxg5 45. Rxh7+ Kxh7 46. f4 Qg6 47. f5 Qh6 48. Qg4 Be7
+49. Rf1 Kg8 50. Rh1 1-0
+
+[Event "IX Torneio Int. da Figueira da Foz"]
+[Site "Figueira da Foz POR"]
+[Date "2018.10.31"]
+[Round "4.21"]
+[White "Pais, Bruno"]
+[Black "Bouxo, Luís"]
+[Result "1-0"]
+[ECO "D30"]
+[WhiteElo "1836"]
+[BlackElo "1585"]
+[WhiteFideId "1911341"]
+[BlackFideId "1904647"]
+[WhiteCountry "POR"]
+[BlackCountry "POR"]
+[PlyCount "79"]
+
+1. d4 d5 2. c4 e6 3. Nf3 Nf6 4. g3 Bd6 5. Bg2 O-O 6. O-O c6 7. Qc2 Nbd7 8. Nbd2
+Re8 9. e4 dxe4 10. Nxe4 Nxe4 11. Qxe4 Nf6 12. Qc2 h6 13. Rd1 Qa5 14. c5 Bb8 15.
+a4 Qd8 16. b4 Nd5 17. b5 a6 18. b6 Qf6 19. Bb2 Bd7 20. Nd2 Qg5 21. Nc4 Bc8 22.
+Re1 Rd8 23. Rad1 Ne7 24. Bc1 Qh5 25. Bb2 Qg5 26. Qe2 Ng6 27. h4 Qe7 28. Rd3 Bd7
+29. Ba3 Qf6 30. Bb2 Qe7 31. a5 Be8 32. Red1 Qf8 33. Qg4 Ne7 34. Bc1 g6 35. h5 f5
+36. Qe2 Bf7 37. hxg6 Nxg6 38. Qe3 f4 39. Qe4 fxg3 40. fxg3 1-0
+
+[Event "IX Torneio Int. da Figueira da Foz"]
+[Site "Figueira da Foz POR"]
+[Date "2018.10.31"]
+[Round "4.22"]
+[White "Dong, Fábio"]
+[Black "Morais, Mario M F"]
+[Result "0-1"]
+[ECO "A13"]
+[WhiteElo "1273"]
+[BlackElo "1766"]
+[WhiteFideId "1958020"]
+[BlackFideId "1959506"]
+[WhiteCountry "POR"]
+[BlackCountry "POR"]
+[PlyCount "102"]
+
+1. c4 e6 2. Nc3 d5 3. cxd5 exd5 4. d4 c6 5. Nf3 Be7 6. Bf4 Nf6 7. e3 Bf5 8. h3
+Qb6 9. Qb3 Nbd7 10. Qxb6 axb6 11. Be2 O-O 12. O-O Ne8 13. Ne5 Nd6 14. b3 Nf6 15.
+Na4 b5 16. Nc5 Nfe4 17. Nxe4 Nxe4 18. Bd3 f6 19. Nf3 Bg6 20. Nh4 Bf7 21. Nf5 Ba3
+22. Bxe4 dxe4 23. Bd6 Rfd8 24. Bxa3 Rxa3 25. Rfc1 g6 26. Ng3 f5 27. Ne2 Rda8 28.
+Nc3 Bxb3 29. Rab1 Bxa2 30. Nxa2 Rxa2 31. d5 cxd5 32. Rxb5 Ra1 33. Rxa1 Rxa1+ 34.
+Kh2 Ra7 35. Rxd5 b6 36. Rb5 Rb7 37. Kg3 Kf7 38. f3 exf3 39. Kxf3 Ke6 40. e4
+fxe4+ 41. Kxe4 Kd6 42. Kf4 Kc6 43. Rb2 Kd5 44. Ke3 Kc4 45. Kd2 b5 46. Rc2+ Kb3
+47. Rc3+ Kb4 48. Kc2 Rf7 49. Rf3 Rxf3 50. gxf3 Kc4 51. h4 Kd4 0-1
+
+[Event "IX Torneio Int. da Figueira da Foz"]
+[Site "Figueira da Foz POR"]
+[Date "2018.10.31"]
+[Round "4.23"]
+[White "Correia, Pedro Mourão"]
+[Black "Mões Joaquim, Carlos"]
+[Result "1-0"]
+[ECO "B30"]
+[WhiteElo "1518"]
+[BlackElo "1415"]
+[WhiteFideId "1959522"]
+[BlackFideId "1928104"]
+[WhiteTitle "AFM"]
+[WhiteCountry "POR"]
+[BlackCountry "CPV"]
+[PlyCount "75"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 Qc7 4. d4 cxd4 5. O-O e5 6. c3 Nf6 7. cxd4 Bd6 8. Nc3
+O-O 9. Bg5 exd4 10. Bxf6 dxc3 11. Bxc3 a6 12. Bd3 b5 13. e5 Bxe5 14. Bxh7+ Kh8
+15. Nxe5 Nxe5 16. Qh5 Re8 17. Be4+ Kg8 18. Bxa8 d6 19. Bd5 Bg4 20. Qg5 Qd7 21.
+a3 Kf8 22. f3 Bf5 23. Be4 Be6 24. Bxe5 dxe5 25. Qe3 Kg8 26. Rfd1 Qe7 27. Rd2 Qh4
+28. Bd5 g6 29. Bxe6 Rxe6 30. Rad1 Re8 31. Qb6 Kg7 32. Rd8 Re6 33. Qb8 Qf4 34.
+Rg8+ Kf6 35. Qd8+ Re7 36. Re8 Qe3+ 37. Kf1 Qc5 38. Rd6+ 1-0
+
+[Event "IX Torneio Int. da Figueira da Foz"]
+[Site "Figueira da Foz POR"]
+[Date "2018.10.31"]
+[Round "4.24"]
+[White "Soares, Sara"]
+[Black "Gonçalves, Lucas"]
+[Result "1/2-1/2"]
+[ECO "C53"]
+[WhiteElo "1481"]
+[BlackElo "1401"]
+[WhiteFideId "1948172"]
+[BlackFideId "1945360"]
+[WhiteCountry "POR"]
+[BlackCountry "POR"]
+[PlyCount "158"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Nf6 5. d4 exd4 6. e5 d5 7. Bb5 Ne4 8. cxd4
+Bb4+ 9. Bd2 Nxd2 10. Nbxd2 Bd7 11. a3 Bxd2+ 12. Qxd2 O-O 13. Bxc6 Bxc6 14. O-O
+Qd7 15. Rfe1 Rfe8 16. Rac1 h6 17. h3 Qf5 18. Qa5 Qd7 19. Qd2 a6 20. Re3 Qf5 21.
+b3 Re6 22. Ne1 Rg6 23. Rf3 Qh5 24. Qf4 Rf8 25. a4 a5 26. Rg3 Qe2 27. Rxg6 fxg6
+28. Qe3 Qh5 29. Qd2 Qf5 30. Qe3 Qc8 31. Qc3 Rf7 32. Qxa5 Qd8 33. Qd2 Qd7 34. Nd3
+b6 35. Nb4 Bb7 36. Qe3 Qe6 37. Nd3 Bc8 38. b4 Qf5 39. b5 Qe6 40. Nf4 Qf5 41. Nd3
+Be6 42. Rc6 Bc8 43. g4 Qf3 44. Qxf3 Rxf3 45. Ne1 Rf7 46. Kg2 g5 47. Nd3 Kf8 48.
+Nb4 Ke8 49. f3 Kd8 50. Rc1 Bb7 51. Kg3 g6 52. Nd3 Kd7 53. Re1 Ke7 54. f4 gxf4+
+55. Nxf4 g5 56. Nd3 c6 57. bxc6 Bxc6 58. Ra1 Rf8 59. Kg2 Ra8 60. Nb4 Kd7 61.
+Nxc6 Kxc6 62. Kg3 Rf8 63. Rc1+ Kd7 64. e6+ Kd6 65. Rb1 Kc6 66. Re1 Kd6 67. Rb1
+Kc6 68. Re1 Kd6 69. e7 Re8 70. Kf3 Rxe7 71. Rxe7 Kxe7 72. Ke3 Kd7 73. Kd3 Kc7
+74. Kc3 Kb7 75. Kb3 Ka7 76. Kc3 Kb7 77. Kb3 Ka7 78. Ka3 Kb7 79. Kb3 Ka7 1/2-1/2
+
+[Event "IX Torneio Int. da Figueira da Foz"]
+[Site "Figueira da Foz POR"]
+[Date "2018.10.31"]
+[Round "4.25"]
+[White "Marçal, Paulo"]
+[Black "Fonseca, René Gil"]
+[Result "0-1"]
+[ECO "C06"]
+[WhiteElo "1751"]
+[BlackElo "1378"]
+[WhiteFideId "1903837"]
+[BlackFideId "1957767"]
+[WhiteCountry "POR"]
+[BlackCountry "POR"]
+[PlyCount "74"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. Bd3 c5 6. c3 Nc6 7. Ne2 cxd4 8. cxd4
+f6 9. f4 Be7 10. O-O O-O 11. Nf3 f5 12. Kh1 Nb6 13. b3 Bd7 14. a4 a5 15. Nc3 Nb4
+16. Bb1 Rc8 17. Bd2 Qe8 18. Ne1 Qg6 19. Qe2 Nc6 20. Nb5 Rc7 21. Nf3 Rcc8 22. Rg1
+Qh6 23. g4 Kh8 24. Nd6 Bxd6 25. exd6 g6 26. Bd3 Qg7 27. Be3 Nb4 28. Bb1 Rc3 29.
+Bd2 Rxb3 30. gxf5 exf5 31. Ne5 Re8 32. Qd1 Rh3 33. Rg3 Rxg3 34. hxg3 Nc4 35. Bc1
+Nxd6 36. Bb2 Ne4 37. Ra3 Nf2+ 0-1
+
+[Event "IX Torneio Int. da Figueira da Foz"]
+[Site "Figueira da Foz POR"]
+[Date "2018.11.01"]
+[Round "5.1"]
+[White "Del Rio Angelis, Salvador"]
+[Black "Jakubowski, Krzystof"]
+[Result "1/2-1/2"]
+[ECO "E00"]
+[WhiteElo "2547"]
+[BlackElo "2511"]
+[WhiteFideId "2203138"]
+[BlackFideId "1112848"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteCountry "ESP"]
+[BlackCountry "POL"]
+[PlyCount "137"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 d5 4. Bg5 Be7 5. e3 Nbd7 6. Nf3 O-O 7. Rc1 a6 8. cxd5
+exd5 9. Bd3 Re8 10. O-O c6 11. Qc2 Nf8 12. Rfe1 g6 13. h3 Ne6 14. Bh6 Ng7 15.
+Qb3 Rb8 16. Na4 Bd6 17. Nc5 Ne6 18. e4 dxe4 19. Nxe4 Nxe4 20. Rxe4 Bd7 21. Ne5
+Bxe5 22. dxe5 c5 23. Bc4 Bc6 24. Bxe6 Rxe6 25. Rf4 Qd5 26. Qxd5 Bxd5 27. Rxc5
+Rxe5 28. Kh2 b6 29. Rc3 Rh5 30. Rd4 Bxa2 31. Bf4 Ra8 32. Bc7 Rb5 33. Rd8+ Rxd8
+34. Bxd8 Kg7 35. Rc6 Be6 36. Bxb6 Kf8 37. b4 Ke8 38. Ba5 Bd5 39. Rxa6 h5 40. Rf6
+Ke7 41. Rf4 Bc6 42. Rd4 Rd5 43. Rc4 Bb5 44. Rc7+ Rd7 45. Rc5 Rb7 46. Kg3 Ke6 47.
+f3 Bd7 48. h4 Rb5 49. Rc4 Rd5 50. Bb6 Bb5 51. Rc2 f6 52. Be3 g5 53. Rc8 Rd3 54.
+hxg5 Bd7 55. Rf8 Rxe3 56. g6 Ke7 57. g7 Be6 58. g8=Q Bxg8 59. Rxg8 Rb3 60. Rb8
+Rb2 61. b5 Kf7 62. b6 Kg7 63. b7 Rb4 64. Kh3 Rb1 65. Kh4 Rh1+ 66. Kg3 Rb1 67. f4
+Rb4 68. Kh3 Rb1 69. Kg3 1/2-1/2
+
+[Event "IX Torneio Int. da Figueira da Foz"]
+[Site "Figueira da Foz POR"]
+[Date "2018.11.01"]
+[Round "5.2"]
+[White "Stella, Andrea"]
+[Black "Alshameary Puente, Ismael"]
+[Result "1/2-1/2"]
+[ECO "E60"]
+[WhiteElo "2500"]
+[BlackElo "2369"]
+[WhiteFideId "827061"]
+[BlackFideId "2225166"]
+[WhiteTitle "GM"]
+[BlackTitle "FM"]
+[WhiteCountry "ITA"]
+[BlackCountry "ESP"]
+[PlyCount "149"]
+
+1. d4 Nf6 2. c4 g6 3. Nf3 Bg7 4. g3 O-O 5. Bg2 d6 6. Nc3 c5 7. O-O Nc6 8. dxc5
+dxc5 9. Be3 b6 10. Qc1 Be6 11. b3 Qc8 12. Bh6 Bh3 13. Bxg7 Kxg7 14. Rd1 Bxg2 15.
+Kxg2 Qb7 16. Nd5 Nd4 17. Nxd4 cxd4 18. Qg5 Nxd5 19. Qxd5 Qxd5+ 20. cxd5 Rfc8 21.
+Rxd4 Rc2 22. Re4 Rd8 23. Rxe7 Rxd5 24. a4 Rdd2 25. Re1 Rb2 26. Re3 h5 27. h4
+Rbc2 28. f3 a5 29. Kf2 Rd5 30. Rb1 b5 31. axb5 Rxb5 32. Ra1 Kf6 33. Ra4 Kg7 34.
+Re7 Kf8 35. Re3 Rb2 36. Ra3 Kg7 37. Ke1 Rd5 38. Kf2 Rb5 39. f4 Kf6 40. Kf3 Rb4
+41. Rd3 Ke6 42. Rxa5 R4xb3 43. Rg5 Rb5 44. Ra3 Rxg5 45. hxg5 Rb6 46. Re3+ Kd6
+47. g4 hxg4+ 48. Kxg4 Rb1 49. Re5 Rf1 50. Kg3 Rg1+ 51. Kf3 Rf1+ 52. Ke4 Ra1 53.
+e3 Ra3 54. Kf3 Ra1 55. Re4 Rb1 56. Ra4 Ke6 57. Ra7 Rb4 58. Ra3 Rb6 59. e4 Rb1
+60. Ra6+ Ke7 61. f5 gxf5 62. exf5 Rf1+ 63. Ke4 Re1+ 64. Kd4 Rg1 65. Ra7+ Kd6 66.
+Ra6+ Ke7 67. Ra7+ Kd6 68. Rxf7 Rxg5 69. Rf6+ Ke7 70. Ke5 Rg1 71. Rg6 Re1+ 72.
+Kf4 Rf1+ 73. Ke5 Re1+ 74. Kf4 Rf1+ 75. Ke4 1/2-1/2
+
+[Event "IX Torneio Int. da Figueira da Foz"]
+[Site "Figueira da Foz POR"]
+[Date "2018.11.01"]
+[Round "5.3"]
+[White "Santos, António P"]
+[Black "Romanishin, Oleg"]
+[Result "1/2-1/2"]
+[ECO "E11"]
+[WhiteElo "2155"]
+[BlackElo "2443"]
+[WhiteFideId "1900161"]
+[BlackFideId "14100088"]
+[WhiteTitle "FM"]
+[BlackTitle "GM"]
+[WhiteCountry "POR"]
+[BlackCountry "UKR"]
+[PlyCount "88"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 Bb4+ 4. Bd2 c5 5. Bxb4 cxb4 6. e3 b6 7. a3 bxa3 8.
+Rxa3 Bb7 9. Nc3 O-O 10. Be2 Nc6 11. O-O Qc7 12. Qb1 d6 13. d5 exd5 14. cxd5 Ne5
+15. Nxe5 dxe5 16. e4 a6 17. Nd1 b5 18. Rc3 Qb6 19. Ne3 Bc8 20. Rc6 Qd8 21. b4
+Bd7 22. Rc5 Qb6 23. Rfc1 a5 24. bxa5 Rxa5 25. Nc4 Qxc5 26. Nxa5 Qd4 27. Bf3 Qb6
+28. Nc6 Bxc6 29. Rxc6 Qd4 30. Qxb5 Nxe4 31. Bxe4 Qxe4 32. Qc4 Qxc4 33. Rxc4 Rd8
+34. f3 Kf8 35. Rc5 Ke7 36. Kf2 Kd6 37. Ra5 Rc8 38. g4 Rc2+ 39. Kg3 Rc5 40. Ra7
+Rc7 41. Ra5 g5 42. h4 gxh4+ 43. Kxh4 Rc3 44. Ra6+ Kxd5 1/2-1/2
+
+[Event "IX Torneio Int. da Figueira da Foz"]
+[Site "Figueira da Foz POR"]
+[Date "2018.11.01"]
+[Round "5.4"]
+[White "Lisowski, Krzysztof"]
+[Black "Veiga, Francisco"]
+[Result "1/2-1/2"]
+[ECO "C53"]
+[WhiteElo "2095"]
+[BlackElo "2272"]
+[WhiteFideId "1110969"]
+[BlackFideId "1930087"]
+[BlackTitle "FM"]
+[WhiteCountry "POL"]
+[BlackCountry "POR"]
+[PlyCount "156"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Nf6 5. d4 exd4 6. e5 d5 7. Be2 Ne4 8. cxd4
+Bb4+ 9. Nbd2 O-O 10. O-O Bg4 11. Nb3 f6 12. exf6 Qxf6 13. Be3 Rad8 14. Rc1 Bd6
+15. Qd3 Nb4 16. Qd1 Nxa2 17. Ra1 Nb4 18. Rxa7 Nc6 19. Ra1 Ne7 20. Nc5 Nf5 21.
+Nxb7 Nxe3 22. fxe3 Qh6 23. Nxd6 Qxe3+ 24. Kh1 Rxd6 25. Qe1 Rh6 26. Bc4 Qxe1 27.
+Bxd5+ Be6 28. Bxe6+ Rxe6 29. Rfxe1 Rb8 30. Rab1 Ree8 31. Kg1 c5 32. dxc5 Nxc5
+33. Rxe8+ Rxe8 34. b4 Rb8 35. Kf1 Kf7 36. Nd2 Na4 37. Rb3 Ke6 38. Ke2 Kd5 39.
+Rh3 h6 40. Rg3 Rb7 41. Rg4 g5 42. Kd3 Nb2+ 43. Kc2 Na4 44. Kb3 Nc5+ 45. Kc3 Ne6
+46. Nf1 Rc7+ 47. Kd2 Ke5 48. Rg3 Nf4 49. Re3+ Kd4 50. g3 Nd5 51. Rd3+ Ke4 52.
+Rb3 Rd7 53. Ke2 Re7 54. Kd2 Rf7 55. Ke2 Re7 56. Kd2 Ra7 57. Ke2 Ra2+ 58. Nd2+
+Kd4 59. Rd3+ Ke5 60. Rb3 Nb6 61. Re3+ Kd5 62. Rd3+ Kc6 63. Rc3+ Kb5 64. Rc5+
+Kxb4 65. Rc6 Kb5 66. Rc3 Nd5 67. Rc8 Ra6 68. Kf3 Rf6+ 69. Kg4 Rf2 70. Rc5+ Kxc5
+71. Ne4+ Kd4 72. Nxf2 Ke3 73. Nh3 Nf6+ 74. Kf5 Ne4 75. Kg6 Nxg3 76. hxg3 Kf3 77.
+Nxg5+ hxg5 78. Kxg5 Kxg3 1/2-1/2
+
+[Event "IX Torneio Int. da Figueira da Foz"]
+[Site "Figueira da Foz POR"]
+[Date "2018.11.01"]
+[Round "5.5"]
+[White "Perez Garcia, Rodney Oscar"]
+[Black "Fernandes, Ricardo Paulos"]
+[Result "1-0"]
+[ECO "B08"]
+[WhiteElo "2362"]
+[BlackElo "2098"]
+[WhiteFideId "3500918"]
+[BlackFideId "1943464"]
+[WhiteTitle "IM"]
+[WhiteCountry "CUB"]
+[BlackCountry "POR"]
+[PlyCount "95"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Nf3 Bg7 5. Be2 O-O 6. O-O c6 7. Re1 Qc7 8. Bf4
+Nh5 9. Bg5 h6 10. Be3 e5 11. Qd2 Kh7 12. Rad1 Be6 13. d5 cxd5 14. Nb5 Qe7 15.
+exd5 Bc8 16. Nxa7 f5 17. Qb4 f4 18. Nxc8 Rxc8 19. Bd3 fxe3 20. Qg4 Qe8 21. Bxg6+
+Qxg6 22. Qxc8 e4 23. Nh4 exf2+ 24. Kxf2 Qf6+ 25. Qf5+ Qxf5+ 26. Nxf5 Be5 27.
+Rxe4 Kg6 28. Nh4+ Kh7 29. Rb4 Ra7 30. Nf3 Bf6 31. Rb6 Be7 32. Re1 Bf8 33. Nd4
+Nd7 34. Rb5 Ne5 35. Ne6 Be7 36. Re4 Nf6 37. Reb4 Kg6 38. Rxb7 Rxb7 39. Rxb7 Nxd5
+40. a4 Kf5 41. Nd4+ Ke4 42. Nf3 Nc4 43. b4 Bf6 44. a5 Bc3 45. a6 Bxb4 46. a7
+Ncb6 47. c4 Nc3 48. Rxb6 1-0
+
+[Event "IX Torneio Int. da Figueira da Foz"]
+[Site "Figueira da Foz POR"]
+[Date "2018.11.01"]
+[Round "5.6"]
+[White "Fernandes, Miguel"]
+[Black "Rotstein, Arkadij"]
+[Result "0-1"]
+[ECO "A53"]
+[WhiteElo "2048"]
+[BlackElo "2476"]
+[WhiteFideId "1920456"]
+[BlackFideId "4662997"]
+[BlackTitle "GM"]
+[WhiteCountry "POR"]
+[BlackCountry "GER"]
+[PlyCount "58"]
+
+1. d4 Nf6 2. c4 d6 3. Nf3 Nbd7 4. Nc3 e5 5. e3 g6 6. Be2 Bg7 7. O-O O-O 8. b4
+Re8 9. Qc2 Nf8 10. a4 Bf5 11. Qb3 e4 12. Nd2 h5 13. c5 d5 14. a5 a6 15. b5 c6
+16. bxc6 bxc6 17. Qa4 Qc7 18. Rb1 Bg4 19. Rb6 Bxe2 20. Nxe2 Ng4 21. g3 Re6 22.
+Nc3 Ra7 23. Na2 h4 24. Nb4 hxg3 25. hxg3 Nxe3 26. Re1 Nf5 27. Nf1 Nxd4 28. Rd1
+Ne2+ 29. Kg2 Nc3 0-1
+
+[Event "IX Torneio Int. da Figueira da Foz"]
+[Site "Figueira da Foz POR"]
+[Date "2018.11.01"]
+[Round "5.7"]
+[White "Martín Duque, Jesus"]
+[Black "Margarido, José"]
+[Result "1-0"]
+[ECO "B46"]
+[WhiteElo "2354"]
+[BlackElo "2121"]
+[WhiteFideId "2208954"]
+[BlackFideId "1914227"]
+[WhiteTitle "FM"]
+[WhiteCountry "ESP"]
+[BlackCountry "POR"]
+[PlyCount "127"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 a6 6. Be2 Qc7 7. Be3 Nf6 8. O-O
+Be7 9. f4 d6 10. a4 O-O 11. Kh1 Nxd4 12. Qxd4 Bd7 13. e5 Ne8 14. Bd3 Bc6 15. Bd2
+Rd8 16. Qe3 dxe5 17. fxe5 Bc5 18. Qg3 Bd4 19. Rae1 Rd7 20. Qh4 g6 21. Qg5 Ng7
+22. Rf4 h5 23. Rff1 Re8 24. Bf4 Bxc3 25. bxc3 Qd8 26. Qg3 h4 27. Qg4 Rxd3 28.
+cxd3 Qxd3 29. Qxh4 Nf5 30. Qg5 Qxc3 31. Bd2 Qd4 32. a5 Rd8 33. Be3 Qd3 34. Bb6
+Rd7 35. Kg1 Qc2 36. Rf2 Qc3 37. Qc1 Qd3 38. Qf4 Qc3 39. Rc1 Qd3 40. Qg5 Qb3 41.
+Rd2 Rd3 42. Rxd3 Qxd3 43. Qd8+ Qxd8 44. Bxd8 Ne3 45. Bg5 Nf5 46. Rd1 Bd5 47. g4
+Ng7 48. Bf6 Ne8 49. g5 Nc7 50. Rd4 Kf8 51. Rh4 Ke8 52. Rh8+ Kd7 53. Rf8 Kc6 54.
+Rxf7 Nb5 55. Bd8 Nd4 56. Kf2 Kb5 57. Rf6 Nc6 58. Bc7 Nxa5 59. Bxa5 Kxa5 60. Rxg6
+Kb4 61. Rg8 a5 62. g6 Be4 63. g7 Bh7 64. Rh8 1-0
+
+[Event "IX Torneio Int. da Figueira da Foz"]
+[Site "Figueira da Foz POR"]
+[Date "2018.11.01"]
+[Round "5.8"]
+[White "Elissalt Cardenas, Hector"]
+[Black "Dionízio, André"]
+[Result "1-0"]
+[ECO "E73"]
+[WhiteElo "2316"]
+[BlackElo "2013"]
+[WhiteFideId "3500632"]
+[BlackFideId "1920294"]
+[WhiteTitle "IM"]
+[WhiteCountry "ESP"]
+[BlackCountry "POR"]
+[PlyCount "111"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Be2 O-O 6. Be3 e5 7. d5 Na6 8. g4 Ne8
+9. h4 f5 10. gxf5 gxf5 11. h5 f4 12. Bd2 Bh6 13. Qc2 Kh8 14. O-O-O Nc5 15. Nf3
+Ng7 16. Rdg1 Nd7 17. Qd1 Nf6 18. Kb1 Bd7 19. Nh4 Be8 20. Rg2 Rf7 21. Bf3 c6 22.
+Bc1 Rc7 23. dxc6 bxc6 24. Ng6+ Kg8 25. c5 Rd7 26. cxd6 Rxd6 27. Qf1 Nd7 28. Nh4
+Kh8 29. Be2 Nf6 30. Ng6+ hxg6 31. hxg6 Ng8 32. Bc4 Ne6 33. g7+ Nxg7 34. Rgh2 Qg5
+35. Rg1 Qf6 36. Rgh1 Bf7 37. b3 Rad8 38. Bb2 Ne6 39. f3 Nd4 40. Bxf7 Qxf7 41.
+Rh5 Re8 42. Na4 Ree6 43. Nc5 Re8 44. Nd3 Qg7 45. Rg1 Qf6 46. Qg2 Kh7 47. Nxe5
+Red8 48. Ng4 Qf7 49. Rgh1 c5 50. Rxc5 Ne6 51. Rd5 Rxd5 52. exd5 Ng5 53. Nxh6
+Qxd5 54. Nf7+ Kg6 55. Nxd8 Qxd8 56. Qc2+ 1-0
+
+[Event "IX Torneio Int. da Figueira da Foz"]
+[Site "Figueira da Foz POR"]
+[Date "2018.11.01"]
+[Round "5.9"]
+[White "Garcia Dorado, Alberto"]
+[Black "Fernandes, João Pedro"]
+[Result "1-0"]
+[ECO "A56"]
+[WhiteElo "2206"]
+[BlackElo "2067"]
+[WhiteFideId "2252244"]
+[BlackFideId "1926624"]
+[WhiteTitle "CM"]
+[WhiteCountry "ESP"]
+[BlackCountry "POR"]
+[PlyCount "89"]
+
+1. d4 Nf6 2. c4 c5 3. Nf3 cxd4 4. Nxd4 e6 5. g3 a6 6. Bg2 Qc7 7. b3 Bb4+ 8. Bd2
+Be7 9. O-O O-O 10. Nc3 Nc6 11. Nc2 d6 12. e4 Bd7 13. Qe2 Ne5 14. f4 Ng6 15. Rac1
+Rac8 16. Kh1 Rfe8 17. Rfe1 h5 18. h3 h4 19. g4 Nh7 20. Qf2 b5 21. cxb5 axb5 22.
+Ne2 Qb8 23. Nb4 Bd8 24. Rxc8 Bxc8 25. Nc3 Bd7 26. Rd1 Ba5 27. Ne2 Rc8 28. Nc1
+Nf6 29. Ncd3 Bb6 30. Qe1 Qa7 31. Qe2 Bd4 32. g5 Ne8 33. Rf1 Qb6 34. Qe1 Nc7 35.
+f5 exf5 36. exf5 Re8 37. Qd1 Ne5 38. Nf4 Qc5 39. f6 Bf5 40. Nfd5 Nxd5 41. Nxd5
+Bd3 42. Ne7+ Kh8 43. Qh5+ Bh7 44. fxg7+ Kxg7 45. Qh6+ 1-0
+
+[Event "IX Torneio Int. da Figueira da Foz"]
+[Site "Figueira da Foz POR"]
+[Date "2018.11.01"]
+[Round "5.10"]
+[White "Lopez De Turiso, José Angel"]
+[Black "Vasallo, Mauricio"]
+[Result "0-1"]
+[ECO "A03"]
+[WhiteElo "1933"]
+[BlackElo "2378"]
+[WhiteFideId "2207680"]
+[BlackFideId "101648"]
+[BlackTitle "IM"]
+[WhiteCountry "ESP"]
+[BlackCountry "ESP"]
+[PlyCount "52"]
+
+1. f4 d5 2. Nf3 g6 3. d3 Bg7 4. e4 dxe4 5. dxe4 Qxd1+ 6. Kxd1 Nc6 7. c3 Nf6 8.
+Bd3 Bg4 9. Ke2 O-O-O 10. Bc2 e5 11. h3 Bxf3+ 12. Kxf3 exf4 13. Bxf4 Nh5 14. Na3
+Nxf4 15. Kxf4 Bf8 16. Nc4 b5 17. Ne3 Bh6+ 18. Kf3 Rd2 19. Ng4 Bg7 20. Rac1 h5
+21. Ne3 Ne5+ 22. Kf4 Bh6+ 23. Kxe5 Bxe3 24. Bb3 Re8+ 25. Kf6 Rf2+ 26. Kg7 Bxc1
+0-1
+
+[Event "IX Torneio Int. da Figueira da Foz"]
+[Site "Figueira da Foz POR"]
+[Date "2018.11.01"]
+[Round "5.11"]
+[White "Dias, Ricardo"]
+[Black "Puglia, Francesco"]
+[Result "1/2-1/2"]
+[ECO "B90"]
+[WhiteElo "2098"]
+[BlackElo "1803"]
+[WhiteFideId "1930060"]
+[BlackFideId "2820060"]
+[WhiteCountry "POR"]
+[BlackCountry "ITA"]
+[PlyCount "134"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. Bb3 b5 8. O-O
+Be7 9. f4 Bb7 10. Bxe6 fxe6 11. Nxe6 Qb6+ 12. Kh1 Kf7 13. Ng5+ Kg8 14. e5 Qc6
+15. Rf2 Nfd7 16. Qg4 dxe5 17. Ne6 Bf6 18. f5 h5 19. Qg3 h4 20. Qg6 Nf8 21. Qg4
+Nbd7 22. Be3 Re8 23. Rd1 Nxe6 24. fxe6 Qxe6 25. Qxe6+ Rxe6 26. Rxd7 Bc6 27. Rdd2
+h3 28. Nd5 Kf7 29. b3 Rd8 30. c4 bxc4 31. bxc4 Red6 32. gxh3 Bxd5+ 33. cxd5 Rxd5
+34. Rc2 R8d7 35. Kg2 Rd3 36. Bg5 Kg6 37. Bc1 Kh5 38. Rfe2 R3d5 39. Rc4 Kg6 40.
+Ra4 a5 41. Be3 Bg5 42. Bf2 Rd2 43. Rxd2 Rxd2 44. Kf3 e4+ 45. Rxe4 Rxa2 46. Re5
+Bf6 47. Re6 Ra3+ 48. Kg2 a4 49. Ra6 Kf5 50. h4 Ra2 51. Kf3 Ra3+ 52. Kg2 Kg4 53.
+Bg3 Ra2+ 54. Kf1 Kf3 55. Ke1 Ke3 56. Re6+ Kd3 57. h5 Bd4 58. Kf1 a3 59. Ra6 Ra1+
+60. Kg2 a2 61. Kh3 Kc2 62. Ra8 Bc3 63. Bd6 Kb3 64. Ra3+ Kb2 65. Rxc3 Re1 66. Ra3
+a1=Q 67. Rxa1 Kxa1 1/2-1/2
+
+[Event "IX Torneio Int. da Figueira da Foz"]
+[Site "Figueira da Foz POR"]
+[Date "2018.11.01"]
+[Round "5.12"]
+[White "Pipiras, Filipa"]
+[Black "Morais, Vítor"]
+[Result "1/2-1/2"]
+[ECO "A40"]
+[WhiteElo "1853"]
+[BlackElo "1918"]
+[WhiteFideId "1944894"]
+[BlackFideId "1900552"]
+[WhiteCountry "POR"]
+[BlackCountry "POR"]
+[PlyCount "126"]
+
+1. d4 g6 2. c4 Bg7 3. Nc3 Nf6 4. Nf3 O-O 5. Bg5 d6 6. e3 Nbd7 7. Be2 h6 8. Bh4
+e5 9. Qc2 c6 10. O-O Qe7 11. Rfd1 g5 12. Bg3 Nh5 13. dxe5 Nxg3 14. hxg3 dxe5 15.
+Ne4 f5 16. Nd6 e4 17. Nxc8 Raxc8 18. Nd4 Ne5 19. c5 Kh8 20. b4 a6 21. Rab1 Rf6
+22. a4 Nd7 23. Qd2 Nf8 24. b5 cxb5 25. axb5 Rxc5 26. bxa6 bxa6 27. Qb4 Qc7 28.
+Nb3 Rc3 29. Nd4 f4 30. gxf4 gxf4 31. exf4 Rxf4 32. Bxa6 Rh4 33. Qb8 Qf7 34. g3
+Qg6 35. Bf1 e3 36. Ne2 exf2+ 37. Kxf2 Rh2+ 38. Bg2 Rc2 39. Qa8 Rxe2+ 40. Kxe2
+Qxg3 41. Kf1 Kh7 42. Qe4+ Kh8 43. Qf3 Qxf3+ 44. Bxf3 Rh4 45. Rb7 Rf4 46. Kg2 Rf5
+47. Rc1 Rg5+ 48. Kf1 Kg8 49. Rcc7 Ne6 50. Re7 Nf8 51. Bd1 Bf6 52. Bb3+ Kh8 53.
+Rf7 Bg7 54. Rxg7 Rxg7 55. Rb8 Rg5 56. Rxf8+ Kg7 57. Rg8+ Kf6 58. Rh8 Rf5+ 59.
+Kg2 Kg5 60. Rg8+ Kf4 61. Kh3 Rh5+ 62. Kg2 Rg5+ 63. Rxg5 hxg5 1/2-1/2
+
+[Event "IX Torneio Int. da Figueira da Foz"]
+[Site "Figueira da Foz POR"]
+[Date "2018.11.01"]
+[Round "5.13"]
+[White "Dias, José"]
+[Black "Sismeiro, Miguel"]
+[Result "0-1"]
+[ECO "A07"]
+[WhiteElo "1605"]
+[BlackElo "2008"]
+[WhiteFideId "1923943"]
+[BlackFideId "1950975"]
+[WhiteCountry "POR"]
+[BlackCountry "POR"]
+[PlyCount "62"]
+
+1. Nf3 d5 2. g3 Nf6 3. Bg2 Bg4 4. O-O e6 5. d3 Be7 6. Nbd2 O-O 7. Qe1 c5 8. e4
+Nc6 9. c3 b5 10. h3 Bh5 11. exd5 exd5 12. Ne5 Nxe5 13. Qxe5 Bd6 14. Qf5 Bg6 15.
+Qf3 Qb6 16. Nb3 Rad8 17. Bg5 Be5 18. Rae1 Rfe8 19. Nc1 d4 20. cxd4 Bxd4 21.
+Rxe8+ Rxe8 22. b3 h6 23. Bxf6 Qxf6 24. Rd1 Qe5 25. Qc6 Re6 26. Qd5 Bxf2+ 27.
+Kxf2 Qe3+ 28. Kf1 Rf6+ 29. Bf3 Rxf3+ 30. Kg2 Rf2+ 31. Kh1 Qxg3 0-1
+
+[Event "IX Torneio Int. da Figueira da Foz"]
+[Site "Figueira da Foz POR"]
+[Date "2018.11.01"]
+[Round "5.14"]
+[White "Morais, Mario M F"]
+[Black "Silva, Pedro Gil"]
+[Result "0-1"]
+[ECO "A00"]
+[WhiteElo "1766"]
+[BlackElo "1837"]
+[WhiteFideId "1959506"]
+[BlackFideId "1946102"]
+[WhiteCountry "POR"]
+[BlackCountry "POR"]
+[PlyCount "90"]
+
+1. d3 d5 2. Nf3 Nf6 3. c3 c5 4. g3 e6 5. Bg2 Nc6 6. Nbd2 Be7 7. Qc2 O-O 8. O-O
+Qc7 9. e4 b5 10. d4 cxd4 11. cxd4 Qb6 12. e5 Nd7 13. Nb3 a5 14. Be3 Ba6 15. Rfc1
+Rfc8 16. Qd1 a4 17. Nbd2 Nb4 18. Bf1 Rxc1 19. Qxc1 Rc8 20. Qd1 h6 21. a3 Nc2 22.
+Rc1 Nxe3 23. Rxc8+ Bxc8 24. fxe3 Qc6 25. Bd3 Nb6 26. Bb1 Bb7 27. Qc2 Qxc2 28.
+Bxc2 Bc6 29. Kf2 Nc4 30. Nxc4 bxc4 31. Ng1 c3 32. bxc3 Bxa3 33. Ke1 Bc1 34. Kd1
+Bxe3 35. Ne2 f5 36. Nc1 Bxc1 37. Kxc1 g5 38. Kb2 Kf7 39. h4 gxh4 40. gxh4 Kg6
+41. Bd1 f4 42. Bg4 Bd7 43. Ka3 h5 44. Bh3 f3 45. Kb4 f2 0-1
+
+[Event "IX Torneio Int. da Figueira da Foz"]
+[Site "Figueira da Foz POR"]
+[Date "2018.11.01"]
+[Round "5.15"]
+[White "Louzao Brea, Jose Luis"]
+[Black "Correia, Pedro Mourão"]
+[Result "1-0"]
+[ECO "B01"]
+[WhiteElo "1835"]
+[BlackElo "1518"]
+[WhiteFideId "2270811"]
+[BlackFideId "1959522"]
+[BlackTitle "AFM"]
+[WhiteCountry "ESP"]
+[BlackCountry "POR"]
+[PlyCount "46"]
+
+1. e4 d5 2. exd5 Nf6 3. Bb5+ Bd7 4. Bc4 c6 5. Nc3 cxd5 6. Nxd5 e6 7. Nxf6+ Qxf6
+8. Qf3 Qe5+ 9. Qe2 Qg5 10. f3 Bd6 11. d4 Qf6 12. c3 O-O 13. Nh3 e5 14. Bg5 Qg6
+15. g4 exd4 16. Bd3 f5 17. O-O dxc3 18. bxc3 Nc6 19. Rad1 Ne5 20. Bc2 Nc6 21.
+Qb5 Kh8 22. Qd5 Be6 23. Qxd6 Rad8 1-0
+
+[Event "IX Torneio Int. da Figueira da Foz"]
+[Site "Figueira da Foz POR"]
+[Date "2018.11.01"]
+[Round "5.16"]
+[White "Gama, João"]
+[Black "Guerreiro, Nuno"]
+[Result "0-1"]
+[ECO "B31"]
+[WhiteElo "1598"]
+[BlackElo "2069"]
+[WhiteFideId "1926667"]
+[BlackFideId "1903012"]
+[WhiteCountry "POR"]
+[BlackCountry "POR"]
+[PlyCount "106"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 g6 4. O-O Bg7 5. Re1 Nf6 6. c3 a6 7. Bf1 d6 8. h3 e5
+9. d4 O-O 10. d5 Ne7 11. a4 b6 12. Na3 Ne8 13. Nc4 Rb8 14. a5 b5 15. Nb6 Bb7 16.
+b4 Nc8 17. Nxc8 Rxc8 18. Bd2 h6 19. Rc1 f5 20. c4 bxc4 21. Bxc4 Nf6 22. Nh4 Nxe4
+23. Nxg6 Rf7 24. Rxe4 fxe4 25. Qg4 cxb4 26. Qe6 Rcc7 27. Bxb4 Rcd7 28. Rc3 Kh7
+29. Rg3 Qf6 30. Kh2 Bc8 31. Bxd6 Rxd6 32. Qxc8 Qxf2 33. Nh4 Qf4 34. Qg4 Qxg4 35.
+Rxg4 Rf4 36. Kg3 Bf6 37. Rxf4 exf4+ 38. Kg4 Bxh4 39. Kxh4 Rg6 40. Bf1 e3 41. Bd3
+Kg7 42. g4 Rd6 43. Bc4 Rxd5 44. Bxa6 Rxa5 45. Be2 Ra2 46. Bf3 e2 47. Bxe2 Rxe2
+48. g5 Rg2 49. gxh6+ Kh7 50. Kh5 f3 51. h4 Kh8 52. h7 f2 53. Kh6 f1=Q 0-1
+
+[Event "IX Torneio Int. da Figueira da Foz"]
+[Site "Figueira da Foz POR"]
+[Date "2018.11.01"]
+[Round "5.17"]
+[White "Asvestopoulou, Evdokia"]
+[Black "Dong, Rafael"]
+[Result "1-0"]
+[ECO "E17"]
+[WhiteElo "1720"]
+[BlackElo "1360"]
+[WhiteFideId "4219198"]
+[BlackFideId "1958038"]
+[WhiteCountry "GRE"]
+[BlackCountry "POR"]
+[PlyCount "49"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Bb7 5. Bg2 Be7 6. O-O c5 7. e3 O-O 8. Nc3 d6
+9. Re1 Nbd7 10. e4 d5 11. exd5 exd5 12. Ne5 cxd4 13. Qxd4 Bc5 14. Qd1 Nxe5 15.
+Rxe5 Qc7 16. Bf4 Bd6 17. Nb5 Qd7 18. Nxd6 Qxd6 19. cxd5 Qd7 20. d6 Bxg2 21. Kxg2
+Rfe8 22. Rc1 Rxe5 23. Bxe5 Ne8 24. Rc3 f6 25. Qd5+ 1-0
+
+[Event "IX Torneio Int. da Figueira da Foz"]
+[Site "Figueira da Foz POR"]
+[Date "2018.11.01"]
+[Round "5.18"]
+[White "Fonseca, René Gil"]
+[Black "Soares, Sara"]
+[Result "0-1"]
+[ECO "C88"]
+[WhiteElo "1378"]
+[BlackElo "1481"]
+[WhiteFideId "1957767"]
+[BlackFideId "1948172"]
+[WhiteCountry "POR"]
+[BlackCountry "POR"]
+[PlyCount "98"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. c3
+d6 9. h3 Na5 10. Bc2 c5 11. d4 cxd4 12. cxd4 Qc7 13. Nbd2 Bd7 14. Nf1 Rfc8 15.
+Re2 Nc6 16. Bg5 h6 17. Bxf6 Bxf6 18. dxe5 dxe5 19. Rc1 Nb4 20. Bb3 Qxc1 21. Qxd7
+Qc7 22. Rd2 Ra7 23. Qg4 Rd8 24. Rxd8+ Qxd8 25. Kh2 Nd3 26. Ng3 Nxf2 27. Qg6 Nd3
+28. Nh5 Qe7 29. Nh4 Kh8 30. Qg4 g6 31. Nxf6 Qxf6 32. Qc8+ Kg7 33. Nf3 Qf4+ 34.
+Kg1 Qc1+ 35. Qxc1 Nxc1 36. Bd5 Nd3 37. b3 f5 38. Kf1 Nb4 39. Be6 fxe4 40. a3
+exf3 41. axb4 fxg2+ 42. Kxg2 Kf6 43. Bc8 a5 44. bxa5 Rxa5 45. Bd7 Ra2+ 46. Kf3
+Rb2 47. Ke4 Rxb3 48. Bg4 Rb4+ 49. Kxe5+ Kxe5 0-1
+
+[Event "IX Torneio Int. da Figueira da Foz"]
+[Site "Figueira da Foz POR"]
+[Date "2018.11.01"]
+[Round "5.19"]
+[White "Gonçalves, Lucas"]
+[Black "Ferreira, Cristina"]
+[Result "1-0"]
+[ECO "C55"]
+[WhiteElo "1401"]
+[BlackElo "1069"]
+[WhiteFideId "1945360"]
+[BlackFideId "1963082"]
+[WhiteCountry "POR"]
+[BlackCountry "POR"]
+[PlyCount "44"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d3 Be7 5. c3 O-O 6. Nbd2 d5 7. exd5 Nxd5 8.
+O-O Kh8 9. Re1 f6 10. Bb3 Nf4 11. d4 Nd3 12. Re3 Nxc1 13. Rxc1 exd4 14. cxd4 Bd6
+15. d5 Ne5 16. h3 c5 17. dxc6 Nxc6 18. Re1 Bf5 19. Nc4 Bb4 20. Qxd8 Raxd8 21.
+Red1 Rxd1+ 22. Rxd1 Rd8 1-0
+
+[Event "IX Torneio Int. da Figueira da Foz"]
+[Site "Figueira da Foz POR"]
+[Date "2018.11.01"]
+[Round "5.20"]
+[White "Mões Joaquim, Carlos"]
+[Black "Marçal, Paulo"]
+[Result "0-1"]
+[ECO "E21"]
+[WhiteElo "1415"]
+[BlackElo "1751"]
+[WhiteFideId "1928104"]
+[BlackFideId "1903837"]
+[WhiteCountry "CPV"]
+[BlackCountry "POR"]
+[PlyCount "70"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Nf3 b6 5. e3 Bb7 6. Be2 O-O 7. O-O c6 8. Qc2 d5
+9. a3 Bxc3 10. Qxc3 Nbd7 11. Rd1 Ne4 12. Qc2 Qf6 13. b4 Rfd8 14. Bb2 Qh6 15.
+Rac1 Ndf6 16. Ne5 Nxf2 17. Kxf2 Ne4+ 18. Ke1 Qh4+ 19. g3 Qxh2 20. Bf3 Qxg3+ 21.
+Ke2 Qh2+ 22. Kf1 Ng3+ 23. Ke1 Qg1+ 24. Kd2 Qf2+ 25. Kd3 dxc4+ 26. Kxc4 Qxe3 27.
+Rd3 Ba6+ 28. Kc3 Bxd3 29. Qxd3 Qf4 30. Rg1 Nf5 31. Bc1 Qh2 32. Rg2 Qh4 33. Bd2
+a5 34. Rg4 axb4+ 35. Kxb4 Qe7+ 0-1
+
+[Event "IX Torneio Int. da Figueira da Foz"]
+[Site "Figueira da Foz POR"]
+[Date "2018.11.01"]
+[Round "6.1"]
+[White "Stella, Andrea"]
+[Black "Del Rio Angelis, Salvador"]
+[Result "1/2-1/2"]
+[ECO "A04"]
+[WhiteElo "2500"]
+[BlackElo "2547"]
+[WhiteFideId "827061"]
+[BlackFideId "2203138"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteCountry "ITA"]
+[BlackCountry "ESP"]
+[PlyCount "23"]
+
+1. Nf3 b6 2. g3 Bb7 3. Bg2 g6 4. O-O Bg7 5. d4 Nf6 6. c4 O-O 7. b3 c5 8. Bb2
+cxd4 9. Bxd4 Nc6 10. Bb2 d5 11. Nbd2 dxc4 12. Nxc4 1/2-1/2
+
+[Event "IX Torneio Int. da Figueira da Foz"]
+[Site "Figueira da Foz POR"]
+[Date "2018.11.01"]
+[Round "6.2"]
+[White "Jakubowski, Krzystof"]
+[Black "Elissalt Cardenas, Hector"]
+[Result "1-0"]
+[ECO "A04"]
+[WhiteElo "2511"]
+[BlackElo "2316"]
+[WhiteFideId "1112848"]
+[BlackFideId "3500632"]
+[WhiteTitle "GM"]
+[BlackTitle "IM"]
+[WhiteCountry "POL"]
+[BlackCountry "ESP"]
+[PlyCount "67"]
+
+1. Nf3 Nf6 2. g3 d5 3. Bg2 c6 4. b3 a5 5. a4 e6 6. O-O Be7 7. d3 O-O 8. Nbd2 b5
+9. e4 Bb7 10. e5 Nfd7 11. Re1 bxa4 12. bxa4 c5 13. h4 Na6 14. h5 Nb4 15. h6 g6
+16. Nh2 Bc6 17. Ndf1 Nb6 18. c3 Na6 19. Re2 Qd7 20. Rea2 c4 21. dxc4 Nxc4 22.
+Ng4 Nc5 23. Nfe3 Qc7 24. Nxc4 dxc4 25. Bxc6 Qxc6 26. Ba3 Rfd8 27. Rd2 Rxd2 28.
+Qxd2 Rd8 29. Qe3 Qxa4 30. Bxc5 Qxa1+ 31. Kh2 Bxc5 32. Qxc5 Qa4 33. Qe7 Rd1 34.
+Nf6+ 1-0
+
+[Event "IX Torneio Int. da Figueira da Foz"]
+[Site "Figueira da Foz POR"]
+[Date "2018.11.01"]
+[Round "6.3"]
+[White "Rotstein, Arkadij"]
+[Black "Perez Garcia, Rodney Oscar"]
+[Result "1-0"]
+[ECO "A11"]
+[WhiteElo "2476"]
+[BlackElo "2362"]
+[WhiteFideId "4662997"]
+[BlackFideId "3500918"]
+[WhiteTitle "GM"]
+[BlackTitle "IM"]
+[WhiteCountry "GER"]
+[BlackCountry "CUB"]
+[PlyCount "81"]
+
+1. c4 c6 2. e4 d5 3. exd5 cxd5 4. cxd5 Nf6 5. Nc3 Nxd5 6. Nf3 e6 7. d4 Be7 8.
+Bd3 Nc6 9. O-O O-O 10. Re1 Nf6 11. a3 b6 12. Bg5 Bb7 13. Bc2 Nd5 14. Qd3 g6 15.
+Bh6 Re8 16. Rad1 Nxc3 17. Qxc3 Bf6 18. Ne5 Rc8 19. Qh3 a6 20. Bb3 Rc7 21. Bf4
+Nxd4 22. Qe3 Rd7 23. Nxd7 Qxd7 24. f3 Rd8 25. Be5 Bxe5 26. Qxe5 Qd6 27. Qf6 Rd7
+28. Kh1 Bc6 29. Re3 Qc5 30. Rc3 Qb5 31. Bc4 Qxb2 32. Rcd3 Qc2 33. h4 Qxc4 34.
+Rxd4 Rxd4 35. Rxd4 Qc1+ 36. Kh2 Bd5 37. h5 Qh6 38. Rh4 Qg7 39. Qd8+ Qf8 40. Qxb6
+gxh5 41. Rxh5 1-0
+
+[Event "IX Torneio Int. da Figueira da Foz"]
+[Site "Figueira da Foz POR"]
+[Date "2018.11.01"]
+[Round "6.4"]
+[White "Galego, Luís"]
+[Black "Martín Duque, Jesus"]
+[Result "1-0"]
+[ECO "B40"]
+[WhiteElo "2473"]
+[BlackElo "2354"]
+[WhiteFideId "1900072"]
+[BlackFideId "2208954"]
+[WhiteTitle "GM"]
+[BlackTitle "FM"]
+[WhiteCountry "POR"]
+[BlackCountry "ESP"]
+[PlyCount "91"]
+
+1. e4 c5 2. Nf3 e6 3. c3 Nf6 4. d3 d5 5. e5 Nfd7 6. g3 Nc6 7. Qe2 Be7 8. h4 b5
+9. Bg2 a5 10. Bf4 Ba6 11. Nbd2 Rb8 12. O-O O-O 13. Rfe1 Nb6 14. Rac1 Na4 15. Nf1
+c4 16. d4 b4 17. Ng5 h6 18. Nh3 bxc3 19. bxc3 Rb2 20. Qh5 Qe8 21. Ne3 Nd8 22. g4
+f6 23. Qxe8 Rxe8 24. exf6 gxf6 25. Bxh6 Rxa2 26. g5 Kh7 27. gxf6 Ba3 28. Ng4 Nf7
+29. Ng5+ Kg8 30. Nxf7 Kxf7 31. Bg7 Rb8 32. Ne5+ Kg8 33. Bh3 Bc8 34. h5 Rbb2 35.
+Rf1 Bd6 36. h6 Bxe5 37. dxe5 Nc5 38. Bg4 Ne4 39. Bh5 Ng5 40. Ra1 Rxa1 41. Rxa1
+Nh3+ 42. Kh2 Ng5 43. Rg1 Rxf2+ 44. Kh1 Nh7 45. f7+ Rxf7 46. Bf6+ 1-0
+
+[Event "IX Torneio Int. da Figueira da Foz"]
+[Site "Figueira da Foz POR"]
+[Date "2018.11.01"]
+[Round "6.5"]
+[White "Oratovsky, Michael"]
+[Black "Santos, António P"]
+[Result "1-0"]
+[ECO "B51"]
+[WhiteElo "2466"]
+[BlackElo "2155"]
+[WhiteFideId "2802090"]
+[BlackFideId "1900161"]
+[WhiteTitle "GM"]
+[BlackTitle "FM"]
+[WhiteCountry "ISR"]
+[BlackCountry "POR"]
+[PlyCount "89"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Nd7 4. O-O a6 5. Bxd7+ Bxd7 6. d4 cxd4 7. Qxd4 e5 8.
+Qd3 h6 9. c4 b5 10. Nfd2 Nf6 11. Nc3 Qb8 12. a4 bxa4 13. Nxa4 Be7 14. Nc3 O-O
+15. b3 Rc8 16. Ba3 a5 17. Rfb1 Be8 18. Nf1 Nd7 19. Ne3 Nc5 20. Bxc5 Rxc5 21. Nf5
+Bf8 22. Nd5 Bc6 23. Nfe3 Qd8 24. Ra3 g6 25. Rd1 h5 26. Nc3 Qb8 27. Ned5 Qd8 28.
+Na4 Bxa4 29. Rxa4 Rb8 30. Rda1 Rb7 31. g3 Bg7 32. R1a3 Kh7 33. Kg2 Qb8 34. Qf3
+Qd8 35. h4 Kg8 36. Nc3 Rb4 37. Rxb4 axb4 38. Ra7 Rc7 39. Rxc7 Qxc7 40. Nd5 Qc5
+41. Qe3 Kh7 42. Qd2 Bf8 43. Qxb4 Qd4 44. Qc3 Qxe4+ 45. Qf3 1-0
+
+[Event "IX Torneio Int. da Figueira da Foz"]
+[Site "Figueira da Foz POR"]
+[Date "2018.11.01"]
+[Round "6.6"]
+[White "Romanishin, Oleg"]
+[Black "Lisowski, Krzysztof"]
+[Result "1-0"]
+[ECO "A46"]
+[WhiteElo "2443"]
+[BlackElo "2095"]
+[WhiteFideId "14100088"]
+[BlackFideId "1110969"]
+[WhiteTitle "GM"]
+[WhiteCountry "UKR"]
+[BlackCountry "POL"]
+[PlyCount "49"]
+
+1. d4 Nf6 2. Nf3 e6 3. g3 d5 4. c4 Bb4+ 5. Bd2 Be7 6. Bg2 O-O 7. O-O c6 8. Qb3
+Nbd7 9. Bb4 b6 10. cxd5 cxd5 11. Nc3 a5 12. Bxe7 Qxe7 13. Rfc1 Ba6 14. Nb5 Rac8
+15. Bf1 Ne4 16. a4 g5 17. Nc3 f5 18. Nxe4 fxe4 19. Ne5 Nxe5 20. dxe5 Rb8 21. Rc6
+Bc4 22. Qe3 Rf5 23. Bh3 Rxe5 24. b3 Qd7 25. Qd4 1-0
+
+[Event "IX Torneio Int. da Figueira da Foz"]
+[Site "Figueira da Foz POR"]
+[Date "2018.11.01"]
+[Round "6.7"]
+[White "Veiga, Francisco"]
+[Black "Alshameary Puente, Ismael"]
+[Result "0-1"]
+[ECO "C70"]
+[WhiteElo "2272"]
+[BlackElo "2369"]
+[WhiteFideId "1930087"]
+[BlackFideId "2225166"]
+[WhiteTitle "FM"]
+[BlackTitle "FM"]
+[WhiteCountry "POR"]
+[BlackCountry "ESP"]
+[PlyCount "86"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 g6 5. O-O Bg7 6. c3 d6 7. h3 Nf6 8. d4 exd4
+9. cxd4 O-O 10. Re1 b5 11. Bb3 Na5 12. Bc2 Re8 13. Bg5 Bb7 14. Nbd2 h6 15. Bh4
+Qd7 16. e5 Nd5 17. Ne4 Nc4 18. b3 Ncb6 19. Bg3 Nb4 20. Bb1 dxe5 21. a3 Bxe4 22.
+Bxe4 N4d5 23. Nxe5 Qd8 24. Qd3 Qf6 25. Rac1 Rad8 26. Rc6 Re6 27. Rec1 Nf4 28.
+Qf3 Nh5 29. Rxe6 Qxe6 30. Rc6 Rd6 31. Bh2 f5 32. Bc2 Bxe5 33. Rxc7 Bxh2+ 34.
+Kxh2 Rxd4 35. g3 Rd7 36. Rc6 Rd6 37. Rc7 Nd5 38. Ra7 Nhf6 39. b4 Rd7 40. Ra8+
+Kg7 41. Bb3 Qc6 42. Rb8 Qc7 43. Ra8 Qb7 0-1
+
+[Event "IX Torneio Int. da Figueira da Foz"]
+[Site "Figueira da Foz POR"]
+[Date "2018.11.01"]
+[Round "6.8"]
+[White "Piasetski, Leon"]
+[Black "Garcia Dorado, Alberto"]
+[Result "1/2-1/2"]
+[ECO "A07"]
+[WhiteElo "2252"]
+[BlackElo "2206"]
+[WhiteFideId "2600072"]
+[BlackFideId "2252244"]
+[WhiteTitle "IM"]
+[BlackTitle "CM"]
+[WhiteCountry "CAN"]
+[BlackCountry "ESP"]
+[PlyCount "108"]
+
+1. Nf3 d5 2. g3 Bg4 3. Bg2 Nd7 4. d3 e6 5. Nbd2 c6 6. h3 Bh5 7. O-O Ngf6 8. b3
+Bd6 9. Bb2 O-O 10. c4 Qe7 11. a3 a5 12. Qc2 e5 13. e4 dxe4 14. dxe4 Bxf3 15.
+Nxf3 Rfd8 16. Rfd1 Ne8 17. Rd2 f6 18. Rad1 Bc7 19. b4 axb4 20. axb4 c5 21. bxc5
+Nxc5 22. Rd5 Bb6 23. Qb1 Qc7 24. Bc3 Rxd5 25. exd5 Na4 26. Be1 Nd6 27. Rc1 Nc5
+28. Nd2 f5 29. Nb3 e4 30. Nxc5 Qxc5 31. Kh2 Ba5 32. Qa1 Ra6 33. Bxa5 Rxa5 34.
+Qe5 Ra8 35. g4 Re8 36. Qf4 fxg4 37. hxg4 Nxc4 38. Bxe4 b5 39. Kg2 g6 40. Bf3 Rf8
+41. Qe4 Qd6 42. Qe6+ Qxe6 43. dxe6 Kg7 44. Bc6 Kf6 45. Bxb5 Ne5 46. Rc7 Kxe6 47.
+Rxh7 Rb8 48. Be2 Rb2 49. Bf3 Kf6 50. Ra7 Nxf3 51. Kxf3 Rb3+ 52. Kg2 g5 53. Ra5
+Rb4 54. Kg3 Rb3+ 1/2-1/2
+
+[Event "IX Torneio Int. da Figueira da Foz"]
+[Site "Figueira da Foz POR"]
+[Date "2018.11.01"]
+[Round "6.9"]
+[White "Fernandes, Ricardo Paulos"]
+[Black "Röttgen, Jürgen"]
+[Result "0-1"]
+[ECO "A04"]
+[WhiteElo "2098"]
+[BlackElo "2169"]
+[WhiteFideId "1943464"]
+[BlackFideId "4629868"]
+[WhiteCountry "POR"]
+[BlackCountry "GER"]
+[PlyCount "142"]
+
+1. Nf3 c5 2. g3 Nf6 3. Bg2 Nc6 4. O-O g6 5. d3 d5 6. Nbd2 Bg7 7. c3 O-O 8. e4
+Qc7 9. Qc2 e6 10. Re1 b6 11. exd5 Nxd5 12. Nc4 Bb7 13. Ne3 Nde7 14. Ng4 Rad8 15.
+Bf4 Qc8 16. Bh6 Bxh6 17. Nxh6+ Kg7 18. Ng4 h5 19. Ne3 Rd7 20. Rad1 Rfd8 21. Nc4
+Qa8 22. Qe2 Kg8 23. Ng5 Nf5 24. Ne4 Kg7 25. Qd2 Re8 26. a4 Qd8 27. Qc2 Qe7 28.
+a5 b5 29. Ncd2 Nxa5 30. Ra1 Nc6 31. Nb3 c4 32. dxc4 bxc4 33. Nbc5 Rd5 34. Nxb7
+Qxb7 35. Nf6 Red8 36. Nxd5 exd5 37. Rad1 Nfe7 38. Qe2 Qc7 39. Rd2 Rd6 40. Qd1
+Qd8 41. Qa4 Qb6 42. Qa3 Rd7 43. Bh3 f5 44. Rde2 Kf7 45. Bg2 Qc7 46. Re6 Ng8 47.
+Qc5 Nce7 48. Qd4 Qd8 49. Ra6 Nc8 50. Rd1 Nf6 51. Re1 Nb6 52. Rea1 Nc8 53. Rd1
+Nb6 54. Raa1 Nc8 55. Rd2 Nb6 56. h3 Qc7 57. Re1 Re7 58. Rde2 Rxe2 59. Rxe2 Qd6
+60. Re1 Qc7 61. Qe3 Qd6 62. Ra1 Qc7 63. Qf4 Qd7 64. Qb8 Nc8 65. Qe5 Ne7 66. Qb8
+Nc6 67. Qb5 Qe6 68. Ra6 Qe1+ 69. Bf1 Ne4 70. Qxd5+ Kg7 71. Rxa7+ Kh6 0-1
+
+[Event "IX Torneio Int. da Figueira da Foz"]
+[Site "Figueira da Foz POR"]
+[Date "2018.11.01"]
+[Round "6.10"]
+[White "Vasallo, Mauricio"]
+[Black "Dias, Ricardo"]
+[Result "1-0"]
+[ECO "A04"]
+[WhiteElo "2378"]
+[BlackElo "2098"]
+[WhiteFideId "101648"]
+[BlackFideId "1930060"]
+[WhiteTitle "IM"]
+[WhiteCountry "ESP"]
+[BlackCountry "POR"]
+[PlyCount "79"]
+
+1. Nf3 Nf6 2. c4 g6 3. g3 Bg7 4. Bg2 d5 5. cxd5 Nxd5 6. Nc3 Nb6 7. d3 Nc6 8. Be3
+e5 9. Bc5 Be6 10. Rc1 Qd7 11. Ng5 Bf5 12. h3 h5 13. b4 Bh6 14. h4 f6 15. b5 Nd8
+16. Bxb6 axb6 17. Nd5 O-O 18. Rxc7 Qd6 19. Qb3 Ne6 20. Nxe6 Bxe6 21. Rxb7 Ra3
+22. Qb4 Rxa2 23. O-O Qxb4 24. Nxb4 Rb2 25. Bd5 Bf7 26. Ra1 Rxb4 27. Rxf7 Rxf7
+28. Ra7 Bf8 29. Bxf7+ Kh8 30. Bxg6 Rxb5 31. Bxh5 Rb1+ 32. Kg2 b5 33. Rb7 b4 34.
+Bf7 Bc5 35. g4 Re1 36. e3 Rc1 37. g5 fxg5 38. hxg5 Rc3 39. Bc4 Ra3 40. g6 1-0
+
+[Event "IX Torneio Int. da Figueira da Foz"]
+[Site "Figueira da Foz POR"]
+[Date "2018.11.01"]
+[Round "6.11"]
+[White "Margarido, José"]
+[Black "Pipiras, Filipa"]
+[Result "1-0"]
+[ECO "C53"]
+[WhiteElo "2121"]
+[BlackElo "1853"]
+[WhiteFideId "1914227"]
+[BlackFideId "1944894"]
+[WhiteCountry "POR"]
+[BlackCountry "POR"]
+[PlyCount "95"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Nf6 5. d4 exd4 6. e5 d5 7. Bb5 Ne4 8. cxd4
+Bb6 9. Nc3 O-O 10. Be3 Bg4 11. Qc2 Bf5 12. Qb3 Ne7 13. O-O c6 14. Be2 f6 15.
+exf6 Nxf6 16. Ne5 Ng6 17. Na4 Bc7 18. Qxb7 Nxe5 19. dxe5 Bxe5 20. Qxc6 Qa5 21.
+Qa6 Qxa6 22. Bxa6 Bc2 23. Nc5 Bxb2 24. Rae1 Bf5 25. Rd1 Be5 26. Bd4 Bxd4 27.
+Rxd4 Rad8 28. Rfd1 Rfe8 29. f3 Bg6 30. Kf2 Rd6 31. Bd3 Bxd3 32. R4xd3 Rc6 33.
+Nb3 Rec8 34. R1d2 Kf7 35. g4 h6 36. h4 g5 37. h5 Kg7 38. Nd4 Rb6 39. Nf5+ Kh7
+40. Re3 Rc7 41. Rde2 Ng8 42. Re5 Rd7 43. Re6 Rb1 44. Rg6 Rd1 45. Re8 Rd2+ 46.
+Kg3 d4 47. Rgxg8 d3 48. Rh8# 1-0
+
+[Event "IX Torneio Int. da Figueira da Foz"]
+[Site "Figueira da Foz POR"]
+[Date "2018.11.01"]
+[Round "6.12"]
+[White "Silva, Pedro Gil"]
+[Black "Fernandes, Miguel"]
+[Result "0-1"]
+[ECO "B13"]
+[WhiteElo "1837"]
+[BlackElo "2048"]
+[WhiteFideId "1946102"]
+[BlackFideId "1920456"]
+[WhiteCountry "POR"]
+[BlackCountry "POR"]
+[PlyCount "120"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. Bd3 Nc6 5. c3 Qc7 6. Ne2 Bg4 7. f3 Bd7 8. Bf4
+e5 9. dxe5 Nxe5 10. O-O Bd6 11. Nd4 Ne7 12. Qe2 O-O 13. Na3 a6 14. Nac2 Rfe8 15.
+Bg3 N7g6 16. Qd2 Nxd3 17. Bxd6 Qxd6 18. Qxd3 Ne5 19. Qd2 Nc4 20. Qc1 Rac8 21.
+Rb1 Qg6 22. Qf4 f6 23. Rfe1 Re5 24. b3 Rxe1+ 25. Rxe1 Ne5 26. Re3 a5 27. Qg3
+Qxg3 28. hxg3 Kf7 29. a4 b6 30. Na3 Rd8 31. Nab5 Bxb5 32. Nxb5 Nc6 33. Rd3 g5
+34. g4 Ne5 35. Rd4 Ng6 36. g3 Rd7 37. Kf2 Nf8 38. c4 dxc4 39. Rxd7+ Nxd7 40.
+bxc4 Ne5 41. Ke3 Nxc4+ 42. Kd4 Nb2 43. Nc3 Ke6 44. Ke4 Nc4 45. Nb5 Nd2+ 46. Ke3
+Nb3 47. Nc3 Kd6 48. Ne4+ Ke5 49. Nc3 Nc5 50. f4+ Ke6 51. Kd4 f5 52. gxf5+ Kxf5
+53. fxg5 Kxg5 54. Kc4 Kg4 55. Kb5 Kxg3 56. Kxb6 Nxa4+ 57. Nxa4 h5 58. Kxa5 h4
+59. Nc3 h3 60. Ne2+ Kf2 0-1
+
+[Event "IX Torneio Int. da Figueira da Foz"]
+[Site "Figueira da Foz POR"]
+[Date "2018.11.01"]
+[Round "6.13"]
+[White "Dionízio, André"]
+[Black "Pais, Bruno"]
+[Result "1/2-1/2"]
+[ECO "C54"]
+[WhiteElo "2013"]
+[BlackElo "1836"]
+[WhiteFideId "1920294"]
+[BlackFideId "1911341"]
+[WhiteCountry "POR"]
+[BlackCountry "POR"]
+[PlyCount "20"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Nf6 5. d4 exd4 6. cxd4 Bb4+ 7. Bd2 Bxd2+ 8.
+Nbxd2 d5 9. exd5 Nxd5 10. Qb3 Na5 1/2-1/2
+
+[Event "IX Torneio Int. da Figueira da Foz"]
+[Site "Figueira da Foz POR"]
+[Date "2018.11.01"]
+[Round "6.14"]
+[White "Sismeiro, Miguel"]
+[Black "Louzao Brea, Jose Luis"]
+[Result "1-0"]
+[ECO "C11"]
+[WhiteElo "2008"]
+[BlackElo "1835"]
+[WhiteFideId "1950975"]
+[BlackFideId "2270811"]
+[WhiteCountry "POR"]
+[BlackCountry "ESP"]
+[PlyCount "74"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. e5 Ne4 5. Nxe4 dxe4 6. Ne2 c5 7. c3 Nc6 8. Be3
+Qb6 9. Qb3 Qxb3 10. axb3 f5 11. exf6 gxf6 12. dxc5 Ne5 13. Nc1 Rg8 14. b4 f5 15.
+Bd4 Ng6 16. g3 e5 17. Be3 f4 18. Bd2 Bh6 19. c4 Be6 20. Nb3 Kd7 21. b5 a6 22.
+c6+ bxc6 23. Nc5+ Ke7 24. bxa6 Bf5 25. Be2 Rgb8 26. b4 Rd8 27. Bc3 f3 28. Bd1
+Kf6 29. Ba4 e3 30. Bxc6 Rac8 31. Bxf3 exf2+ 32. Kxf2 Rxc5 33. bxc5 Rd3 34. a7
+Bh3 35. a8=Q Be3+ 36. Ke2 Rxc3 37. Ra3 Rc2+ 1-0
+
+[Event "IX Torneio Int. da Figueira da Foz"]
+[Site "Figueira da Foz POR"]
+[Date "2018.11.01"]
+[Round "6.15"]
+[White "Puglia, Francesco"]
+[Black "Felizes, Paulo"]
+[Result "1/2-1/2"]
+[ECO "A00"]
+[WhiteElo "1803"]
+[BlackElo "1965"]
+[WhiteFideId "2820060"]
+[BlackFideId "1900889"]
+[WhiteCountry "ITA"]
+[BlackCountry "POR"]
+[PlyCount "33"]
+
+1. g3 d5 2. Bg2 c5 3. c4 d4 4. d3 e5 5. Nd2 f5 6. b4 cxb4 7. a3 Nc6 8. Ngf3 bxa3
+9. O-O Nf6 10. Qb3 Qb6 11. Bxa3 e4 12. Bxf8 Qxb3 13. Nxb3 exf3 14. Bxg7 fxg2 15.
+Kxg2 Rf8 16. Bxf8 Kxf8 17. Rfb1 1/2-1/2
+
+[Event "IX Torneio Int. da Figueira da Foz"]
+[Site "Figueira da Foz POR"]
+[Date "2018.11.01"]
+[Round "6.16"]
+[White "Morais, Vítor"]
+[Black "Marques, João"]
+[Result "1/2-1/2"]
+[ECO "A00"]
+[WhiteElo "1918"]
+[BlackElo "1807"]
+[WhiteFideId "1900552"]
+[BlackFideId "1930540"]
+[WhiteCountry "POR"]
+[BlackCountry "POR"]
+[PlyCount "133"]
+
+1. b3 Nf6 2. Bb2 g6 3. Bxf6 exf6 4. c4 Bg7 5. Nc3 f5 6. Rc1 O-O 7. g3 d6 8. Bg2
+Nd7 9. e3 Nf6 10. Nge2 c6 11. O-O Re8 12. d4 Bd7 13. b4 a5 14. a3 axb4 15. axb4
+Ra3 16. Qc2 Qb6 17. Rb1 Qa7 18. b5 Ra8 19. Qb2 h5 20. bxc6 bxc6 21. Qb7 Qxb7 22.
+Rxb7 R8a6 23. h3 Kh7 24. Rfb1 g5 25. R1b6 Kg6 26. Kh2 Kh7 27. d5 c5 28. Nb5 Rxb6
+29. Rxb6 Bxb5 30. cxb5 Bf8 31. Rb7 Kg7 32. b6 Rb3 33. Ng1 g4 34. Ne2 Kg8 35. Nf4
+c4 36. Rc7 Rxb6 37. Rxc4 Rb2 38. h4 Rxf2 39. Kg1 Rd2 40. e4 fxe4 41. Bxe4 Bh6
+42. Ng2 Nxe4 43. Rxe4 Rxd5 44. Re2 Rd3 45. Kh2 d5 46. Re5 d4 47. Rxh5 Kg7 48.
+Rd5 Rd1 49. Rd7 d3 50. Rd4 f5 51. Rd7+ Kg8 52. Nf4 Bxf4 53. gxf4 d2 54. Kg2 Kh8
+55. h5 Kg8 56. Kh2 Rf1 57. Rxd2 Rxf4 58. Kg3 Rf3+ 59. Kh4 g3 60. Kg5 Rf2 61. Rd1
+g2 62. Kg6 Kf8 63. Rg1 f4 64. h6 Rd2 65. h7 Rd6+ 66. Kg5 Kg7 67. Kxf4 1/2-1/2
+
+[Event "IX Torneio Int. da Figueira da Foz"]
+[Site "Figueira da Foz POR"]
+[Date "2018.11.01"]
+[Round "6.17"]
+[White "Guerreiro, Nuno"]
+[Black "Asvestopoulou, Evdokia"]
+[Result "1-0"]
+[ECO "A04"]
+[WhiteElo "2069"]
+[BlackElo "1720"]
+[WhiteFideId "1903012"]
+[BlackFideId "4219198"]
+[WhiteCountry "POR"]
+[BlackCountry "GRE"]
+[PlyCount "59"]
+
+1. Nf3 g6 2. g3 Bg7 3. d4 d6 4. Bg2 Nf6 5. O-O O-O 6. c4 c6 7. Nc3 Nbd7 8. Qc2
+e5 9. Rd1 Qe7 10. dxe5 Nxe5 11. b3 Bf5 12. Qb2 Ne4 13. Nd4 Nxc3 14. Qxc3 Qf6 15.
+Bb2 Bd7 16. Rac1 Ng4 17. Nf3 Qxc3 18. Bxc3 Bh6 19. Ra1 Bg7 20. Bxg7 Kxg7 21.
+Rxd6 Nf6 22. Rad1 Bg4 23. h3 Bxf3 24. Bxf3 Rfe8 25. g4 h6 26. e3 Re5 27. Kg2
+Rae8 28. b4 a6 29. a4 Kf8 30. Rxf6 1-0
+
+[Event "IX Torneio Int. da Figueira da Foz"]
+[Site "Figueira da Foz POR"]
+[Date "2018.11.01"]
+[Round "6.18"]
+[White "Adams, Philip"]
+[Black "Gonçalves, Lucas"]
+[Result "1-0"]
+[ECO "A09"]
+[WhiteElo "1980"]
+[BlackElo "1401"]
+[WhiteFideId "411256"]
+[BlackFideId "1945360"]
+[WhiteCountry "ENG"]
+[BlackCountry "POR"]
+[PlyCount "73"]
+
+1. Nf3 d5 2. c4 e6 3. g3 Nf6 4. Bg2 c6 5. O-O Nbd7 6. cxd5 exd5 7. Nc3 Bd6 8. d3
+O-O 9. Qc2 Re8 10. Re1 Ne5 11. Nxe5 Bxe5 12. e4 Bd6 13. Bg5 dxe4 14. dxe4 h6 15.
+Bd2 Nd7 16. Rad1 Qf6 17. f4 Bc5+ 18. Kh1 Nf8 19. e5 Qe7 20. Ne4 Bb6 21. Bc3 Bg4
+22. Rd6 Bf5 23. h3 Rad8 24. Rxd8 Rxd8 25. Qe2 Bxe4 26. Bxe4 Ne6 27. Kg2 Nc5 28.
+Bc2 Qd7 29. Rd1 Qe7 30. Rxd8+ Qxd8 31. f5 Qd5+ 32. Kh2 Qxa2 33. e6 fxe6 34. Qe5
+Kf8 35. Qxg7+ Ke8 36. f6 e5 37. Qe7# 1-0
+
+[Event "IX Torneio Int. da Figueira da Foz"]
+[Site "Figueira da Foz POR"]
+[Date "2018.11.01"]
+[Round "6.19"]
+[White "Soares, Sara"]
+[Black "Lopez De Turiso, José Angel"]
+[Result "0-1"]
+[ECO "C55"]
+[WhiteElo "1481"]
+[BlackElo "1933"]
+[WhiteFideId "1948172"]
+[BlackFideId "2207680"]
+[WhiteCountry "POR"]
+[BlackCountry "ESP"]
+[PlyCount "168"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d3 Be7 5. c3 O-O 6. Nbd2 d5 7. exd5 Nxd5 8.
+O-O Kh8 9. Re1 f6 10. Bb3 Nf4 11. d4 Nd3 12. Re3 Nxc1 13. Rxc1 exd4 14. cxd4 Bd6
+15. d5 Ne5 16. h3 c5 17. dxc6 Nxc6 18. Re1 Bf5 19. Nc4 Bb4 20. Qxd8 Raxd8 21.
+Red1 Rxd1+ 22. Rxd1 Rd8 23. Rxd8+ Nxd8 24. Ne3 Bd7 25. a3 Bc5 26. Kf1 Nc6 27.
+Bd5 a5 28. Nc4 a4 29. Ncd2 b5 30. Ne4 Be7 31. Nc3 Na7 32. Ba2 g6 33. Nd4 Bc5 34.
+Ne6 Bd6 35. Ne4 Be5 36. Nc3 f5 37. Nc5 Bc6 38. Nd3 Bf6 39. Nb4 Bd7 40. Nbd5 Bd4
+41. Nb4 Kg7 42. Ke2 Kf6 43. f3 Ke5 44. Nd3+ Kd6 45. Nb4 Be6 46. Bxe6 Kxe6 47.
+Kd3 Bg7 48. f4 Kd6 49. Na6 Kc6 50. Nb4+ Kc5 51. Na6+ Kb6 52. Nb4 Nc6 53. Nxc6
+Kxc6 54. Kc2 Bh6 55. g3 Bf8 56. Ne2 Kd5 57. Kd3 Bc5 58. Nc3+ Kc6 59. Ke2 Bd4 60.
+Kd3 Bf2 61. g4 fxg4 62. hxg4 h5 63. Ne4 Bc5 64. f5 gxf5 65. gxf5 h4 66. f6 Bf8
+67. Ng5 Kd7 68. Ke4 Bh6 69. Kf5 Bxg5 70. Kxg5 h3 71. Kg6 h2 72. f7 h1=Q 73. f8=Q
+Qg2+ 74. Kh7 Qxb2 75. Qf5+ Kd6 76. Qd3+ Kc5 77. Qf5+ Kc4 78. Qf1+ Kc3 79. Qf6+
+Kb3 80. Qe6+ Kxa3 81. Qe3+ Qb3 82. Qc1+ Ka2 83. Qd2+ Qb2 84. Qd5+ Ka1 0-1
+
+[Event "IX Torneio Int. da Figueira da Foz"]
+[Site "Figueira da Foz POR"]
+[Date "2018.11.01"]
+[Round "6.20"]
+[White "Correia, Pedro Mourão"]
+[Black "Morais, Mario M F"]
+[Result "0-1"]
+[ECO "B06"]
+[WhiteElo "1518"]
+[BlackElo "1766"]
+[WhiteFideId "1959522"]
+[BlackFideId "1959506"]
+[WhiteTitle "AFM"]
+[WhiteCountry "POR"]
+[BlackCountry "POR"]
+[PlyCount "140"]
+
+1. e4 g6 2. d4 Bg7 3. Nf3 c5 4. Bc4 cxd4 5. Nxd4 Qb6 6. c3 Nc6 7. Nf3 Nf6 8. Qe2
+O-O 9. O-O d6 10. Be3 Qc7 11. Nbd2 Ng4 12. Bf4 a6 13. h3 Nge5 14. Bb3 b5 15.
+Rac1 Nd7 16. a3 Nc5 17. Ba2 Qb7 18. Qe3 Be6 19. Bxe6 Nxe6 20. Bh6 Rfc8 21. Bxg7
+Kxg7 22. Nb3 Ncd8 23. Nfd4 Nxd4 24. Nxd4 Rc4 25. e5 dxe5 26. Qxe5+ f6 27. Qg3
+Kf7 28. f4 Nc6 29. Qf3 Nd8 30. Qxb7 Nxb7 31. f5 Nd6 32. g4 Rc5 33. Kg2 Rac8 34.
+Rf2 Re5 35. Re2 Rxe2+ 36. Nxe2 gxf5 37. gxf5 Nxf5 38. Kf3 Rc4 39. b3 Rh4 40. Ng1
+e5 41. c4 Rf4+ 42. Kg2 bxc4 43. b4 Rd4 44. a4 e4 45. Kf2 Rd2+ 46. Ke1 Ra2 47.
+Rxc4 Ra1+ 48. Kf2 e3+ 49. Kg2 Rxa4 50. Rf4 Ra2+ 51. Kf3 Ne7 52. Rd4 Rf2+ 53.
+Kxe3 Nf5+ 54. Kxf2 Nxd4 55. Ke3 Nc2+ 56. Kd3 Nxb4+ 57. Kc4 Nc2 58. Ne2 Ke6 59.
+Kc3 Ne3 60. Kd3 Ng2 61. Kd4 a5 62. Ke4 f5+ 63. Kd4 a4 64. Nc3 a3 65. Na2 Nf4 66.
+h4 h5 67. Ke3 Ng2+ 68. Kf3 Nxh4+ 69. Kg3 Ng6 70. Kf3 Ke5 0-1
+
+[Event "IX Torneio Int. da Figueira da Foz"]
+[Site "Figueira da Foz POR"]
+[Date "2018.11.01"]
+[Round "6.21"]
+[White "Dong, Fábio"]
+[Black "Gama, João"]
+[Result "1/2-1/2"]
+[ECO "A38"]
+[WhiteElo "1273"]
+[BlackElo "1598"]
+[WhiteFideId "1958020"]
+[BlackFideId "1926667"]
+[WhiteCountry "POR"]
+[BlackCountry "POR"]
+[PlyCount "103"]
+
+1. c4 c5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. Nf3 Nf6 6. O-O O-O 7. d3 d6 8. a3 Rb8
+9. Rb1 a5 10. Bd2 Bd7 11. Qc2 e6 12. Nb5 Qe7 13. b4 axb4 14. axb4 b6 15. bxc5
+bxc5 16. Bf4 e5 17. Bd2 Rfc8 18. Rfd1 d5 19. cxd5 Nxd5 20. Nc3 Ndb4 21. Qc1 Nd4
+22. Nxd4 cxd4 23. Nd5 Nxd5 24. Rxb8 Rxb8 25. Bxd5 Ba4 26. Re1 Qd7 27. Qc4 Bb3
+28. Qxb3 Rxb3 29. Bxb3 h5 30. Bc4 Qb7 31. h4 Qb2 32. Bg5 Kf8 33. Kf1 f6 34. Bc1
+Qc3 35. Rd1 e4 36. Bd2 Qc2 37. Ke1 exd3 38. Bxd3 Qc6 39. f3 Qc7 40. Bf4 Qa5+ 41.
+Bd2 Qc7 42. Bf4 Qc3+ 43. Bd2 Qc8 44. Bxg6 Qh3 45. Bf4 Qd7 46. Bxh5 f5 47. g4 Qe7
+48. Bg5 Bf6 49. Rxd4 Bxg5 50. hxg5 Qxg5 51. Kf2 Qh4+ 52. Ke3 1/2-1/2
+
+[Event "IX Torneio Int. da Figueira da Foz"]
+[Site "Figueira da Foz POR"]
+[Date "2018.11.01"]
+[Round "6.22"]
+[White "Fonseca, René Gil"]
+[Black "Dias, José"]
+[Result "1-0"]
+[ECO "B18"]
+[WhiteElo "1378"]
+[BlackElo "1605"]
+[WhiteFideId "1957767"]
+[BlackFideId "1923943"]
+[WhiteCountry "POR"]
+[BlackCountry "POR"]
+[PlyCount "83"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. Nf3 Nd7 7. Bd3 Bxd3 8.
+Qxd3 e6 9. Bd2 Ngf6 10. O-O Qc7 11. c4 h6 12. Rfe1 O-O-O 13. c5 Nxc5 14. Qa3 Na6
+15. b4 Bd6 16. Qb3 Qb6 17. a3 Rhe8 18. Be3 Qb5 19. Ne2 Qd5 20. Qc2 Nc7 21. Nc3
+Qh5 22. Ne4 Nxe4 23. Qxe4 f5 24. Qc2 g5 25. Ne5 Bxe5 26. dxe5 Kb8 27. Qc5 Nb5
+28. a4 Rd5 29. Qc4 Nc7 30. b5 f4 31. Bc5 b6 32. Bd6 c5 33. a5 Kb7 34. axb6 axb6
+35. Bxc7 Kxc7 36. Ra7+ Kd8 37. Qa2 Rd7 38. Rxd7+ Kxd7 39. Qa7+ Kd8 40. f3 Re7
+41. Qb8+ Kd7 42. Rd1# 1-0
+
+[Event "IX Torneio Int. da Figueira da Foz"]
+[Site "Figueira da Foz POR"]
+[Date "2018.11.01"]
+[Round "6.23"]
+[White "Marçal, Paulo"]
+[Black "Ferreira, Cristina"]
+[Result "1-0"]
+[ECO "C44"]
+[WhiteElo "1751"]
+[BlackElo "1069"]
+[WhiteFideId "1903837"]
+[BlackFideId "1963082"]
+[WhiteCountry "POR"]
+[BlackCountry "POR"]
+[PlyCount "50"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 Bb4+ 4. c3 Ba5 5. d5 Nce7 6. Nxe5 f6 7. Nc4 b6 8. d6
+Ng6 9. dxc7 Qe7 10. Be2 Qc5 11. Nd6+ Kf8 12. b4 Bxb4 13. cxb4 Qxb4+ 14. Kf1 Qc5
+15. Ba3 Qxc7 16. Nb5+ Qc5 17. Qd5 Rb8 18. Bxc5+ bxc5 19. Qd6+ N8e7 20. Qxb8 Kf7
+21. Nd6+ Ke6 22. Bc4+ Ke5 23. Qb2+ Kxd6 24. Qb8+ Kc6 25. Bb5# Kd5 1-0
+
+[Event "IX Torneio Int. da Figueira da Foz"]
+[Site "Figueira da Foz POR"]
+[Date "2018.11.01"]
+[Round "6.24"]
+[White "Dong, Rafael"]
+[Black "Bouxo, Luís"]
+[Result "0-1"]
+[ECO "A30"]
+[WhiteElo "1360"]
+[BlackElo "1585"]
+[WhiteFideId "1958038"]
+[BlackFideId "1904647"]
+[WhiteCountry "POR"]
+[BlackCountry "POR"]
+[PlyCount "84"]
+
+1. c4 c5 2. g3 g6 3. Bg2 Bg7 4. Nc3 Nc6 5. Nf3 Nf6 6. O-O O-O 7. d4 cxd4 8. Nxd4
+Re8 9. Nxc6 dxc6 10. Qc2 Qc7 11. b3 Bf5 12. Bf4 e5 13. e4 exf4 14. exf5 fxg3 15.
+fxg3 Qb6+ 16. Kh1 Ng4 17. Na4 Ne3 18. Nxb6 Nxc2 19. Nxa8 Bxa1 20. fxg6 hxg6 21.
+Nc7 Re7 22. Rc1 Re2 23. Bf3 Re1+ 24. Rxe1 Nxe1 25. Bg4 Kf8 26. Bc8 Be5 27. Bxb7
+Bxc7 28. Bxc6 Nd3 29. Be4 Nf2+ 30. Kg2 Nxe4 31. Kf3 Nc5 32. Ke3 Ke7 33. b4 Nb7
+34. Kd4 Kd6 35. c5+ Kd7 36. Kd5 Nd8 37. b5 Ba5 38. a4 Kc7 39. g4 Ne6 40. Ke5
+Nxc5 41. Kf6 Nxa4 42. Kxf7 g5 0-1
+
+[Event "IX Torneio Int. da Figueira da Foz"]
+[Site "Figueira da Foz POR"]
+[Date "2018.11.02"]
+[Round "7.1"]
+[White "Del Rio Angelis, Salvador"]
+[Black "Galego, Luís"]
+[Result "1/2-1/2"]
+[ECO "E48"]
+[WhiteElo "2547"]
+[BlackElo "2473"]
+[WhiteFideId "2203138"]
+[BlackFideId "1900072"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteCountry "ESP"]
+[BlackCountry "POR"]
+[PlyCount "153"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. cxd5 exd5 7. Nge2 Nbd7 8.
+O-O Bd6 9. Nf4 c6 10. f3 Bxf4 11. exf4 c5 12. Kh1 cxd4 13. Ne2 Nc5 14. Nxd4 Nxd3
+15. Qxd3 Re8 16. Bd2 Qd6 17. Nb5 Qb6 18. Bc3 Bd7 19. Nd4 Nh5 20. f5 Qh6 21. Bd2
+Qd6 22. Rfe1 h6 23. Bc3 Nf6 24. g4 Rxe1+ 25. Rxe1 Re8 26. Rg1 Qe7 27. Qd2 Qe3
+28. Qxe3 Rxe3 29. Kg2 Re8 30. Kf2 Rd8 31. Rd1 Ne8 32. Ne2 Bc6 33. Be5 Nd6 34. b3
+Nc8 35. Nf4 f6 36. Bd4 Kf7 37. Bc5 Rd7 38. Ne6 a6 39. h4 Nd6 40. h5 Ne8 41. Bb6
+Rd6 42. Re1 Bb5 43. Bc5 Rd7 44. a4 Bc6 45. Bb6 Nd6 46. Bc5 Ne8 47. Bb6 Nd6 48.
+Rc1 Nc8 49. Ba5 Ne7 50. Nd4 Kg8 51. Ke3 Kf7 52. Kd2 Kg8 53. Rc3 Kf7 54. Bb4 Rc7
+55. Re3 Nc8 56. Ne6 Rd7 57. Kd3 d4 58. Nxd4 Nb6 59. Bc5 Nd5 60. Re1 Nf4+ 61. Kc2
+Bd5 62. a5 Ng2 63. Re2 Nf4 64. Rd2 Rc7 65. b4 Rd7 66. Kc3 Ke8 67. Rd1 Kf7 68.
+Rd2 Ke8 69. Rh2 Kf7 70. Kd2 Bc4 71. Ke3 Nd5+ 72. Kd2 Nf4 73. Kc3 Bd5 74. Rh1 Rd8
+75. Re1 Rd7 76. Rb1 Rd8 77. Re1 1/2-1/2
+
+[Event "IX Torneio Int. da Figueira da Foz"]
+[Site "Figueira da Foz POR"]
+[Date "2018.11.02"]
+[Round "7.2"]
+[White "Jakubowski, Krzystof"]
+[Black "Oratovsky, Michael"]
+[Result "1-0"]
+[ECO "A41"]
+[WhiteElo "2511"]
+[BlackElo "2466"]
+[WhiteFideId "1112848"]
+[BlackFideId "2802090"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteCountry "POL"]
+[BlackCountry "ISR"]
+[PlyCount "61"]
+
+1. d4 d6 2. e4 Nf6 3. Nc3 e5 4. Nge2 c6 5. g3 b5 6. a3 Be7 7. Bg2 O-O 8. O-O
+Nbd7 9. h3 a5 10. g4 Ba6 11. Ng3 exd4 12. Qxd4 b4 13. Nce2 bxa3 14. Re1 d5 15.
+e5 Re8 16. bxa3 Bc5 17. Qc3 Rxe5 18. Bf4 Re6 19. Nd4 Rxe1+ 20. Rxe1 Qb6 21. Ngf5
+Re8 22. Rxe8+ Nxe8 23. Qe3 Nef6 24. g5 Ne4 25. Bxe4 dxe4 26. Qxe4 Bf8 27. Qe8 c5
+28. Nc6 Bb7 29. Nfe7+ Kh8 30. Qxd7 Qb1+ 31. Kh2 1-0
+
+[Event "IX Torneio Int. da Figueira da Foz"]
+[Site "Figueira da Foz POR"]
+[Date "2018.11.02"]
+[Round "7.3"]
+[White "Rotstein, Arkadij"]
+[Black "Stella, Andrea"]
+[Result "0-1"]
+[ECO "D04"]
+[WhiteElo "2476"]
+[BlackElo "2500"]
+[WhiteFideId "4662997"]
+[BlackFideId "827061"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteCountry "GER"]
+[BlackCountry "ITA"]
+[PlyCount "54"]
+
+1. d4 d5 2. Nf3 Nf6 3. e3 c6 4. c4 Bg4 5. Qb3 Qb6 6. Bd3 Nbd7 7. Nc3 e6 8. Bd2
+Be7 9. O-O dxc4 10. Bxc4 O-O 11. Rac1 c5 12. Ne5 cxd4 13. Nxd7 Nxd7 14. exd4
+Qxd4 15. Be3 Qe5 16. Qxb7 Bd6 17. g3 Nc5 18. Qb5 Rfb8 19. Qa5 Bf3 20. b4 Nd7 21.
+Nb5 Qh5 22. Rfe1 Bxb4 23. Qxb4 a6 24. Bf4 e5 25. Qe7 axb5 26. Qxd7 exf4 27. Bb3
+Rd8 0-1
+
+[Event "IX Torneio Int. da Figueira da Foz"]
+[Site "Figueira da Foz POR"]
+[Date "2018.11.02"]
+[Round "7.4"]
+[White "Alshameary Puente, Ismael"]
+[Black "Romanishin, Oleg"]
+[Result "1/2-1/2"]
+[ECO "E47"]
+[WhiteElo "2369"]
+[BlackElo "2443"]
+[WhiteFideId "2225166"]
+[BlackFideId "14100088"]
+[WhiteTitle "FM"]
+[BlackTitle "GM"]
+[WhiteCountry "ESP"]
+[BlackCountry "UKR"]
+[PlyCount "39"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 c5 6. Nge2 d5 7. cxd5 cxd4 8.
+exd4 Qxd5 9. O-O Qh5 10. Ne4 Nxe4 11. Bxe4 Bd6 12. Bf4 Bxf4 13. Nxf4 Qxd1 14.
+Rfxd1 Nd7 15. Rac1 Nf6 16. Bf3 Rd8 17. h4 Rb8 18. b3 a5 19. Rc4 b6 20. d5
+1/2-1/2
+
+[Event "IX Torneio Int. da Figueira da Foz"]
+[Site "Figueira da Foz POR"]
+[Date "2018.11.02"]
+[Round "7.5"]
+[White "Röttgen, Jürgen"]
+[Black "Vasallo, Mauricio"]
+[Result "0-1"]
+[ECO "A23"]
+[WhiteElo "2169"]
+[BlackElo "2378"]
+[WhiteFideId "4629868"]
+[BlackFideId "101648"]
+[BlackTitle "IM"]
+[WhiteCountry "GER"]
+[BlackCountry "ESP"]
+[PlyCount "45"]
+
+1. c4 e5 2. Nc3 Nf6 3. g3 c6 4. d4 exd4 5. Qxd4 d5 6. Bg2 Be6 7. cxd5 cxd5 8.
+Nf3 Nc6 9. Qa4 Bc5 10. O-O O-O 11. Bg5 h6 12. Qb5 Bxf2+ 13. Rxf2 hxg5 14. Nxg5
+Ng4 15. Nxe6 fxe6 16. Rxf8+ Qxf8 17. Rf1 Qe7 18. Rf4 Nce5 19. Bh3 Ne3 20. Kf2 g5
+21. Ra4 N5c4 22. Rxc4 Nxc4 23. Ke1 0-1
+
+[Event "IX Torneio Int. da Figueira da Foz"]
+[Site "Figueira da Foz POR"]
+[Date "2018.11.02"]
+[Round "7.6"]
+[White "Garcia Dorado, Alberto"]
+[Black "Perez Garcia, Rodney Oscar"]
+[Result "1/2-1/2"]
+[ECO "D10"]
+[WhiteElo "2206"]
+[BlackElo "2362"]
+[WhiteFideId "2252244"]
+[BlackFideId "3500918"]
+[WhiteTitle "CM"]
+[BlackTitle "IM"]
+[WhiteCountry "ESP"]
+[BlackCountry "CUB"]
+[PlyCount "32"]
+
+1. d4 d5 2. c4 c6 3. cxd5 cxd5 4. Nc3 Nf6 5. Bf4 Nc6 6. e3 a6 7. Bd3 Bg4 8. Nge2
+e6 9. O-O Bh5 10. f3 Bg6 11. Rc1 Bxd3 12. Qxd3 Rc8 13. Na4 Nd7 14. Nc5 Nxc5 15.
+dxc5 Be7 16. Qd4 Nb4 1/2-1/2
+
+[Event "IX Torneio Int. da Figueira da Foz"]
+[Site "Figueira da Foz POR"]
+[Date "2018.11.02"]
+[Round "7.7"]
+[White "Martín Duque, Jesus"]
+[Black "Sismeiro, Miguel"]
+[Result "1-0"]
+[ECO "C77"]
+[WhiteElo "2354"]
+[BlackElo "2008"]
+[WhiteFideId "2208954"]
+[BlackFideId "1950975"]
+[WhiteTitle "FM"]
+[WhiteCountry "ESP"]
+[BlackCountry "POR"]
+[PlyCount "104"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. d3 b5 6. Bb3 Be7 7. O-O O-O 8. Nc3
+d6 9. a3 h6 10. h3 Bb7 11. Be3 Na5 12. Ba2 c5 13. b4 Nc6 14. Nd5 Nxd5 15. Bxd5
+Qc7 16. c3 Nd8 17. Qb3 c4 18. dxc4 bxc4 19. Qd1 Bxd5 20. Qxd5 Ne6 21. Rfd1 Rab8
+22. a4 Rfc8 23. Rab1 Qb7 24. Qxb7 Rxb7 25. Rd5 Rc6 26. b5 Nc7 27. Nd2 axb5 28.
+axb5 Nxd5 29. bxc6 Rxb1+ 30. Nxb1 Nc7 31. Bb6 Bd8 32. Nd2 Kf8 33. Nxc4 Ke7 34.
+Bxc7 Bxc7 35. Ne3 Kd8 36. Nd5 Bb8 37. f3 Ba7+ 38. Kf1 g6 39. Ke2 Kc8 40. Kd3 Bc5
+41. Kc4 Kb8 42. Nb4 Ka7 43. Kd5 Kb6 44. Nd3 Ba3 45. Nb4 Kc7 46. Nd3 Kb6 47. c4
+h5 48. h4 f5 49. Ke6 fxe4 50. fxe4 Kxc6 51. Kf6 d5 52. cxd5+ Kxd5 1-0
+
+[Event "IX Torneio Int. da Figueira da Foz"]
+[Site "Figueira da Foz POR"]
+[Date "2018.11.02"]
+[Round "7.8"]
+[White "Elissalt Cardenas, Hector"]
+[Black "Margarido, José"]
+[Result "1-0"]
+[ECO "A46"]
+[WhiteElo "2316"]
+[BlackElo "2121"]
+[WhiteFideId "3500632"]
+[BlackFideId "1914227"]
+[WhiteTitle "IM"]
+[WhiteCountry "ESP"]
+[BlackCountry "POR"]
+[PlyCount "43"]
+
+1. d4 Nf6 2. Nf3 e6 3. Nbd2 d5 4. e3 c5 5. a3 b6 6. b3 Bb7 7. Bb2 Nbd7 8. Ne5
+Be7 9. Qf3 O-O 10. Bd3 Ne8 11. Qh3 f5 12. Ndf3 Rc8 13. O-O Bf6 14. Rfd1 Nd6 15.
+a4 Be7 16. c4 Nf7 17. Nxd7 Qxd7 18. dxc5 Rxc5 19. b4 Rcc8 20. cxd5 Bxd5 21. e4
+Bb3 22. Bc2 1-0
+
+[Event "IX Torneio Int. da Figueira da Foz"]
+[Site "Figueira da Foz POR"]
+[Date "2018.11.02"]
+[Round "7.9"]
+[White "Santos, António P"]
+[Black "Veiga, Francisco"]
+[Result "1/2-1/2"]
+[ECO "A67"]
+[WhiteElo "2155"]
+[BlackElo "2272"]
+[WhiteFideId "1900161"]
+[BlackFideId "1930087"]
+[WhiteTitle "FM"]
+[BlackTitle "FM"]
+[WhiteCountry "POR"]
+[BlackCountry "POR"]
+[PlyCount "151"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6 7. f4 Bg7 8. Bb5+
+Nfd7 9. a4 O-O 10. Nf3 Na6 11. O-O Nb4 12. Re1 a6 13. Bc4 Nb6 14. Bf1 Bg4 15.
+Be3 Bxf3 16. gxf3 Bd4 17. a5 Nd7 18. Bxd4 cxd4 19. Ra4 dxc3 20. Rxb4 cxb2 21.
+Rxb2 Rb8 22. e5 Qxa5 23. Bh3 Nc5 24. Rbe2 Qc3 25. Rc2 Qb4 26. Qd2 Qxd2 27. Rxd2
+f5 28. Bf1 Rfe8 29. Rc2 b6 30. Ra2 g5 31. Rg2 Rb7 32. h4 h6 33. hxg5 hxg5 34.
+Rxg5+ Rg7 35. Rxg7+ Kxg7 36. Kf2 Kf7 37. e6+ Kf6 38. Ke3 b5 39. Bd3 b4 40. Rh1
+b3 41. Bb1 b2 42. Rh5 Rg8 43. Rxf5+ Ke7 44. Rf7+ Ke8 45. Kf2 Na4 46. Rb7 Nc3 47.
+Bc2 Kf8 48. Rxb2 Nxd5 49. f5 Rg7 50. Be4 Nf6 51. Rb8+ Ke7 52. Ra8 d5 53. Bd3 Nh5
+54. Rxa6 Nf4 55. Ra7+ Kf6 56. Rxg7 Kxg7 57. Ke3 Nh5 58. Kd4 Kf6 59. Kxd5 Ke7 60.
+Ke5 Nf6 61. Kf4 Nh7 62. Kg4 Nf6+ 63. Kg5 Nh7+ 64. Kg6 Nf6 65. Bf1 Nd5 66. Kg7
+Nf6 67. Bh3 Ne8+ 68. Kg6 Nf6 69. Bf1 Nd5 70. Bb5 Nf4+ 71. Kg7 Nh5+ 72. Kh6 Nf6
+73. Kg6 Ng8 74. Bc6 Nf6 75. Ba4 Nd5 76. Bc6 1/2-1/2
+
+[Event "IX Torneio Int. da Figueira da Foz"]
+[Site "Figueira da Foz POR"]
+[Date "2018.11.02"]
+[Round "7.10"]
+[White "Lisowski, Krzysztof"]
+[Black "Piasetski, Leon"]
+[Result "0-1"]
+[ECO "B13"]
+[WhiteElo "2095"]
+[BlackElo "2252"]
+[WhiteFideId "1110969"]
+[BlackFideId "2600072"]
+[BlackTitle "IM"]
+[WhiteCountry "POL"]
+[BlackCountry "CAN"]
+[PlyCount "110"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. Bd3 Nc6 5. c3 Qc7 6. Ne2 Bg4 7. O-O e6 8. f3
+Bh5 9. Qe1 Bg6 10. Bf4 Bd6 11. Bxd6 Qxd6 12. Bxg6 hxg6 13. Qg3 Qe7 14. b4 Nh6
+15. Nd2 Nf5 16. Qf2 O-O-O 17. Nb3 Qc7 18. h3 Nd6 19. a4 Kd7 20. Nc5+ Ke7 21. Qg3
+b6 22. Nd3 Rc8 23. Rae1 Nf5 24. Qg5+ Kf8 25. Nef4 Qe7 26. Qxe7+ Ncxe7 27. Rc1 g5
+28. Ne2 Ng6 29. Ra1 Ke7 30. Rfb1 Nf4 31. Ndxf4 gxf4 32. Rb3 g5 33. Kf2 Rc7 34.
+a5 b5 35. Nc1 Rhc8 36. Ne2 a6 37. Rd1 Ng3 38. Rd3 Nxe2 39. Kxe2 Kd6 40. Kd2 f6
+41. Rb1 e5 42. dxe5+ fxe5 43. Re1 Rc4 44. Rd1 d4 45. cxd4 exd4 46. Ke2 Kd5 47.
+Rb1 Rc2+ 48. Rd2 R8c3 49. h4 gxh4 50. Rh1 d3+ 51. Ke1 Kd4 52. Rxh4 Ke3 53. Rh6
+Rc1+ 54. Rd1 d2+ 55. Kf1 Rxd1# 0-1
+
+[Event "IX Torneio Int. da Figueira da Foz"]
+[Site "Figueira da Foz POR"]
+[Date "2018.11.02"]
+[Round "7.11"]
+[White "Fernandes, Miguel"]
+[Black "Fernandes, Ricardo Paulos"]
+[Result "0-1"]
+[ECO "E71"]
+[WhiteElo "2048"]
+[BlackElo "2098"]
+[WhiteFideId "1920456"]
+[BlackFideId "1943464"]
+[WhiteCountry "POR"]
+[BlackCountry "POR"]
+[PlyCount "102"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. h3 O-O 6. Nf3 Na6 7. Bg5 Qe8 8. Be2 e5
+9. d5 Nh5 10. g3 f6 11. Bd2 f5 12. exf5 e4 13. Nh4 e3 14. Bxe3 Nxg3 15. Rg1 Nxf5
+16. Nxf5 Bxf5 17. Bg4 Nb4 18. Bxf5 Rxf5 19. a3 Na6 20. Qc2 Nc5 21. O-O-O Kh8 22.
+Kb1 a6 23. Rde1 Qf7 24. Re2 b5 25. Rge1 Nd7 26. f4 bxc4 27. Bg1 Bf6 28. Re4 Nc5
+29. Bxc5 dxc5 30. R1e2 Rb8 31. Ka2 Qd7 32. Qc1 Kg8 33. Qe1 Kf8 34. Qf2 Rxd5 35.
+Nxd5 Qxd5 36. Re5 Bxe5 37. Rxe5 Qd4 38. Qxd4 cxd4 39. Rc5 d3 40. Rxc4 Rd8 41.
+Rc1 d2 42. Rd1 Kf7 43. Kb3 Kf6 44. Kc3 Kf5 45. b4 Kxf4 46. Rxd2 Rxd2 47. Kxd2 g5
+48. a4 c6 49. Kd3 Ke5 50. Kc4 Kd6 51. Kd4 h5 0-1
+
+[Event "IX Torneio Int. da Figueira da Foz"]
+[Site "Figueira da Foz POR"]
+[Date "2018.11.02"]
+[Round "7.12"]
+[White "Lopez De Turiso, José Angel"]
+[Black "Guerreiro, Nuno"]
+[Result "0-1"]
+[ECO "A48"]
+[WhiteElo "1933"]
+[BlackElo "2069"]
+[WhiteFideId "2207680"]
+[BlackFideId "1903012"]
+[WhiteCountry "ESP"]
+[BlackCountry "POR"]
+[PlyCount "86"]
+
+1. d4 Nf6 2. Nf3 g6 3. Nbd2 d5 4. e3 Bg7 5. Bd3 O-O 6. b3 c5 7. Bb2 cxd4 8. exd4
+Nc6 9. a3 Re8 10. O-O Bg4 11. h3 Bxf3 12. Nxf3 Ne4 13. c4 e6 14. b4 Ng5 15. Ne5
+f6 16. Nxc6 bxc6 17. cxd5 cxd5 18. Bb5 Re7 19. Bc6 Rc8 20. b5 Ne4 21. a4 Bh6 22.
+Re1 Bf4 23. g3 Bb8 24. Ba3 Rg7 25. Rc1 h5 26. Qb3 Nd2 27. Qd3 Ne4 28. Qb3 f5 29.
+Kg2 h4 30. Re3 hxg3 31. fxg3 Kh7 32. Qd3 Qa5 33. Qd1 Qd8 34. Qd3 Qg5 35. h4 Qh5
+36. Qd1 Qh6 37. Qe2 g5 38. hxg5 Qxg5 39. Rh1+ Kg8 40. Qh5 Qxe3 41. Qh8+ Kf7 42.
+Qh5+ Kf6 43. Qh4+ Qg5 0-1
+
+[Event "IX Torneio Int. da Figueira da Foz"]
+[Site "Figueira da Foz POR"]
+[Date "2018.11.02"]
+[Round "7.13"]
+[White "Fernandes, João Pedro"]
+[Black "Puglia, Francesco"]
+[Result "1/2-1/2"]
+[ECO "B90"]
+[WhiteElo "2067"]
+[BlackElo "1803"]
+[WhiteFideId "1926624"]
+[BlackFideId "2820060"]
+[WhiteCountry "POR"]
+[BlackCountry "ITA"]
+[PlyCount "59"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. h3 e6 7. g4 d5 8. exd5
+Nxd5 9. Nde2 h5 10. g5 Bd6 11. Nxd5 exd5 12. Be3 Nc6 13. Qd2 Bf5 14. Nd4 Be4 15.
+f3 Nxd4 16. Qxd4 Bxf3 17. Qxg7 Bg3+ 18. Kd2 Qa5+ 19. c3 O-O-O 20. Bd3 d4 21.
+Bxd4 Rhg8 22. Qxf7 Qxg5+ 23. Kc2 Bxh1 24. Rxh1 Qd5 25. Qxd5 Rxd5 26. Bc4 Rxd4
+27. cxd4 Rf8 28. Rd1 Rf2+ 29. Kc3 Rf3+ 30. Rd3 1/2-1/2
+
+[Event "IX Torneio Int. da Figueira da Foz"]
+[Site "Figueira da Foz POR"]
+[Date "2018.11.02"]
+[Round "7.14"]
+[White "Marques, João"]
+[Black "Dionízio, André"]
+[Result "1/2-1/2"]
+[ECO "A15"]
+[WhiteElo "1807"]
+[BlackElo "2013"]
+[WhiteFideId "1930540"]
+[BlackFideId "1920294"]
+[WhiteCountry "POR"]
+[BlackCountry "POR"]
+[PlyCount "104"]
+
+1. c4 Nf6 2. Nf3 e6 3. g3 d5 4. Bg2 Be7 5. O-O O-O 6. Qc2 c5 7. d3 b6 8. e3 Bb7
+9. Nc3 Nc6 10. b3 a6 11. a3 Qc7 12. Bb2 Rfd8 13. Rfd1 Rac8 14. Rac1 h6 15. Qe2
+Qb8 16. Qc2 Ba8 17. Rb1 b5 18. Ne2 e5 19. cxd5 Nxd5 20. Nc3 Nc7 21. Ne4 Ne6 22.
+Qe2 f5 23. Ned2 Qd6 24. Nf1 Bf6 25. Ne1 Qe7 26. Ba1 Bb7 27. Bb2 Rd6 28. Rdc1
+Rcd8 29. Ba1 b4 30. a4 a5 31. Qh5 Bc8 32. Nd2 f4 33. Nc4 fxe3 34. fxe3 Bg5 35.
+Rd1 Nc7 36. h4 Bf6 37. Nxd6 Qxd6 38. Qf3 Ne7 39. Rbc1 Be6 40. Rb1 Qd7 41. Qe2
+Nf5 42. Qf2 Qf7 43. Rdc1 Na6 44. Bh3 g6 45. e4 Ng7 46. Bxe6 Qxe6 47. Rd1 Qe7 48.
+Ng2 Ne6 49. Ne3 Nec7 50. Ng4 Bg7 51. Qc2 Kh7 52. Rf1 Rd7 1/2-1/2
+
+[Event "IX Torneio Int. da Figueira da Foz"]
+[Site "Figueira da Foz POR"]
+[Date "2018.11.02"]
+[Round "7.15"]
+[White "Pais, Bruno"]
+[Black "Adams, Philip"]
+[Result "1/2-1/2"]
+[ECO "E12"]
+[WhiteElo "1836"]
+[BlackElo "1980"]
+[WhiteFideId "1911341"]
+[BlackFideId "411256"]
+[WhiteCountry "POR"]
+[BlackCountry "ENG"]
+[PlyCount "36"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. a3 c5 5. d5 exd5 6. cxd5 d6 7. e4 g6 8. Nc3 Bg7
+9. Bd3 O-O 10. h3 Ba6 11. Bf4 Bxd3 12. Qxd3 a6 13. O-O Ne8 14. Rfe1 f6 15. Bh2
+Nd7 16. h4 Ne5 17. Bxe5 dxe5 18. Rad1 Nd6 1/2-1/2
+
+[Event "IX Torneio Int. da Figueira da Foz"]
+[Site "Figueira da Foz POR"]
+[Date "2018.11.02"]
+[Round "7.16"]
+[White "Felizes, Paulo"]
+[Black "Morais, Vítor"]
+[Result "0-1"]
+[ECO "A41"]
+[WhiteElo "1965"]
+[BlackElo "1918"]
+[WhiteFideId "1900889"]
+[BlackFideId "1900552"]
+[WhiteCountry "POR"]
+[BlackCountry "POR"]
+[PlyCount "98"]
+
+1. d4 d6 2. e4 Nf6 3. Nc3 g6 4. h4 h5 5. Bg5 Bg7 6. e5 Nh7 7. Nf3 Nxg5 8. Nxg5
+dxe5 9. Qf3 O-O 10. Bc4 e6 11. d5 exd5 12. Bxd5 Qe7 13. Bxb7 Bxb7 14. Qxb7 Nd7
+15. Nd5 Qc5 16. Rd1 Nb6 17. b4 Qc4 18. Nxf7 Rab8 19. Qxc7 Qxc7 20. Nxc7 Rxf7 21.
+Ne6 Rc8 22. Nc5 Bf8 23. Nd3 e4 24. Ne5 Bxb4+ 25. Ke2 Rxc2+ 26. Ke3 Rfxf2 27.
+Nxg6 Rxg2 28. Nf4 Bd2+ 29. Kxe4 Bxf4 30. Kxf4 Rxa2 31. Ra1 Kg7 32. Rhg1 Kf6 33.
+Rxa2 Rxa2 34. Rg5 Ra4+ 35. Kf3 Rxh4 36. Ra5 Nc8 37. Ra6+ Kf5 38. Ra5+ Ke6 39.
+Kg3 Rh1 40. Kg2 Re1 41. Rxh5 Re5 42. Rh6+ Kd7 43. Kf3 a5 44. Kf4 Re6 45. Rh5 a4
+46. Ra5 Nb6 47. Kf5 Re8 48. Rb5 Kc6 49. Rb1 Kc5 0-1
+
+[Event "IX Torneio Int. da Figueira da Foz"]
+[Site "Figueira da Foz POR"]
+[Date "2018.11.02"]
+[Round "7.17"]
+[White "Dias, Ricardo"]
+[Black "Silva, Pedro Gil"]
+[Result "1-0"]
+[ECO "B12"]
+[WhiteElo "2098"]
+[BlackElo "1837"]
+[WhiteFideId "1930060"]
+[BlackFideId "1946102"]
+[WhiteCountry "POR"]
+[BlackCountry "POR"]
+[PlyCount "107"]
+
+1. e4 c6 2. d4 d5 3. Nd2 dxe4 4. Nxe4 Nd7 5. Ng5 Ngf6 6. Bd3 e6 7. N1f3 Bd6 8.
+Qe2 h6 9. Ne4 Nxe4 10. Qxe4 Nf6 11. Qe2 b6 12. Bd2 Bb7 13. O-O-O Qc7 14. Ne5
+O-O-O 15. f4 c5 16. dxc5 Bxc5 17. Kb1 Nd5 18. a3 Rhe8 19. Bb5 Rf8 20. Rhf1 Nf6
+21. Nd3 Ne4 22. Bb4 Bxb4 23. Nxb4 Rxd1+ 24. Rxd1 Rd8 25. Na6 Rxd1+ 26. Qxd1 Qd6
+27. Qe2 Nc5 28. Nxc5 Qxc5 29. g3 Qd4 30. Qh5 Qd5 31. Qe2 Qd4 32. Be8 Qf6 33. Qh5
+g6 34. Qxh6 Qd8 35. Bb5 Qe7 36. Qh8+ Kc7 37. Qe8 Kd6 38. Qb8+ Qc7 39. Qxa7 Qc5
+40. Qb8+ Qc7 41. Qxc7+ Kxc7 42. Be8 Be4 43. Kc1 f6 44. Kd2 Kd6 45. Bb5 e5 46.
+Bd3 Bf3 47. Bxg6 Ke6 48. Ke3 Bd1 49. Bd3 Bg4 50. a4 Kd6 51. b4 exf4+ 52. Kxf4
+Bd7 53. a5 bxa5 54. bxa5 1-0
+
+[Event "IX Torneio Int. da Figueira da Foz"]
+[Site "Figueira da Foz POR"]
+[Date "2018.11.02"]
+[Round "7.18"]
+[White "Louzao Brea, Jose Luis"]
+[Black "Pipiras, Filipa"]
+[Result "0-1"]
+[ECO "C77"]
+[WhiteElo "1835"]
+[BlackElo "1853"]
+[WhiteFideId "2270811"]
+[BlackFideId "1944894"]
+[WhiteCountry "ESP"]
+[BlackCountry "POR"]
+[PlyCount "100"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. d3 d6 6. h3 Be7 7. O-O O-O 8. c3 Re8
+9. Be3 Bf8 10. Nbd2 h6 11. Re1 d5 12. exd5 Nxd5 13. Nf1 b5 14. Bb3 Na5 15. Bc2
+f5 16. Bd2 Nc6 17. a4 Rb8 18. axb5 axb5 19. Bb3 Kh8 20. Ng3 Nf6 21. Bf7 Re7 22.
+Bg6 Qxd3 23. Re3 Qd5 24. Bxf5 e4 25. Nh4 Bxf5 26. Nhxf5 Rd7 27. Re2 Bc5 28. Qe1
+Ne5 29. Be3 Nd3 30. Qb1 b4 31. Bxc5 Qxc5 32. Qc2 Rbd8 33. cxb4 Qxb4 34. Ra4 Qb5
+35. Qc4 Qe5 36. Qc3 Qf4 37. Ne3 Nxf2 38. Rxf2 Qxg3 39. Rxf6 gxf6 40. Qxf6+ Qg7
+41. Qxg7+ Rxg7 42. Rxe4 Rd2 43. b4 Re2 44. Kf1 Rgxg2 45. Re8+ Kh7 46. Re7+ Kg8
+47. Nd5 Ref2+ 48. Ke1 Rb2 49. Kf1 Rgf2+ 50. Ke1 Rh2 0-1
+
+[Event "IX Torneio Int. da Figueira da Foz"]
+[Site "Figueira da Foz POR"]
+[Date "2018.11.02"]
+[Round "7.19"]
+[White "Morais, Mario M F"]
+[Black "Soares, Sara"]
+[Result "1/2-1/2"]
+[ECO "C44"]
+[WhiteElo "1766"]
+[BlackElo "1481"]
+[WhiteFideId "1959506"]
+[BlackFideId "1948172"]
+[WhiteCountry "POR"]
+[BlackCountry "POR"]
+[PlyCount "88"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Bc4 Be7 5. O-O d6 6. Nxd4 Ne5 7. Bb3 Nf6 8.
+Nc3 O-O 9. a4 c6 10. Kh1 Qc7 11. f4 Ng6 12. Qe1 Bd7 13. f5 Ne5 14. Be3 Rad8 15.
+Bg5 Bc8 16. Nf3 Rfe8 17. Qg3 Nh5 18. Qh4 Bxg5 19. Qxh5 Nxf3 20. Rxf3 Bf6 21. g4
+Bxc3 22. bxc3 Rxe4 23. Rh3 h6 24. Qg6 Qe7 25. Rf1 Qf6 26. Rxh6 Qxg6 27. Rxg6 Kf8
+28. Rg5 d5 29. Rf3 f6 30. Rh5 Ke7 31. h3 Re2 32. Kg1 Re8 33. c4 dxc4 34. Bxc4
+Rxc2 35. Re3+ Kd8 36. Rxe8+ Kxe8 37. Rh8+ Ke7 38. Rxc8 Rxc4 39. Rc7+ Kf8 40.
+Rc8+ Kf7 41. Rc7+ Kf8 42. Rxb7 Rxa4 43. Rc7 Ra2 44. Rxc6 a5 1/2-1/2
+
+[Event "IX Torneio Int. da Figueira da Foz"]
+[Site "Figueira da Foz POR"]
+[Date "2018.11.02"]
+[Round "7.20"]
+[White "Bouxo, Luís"]
+[Black "Marçal, Paulo"]
+[Result "0-1"]
+[ECO "E61"]
+[WhiteElo "1585"]
+[BlackElo "1751"]
+[WhiteFideId "1904647"]
+[BlackFideId "1903837"]
+[WhiteCountry "POR"]
+[BlackCountry "POR"]
+[PlyCount "118"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. Nf3 O-O 5. e4 d6 6. Be2 c6 7. h3 Na6 8. O-O b6
+9. Re1 Qc7 10. Bf1 e5 11. d5 Bb7 12. Be3 h6 13. Qd2 Kh7 14. Rac1 c5 15. a3 Qe7
+16. Bd3 Bc8 17. Ne2 Bd7 18. Ng3 Rh8 19. Nh2 Kg8 20. b4 h5 21. Bg5 h4 22. Ngf1
+Rh5 23. Nf3 Qf8 24. b5 Nc7 25. N1h2 Nh7 26. Be3 f5 27. Qe2 f4 28. Bd2 Qf7 29.
+Kh1 Ne8 30. Ng1 Nef6 31. f3 Rg5 32. Rf1 Nh5 33. Be1 Rg3 34. Ng4 N7f6 35. Kh2 a6
+36. a4 axb5 37. axb5 Ra3 38. Rd1 Qe8 39. Qc2 Qa8 40. Rf2 Nxg4+ 41. hxg4 Nf6 42.
+Nh3 Bxg4 43. Rfd2 Bxf3 44. gxf3 Rxf3 45. Rg2 Ng4+ 46. Rxg4 Ra2 47. Rg2 Rxc2 48.
+Rxc2 Qa3 49. Rc3 Qb2+ 50. Bd2 Rg3 51. Nf2 f3 52. Bf1 Bh6 53. Nd3 Qa2 54. Nc1 Qa1
+55. Rd3 Qb2 56. Kh1 Bxd2 57. R3xd2 Qc3 58. Na2 Qe3 59. Rd3 Qg1# 0-1
+
+[Event "IX Torneio Int. da Figueira da Foz"]
+[Site "Figueira da Foz POR"]
+[Date "2018.11.02"]
+[Round "7.21"]
+[White "Asvestopoulou, Evdokia"]
+[Black "Dong, Fábio"]
+[Result "1-0"]
+[ECO "E12"]
+[WhiteElo "1720"]
+[BlackElo "1273"]
+[WhiteFideId "4219198"]
+[BlackFideId "1958020"]
+[WhiteCountry "GRE"]
+[BlackCountry "POR"]
+[PlyCount "55"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. Nc3 Bb4 5. e3 O-O 6. Bd3 Bb7 7. O-O c5 8. Qc2 h6
+9. Ne2 cxd4 10. exd4 Bxf3 11. gxf3 Nc6 12. Kh1 Ne8 13. Rg1 Qf6 14. Rg2 Kh8 15.
+a3 Bd6 16. b4 Nxd4 17. Nxd4 Qxd4 18. Bb2 Qf4 19. Rag1 Nf6 20. Re1 Qxf3 21. Be4
+Nxe4 22. Bxg7+ Kh7 23. Rxe4 f5 24. Qd2 Rf6 25. Re3 Qf4 26. Bxf6 Rg8 27. Rd3 Qe4
+28. f3 1-0
+
+[Event "IX Torneio Int. da Figueira da Foz"]
+[Site "Figueira da Foz POR"]
+[Date "2018.11.02"]
+[Round "7.22"]
+[White "Gama, João"]
+[Black "Fonseca, René Gil"]
+[Result "1-0"]
+[ECO "C01"]
+[WhiteElo "1598"]
+[BlackElo "1378"]
+[WhiteFideId "1926667"]
+[BlackFideId "1957767"]
+[WhiteCountry "POR"]
+[BlackCountry "POR"]
+[PlyCount "53"]
+
+1. e4 e6 2. d4 d5 3. exd5 exd5 4. Nf3 Bd6 5. Bd3 Ne7 6. O-O O-O 7. h3 Bf5 8. Bg5
+f6 9. Bh4 Qd7 10. Bg3 Na6 11. Bxd6 Qxd6 12. c3 c6 13. Bxa6 bxa6 14. Qa4 Bd3 15.
+Re1 Rfe8 16. Nbd2 Bb5 17. Qc2 c5 18. dxc5 Qxc5 19. Nb3 Qc7 20. Nbd4 Bd7 21. Rad1
+Ng6 22. Nf5 Rxe1+ 23. Rxe1 Qf4 24. N3d4 Kf7 25. Qb3 Nf8 26. Re7+ Kg6 27. Rxg7+
+1-0
+
+[Event "IX Torneio Int. da Figueira da Foz"]
+[Site "Figueira da Foz POR"]
+[Date "2018.11.02"]
+[Round "7.23"]
+[White "Gonçalves, Lucas"]
+[Black "Correia, Pedro Mourão"]
+[Result "1-0"]
+[ECO "B13"]
+[WhiteElo "1401"]
+[BlackElo "1518"]
+[WhiteFideId "1945360"]
+[BlackFideId "1959522"]
+[BlackTitle "AFM"]
+[WhiteCountry "POR"]
+[BlackCountry "POR"]
+[PlyCount "63"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. Bd3 Nf6 5. Nf3 Bg4 6. Bf4 Nbd7 7. h3 Bh5 8.
+Nbd2 e6 9. c3 Qb6 10. Qc2 Bd6 11. Bxd6 Qxd6 12. O-O O-O 13. Rac1 Rfe8 14. Rfe1
+Qf4 15. g3 Qh6 16. Kg2 g5 17. Ne5 Qg7 18. Ndf3 g4 19. hxg4 Nxe5 20. Nxe5 Nxg4
+21. Nxg4 Bxg4 22. Rh1 Qf6 23. Bxh7+ Kf8 24. Qd3 Rac8 25. f3 Bf5 26. Bxf5 exf5
+27. Rce1 Re6 28. Rxe6 fxe6 29. Qe3 Rc6 30. Rh6 Qf7 31. Qg5 Ke8 32. Rh8+ 1-0
+
+[Event "IX Torneio Int. da Figueira da Foz"]
+[Site "Figueira da Foz POR"]
+[Date "2018.11.02"]
+[Round "7.24"]
+[White "Dias, José"]
+[Black "Mões Joaquim, Carlos"]
+[Result "1-0"]
+[ECO "A07"]
+[WhiteElo "1605"]
+[BlackElo "1415"]
+[WhiteFideId "1923943"]
+[BlackFideId "1928104"]
+[WhiteCountry "POR"]
+[BlackCountry "CPV"]
+[PlyCount "131"]
+
+1. Nf3 d5 2. g3 Nf6 3. Bg2 Bg4 4. d3 e6 5. O-O Bd6 6. Nbd2 Nbd7 7. c4 c6 8. b3
+O-O 9. Bb2 c5 10. Re1 Re8 11. e4 d4 12. h3 Bh5 13. Nf1 Ne5 14. N1h2 h6 15. Qd2
+Nxf3+ 16. Nxf3 Bc7 17. a3 Rb8 18. b4 b6 19. g4 Bg6 20. Bc1 Qe7 21. b5 Rbd8 22.
+Kf1 Bb8 23. Ng1 e5 24. Ne2 h5 25. f3 Qd7 26. g5 Nh7 27. h4 Bd6 28. Ng1 Nf8 29.
+Bh3 Ne6 30. Qh2 Rf8 31. Ra2 Qe7 32. Ne2 f6 33. Bxe6+ Qxe6 34. gxf6 Qxf6 35. Ng1
+Rd7 36. Rf2 Be8 37. Qh3 g6 38. Ke2 Rh7 39. Bg5 Qf7 40. Ref1 a6 41. a4 axb5 42.
+axb5 Bxb5 43. cxb5 Qa2+ 44. Bd2 Rhf7 45. Rc1 Kh7 46. Qg3 Ra7 47. Qg5 Rf4 48. Rg2
+Qe6 49. Bxf4 exf4 50. Kf1 Be7 51. Qxf4 Ra5 52. Rb2 Bf6 53. Qg3 Qe7 54. Ne2 Bxh4
+55. Qh3 Bg5 56. f4 Bh6 57. Rcb1 c4 58. f5 Ra3 59. fxg6+ Kg7 60. Nxd4 Qf6+ 61.
+Nf5+ Kxg6 62. Rg2+ Kh7 63. Qxh5 Rxd3 64. Qxh6+ Qxh6 65. Nxh6 Kxh6 66. Ke2 1-0
+
+[Event "IX Torneio Int. da Figueira da Foz"]
+[Site "Figueira da Foz POR"]
+[Date "2018.11.02"]
+[Round "7.25"]
+[White "Ferreira, Cristina"]
+[Black "Dong, Rafael"]
+[Result "0-1"]
+[ECO "E00"]
+[WhiteElo "1069"]
+[BlackElo "1360"]
+[WhiteFideId "1963082"]
+[BlackFideId "1958038"]
+[WhiteCountry "POR"]
+[BlackCountry "POR"]
+[PlyCount "58"]
+
+1. d4 Nf6 2. c4 e6 3. Bd2 b6 4. Nf3 Bb7 5. e3 Be7 6. Be2 O-O 7. a3 c5 8. Qc2 Nc6
+9. O-O Qc7 10. Nc3 d5 11. e4 cxd4 12. Nb5 Qc8 13. e5 Nd7 14. Bd3 h6 15. Bh7+ Kh8
+16. Bxh6 gxh6 17. Qd2 Kxh7 18. Qd3+ Kg7 19. Qd2 a6 20. Nd6 Bxd6 21. Nh4 Ndxe5
+22. Qe2 Qd8 23. Qh5 Qg5 24. f4 Qxh5 25. g3 Ng6 26. Rf2 Nxh4 27. Raf1 Nf5 28. Rg2
+Ne3 29. Rff2 Qd1+ 0-1
+
+[Event "IX Torneio Int. da Figueira da Foz"]
+[Site "Figueira da Foz POR"]
+[Date "2018.11.03"]
+[Round "8.1"]
+[White "Stella, Andrea"]
+[Black "Jakubowski, Krzystof"]
+[Result "1/2-1/2"]
+[ECO "D51"]
+[WhiteElo "2500"]
+[BlackElo "2511"]
+[WhiteFideId "827061"]
+[BlackFideId "1112848"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteCountry "ITA"]
+[BlackCountry "POL"]
+[PlyCount "109"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5 Nbd7 5. e3 Be7 6. Nf3 O-O 7. Rc1 h6 8. Bh4
+c5 9. cxd5 Nxd5 10. Bxe7 Nxe7 11. Be2 b6 12. O-O Bb7 13. dxc5 Nxc5 14. b4 Ne4
+15. Nxe4 Bxe4 16. Qa4 Nd5 17. b5 Bxf3 18. Bxf3 Qg5 19. Rfd1 Rfd8 20. h4 Qe5 21.
+Qd4 Qxd4 22. Rxd4 Rd7 23. Bxd5 exd5 24. Rcd1 Rad8 25. e4 Kf8 26. exd5 Ke7 27. f3
+Kd6 28. Rc4 h5 29. Kf2 Ke5 30. Re4+ Kf5 31. a4 Kf6 32. Rf4+ Ke5 33. Re4+ Kf6 34.
+Rf4+ Ke5 35. Rc4 g6 36. Kg3 Rxd5 37. Rxd5+ Rxd5 38. Rc7 a6 39. bxa6 Ra5 40. Rxf7
+Rxa4 41. a7 b5 42. Rb7 b4 43. Rb5+ Kf6 44. Rb6+ Kg7 45. Rb7+ Kf6 46. Rxb4 Rxa7
+47. Kf4 Ra6 48. g4 hxg4 49. fxg4 g5+ 50. hxg5+ Kg6 51. Rc4 Rb6 52. Ra4 Rc6 53.
+Ra5 Rc4+ 54. Kg3 Rc1 55. Kf4 1/2-1/2
+
+[Event "IX Torneio Int. da Figueira da Foz"]
+[Site "Figueira da Foz POR"]
+[Date "2018.11.03"]
+[Round "8.2"]
+[White "Romanishin, Oleg"]
+[Black "Del Rio Angelis, Salvador"]
+[Result "1-0"]
+[ECO "A04"]
+[WhiteElo "2443"]
+[BlackElo "2547"]
+[WhiteFideId "14100088"]
+[BlackFideId "2203138"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteCountry "UKR"]
+[BlackCountry "ESP"]
+[PlyCount "57"]
+
+1. Nf3 b6 2. d4 Bb7 3. g3 g6 4. Bg2 Nf6 5. c4 Bg7 6. O-O O-O 7. d5 Ne4 8. Qc2 f5
+9. Nbd2 Nd6 10. e4 c6 11. Re1 Na6 12. e5 Ne8 13. dxc6 Bxc6 14. a3 d6 15. b4 dxe5
+16. Nxe5 Bxg2 17. Kxg2 Rc8 18. Bb2 Nb8 19. Ndf3 Nc7 20. Rad1 Qe8 21. h4 Rd8 22.
+c5 Rxd1 23. Rxd1 b5 24. c6 e6 25. Nd7 Nxd7 26. cxd7 Qd8 27. Bxg7 Kxg7 28. Qc3+
+Kg8 29. Qc6 1-0
+
+[Event "IX Torneio Int. da Figueira da Foz"]
+[Site "Figueira da Foz POR"]
+[Date "2018.11.03"]
+[Round "8.3"]
+[White "Vasallo, Mauricio"]
+[Black "Alshameary Puente, Ismael"]
+[Result "1/2-1/2"]
+[ECO "A04"]
+[WhiteElo "2378"]
+[BlackElo "2369"]
+[WhiteFideId "101648"]
+[BlackFideId "2225166"]
+[WhiteTitle "IM"]
+[BlackTitle "FM"]
+[WhiteCountry "ESP"]
+[BlackCountry "ESP"]
+[PlyCount "45"]
+
+1. Nf3 Nf6 2. c4 c5 3. g3 g6 4. Bg2 Bg7 5. O-O O-O 6. d4 cxd4 7. Nxd4 d5 8. cxd5
+Nxd5 9. Nb5 Be6 10. N1c3 Nxc3 11. Nxc3 Nc6 12. Qa4 Qd4 13. Qb5 Qb6 14. Qxb6 axb6
+15. Be3 b5 16. a3 Bc4 17. Rac1 Rfd8 18. h4 Rd7 19. Rfd1 Rad8 20. Rxd7 Rxd7 21.
+b3 Bxb3 22. Nxb5 Rd1+ 23. Rxd1 1/2-1/2
+
+[Event "IX Torneio Int. da Figueira da Foz"]
+[Site "Figueira da Foz POR"]
+[Date "2018.11.03"]
+[Round "8.4"]
+[White "Galego, Luís"]
+[Black "Rotstein, Arkadij"]
+[Result "1-0"]
+[ECO "A49"]
+[WhiteElo "2473"]
+[BlackElo "2476"]
+[WhiteFideId "1900072"]
+[BlackFideId "4662997"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteCountry "POR"]
+[BlackCountry "GER"]
+[PlyCount "90"]
+
+1. d4 Nf6 2. Nf3 g6 3. g3 Bg7 4. Bg2 O-O 5. O-O d6 6. a4 Nbd7 7. a5 c5 8. a6
+bxa6 9. Ne5 dxe5 10. dxe5 Rb8 11. exf6 Nxf6 12. Qxd8 Rxd8 13. Nc3 e6 14. Na4 c4
+15. Be3 Bb7 16. Bxa7 Bxg2 17. Kxg2 Rb7 18. Be3 Nd5 19. Bg5 Rc8 20. c3 Rb5 21.
+Bd2 f5 22. Rfe1 Rd8 23. e4 Nf6 24. Bg5 Re8 25. exf5 gxf5 26. Bxf6 Bxf6 27. Rad1
+Kf7 28. Rd6 Ra5 29. Nb6 Rc5 30. f4 Re7 31. Kf3 Bg7 32. Ra1 Rb7 33. Rxa6 e5 34.
+fxe5 Bxe5 35. Rd7+ Rxd7 36. Nxd7 Rd5 37. Nxe5+ Rxe5 38. Rb6 Re4 39. h3 h5 40.
+Rh6 Re5 41. Rxh5 Rb5 42. Kf4 Ke6 43. Rh6+ Kd5 44. Rf6 Rxb2 45. Rxf5+ Kd6 1-0
+
+[Event "IX Torneio Int. da Figueira da Foz"]
+[Site "Figueira da Foz POR"]
+[Date "2018.11.03"]
+[Round "8.5"]
+[White "Oratovsky, Michael"]
+[Black "Elissalt Cardenas, Hector"]
+[Result "1-0"]
+[ECO "B07"]
+[WhiteElo "2466"]
+[BlackElo "2316"]
+[WhiteFideId "2802090"]
+[BlackFideId "3500632"]
+[WhiteTitle "GM"]
+[BlackTitle "IM"]
+[WhiteCountry "ISR"]
+[BlackCountry "ESP"]
+[PlyCount "93"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 e5 4. Nf3 Nbd7 5. Bc4 Be7 6. a4 O-O 7. O-O c6 8. Re1
+a5 9. h3 Nb6 10. Ba2 Nfd7 11. dxe5 dxe5 12. Be3 Qc7 13. Ng5 Bxg5 14. Bxg5 Nc5
+15. Be3 Ne6 16. Qf3 Nf4 17. g3 Ne6 18. Rad1 Re8 19. Kg2 Nd7 20. Qe2 b6 21. Qd2
+Ra7 22. Qd6 Qxd6 23. Rxd6 Rc7 24. Bxe6 Rxe6 25. Bxb6 Rb7 26. Rxe6 fxe6 27. Bxa5
+Rxb2 28. Re2 Kf7 29. Bc7 Ke8 30. Bd6 Ba6 31. Ba3 Rb7 32. Rd2 Bc4 33. Rd6 Rc7 34.
+Rd1 Ra7 35. Rb1 Kd8 36. Bd6 Kc8 37. f3 Ra6 38. Rb4 c5 39. Bxc5 Nxc5 40. Rxc4 Rc6
+41. Nd1 Kd7 42. Nf2 Nb7 43. Nd3 Rxc4 44. Nxe5+ Kd6 45. Nxc4+ Kc5 46. Ne5 Kb4 47.
+Kf2 1-0
+
+[Event "IX Torneio Int. da Figueira da Foz"]
+[Site "Figueira da Foz POR"]
+[Date "2018.11.03"]
+[Round "8.6"]
+[White "Piasetski, Leon"]
+[Black "Martín Duque, Jesus"]
+[Result "1-0"]
+[ECO "A04"]
+[WhiteElo "2252"]
+[BlackElo "2354"]
+[WhiteFideId "2600072"]
+[BlackFideId "2208954"]
+[WhiteTitle "IM"]
+[BlackTitle "FM"]
+[WhiteCountry "CAN"]
+[BlackCountry "ESP"]
+[PlyCount "97"]
+
+1. Nf3 b6 2. g3 Bb7 3. Bg2 c5 4. O-O g6 5. c4 Bg7 6. Nc3 Nf6 7. d4 Ne4 8. Nxe4
+Bxe4 9. d5 b5 10. Ne1 Bxg2 11. Nxg2 O-O 12. Bd2 b4 13. Qc1 d6 14. Bh6 Nd7 15.
+Bxg7 Kxg7 16. e4 Nf6 17. Qc2 Qc7 18. Rad1 Rae8 19. Rd2 Qd7 20. f3 h5 21. Qd3 Rh8
+22. Re1 Qc7 23. h3 Qd7 24. Kh2 Qc7 25. Qe3 e5 26. dxe6 Rxe6 27. Nf4 Re7 28. Kg2
+Rd8 29. Red1 Re5 30. b3 a5 31. Nd3 Ree8 32. Nf4 Qc6 33. g4 hxg4 34. hxg4 Rh8 35.
+Kg3 Qe8 36. e5 Nd7 37. Rxd6 Qe7 38. Ng2 Rhe8 39. f4 Nf8 40. Qxc5 g5 41. Qd5 Rxd6
+42. exd6 gxf4+ 43. Nxf4 Qe3+ 44. Qf3 Qe5 45. Kg2 Ng6 46. Nxg6 fxg6 47. Rf1 Qe6
+48. c5 Rc8 49. d7 1-0
+
+[Event "IX Torneio Int. da Figueira da Foz"]
+[Site "Figueira da Foz POR"]
+[Date "2018.11.03"]
+[Round "8.7"]
+[White "Perez Garcia, Rodney Oscar"]
+[Black "Röttgen, Jürgen"]
+[Result "1-0"]
+[ECO "B40"]
+[WhiteElo "2362"]
+[BlackElo "2169"]
+[WhiteFideId "3500918"]
+[BlackFideId "4629868"]
+[WhiteTitle "IM"]
+[WhiteCountry "CUB"]
+[BlackCountry "GER"]
+[PlyCount "83"]
+
+1. e4 c5 2. Nf3 e6 3. b3 b6 4. Bd3 Nc6 5. O-O e5 6. Bb2 d6 7. Bb5 Bd7 8. c3 Nf6
+9. d4 Be7 10. Nbd2 O-O 11. dxc5 dxc5 12. Bxc6 Bxc6 13. Nxe5 Bxe4 14. Nxe4 Qxd1
+15. Raxd1 Nxe4 16. Rfe1 Nf6 17. Nc6 Bd8 18. c4 a6 19. Rd6 b5 20. Red1 Bc7 21.
+Ne7+ Kh8 22. Rc6 Rfd8 23. Rxd8+ Bxd8 24. Bxf6 gxf6 25. Nf5 bxc4 26. bxc4 h5 27.
+g3 Kh7 28. Kg2 Kg6 29. Nh4+ Kh6 30. Rxc5 Rb8 31. Rd5 Rc8 32. c5 Ba5 33. Nf5+ Kh7
+34. Ne7 Rc7 35. Rxh5+ Kg7 36. Nf5+ Kg8 37. Nd6 Bb4 38. Ne4 Kg7 39. Rd5 a5 40. g4
+Kg6 41. h4 Re7 42. Kf3 1-0
+
+[Event "IX Torneio Int. da Figueira da Foz"]
+[Site "Figueira da Foz POR"]
+[Date "2018.11.03"]
+[Round "8.8"]
+[White "Fernandes, Ricardo Paulos"]
+[Black "Veiga, Francisco"]
+[Result "0-1"]
+[ECO "E61"]
+[WhiteElo "2098"]
+[BlackElo "2272"]
+[WhiteFideId "1943464"]
+[BlackFideId "1930087"]
+[BlackTitle "FM"]
+[WhiteCountry "POR"]
+[BlackCountry "POR"]
+[PlyCount "62"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. Nf3 O-O 5. e3 d6 6. Be2 c5 7. O-O Nbd7 8. Re1
+b6 9. b3 Bb7 10. Bb2 cxd4 11. exd4 d5 12. Rc1 Rc8 13. Ba3 Re8 14. Bf1 dxc4 15.
+Bxc4 Bh6 16. Rc2 a6 17. Bc1 Bxc1 18. Rxc1 b5 19. Be2 Nb6 20. Ne5 b4 21. Na4 Rxc1
+22. Qxc1 Nxa4 23. bxa4 Qxd4 24. Bc4 e6 25. Qg5 Kg7 26. Bb3 h6 27. Qg3 Bd5 28.
+Bc2 Qd2 29. f4 Qxc2 30. h4 Nh5 31. Qg4 Nxf4 0-1
+
+[Event "IX Torneio Int. da Figueira da Foz"]
+[Site "Figueira da Foz POR"]
+[Date "2018.11.03"]
+[Round "8.9"]
+[White "Morais, Vítor"]
+[Black "Garcia Dorado, Alberto"]
+[Result "0-1"]
+[ECO "C03"]
+[WhiteElo "1918"]
+[BlackElo "2206"]
+[WhiteFideId "1900552"]
+[BlackFideId "2252244"]
+[BlackTitle "CM"]
+[WhiteCountry "POR"]
+[BlackCountry "ESP"]
+[PlyCount "64"]
+
+1. e4 e6 2. d4 d5 3. Nd2 dxe4 4. Nxe4 Nd7 5. Bd3 Ngf6 6. Ng5 h6 7. N5f3 c5 8. c3
+cxd4 9. cxd4 Bb4+ 10. Kf1 Bd6 11. Ne2 b6 12. Bf4 Bxf4 13. Nxf4 Bb7 14. Rc1 O-O
+15. Bb1 Rc8 16. Rxc8 Qxc8 17. h3 Qc7 18. Ne2 Rd8 19. Qb3 Bd5 20. Qe3 Qb7 21. Nf4
+Bxa2 22. Bd3 Nd5 23. Nxd5 Bxd5 24. Ne1 Rc8 25. f3 Bc4 26. Kf2 Bxd3 27. Qxd3 Qd5
+28. Rf1 Rc4 29. Ke3 Rb4 30. Qd2 Rb3+ 31. Nd3 e5 32. dxe5 Nxe5 0-1
+
+[Event "IX Torneio Int. da Figueira da Foz"]
+[Site "Figueira da Foz POR"]
+[Date "2018.11.03"]
+[Round "8.10"]
+[White "Guerreiro, Nuno"]
+[Black "Santos, António P"]
+[Result "1-0"]
+[ECO "A04"]
+[WhiteElo "2069"]
+[BlackElo "2155"]
+[WhiteFideId "1903012"]
+[BlackFideId "1900161"]
+[BlackTitle "FM"]
+[WhiteCountry "POR"]
+[BlackCountry "POR"]
+[PlyCount "89"]
+
+1. Nf3 Nf6 2. g3 b6 3. Bg2 Bb7 4. O-O e6 5. c4 c5 6. Nc3 Be7 7. d4 cxd4 8. Qxd4
+d6 9. Rd1 O-O 10. Bg5 Nbd7 11. Rac1 a6 12. Nd2 Bxg2 13. Kxg2 b5 14. Nde4 b4 15.
+Nxf6+ Nxf6 16. Ne4 Nxe4 17. Bxe7 Qxe7 18. Qxe4 Qc7 19. c5 dxc5 20. Rc4 Rac8 21.
+Rdc1 Qa5 22. Qe5 Qxa2 23. Rxc5 Rxc5 24. Rxc5 h6 25. h4 Rd8 26. Qc7 Rf8 27. Qe5
+Qb3 28. Rc6 Qa4 29. Rb6 a5 30. Ra6 Rd8 31. Rxa5 Qc6+ 32. f3 Rd2 33. Rb5 Qc2 34.
+Kf2 Qxb2 35. Rb8+ Kh7 36. Qe4+ g6 37. Rb7 Kg7 38. Qxe6 Qd4+ 39. Kg2 Qf6 40. Qe8
+Rd8 41. Qb5 Rd2 42. Rb8 Qd4 43. Qe8 Kf6 44. Qh8+ Kf5 45. g4+ 1-0
+
+[Event "IX Torneio Int. da Figueira da Foz"]
+[Site "Figueira da Foz POR"]
+[Date "2018.11.03"]
+[Round "8.11"]
+[White "Margarido, José"]
+[Black "Pais, Bruno"]
+[Result "1-0"]
+[ECO "A04"]
+[WhiteElo "2121"]
+[BlackElo "1836"]
+[WhiteFideId "1914227"]
+[BlackFideId "1911341"]
+[WhiteCountry "POR"]
+[BlackCountry "POR"]
+[PlyCount "41"]
+
+1. Nf3 Nf6 2. g3 e6 3. d4 d5 4. Bg2 Be7 5. c4 c6 6. Qc2 Nbd7 7. O-O O-O 8. Nbd2
+b6 9. e4 Ba6 10. b3 Rc8 11. Bb2 dxe4 12. Nxe4 Nxe4 13. Qxe4 Nf6 14. Qc2 b5 15.
+Ne5 bxc4 16. bxc4 c5 17. Nc6 Qc7 18. Ba3 Bd6 19. dxc5 Be7 20. Qa4 Bb7 21. Nxe7+
+1-0
+
+[Event "IX Torneio Int. da Figueira da Foz"]
+[Site "Figueira da Foz POR"]
+[Date "2018.11.03"]
+[Round "8.12"]
+[White "Adams, Philip"]
+[Black "Dias, Ricardo"]
+[Result "0-1"]
+[ECO "A15"]
+[WhiteElo "1980"]
+[BlackElo "2098"]
+[WhiteFideId "411256"]
+[BlackFideId "1930060"]
+[WhiteCountry "ENG"]
+[BlackCountry "POR"]
+[PlyCount "80"]
+
+1. c4 Nf6 2. g3 g6 3. Bg2 d5 4. cxd5 Nxd5 5. Nc3 Nb6 6. d3 Bg7 7. Be3 Nc6 8. h4
+h6 9. Nf3 Nd4 10. Nxd4 Bxd4 11. Qd2 Bg7 12. Rc1 c6 13. O-O Be6 14. Ne4 Nd5 15.
+Nc5 Nxe3 16. Nxe6 Nxf1 17. Nxg7+ Kf8 18. Ne6+ fxe6 19. Qf4+ Ke8 20. Kxf1 Qd6 21.
+Qg4 e5 22. Be4 Rg8 23. h5 g5 24. b4 Qd7 25. Bf5 Qd5 26. Kg1 Rf8 27. Rc4 a5 28.
+Be4 Qd7 29. Bg6+ Kd8 30. Qe4 Qd5 31. Qe3 axb4 32. Qb6+ Kc8 33. Rxb4 Qd7 34. a4
+Ra6 35. Qe3 Qd6 36. Re4 Ra5 37. Qb6 Qc5 38. Qxc5 Rxc5 39. f3 Rd8 40. g4 Rd4 0-1
+
+[Event "IX Torneio Int. da Figueira da Foz"]
+[Site "Figueira da Foz POR"]
+[Date "2018.11.03"]
+[Round "8.13"]
+[White "Pipiras, Filipa"]
+[Black "Lisowski, Krzysztof"]
+[Result "0-1"]
+[ECO "E10"]
+[WhiteElo "1853"]
+[BlackElo "2095"]
+[WhiteFideId "1944894"]
+[BlackFideId "1110969"]
+[WhiteCountry "POR"]
+[BlackCountry "POL"]
+[PlyCount "72"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. cxd5 exd5 5. Nc3 c6 6. Bg5 Be7 7. e3 Bf5 8. Bd3
+Bxd3 9. Qxd3 Nbd7 10. O-O O-O 11. Rab1 Nb6 12. b4 a6 13. a4 Ne4 14. Bxe7 Qxe7
+15. Ra1 Nxc3 16. Qxc3 Nc4 17. Ne1 Rfe8 18. Nd3 Nd6 19. Qc5 Rad8 20. Qc2 Qh4 21.
+Nf4 g5 22. Nd3 Re6 23. g3 Qh3 24. Rae1 Rde8 25. Nc5 R6e7 26. f4 Nf5 27. e4 b6
+28. fxg5 Nxd4 29. Qf2 bxc5 30. bxc5 Ne6 31. exd5 cxd5 32. Re5 d4 33. Qe2 d3 34.
+Qf3 Nd4 35. Qf2 Ne2+ 36. Kh1 Nxg3+ 0-1
+
+[Event "IX Torneio Int. da Figueira da Foz"]
+[Site "Figueira da Foz POR"]
+[Date "2018.11.03"]
+[Round "8.14"]
+[White "Dionízio, André"]
+[Black "Fernandes, João Pedro"]
+[Result "1/2-1/2"]
+[ECO "A04"]
+[WhiteElo "2013"]
+[BlackElo "2067"]
+[WhiteFideId "1920294"]
+[BlackFideId "1926624"]
+[WhiteCountry "POR"]
+[BlackCountry "POR"]
+[PlyCount "117"]
+
+1. Nf3 Nf6 2. b3 c5 3. Bb2 e6 4. e3 b6 5. Be2 Bb7 6. O-O Be7 7. d4 O-O 8. Nbd2
+d6 9. c4 Nbd7 10. Qc2 Qc7 11. Rac1 Rac8 12. Rfd1 a6 13. Qb1 Rfd8 14. e4 cxd4 15.
+Bxd4 e5 16. Be3 Nc5 17. Bd3 Ng4 18. Bg5 Bxg5 19. Nxg5 Qe7 20. Ngf3 Ne6 21. h3
+Nf6 22. g3 Rc7 23. Nf1 Nc5 24. N3d2 Qe6 25. h4 Qh3 26. Ne3 Ng4 27. Ndf1 g5 28.
+hxg5 Ne6 29. Be2 Nxe3 30. Nxe3 Nxg5 31. Bg4 Qh6 32. Nf5 Qg6 33. Re1 h5 34. Nh4
+Qf6 35. Bf5 Bc8 36. Kg2 Ne6 37. Nf3 Ng5 38. Nh4 Ne6 39. Qd3 Qxh4 40. Bxe6 Qg5
+41. Bxc8 Rcxc8 42. Rh1 Kg7 43. Rcd1 Rd7 44. Qf3 Kg6 45. Rh4 f6 46. Rdh1 Rh7 47.
+Qd1 Rd8 48. g4 Rdh8 49. R1h3 hxg4 50. Rxg4 Rxh3 51. Rxg5+ Kxg5 52. Qxd6 Rh2+ 53.
+Kf3 R2h3+ 54. Ke2 R8h4 55. Qxb6 Rxe4+ 56. Kf1 Rh1+ 57. Kg2 Ree1 58. f3 Rc1 59.
+Qe3+ 1/2-1/2
+
+[Event "IX Torneio Int. da Figueira da Foz"]
+[Site "Figueira da Foz POR"]
+[Date "2018.11.03"]
+[Round "8.15"]
+[White "Puglia, Francesco"]
+[Black "Fernandes, Miguel"]
+[Result "0-1"]
+[ECO "A07"]
+[WhiteElo "1803"]
+[BlackElo "2048"]
+[WhiteFideId "2820060"]
+[BlackFideId "1920456"]
+[WhiteCountry "ITA"]
+[BlackCountry "POR"]
+[PlyCount "84"]
+
+1. Nf3 d5 2. g3 Nf6 3. Bg2 e6 4. O-O Be7 5. d3 O-O 6. Nbd2 c5 7. b3 Nc6 8. Bb2
+Qc7 9. e4 Rb8 10. exd5 exd5 11. Re1 Bg4 12. h3 Bh5 13. g4 Bg6 14. Nh4 Rfe8 15.
+Nxg6 hxg6 16. Nf3 d4 17. Nd2 Bd6 18. Rxe8+ Rxe8 19. a4 Bh2+ 20. Kh1 Bf4 21. Nc4
+g5 22. Bc1 Bxc1 23. Rxc1 Qf4 24. Qd2 Qxd2 25. Nxd2 Re2 26. Nc4 Rxf2 27. Nd6 Nd8
+28. Nxb7 Nxb7 29. Bxb7 Re2 30. Kg1 Kf8 31. Kf1 Re3 32. Bg2 Ke7 33. Re1 Rxe1+ 34.
+Kxe1 Kd6 35. Kd2 Ke5 36. c3 a5 37. cxd4+ Kxd4 38. Bc6 Nd5 39. Bxd5 Kxd5 40. Ke3
+g6 41. Ke2 Kd4 42. Kd2 f5 0-1
+
+[Event "IX Torneio Int. da Figueira da Foz"]
+[Site "Figueira da Foz POR"]
+[Date "2018.11.03"]
+[Round "8.16"]
+[White "Sismeiro, Miguel"]
+[Black "Marques, João"]
+[Result "1-0"]
+[ECO "C16"]
+[WhiteElo "2008"]
+[BlackElo "1807"]
+[WhiteFideId "1950975"]
+[BlackFideId "1930540"]
+[WhiteCountry "POR"]
+[BlackCountry "POR"]
+[PlyCount "57"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 b6 5. Qg4 Bf8 6. Bg5 Qd7 7. O-O-O Ba6 8. Bxa6
+Nxa6 9. Qe2 Nb8 10. f4 Ne7 11. g4 Nbc6 12. Qa6 Qc8 13. Qxc8+ Rxc8 14. Nge2 h6
+15. Bh4 Ng6 16. Bg3 Nge7 17. Rhf1 g6 18. h3 a6 19. Bh2 Kd7 20. Ng3 Bg7 21. f5
+gxf5 22. gxf5 exf5 23. Nxf5 Nxf5 24. Rxf5 Ke6 25. Rf3 Rcf8 26. Ne2 Ne7 27. Rdf1
+c6 28. Nf4+ Kd7 29. Nh5 1-0
+
+[Event "IX Torneio Int. da Figueira da Foz"]
+[Site "Figueira da Foz POR"]
+[Date "2018.11.03"]
+[Round "8.17"]
+[White "Marçal, Paulo"]
+[Black "Felizes, Paulo"]
+[Result "0-1"]
+[ECO "C45"]
+[WhiteElo "1751"]
+[BlackElo "1965"]
+[WhiteFideId "1903837"]
+[BlackFideId "1900889"]
+[WhiteCountry "POR"]
+[BlackCountry "POR"]
+[PlyCount "36"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Nf6 5. Nxc6 bxc6 6. Bd3 d5 7. e5 Ng4 8.
+Qe2 Bc5 9. O-O Qh4 10. Bf4 Nxf2 11. Rxf2 Qxf4 12. Nd2 Qxf2+ 13. Qxf2 Bxf2+ 14.
+Kxf2 O-O 15. Nb3 f6 16. exf6 Rxf6+ 17. Kg3 Bf5 18. Ba6 Raf8 0-1
+
+[Event "IX Torneio Int. da Figueira da Foz"]
+[Site "Figueira da Foz POR"]
+[Date "2018.11.03"]
+[Round "8.18"]
+[White "Gama, João"]
+[Black "Lopez De Turiso, José Angel"]
+[Result "1/2-1/2"]
+[ECO "B30"]
+[WhiteElo "1598"]
+[BlackElo "1933"]
+[WhiteFideId "1926667"]
+[BlackFideId "2207680"]
+[WhiteCountry "POR"]
+[BlackCountry "ESP"]
+[PlyCount "61"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 e6 4. O-O Nge7 5. Re1 Nd4 6. Bf1 Nxf3+ 7. Qxf3 Ng6 8.
+c3 Be7 9. d4 O-O 10. Be3 d6 11. Nd2 Qc7 12. Rac1 b6 13. Qd1 e5 14. f3 Be6 15. d5
+Bd7 16. b4 f5 17. a4 Qd8 18. b5 Bg5 19. Nc4 Bxe3+ 20. Rxe3 Qg5 21. Qd2 Rf6 22.
+Ree1 f4 23. Ra1 Nh4 24. Kh1 Rg6 25. Qf2 Rf8 26. Reb1 Qh5 27. a5 Rh6 28. axb6
+axb6 29. Nxb6 Nf5 30. h3 Ng3+ 31. Kg1 1/2-1/2
+
+[Event "IX Torneio Int. da Figueira da Foz"]
+[Site "Figueira da Foz POR"]
+[Date "2018.11.03"]
+[Round "8.19"]
+[White "Gonçalves, Lucas"]
+[Black "Morais, Mario M F"]
+[Result "1-0"]
+[ECO "B06"]
+[WhiteElo "1401"]
+[BlackElo "1766"]
+[WhiteFideId "1945360"]
+[BlackFideId "1959506"]
+[WhiteCountry "POR"]
+[BlackCountry "POR"]
+[PlyCount "38"]
+
+1. e4 g6 2. d4 Bg7 3. Nf3 c5 4. Be3 Nc6 5. Nc3 cxd4 6. Nxd4 Qa5 7. Qd2 Nf6 8. f3
+d6 9. O-O-O Bd7 10. h4 Nxd4 11. Bxd4 h5 12. Kb1 Rc8 13. g3 Be6 14. Bb5+ Kf8 15.
+Be2 Bh6 16. f4 Nxe4 17. Qd3 Rxc3 18. Qxe4 Bf5 19. Bxc3 Qxa2+ 1-0
+
+[Event "IX Torneio Int. da Figueira da Foz"]
+[Site "Figueira da Foz POR"]
+[Date "2018.11.03"]
+[Round "8.20"]
+[White "Silva, Pedro Gil"]
+[Black "Asvestopoulou, Evdokia"]
+[Result "1-0"]
+[ECO "B33"]
+[WhiteElo "1837"]
+[BlackElo "1720"]
+[WhiteFideId "1946102"]
+[BlackFideId "4219198"]
+[WhiteCountry "POR"]
+[BlackCountry "GRE"]
+[PlyCount "83"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. Bg5 a6 8. Na3
+b5 9. Nd5 Be7 10. Bxf6 Bxf6 11. c4 b4 12. Nc2 Bb7 13. g3 Bg5 14. Bg2 a5 15. O-O
+O-O 16. Qd3 Ne7 17. Nxe7+ Qxe7 18. Rad1 Rfd8 19. b3 g6 20. h4 Bh6 21. Ne3 Rac8
+22. Bh3 Rc5 23. Ng4 Bf8 24. Rfe1 h5 25. Ne3 Qc7 26. g4 Qe7 27. Ng2 hxg4 28. Bxg4
+Rc7 29. Qg3 Kh8 30. h5 Qg5 31. hxg6 fxg6 32. Be6 Qxg3 33. fxg3 Kg7 34. Bd5 Bc8
+35. Rf1 Kh7 36. Rf2 Be7 37. Rf7+ Kh6 38. Rdf1 Bb7 39. Bxb7 Rxb7 40. Ne3 Rdd7 41.
+Kg2 Bg5 42. Rh1+ 1-0
+
+[Event "IX Torneio Int. da Figueira da Foz"]
+[Site "Figueira da Foz POR"]
+[Date "2018.11.03"]
+[Round "8.21"]
+[White "Soares, Sara"]
+[Black "Dias, José"]
+[Result "1-0"]
+[ECO "B12"]
+[WhiteElo "1481"]
+[BlackElo "1605"]
+[WhiteFideId "1948172"]
+[BlackFideId "1923943"]
+[WhiteCountry "POR"]
+[BlackCountry "POR"]
+[PlyCount "73"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. g4 Bh7 6. e6 fxe6 7. Nf3 Qd6 8. Bd3 Bxd3
+9. Qxd3 Nd7 10. Qg6+ Kd8 11. Qf7 Ngf6 12. g5 hxg5 13. Nxg5 Kc7 14. Nxe6+ Kb6 15.
+c3 Rh5 16. Bf4 Re5+ 17. Bxe5 Nxe5 18. dxe5 Qxe5+ 19. Kd1 Nd7 20. Nd4 Qe4 21. Qf3
+Qh7 22. Qf5 Qxf5 23. Nxf5 g6 24. Nd4 e5 25. Ne6 Bh6 26. a4 a6 27. Nd2 e4 28. a5+
+Ka7 29. Kc2 Re8 30. Ng5 Rf8 31. Raf1 Ne5 32. Nb3 Nd3 33. f3 Bxg5 34. hxg5 Rf5
+35. fxe4 dxe4 36. Rxf5 gxf5 37. g6 1-0
+
+[Event "IX Torneio Int. da Figueira da Foz"]
+[Site "Figueira da Foz POR"]
+[Date "2018.11.03"]
+[Round "8.22"]
+[White "Bouxo, Luís"]
+[Black "Louzao Brea, Jose Luis"]
+[Result "0-1"]
+[ECO "A40"]
+[WhiteElo "1585"]
+[BlackElo "1835"]
+[WhiteFideId "1904647"]
+[BlackFideId "2270811"]
+[WhiteCountry "POR"]
+[BlackCountry "ESP"]
+[PlyCount "72"]
+
+1. d4 e6 2. c4 Nf6 3. Nc3 Bb4 4. Qc2 c5 5. e3 Nc6 6. Nf3 cxd4 7. exd4 b6 8. Bg5
+Bb7 9. Rd1 Be7 10. Be2 Rc8 11. O-O h6 12. Bh4 O-O 13. Qd2 d5 14. Bxf6 Bxf6 15.
+cxd5 exd5 16. Rfe1 Qd7 17. Bb5 Rfd8 18. Re3 Qg4 19. Bxc6 Bxc6 20. Rde1 Qf5 21.
+Ne2 Bd7 22. Nc3 Qh5 23. Ne2 Qf5 24. Rc3 Rc4 25. Ng3 Qg4 26. h3 Qg6 27. Rxc4 dxc4
+28. Ne5 Bxe5 29. dxe5 Kh7 30. a3 Qc6 31. Rd1 g6 32. Kh2 Bxh3 33. Kxh3 Rxd2 34.
+Rxd2 Qe6+ 35. Kh2 Qxe5 36. Kg1 Qe6 0-1
+
+[Event "IX Torneio Int. da Figueira da Foz"]
+[Site "Figueira da Foz POR"]
+[Date "2018.11.03"]
+[Round "8.23"]
+[White "Fonseca, René Gil"]
+[Black "Dong, Fábio"]
+[Result "0-1"]
+[ECO "B40"]
+[WhiteElo "1378"]
+[BlackElo "1273"]
+[WhiteFideId "1957767"]
+[BlackFideId "1958020"]
+[WhiteCountry "POR"]
+[BlackCountry "POR"]
+[PlyCount "108"]
+
+1. e4 c5 2. Nf3 e6 3. Nc3 Nc6 4. d4 cxd4 5. Nxd4 a6 6. Bf4 Bb4 7. Nxc6 dxc6 8.
+Qxd8+ Kxd8 9. O-O-O+ Ke8 10. Rd3 Nf6 11. f3 Ke7 12. Be2 Bd7 13. Rhd1 Rac8 14.
+Na4 Ba5 15. Bd6+ Ke8 16. Nc5 Bc7 17. Nxb7 Rb8 18. Nc5 Bxd6 19. Rxd6 Rd8 20. Bxa6
+Ke7 21. Kb1 Bc8 22. Rxd8 Rxd8 23. Rxd8 Kxd8 24. Bxc8 Kxc8 25. a4 Kc7 26. b4 Kb6
+27. c4 Ne8 28. Kc2 Nd6 29. Kc3 h6 30. a5+ Ka7 31. g4 e5 32. Nd7 f6 33. Kd3 Ka6
+34. Nc5+ Ka7 35. Kc3 Kb8 36. Na4 Kb7 37. Kb3 Ka6 38. c5 Nb5 39. Kc4 Nd4 40. Nc3
+g6 41. Na4 Nxf3 42. Nb6 Nxh2 43. Nc8 Nf3 44. Nd6 Nd4 45. Ne8 f5 46. exf5 gxf5
+47. gxf5 Nxf5 48. Nf6 Ng3 49. b5+ cxb5+ 50. Kd5 e4 51. c6 e3 52. c7 Kb7 53. a6+
+Kxc7 54. Ne8+ Kb6 0-1
+
+[Event "IX Torneio Int. da Figueira da Foz"]
+[Site "Figueira da Foz POR"]
+[Date "2018.11.03"]
+[Round "8.24"]
+[White "Mões Joaquim, Carlos"]
+[Black "Ferreira, Cristina"]
+[Result "1-0"]
+[ECO "A51"]
+[WhiteElo "1415"]
+[BlackElo "1069"]
+[WhiteFideId "1928104"]
+[BlackFideId "1963082"]
+[WhiteCountry "CPV"]
+[BlackCountry "POR"]
+[PlyCount "66"]
+
+1. d4 Nf6 2. c4 e5 3. d5 Bb4+ 4. Bd2 Bc5 5. e3 d6 6. Nc3 O-O 7. Bd3 Bg4 8. Nge2
+Qd7 9. O-O Na6 10. Rc1 Rfe8 11. Bc2 Re7 12. Kh1 Rae8 13. Ba4 c6 14. a3 Nc7 15.
+f3 Bh5 16. b4 Bb6 17. Ng3 Bg6 18. Qe2 Nh5 19. Nxh5 Bxh5 20. Rfd1 Qf5 21. dxc6
+Rb8 22. cxb7 Rxb7 23. g4 Qg5 24. Ne4 Qh6 25. gxh5 Re6 26. Ng3 Rb8 27. Rg1 Rd8
+28. c5 d5 29. cxb6 Na6 30. b7 Ree8 31. Bxe8 Qe6 32. Bb5 Nb8 33. Qg2 Qe8 1-0
+
+[Event "IX Torneio Int. da Figueira da Foz"]
+[Site "Figueira da Foz POR"]
+[Date "2018.11.04"]
+[Round "9.1"]
+[White "Jakubowski, Krzystof"]
+[Black "Romanishin, Oleg"]
+[Result "1/2-1/2"]
+[ECO "A48"]
+[WhiteElo "2511"]
+[BlackElo "2443"]
+[WhiteFideId "1112848"]
+[BlackFideId "14100088"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteCountry "POL"]
+[BlackCountry "UKR"]
+[PlyCount "9"]
+
+1. d4 Nf6 2. Nf3 g6 3. Nbd2 d5 4. e3 Bg7 5. b4 1/2-1/2
+
+[Event "IX Torneio Int. da Figueira da Foz"]
+[Site "Figueira da Foz POR"]
+[Date "2018.11.04"]
+[Round "9.2"]
+[White "Galego, Luís"]
+[Black "Stella, Andrea"]
+[Result "1/2-1/2"]
+[ECO "C01"]
+[WhiteElo "2473"]
+[BlackElo "2500"]
+[WhiteFideId "1900072"]
+[BlackFideId "827061"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteCountry "POR"]
+[BlackCountry "ITA"]
+[PlyCount "10"]
+
+1. e4 e6 2. d4 d5 3. exd5 exd5 4. Bd3 Nc6 5. c3 Bd6 1/2-1/2
+
+[Event "IX Torneio Int. da Figueira da Foz"]
+[Site "Figueira da Foz POR"]
+[Date "2018.11.04"]
+[Round "9.3"]
+[White "Del Rio Angelis, Salvador"]
+[Black "Vasallo, Mauricio"]
+[Result "1/2-1/2"]
+[ECO "D56"]
+[WhiteElo "2547"]
+[BlackElo "2378"]
+[WhiteFideId "2203138"]
+[BlackFideId "101648"]
+[WhiteTitle "GM"]
+[BlackTitle "IM"]
+[WhiteCountry "ESP"]
+[BlackCountry "ESP"]
+[PlyCount "19"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5 Be7 5. e3 O-O 6. Nf3 h6 7. Bh4 Ne4 8. Bxe7
+Qxe7 9. Rc1 Nxc3 10. Ra1 1/2-1/2
+
+[Event "IX Torneio Int. da Figueira da Foz"]
+[Site "Figueira da Foz POR"]
+[Date "2018.11.04"]
+[Round "9.4"]
+[White "Alshameary Puente, Ismael"]
+[Black "Oratovsky, Michael"]
+[Result "1/2-1/2"]
+[ECO "E10"]
+[WhiteElo "2369"]
+[BlackElo "2466"]
+[WhiteFideId "2225166"]
+[BlackFideId "2802090"]
+[WhiteTitle "FM"]
+[BlackTitle "GM"]
+[WhiteCountry "ESP"]
+[BlackCountry "ISR"]
+[PlyCount "11"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Be7 5. Bg5 O-O 6. e3 1/2-1/2
+
+[Event "IX Torneio Int. da Figueira da Foz"]
+[Site "Figueira da Foz POR"]
+[Date "2018.11.04"]
+[Round "9.5"]
+[White "Veiga, Francisco"]
+[Black "Piasetski, Leon"]
+[Result "1-0"]
+[ECO "B06"]
+[WhiteElo "2272"]
+[BlackElo "2252"]
+[WhiteFideId "1930087"]
+[BlackFideId "2600072"]
+[WhiteTitle "FM"]
+[BlackTitle "IM"]
+[WhiteCountry "POR"]
+[BlackCountry "CAN"]
+[PlyCount "105"]
+
+1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. Be3 a6 5. h4 h6 6. Qd2 b5 7. f3 Nd7 8. O-O-O Bb7
+9. d5 c5 10. dxc6 Bxc6 11. Bd4 Bxd4 12. Qxd4 Ngf6 13. g4 Qb6 14. Qd2 b4 15. Nd5
+Bxd5 16. exd5 Qc5 17. Nh3 Ne5 18. g5 Nh5 19. f4 Nf3 20. Qd3 Nxh4 21. Be2 Ng7 22.
+gxh6 Ngf5 23. Rd2 Qe3 24. Qc4 O-O 25. Ng5 Ng2 26. Bd3 Rfc8 27. Qxb4 Nxf4 28.
+Bxf5 gxf5 29. Kb1 Rab8 30. Qd4 Qxd4 31. Rxd4 Ng6 32. Rf1 f4 33. Nh3 Rc3 34. Nxf4
+Rg3 35. Nxg6 Rxg6 36. h7+ Kg7 37. Rh4 Rh8 38. Rhf4 f6 39. Re1 Kf8 40. Rh4 Rg7
+41. Reh1 Rg5 42. c4 Rg3 43. b4 a5 44. b5 Ke8 45. R1h3 Rg1+ 46. Kb2 Rg2+ 47. Kb3
+Kd7 48. Rh2 Rg1 49. Ka4 Kc7 50. Re2 Rg7 51. Kxa5 Rhxh7 52. Rxh7 Rxh7 53. Ka6 1-0
+
+[Event "IX Torneio Int. da Figueira da Foz"]
+[Site "Figueira da Foz POR"]
+[Date "2018.11.04"]
+[Round "9.6"]
+[White "Garcia Dorado, Alberto"]
+[Black "Guerreiro, Nuno"]
+[Result "1-0"]
+[ECO "A43"]
+[WhiteElo "2206"]
+[BlackElo "2069"]
+[WhiteFideId "2252244"]
+[BlackFideId "1903012"]
+[WhiteTitle "CM"]
+[WhiteCountry "ESP"]
+[BlackCountry "POR"]
+[PlyCount "157"]
+
+1. d4 c5 2. e3 Nf6 3. Nf3 g6 4. Be2 Bg7 5. O-O cxd4 6. exd4 O-O 7. c3 d5 8. Ne5
+Nc6 9. Nd3 h6 10. Nd2 Bf5 11. Nb3 Ne4 12. Nf4 Qd6 13. f3 Nf6 14. g4 Bc8 15. Nd3
+e5 16. dxe5 Nxe5 17. Nxe5 Qxe5 18. Bd2 Kh7 19. Re1 Qc7 20. Be3 Be6 21. Bd4 Ne8
+22. Bf1 b6 23. Bd3 Bd7 24. Qe2 Nf6 25. Be5 Qb7 26. Nd4 Rae8 27. Qf1 Qc8 28. Ba6
+Qd8 29. Nb5 Re6 30. Nd4 Ree8 31. Re2 Rg8 32. Rae1 Rgf8 33. Qg2 Ng8 34. Qg3 Bxe5
+35. Rxe5 Nf6 36. Bd3 Rxe5 37. Rxe5 Re8 38. Qe1 Qc7 39. Re7 Kg8 40. Qe3 Rxe7 41.
+Qxe7 Qf4 42. Kg2 Kg7 43. Bb5 Nxg4 44. fxg4 Qxg4+ 45. Kf2 Bxb5 46. Qe5+ f6 47.
+Qe7+ Kg8 48. Nxb5 Qf4+ 49. Kg2 Qd2+ 50. Kf1 Qc1+ 51. Qe1 Qf4+ 52. Qf2 Qc4+ 53.
+Qe2 Qf4+ 54. Kg2 Qg5+ 55. Kf3 Qf5+ 56. Ke3 Qg5+ 57. Kd3 Qf5+ 58. Kd4 Qd7 59. Na3
+Kf7 60. Qf3 Qa4+ 61. Kd3 Qc6 62. b3 h5 63. Nc2 h4 64. Nb4 Qb5+ 65. Kc2 d4 66.
+Qb7+ Kg8 67. Qd5+ Qxd5 68. Nxd5 dxc3 69. Nxf6+ Kf7 70. Ne4 Ke6 71. Nxc3 Ke5 72.
+Kd3 g5 73. Ke3 g4 74. Ne2 b5 75. Nf4 Kf5 76. Nd5 Ke5 77. Nc7 h3 78. Kf2 b4 79.
+Na6 1-0
+
+[Event "IX Torneio Int. da Figueira da Foz"]
+[Site "Figueira da Foz POR"]
+[Date "2018.11.04"]
+[Round "9.7"]
+[White "Martín Duque, Jesus"]
+[Black "Perez Garcia, Rodney Oscar"]
+[Result "1/2-1/2"]
+[ECO "D10"]
+[WhiteElo "2354"]
+[BlackElo "2362"]
+[WhiteFideId "2208954"]
+[BlackFideId "3500918"]
+[WhiteTitle "FM"]
+[BlackTitle "IM"]
+[WhiteCountry "ESP"]
+[BlackCountry "CUB"]
+[PlyCount "79"]
+
+1. d4 d5 2. c4 c6 3. cxd5 cxd5 4. Nc3 Nf6 5. Bf4 Nc6 6. e3 a6 7. Bd3 Bg4 8. Nge2
+e6 9. O-O Bd6 10. f3 Bh5 11. Rc1 Bg6 12. Bxd6 Qxd6 13. Nf4 Bxd3 14. Nxd3 O-O 15.
+Na4 e5 16. dxe5 Nxe5 17. Nxe5 Qxe5 18. Qd2 Rfe8 19. Rfe1 Rac8 20. Nc5 Qe7 21.
+Nb3 Rc4 22. Nd4 Rec8 23. b3 Rxc1 24. Rxc1 Rxc1+ 25. Qxc1 g6 26. Kf2 h5 27. g3
+Ne8 28. Qc8 Kh7 29. b4 h4 30. a4 hxg3+ 31. hxg3 Ng7 32. b5 axb5 33. axb5 Ne8 34.
+b6 Nd6 35. Qc7 Qf6 36. g4 Nc4 37. g5 Qxg5 38. Qxf7+ Kh6 39. Qf8+ Kh7 40. Qf7+
+1/2-1/2
+
+[Event "IX Torneio Int. da Figueira da Foz"]
+[Site "Figueira da Foz POR"]
+[Date "2018.11.04"]
+[Round "9.8"]
+[White "Rotstein, Arkadij"]
+[Black "Sismeiro, Miguel"]
+[Result "1-0"]
+[ECO "A07"]
+[WhiteElo "2476"]
+[BlackElo "2008"]
+[WhiteFideId "4662997"]
+[BlackFideId "1950975"]
+[WhiteTitle "GM"]
+[WhiteCountry "GER"]
+[BlackCountry "POR"]
+[PlyCount "67"]
+
+1. Nf3 d5 2. g3 Nf6 3. Bg2 Bg4 4. c4 c6 5. cxd5 cxd5 6. Ne5 Bf5 7. Nc3 e6 8. g4
+Bg6 9. h4 h6 10. Nxg6 fxg6 11. Qc2 Kf7 12. g5 hxg5 13. hxg5 Rxh1+ 14. Bxh1 Ng4
+15. d4 Qc7 16. Qd3 Qh2 17. Qf3+ Kg8 18. Qxg4 Qxh1+ 19. Kd2 Nc6 20. Qxe6+ Kh7 21.
+b3 Qh5 22. Bb2 Qxg5+ 23. e3 Qh4 24. Rf1 Rd8 25. Nxd5 Rd6 26. Qf7 Qh3 27. Ke1 Nd8
+28. Qxf8 Rxd5 29. Qf4 Ne6 30. Qe4 Rh5 31. d5 Ng5 32. Qe7 Nf3+ 33. Ke2 Kh6 34.
+Bxg7+ 1-0
+
+[Event "IX Torneio Int. da Figueira da Foz"]
+[Site "Figueira da Foz POR"]
+[Date "2018.11.04"]
+[Round "9.9"]
+[White "Fernandes, Miguel"]
+[Black "Elissalt Cardenas, Hector"]
+[Result "1/2-1/2"]
+[ECO "E12"]
+[WhiteElo "2048"]
+[BlackElo "2316"]
+[WhiteFideId "1920456"]
+[BlackFideId "3500632"]
+[BlackTitle "IM"]
+[WhiteCountry "POR"]
+[BlackCountry "ESP"]
+[PlyCount "103"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. a3 Bb7 5. Nc3 d5 6. cxd5 exd5 7. Bf4 a6 8. e3
+Bd6 9. Bxd6 Qxd6 10. Bd3 Nbd7 11. O-O O-O 12. Nh4 g6 13. f4 Rae8 14. Re1 c5 15.
+Nf3 c4 16. Bc2 b5 17. Ne5 Bc6 18. g4 Ne4 19. Bxe4 dxe4 20. d5 Nxe5 21. fxe5 Rxe5
+22. dxc6 Qxc6 23. Rf1 h5 24. Rf4 hxg4 25. Qd4 Rfe8 26. Rxg4 Qe6 27. Rg3 Rf5 28.
+Rf1 Rxf1+ 29. Kxf1 Qf5+ 30. Kg2 Re6 31. Ne2 Qe5 32. h4 Qxd4 33. Nxd4 Rb6 34. Kh3
+Kh7 35. Rg5 Kh6 36. Re5 b4 37. Rxe4 c3 38. bxc3 b3 39. Nxb3 Rxb3 40. a4 Rxc3 41.
+Kg3 f5 42. Re6 Ra3 43. Rxa6 Rxe3+ 44. Kf2 Re4 45. Ra8 Rc4 46. Kf3 Rc3+ 47. Kf4
+Rc1 48. a5 Rc4+ 49. Kf3 Rc3+ 50. Kf4 Rc4+ 51. Kf3 Rc3+ 52. Ke4 1/2-1/2
+
+[Event "IX Torneio Int. da Figueira da Foz"]
+[Site "Figueira da Foz POR"]
+[Date "2018.11.04"]
+[Round "9.10"]
+[White "Dias, Ricardo"]
+[Black "Margarido, José"]
+[Result "1/2-1/2"]
+[ECO "B46"]
+[WhiteElo "2098"]
+[BlackElo "2121"]
+[WhiteFideId "1930060"]
+[BlackFideId "1914227"]
+[WhiteCountry "POR"]
+[BlackCountry "POR"]
+[PlyCount "75"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 a6 6. g3 d6 7. Bg2 Bd7 8. O-O
+Nf6 9. Be3 Be7 10. a4 O-O 11. f4 Qc7 12. Qe2 Rfe8 13. Kh1 Rac8 14. h3 Nxd4 15.
+Bxd4 Bc6 16. Rad1 Nd7 17. g4 e5 18. Be3 exf4 19. Bxf4 Ne5 20. Qf2 Bf8 21. a5 g6
+22. b3 Bg7 23. Ne2 Re7 24. Qh4 Rd7 25. Bh6 Bxh6 26. Qxh6 Qxa5 27. Rf6 Qc5 28. c4
+Re8 29. Nf4 Qe3 30. Rf1 Bxe4 31. g5 Bxg2+ 32. Kxg2 Qe4+ 33. Kg3 d5 34. Ne6 Rxe6
+35. Rxe6 Qe3+ 36. Kg2 Qe2+ 37. Kg3 Qe3+ 38. Kg2 1/2-1/2
+
+[Event "IX Torneio Int. da Figueira da Foz"]
+[Site "Figueira da Foz POR"]
+[Date "2018.11.04"]
+[Round "9.11"]
+[White "Lisowski, Krzysztof"]
+[Black "Dionízio, André"]
+[Result "0-1"]
+[ECO "B13"]
+[WhiteElo "2095"]
+[BlackElo "2013"]
+[WhiteFideId "1110969"]
+[BlackFideId "1920294"]
+[WhiteCountry "POL"]
+[BlackCountry "POR"]
+[PlyCount "100"]
+[EventDate "2018.??.??"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. Bf4 Nf6 5. c3 Nc6 6. Nd2 Bf5 7. Ngf3 e6 8. Qb3
+Qc8 9. Nh4 Bg6 10. g3 Be7 11. Nxg6 hxg6 12. Bd3 Ng4 13. Nf3 Qd7 14. Qc2 O-O-O
+15. O-O-O Bd6 16. Bxd6 Qxd6 17. h3 Nf6 18. Ng5 Rd7 19. Kb1 Rc7 20. Qe2 Kb8 21.
+Rhe1 Rhc8 22. f4 a6 23. Nf3 Ka7 24. Ne5 Na5 25. g4 b5 26. Rc1 Rh8 27. Qf3 Nc4
+28. Re2 Qb6 29. Rec2 Nd6 30. a3 Nfe4 31. Rh1 Rhc8 32. Rhc1 a5 33. Qe2 Rh8 34.
+Qg2 Qb7 35. Rh1 f6 36. Nf3 Nc4 37. Re1 f5 38. Ne5 Nxe5 39. dxe5 Nc5 40. Bf1 Nb3
+41. Ka2 a4 42. Qf2+ Rc5 43. Bg2 Qc7 44. Rd1 Ka6 45. Re2 Rc8 46. Bf1 d4 47. cxd4
+Rc1 48. Ree1 Rc2 49. Re2 Nc1+ 50. Rxc1 Qc4+ 0-1
+
+[Event "IX Torneio Int. da Figueira da Foz"]
+[Site "Figueira da Foz POR"]
+[Date "2018.11.04"]
+[Round "9.12"]
+[White "Röttgen, Jürgen"]
+[Black "Morais, Vítor"]
+[Result "1/2-1/2"]
+[ECO "A34"]
+[WhiteElo "2169"]
+[BlackElo "1918"]
+[WhiteFideId "4629868"]
+[BlackFideId "1900552"]
+[WhiteCountry "GER"]
+[BlackCountry "POR"]
+[PlyCount "124"]
+
+1. c4 c5 2. Nc3 Nf6 3. Nf3 Nc6 4. e3 d5 5. d4 e6 6. a3 cxd4 7. exd4 dxc4 8. Bxc4
+Be7 9. O-O O-O 10. Re1 a6 11. b4 b5 12. Bb3 Bb7 13. d5 exd5 14. Nxd5 Nxd5 15.
+Bxd5 Bf6 16. Ra2 Rc8 17. Bb2 Rc7 18. Bxf6 Qxf6 19. Qb3 Rd7 20. Rd2 h6 21. Red1
+Rfd8 22. h3 g5 23. Qe3 Kg7 24. Qc5 h5 25. Bxc6 Rxd2 26. Rxd2 Rxd2 27. Bxb7 Rd1+
+28. Kh2 g4 29. hxg4 hxg4 30. Qg5+ Qxg5 31. Nxg5 Ra1 32. Ne4 Rxa3 33. Nc5 a5 34.
+bxa5 Rxa5 35. Nb3 Ra3 36. Bd5 f5 37. Nd4 Kf6 38. Nxb5 Ra5 39. Bc4 Kg5 40. g3 Ra4
+41. Bd3 Ra2 42. Kg2 Ra5 43. Nd4 Rd5 44. Ne6+ Kf6 45. Nf4 Ra5 46. Kf1 Ra2 47. Ng2
+Rd2 48. Be2 Ra2 49. Ne3 Ra1+ 50. Kg2 Kg5 51. Bd3 Ra5 52. Bxf5 Rxf5 53. Nxf5 Kxf5
+54. Kf1 Ke5 55. Ke1 Kd5 56. Kd1 Ke5 57. Ke2 Ke4 58. Kd2 Kd4 59. Ke2 Ke4 60. f4
+gxf3+ 61. Kf2 Ke5 62. Kxf3 Kf5 1/2-1/2
+
+[Event "IX Torneio Int. da Figueira da Foz"]
+[Site "Figueira da Foz POR"]
+[Date "2018.11.04"]
+[Round "9.13"]
+[White "Santos, António P"]
+[Black "Gonçalves, Lucas"]
+[Result "1-0"]
+[ECO "D50"]
+[WhiteElo "2155"]
+[BlackElo "1401"]
+[WhiteFideId "1900161"]
+[BlackFideId "1945360"]
+[WhiteTitle "FM"]
+[WhiteCountry "POR"]
+[BlackCountry "POR"]
+[PlyCount "83"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5 c6 5. e3 Be7 6. Nf3 Nbd7 7. Qc2 h6 8. Bf4
+dxc4 9. Bxc4 Nb6 10. Bb3 Nbd5 11. Be5 O-O 12. O-O Nd7 13. Bg3 N7b6 14. Rfd1 Bd6
+15. Bxd6 Qxd6 16. Ne4 Qc7 17. Rac1 Bd7 18. a3 Rac8 19. Ba2 Rfd8 20. Bb1 g6 21.
+Ne5 Be8 22. Nc5 Qe7 23. Qd2 Kg7 24. Qa5 Rc7 25. e4 Nf4 26. Qe1 f6 27. Nf3 e5 28.
+g3 Ne6 29. dxe5 Rxd1 30. exf6+ Qxf6 31. Nxe6+ Qxe6 32. Rxd1 Qf6 33. Qe2 Rf7 34.
+Nh4 Nd7 35. f4 Nb6 36. e5 Qe6 37. Rd6 Qb3 38. Rxg6+ Kf8 39. e6 Qd5 40. exf7 Bd7
+41. Rxh6 Bh3 42. Qe8+ 1-0
+
+[Event "IX Torneio Int. da Figueira da Foz"]
+[Site "Figueira da Foz POR"]
+[Date "2018.11.04"]
+[Round "9.14"]
+[White "Fernandes, João Pedro"]
+[Black "Fernandes, Ricardo Paulos"]
+[Result "1/2-1/2"]
+[ECO "B75"]
+[WhiteElo "2067"]
+[BlackElo "2098"]
+[WhiteFideId "1926624"]
+[BlackFideId "1943464"]
+[WhiteCountry "POR"]
+[BlackCountry "POR"]
+[PlyCount "66"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 Nc6 8. Qd2
+O-O 9. Bc4 Bd7 10. O-O-O Rc8 11. Bb3 Nxd4 12. Bxd4 b5 13. Nd5 Nxd5 14. Bxg7 Kxg7
+15. Bxd5 a5 16. h4 h6 17. h5 g5 18. a3 Rc5 19. f4 f6 20. fxg5 hxg5 21. Qd3 e5
+22. b4 Rc7 23. Kb2 Qb8 24. Rd2 Qa7 25. Qb3 Rfc8 26. h6+ Kh7 27. Bg8+ Kh8 28. Qf7
+Bg4 29. Qxf6+ Kxg8 30. Qxg5+ Kh8 31. Qxg4 Qe3 32. Qf3 Qxd2 33. Qf6+ Kh7 1/2-1/2
+
+[Event "IX Torneio Int. da Figueira da Foz"]
+[Site "Figueira da Foz POR"]
+[Date "2018.11.04"]
+[Round "9.15"]
+[White "Felizes, Paulo"]
+[Black "Adams, Philip"]
+[Result "0-1"]
+[ECO "A40"]
+[WhiteElo "1965"]
+[BlackElo "1980"]
+[WhiteFideId "1900889"]
+[BlackFideId "411256"]
+[WhiteCountry "POR"]
+[BlackCountry "ENG"]
+[PlyCount "60"]
+
+1. d4 e6 2. Nf3 Nf6 3. Bg5 c5 4. e4 cxd4 5. e5 h6 6. Bh4 g5 7. Bg3 Ne4 8. Qxd4
+Nxg3 9. hxg3 Nc6 10. Qe3 g4 11. Nfd2 Qa5 12. Rh5 f5 13. Nc3 Qxe5 14. Nb5 Kf7 15.
+O-O-O Qxe3 16. fxe3 a6 17. Nc3 d5 18. Na4 b5 19. Nb6 Rb8 20. Nxc8 Rxc8 21. a4
+bxa4 22. Bxa6 Rc7 23. Kb1 Bg7 24. e4 fxe4 25. Be2 Rb8 26. b3 Nd4 27. Bxg4 axb3
+28. c4 Nc2 29. Rf1+ Ke7 30. Nxb3 Ne3 0-1
+
+[Event "IX Torneio Int. da Figueira da Foz"]
+[Site "Figueira da Foz POR"]
+[Date "2018.11.04"]
+[Round "9.16"]
+[White "Lopez De Turiso, José Angel"]
+[Black "Puglia, Francesco"]
+[Result "1/2-1/2"]
+[ECO "B20"]
+[WhiteElo "1933"]
+[BlackElo "1803"]
+[WhiteFideId "2207680"]
+[BlackFideId "2820060"]
+[WhiteCountry "ESP"]
+[BlackCountry "ITA"]
+[PlyCount "89"]
+
+1. e4 c5 2. c3 Nf6 3. e5 Nd5 4. d4 cxd4 5. Nf3 d6 6. Bc4 dxe5 7. Nxe5 e6 8. Qxd4
+Be7 9. Nd2 O-O 10. O-O Nc6 11. Nxc6 bxc6 12. Nf3 Qb6 13. Qe4 Bb7 14. Bg5 c5 15.
+Qh4 Bxg5 16. Nxg5 Nf6 17. Rfe1 Qxb2 18. Rab1 Qxc3 19. Rec1 Qd2 20. Rd1 Qa5 21.
+Rxb7 Rae8 22. h3 Qa4 23. Rdd7 h6 24. Rxf7 Qd1+ 25. Kh2 Qd6+ 26. g3 Rxf7 27. Nxf7
+Qc6 28. Rb1 Qf3 29. Rf1 Kxf7 30. Bb3 Nd5 31. Qc4 Qc3 32. Qe4 Qd4 33. Bxd5 exd5
+34. Qf5+ Kg8 35. h4 Rf8 36. Qe6+ Kh8 37. Kg2 Qe4+ 38. Qxe4 dxe4 39. Rc1 Rf5 40.
+Rc4 Re5 41. Ra4 Re7 42. Rc4 e3 43. fxe3 Rxe3 44. Ra4 Re7 45. Kf3 1/2-1/2
+
+[Event "IX Torneio Int. da Figueira da Foz"]
+[Site "Figueira da Foz POR"]
+[Date "2018.11.04"]
+[Round "9.17"]
+[White "Marques, João"]
+[Black "Pipiras, Filipa"]
+[Result "0-1"]
+[ECO "A20"]
+[WhiteElo "1807"]
+[BlackElo "1853"]
+[WhiteFideId "1930540"]
+[BlackFideId "1944894"]
+[WhiteCountry "POR"]
+[BlackCountry "POR"]
+[PlyCount "72"]
+
+1. c4 e5 2. g3 Nf6 3. Bg2 Nc6 4. Nc3 Bc5 5. Nf3 O-O 6. O-O a6 7. d3 h6 8. a3 d6
+9. Bd2 Ne7 10. b4 Ba7 11. a4 Be6 12. b5 axb5 13. axb5 Qd7 14. Ra4 Bb6 15. Qa1
+Rad8 16. Qb2 Nh7 17. e3 f5 18. Ne1 Rb8 19. Nc2 g5 20. Nd5 Nxd5 21. cxd5 Bf7 22.
+d4 e4 23. Qb3 Nf6 24. Rb1 Bxd5 25. Qa3 Kg7 26. Bf1 c6 27. Nb4 Bf7 28. bxc6 bxc6
+29. Na6 Rb7 30. Rab4 Nd5 31. R4b2 Ra8 32. Ba5 Qd8 33. Rxb6 Nxb6 34. Qb2 Nc4 35.
+Qxb7 Nxa5 36. Ra1 Nxb7 0-1
+
+[Event "IX Torneio Int. da Figueira da Foz"]
+[Site "Figueira da Foz POR"]
+[Date "2018.11.04"]
+[Round "9.18"]
+[White "Louzao Brea, Jose Luis"]
+[Black "Silva, Pedro Gil"]
+[Result "0-1"]
+[ECO "B12"]
+[WhiteElo "1835"]
+[BlackElo "1837"]
+[WhiteFideId "2270811"]
+[BlackFideId "1946102"]
+[WhiteCountry "ESP"]
+[BlackCountry "POR"]
+[PlyCount "72"]
+
+1. e4 c6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. f4 cxd4 6. cxd4 Nh6 7. Nf3 Bg4 8. Be2
+Bxf3 9. gxf3 e6 10. Bb5 Qb6 11. Nc3 Nf5 12. Bxc6+ bxc6 13. Ne2 Be7 14. O-O O-O
+15. Qd3 Rfc8 16. b3 c5 17. dxc5 Qxc5+ 18. Kh1 Qc2 19. Rd1 Qxd3 20. Rxd3 Rc2 21.
+Ng3 Rac8 22. Bd2 Nh4 23. Nf1 Ng6 24. b4 R2c4 25. Ra3 Bxb4 26. Bxb4 Rxb4 27. f5
+Nxe5 28. fxe6 fxe6 29. Re1 Ng6 30. Rxa7 d4 31. Kg2 d3 32. Rd7 Rb2+ 33. Kg3 Rcc2
+34. f4 Rg2+ 35. Kf3 Nh4+ 36. Ke3 Rbe2+ 0-1
+
+[Event "IX Torneio Int. da Figueira da Foz"]
+[Site "Figueira da Foz POR"]
+[Date "2018.11.04"]
+[Round "9.19"]
+[White "Pais, Bruno"]
+[Black "Gama, João"]
+[Result "1/2-1/2"]
+[ECO "E60"]
+[WhiteElo "1836"]
+[BlackElo "1598"]
+[WhiteFideId "1911341"]
+[BlackFideId "1926667"]
+[WhiteCountry "POR"]
+[BlackCountry "POR"]
+[PlyCount "214"]
+[EventDate "2018.??.??"]
+
+1. d4 Nf6 2. c4 g6 3. Nf3 Bg7 4. h3 c5 5. d5 d6 6. Nc3 Nbd7 7. e4 a6 8. Bd3 Ne5
+9. Nxe5 dxe5 10. Be3 Qc7 11. O-O O-O 12. g4 Ne8 13. Rb1 Nd6 14. b4 b6 15. bxc5
+bxc5 16. Na4 Nb7 17. Nb6 Rb8 18. Qa4 a5 19. Qa3 Bd7 20. Nxd7 Qxd7 21. Bxc5 Nxc5
+22. Qxc5 Qa4 23. a3 Rb3 24. Bc2 Qxa3 25. Qxa3 Rxa3 26. Rb3 Rxb3 27. Bxb3 Rb8 28.
+Ba4 Bh6 29. Rd1 Rb4 30. Bb5 Kf8 31. Kg2 Bf4 32. Ra1 a4 33. Rxa4 Rxa4 34. Bxa4
+Bd2 35. c5 Bb4 36. c6 Bd6 37. Kf3 g5 38. Ke3 e6 39. Kd3 Ke7 40. Bb3 exd5 41.
+exd5 f6 42. Bc2 h6 43. Kc4 Kd8 44. Bf5 Kc7 45. Bd7 Be7 46. Kd3 Kd6 47. Ke4 Bd8
+48. Be6 Bc7 49. Kf5 Ke7 50. Kg6 Bd6 51. Kxh6 Bc7 52. Kg6 Bd6 53. Kf5 Bc7 54. Ke4
+Bd6 55. Kd3 Kd8 56. f3 Kc7 57. Ke4 Kd8 58. Kf5 Ke7 59. Kg6 Bc7 60. Kh5 Bd6 61.
+h4 gxh4 62. Kxh4 Bc7 63. Kh5 Bd6 64. Kg6 Bc7 65. Kf5 Bd6 66. g5 fxg5 67. Kxg5
+Bc7 68. Kf5 Bd6 69. Ke4 Kd8 70. Bd7 Ke7 71. Kd3 Kd8 72. Kc4 Kc7 73. Be6 Be7 74.
+d6+ Kxd6 75. Bd7 Bf8 76. Kd3 Be7 77. Ke4 Bd8 78. Kf5 Be7 79. Kg6 Bh4 80. Kf5 Bd8
+81. Be8 Bc7 82. Ke4 Bd8 83. Kd3 Kc5 84. Bd7 Bb6 85. Ke4 Kd6 86. Be8 Bc7 87. Kf5
+Bd8 88. Kg6 Bh4 89. Kf7 Bd8 90. Bd7 Bg5 91. Kg6 Bd8 92. Kf5 Be7 93. Ke4 Bd8 94.
+Kd3 Kc5 95. Kc3 Bc7 96. Be8 Bd6 97. Kb3 Bc7 98. Kc3 Bd8 99. Kd3 Bc7 100. Ke4 Kd6
+101. Bd7 Bd8 102. f4 exf4 103. Kxf4 Bc7 104. Kf5 Bd8 105. Ke4 Bb6 106. Be8 Kc7
+107. Ke5 Bg1 1/2-1/2
+
+[Event "IX Torneio Int. da Figueira da Foz"]
+[Site "Figueira da Foz POR"]
+[Date "2018.11.04"]
+[Round "9.20"]
+[White "Asvestopoulou, Evdokia"]
+[Black "Soares, Sara"]
+[Result "0-1"]
+[ECO "D56"]
+[WhiteElo "1720"]
+[BlackElo "1481"]
+[WhiteFideId "4219198"]
+[BlackFideId "1948172"]
+[WhiteCountry "GRE"]
+[BlackCountry "POR"]
+[PlyCount "54"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5 Be7 5. e3 O-O 6. Nf3 h6 7. Bh4 Ne4 8. Bxe7
+Qxe7 9. Nxe4 dxe4 10. Nd2 f5 11. Be2 Rd8 12. O-O c6 13. Qc2 Nd7 14. f3 exf3 15.
+Nxf3 Nf6 16. Rad1 b6 17. Ne5 Bb7 18. Bf3 c5 19. Nc6 Bxc6 20. Bxc6 Rac8 21. d5
+Qc7 22. h3 exd5 23. cxd5 g6 24. Qc3 Ne4 25. Qc4 Kh7 26. Qa4 Rd6 27. g4 Rxc6 0-1
+
+[Event "IX Torneio Int. da Figueira da Foz"]
+[Site "Figueira da Foz POR"]
+[Date "2018.11.04"]
+[Round "9.21"]
+[White "Dong, Rafael"]
+[Black "Morais, Mario M F"]
+[Result "0-1"]
+[ECO "A10"]
+[WhiteElo "1360"]
+[BlackElo "1766"]
+[WhiteFideId "1958038"]
+[BlackFideId "1959506"]
+[WhiteCountry "POR"]
+[BlackCountry "POR"]
+[PlyCount "40"]
+
+1. c4 b6 2. Nc3 Bb7 3. Nf3 Nf6 4. d3 e6 5. g3 Nc6 6. Bg2 Be7 7. O-O Qc8 8. a3 a5
+9. Rb1 h5 10. h3 e5 11. e3 h4 12. g4 Nxg4 13. hxg4 h3 14. Bh1 d5 15. Nh2 d4 16.
+exd4 Nxd4 17. Ne4 f5 18. gxf5 Qxf5 19. Qg4 Rh4 20. Qxf5 Ne2# 0-1
+
+[Event "IX Torneio Int. da Figueira da Foz"]
+[Site "Figueira da Foz POR"]
+[Date "2018.11.04"]
+[Round "9.22"]
+[White "Dong, Fábio"]
+[Black "Marçal, Paulo"]
+[Result "1/2-1/2"]
+[ECO "A36"]
+[WhiteElo "1273"]
+[BlackElo "1751"]
+[WhiteFideId "1958020"]
+[BlackFideId "1903837"]
+[WhiteCountry "POR"]
+[BlackCountry "POR"]
+[PlyCount "80"]
+
+1. c4 c5 2. Nc3 Nc6 3. g3 d6 4. Bg2 Nf6 5. Nf3 a6 6. O-O Rb8 7. d4 cxd4 8. Nxd4
+Ne5 9. Bg5 e6 10. Ne4 h6 11. Nxf6+ gxf6 12. Be3 Bd7 13. b3 h5 14. h4 Ng4 15. Bd2
+Qb6 16. Bc3 Bh6 17. e3 e5 18. Nc2 Bxe3 19. fxe3 Nxe3 20. Nxe3 Qxe3+ 21. Kh2 Qxc3
+22. Rxf6 Rg8 23. Rf3 Qb4 24. Rd3 Ke7 25. Qxh5 Rg6 26. Qf3 Bc6 27. Qf2 Bxg2 28.
+Kxg2 Rf6 29. Rf3 Rxf3 30. Qxf3 Rf8 31. Rf1 f5 32. a3 Qb6 33. b4 e4 34. Qh5 Ke6
+35. Qg6+ Ke5 36. Qg7+ Rf6 37. Qe7+ Re6 38. Qg7+ Rf6 39. Qe7+ Re6 40. Qg7+ Rf6
+1/2-1/2
+
+[Event "IX Torneio Int. da Figueira da Foz"]
+[Site "Figueira da Foz POR"]
+[Date "2018.11.04"]
+[Round "9.23"]
+[White "Mões Joaquim, Carlos"]
+[Black "Bouxo, Luís"]
+[Result "1-0"]
+[ECO "D30"]
+[WhiteElo "1415"]
+[BlackElo "1585"]
+[WhiteFideId "1928104"]
+[BlackFideId "1904647"]
+[WhiteCountry "CPV"]
+[BlackCountry "POR"]
+[PlyCount "70"]
+
+1. d4 d5 2. c4 e6 3. Nf3 Nf6 4. Nc3 Be7 5. e3 O-O 6. Bd3 c6 7. O-O Re8 8. Ne5
+Nbd7 9. f4 dxc4 10. Bxc4 Nd5 11. Qh5 Nxe5 12. fxe5 g6 13. Qf3 Rf8 14. e4 Nxc3
+15. bxc3 Kg7 16. Qh3 h5 17. Qe3 Rh8 18. a4 Rh7 19. Ba3 Bxa3 20. Rxa3 Qe7 21. Ra2
+Bd7 22. Raf2 Kg8 23. Rf6 a6 24. Be2 Rf8 25. Qg5 Rg7 26. R1f3 Qa3 27. h3 Qa1+ 28.
+Kh2 Qe1 29. Qe3 Qa1 30. Rg3 Rh7 31. h4 Qxa4 32. Qf4 Qc2 33. Bxh5 Rxh5 34. Rgxg6+
+Kh8 35. Rh6+ Kh7 1-0
+

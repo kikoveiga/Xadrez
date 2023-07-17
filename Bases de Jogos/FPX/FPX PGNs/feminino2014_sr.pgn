@@ -1,0 +1,674 @@
+[Event "CN Feminino 2014 - SR"]
+[Site "Lisboa POR"]
+[Date "2014.04.12"]
+[Round "1.1"]
+[White "Pintor, Ariana"]
+[Black "Correia, Sandra"]
+[Result "1-0"]
+[ECO "B34"]
+[WhiteElo "2062"]
+[BlackElo "1731"]
+[WhiteFideId "1902806"]
+[BlackFideId "1928147"]
+[WhiteTitle "WFM"]
+[PlyCount "61"]
+[EventDate "2014.??.??"]
+
+1. e4 c5 2. Nf3 g6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 Bg7 6. Nb3 Bxc3+ 7. bxc3 Nf6
+8. Bd3 d5 9. exd5 Qxd5 10. O-O Be6 11. Re1 O-O 12. c4 Qd6 13. Bb2 Ng4 14. g3
+Nge5 15. Qe2 f6 16. c5 Qd5 17. Be4 Qc4 18. f4 Bg4 19. Qxc4+ Nxc4 20. Bd5+ Kg7
+21. Bxc4 Nb4 22. Rxe7+ Kh6 23. Nd4 Rac8 24. Rxb7 a5 25. Re1 Rxc5 26. Ree7 Rh8
+27. Bg8 g5 28. fxg5+ fxg5 29. Rb6+ Nc6 30. Nxc6 Rxg8 31. Ne5+ 1-0
+
+[Event "CN Feminino 2014 - SR"]
+[Site "Lisboa POR"]
+[Date "2014.04.12"]
+[Round "1.2"]
+[White "Jorge, Rita"]
+[Black "Baptista, Ana"]
+[Result "0-1"]
+[ECO "B83"]
+[WhiteElo "1699"]
+[WhiteFideId "1923161"]
+[BlackFideId "1902970"]
+[BlackTitle "WFM"]
+[PlyCount "98"]
+[EventDate "2014.??.??"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Be2 Be7 7. Be3 a6 8. a4
+Qc7 9. O-O Nc6 10. Nb3 b6 11. Qd2 Bb7 12. f3 O-O 13. Bd3 Rfd8 14. Qf2 Nd7 15.
+Rfd1 Nc5 16. Bf1 Nb4 17. Bd3 Nbxd3 18. cxd3 Nxb3 19. Bxb6 Qc6 20. Ra3 Nc5 21.
+Bxd8 Rxd8 22. d4 Nd7 23. Raa1 Nb6 24. Qe2 d5 25. e5 f6 26. Re1 Bc8 27. Rec1 Qb7
+28. b3 fxe5 29. Qxe5 Bf6 30. Qf4 Qe7 31. Rab1 Bg5 32. Qe5 Bxc1 33. Rxc1 Qf6 34.
+Qe3 Bb7 35. Ne2 Rc8 36. Rxc8+ Nxc8 37. Qc3 Qd8 38. Nf4 Qd6 39. Qe3 Kf7 40. Nh3
+h6 41. Nf2 Ne7 42. Nd3 Nf5 43. Qf2 Qb6 44. Nc5 Bc8 45. g4 Ne7 46. Qg3 Ng6 47.
+h4 e5 48. h5 Nf4 49. dxe5 Ne2+ 0-1
+
+[Event "CN Feminino 2014 - SR"]
+[Site "Lisboa POR"]
+[Date "2014.04.12"]
+[Round "1.3"]
+[White "Oliveira, Inês"]
+[Black "Ferreira, Beatriz"]
+[Result "1-0"]
+[ECO "B01"]
+[WhiteElo "1915"]
+[BlackElo "1561"]
+[WhiteFideId "1909436"]
+[BlackFideId "1925377"]
+[WhiteTitle "WCM"]
+[PlyCount "75"]
+[EventDate "2014.??.??"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qa5 4. Bc4 Nf6 5. d3 Bf5 6. Nge2 e5 7. O-O Bd6 8.
+Ng3 Bg6 9. Bg5 Nbd7 10. a3 c6 11. Nge4 Be7 12. b4 Qc7 13. Be3 O-O 14. f4 Nxe4
+15. Nxe4 exf4 16. Bxf4 Qb6+ 17. Kh1 Nf6 18. Ng3 Rad8 19. Qf3 Bd6 20. Bxd6 Rxd6
+21. Rae1 Qc7 22. Re2 Re8 23. Rxe8+ Nxe8 24. Ne4 Rd7 25. a4 Re7 26. Bb3 Bxe4 27.
+dxe4 Nf6 28. Re1 Qe5 29. Bc4 Qd4 30. Bd3 Qc3 31. Rf1 Qxb4 32. Qf5 Qd6 33. Re1
+Qe5 34. Qc8+ Re8 35. Qxb7 Ng4 36. g3 Qc5 37. Rf1 Qe3 38. Qxf7+ 1-0
+
+[Event "CN Feminino 2014 - SR"]
+[Site "Lisboa POR"]
+[Date "2014.04.12"]
+[Round "1.4"]
+[White "Rhodes, Mónica"]
+[Black "Monteiro, Sara"]
+[Result "0-1"]
+[ECO "C55"]
+[BlackElo "1784"]
+[WhiteFideId "1939262"]
+[BlackFideId "1909860"]
+[BlackTitle "WCM"]
+[PlyCount "30"]
+[EventDate "2014.??.??"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. O-O d6 5. d3 Bg4 6. h3 Bh5 7. Bg5 Be7 8. Nc3
+Nd4 9. Nd5 Nxf3+ 10. gxf3 Nxd5 11. Bxe7 Nxe7 12. Qd2 Ng6 13. Qb4 Bxf3 14. Qxb7
+Qg5+ 15. Kh2 Qg2# 0-1
+
+[Event "CN Feminino 2014 - SR"]
+[Site "Lisboa POR"]
+[Date "2014.04.12"]
+[Round "1.5"]
+[White "Lima Santos, Inês"]
+[Black "Santos, Leonor"]
+[Result "1-0"]
+[ECO "C65"]
+[WhiteElo "1769"]
+[WhiteFideId "1913034"]
+[BlackFideId "1941739"]
+[PlyCount "63"]
+[EventDate "2014.??.??"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Bc5 4. O-O Nf6 5. Re1 O-O 6. Bxc6 bxc6 7. Nxe5 Ng4
+8. Nxg4 d5 9. d4 Bxg4 10. Qxg4 Bxd4 11. exd5 c5 12. c4 h6 13. Nc3 Re8 14. Rd1
+Rb8 15. Nb5 Bf6 16. Nxa7 Qd6 17. Nc6 Ra8 18. Bf4 Qf8 19. Rd2 Be7 20. Bxc7 Rac8
+21. Bf4 Bg5 22. Bxg5 hxg5 23. Qxg5 Qd6 24. Rc2 f6 25. Qg6 Rxc6 26. Qxe8+ Qf8
+27. Qxf8+ Kxf8 28. dxc6 g6 29. c7 Ke8 30. c8=Q+ Ke7 31. Re1+ Kd6 32. Rd2# 1-0
+
+[Event "CN Feminino 2014 - SR"]
+[Site "Lisboa POR"]
+[Date "2014.04.12"]
+[Round "2.1"]
+[White "Monteiro, Sara"]
+[Black "Pintor, Ariana"]
+[Result "0-1"]
+[ECO "E92"]
+[WhiteElo "1784"]
+[BlackElo "2062"]
+[WhiteFideId "1909860"]
+[BlackFideId "1902806"]
+[WhiteTitle "WCM"]
+[BlackTitle "WFM"]
+[PlyCount "126"]
+[EventDate "2014.??.??"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 e5 7. d5 a5 8. a3 Na6
+9. O-O Nc5 10. Qc2 Nh5 11. Be3 Na6 12. Qd2 f5 13. Bg5 Qe8 14. exf5 gxf5 15. Bh6
+Qg6 16. Bxg7 Nf4 17. Nh4 Qxg7 18. Bf3 Qg5 19. Qe3 Qxh4 20. g3 Qh3 21. gxf4 Rf6
+22. Bg2 Qg4 23. fxe5 Rg6 24. Qg3 Qxc4 25. Qf3 dxe5 26. Qe2 Qxe2 27. Nxe2 f4 28.
+Kh1 Bg4 29. f3 Bf5 30. Rg1 Rd8 31. Nc3 Nc5 32. Bf1 Nb3 33. Re1 Nd2 34. Be2 Rdd6
+35. Rxg6+ Rxg6 36. Rd1 Nb3 37. Bc4 Nd4 38. d6+ Kf8 39. dxc7 Rc6 40. Bd5 Rxc7
+41. Rg1 Bg6 42. Re1 Re7 43. Kg2 Bh5 44. Ne2 Nf5 45. Rc1 Ne3+ 46. Kf2 Nxd5 47.
+Rc8+ Kf7 48. Rc5 Nf6 49. Rxa5 e4 50. Nxf4 Bxf3 51. Nh3 h6 52. Nf4 Rc7 53. h3
+Rc2+ 54. Kg3 Rxb2 55. Rf5 Ke7 56. Ng6+ Ke6 57. Re5+ Kf7 58. Nf4 Rb3 59. a4 Bd1+
+60. Kh4 e3 61. a5 Rb4 62. Kg3 Re4 63. Rxe4 Nxe4+ 0-1
+
+[Event "CN Feminino 2014 - SR"]
+[Site "Lisboa POR"]
+[Date "2014.04.12"]
+[Round "2.2"]
+[White "Baptista, Ana"]
+[Black "Oliveira, Inês"]
+[Result "0-1"]
+[ECO "B48"]
+[BlackElo "1915"]
+[WhiteFideId "1902970"]
+[BlackFideId "1909436"]
+[WhiteTitle "WFM"]
+[BlackTitle "WCM"]
+[PlyCount "66"]
+[EventDate "2014.??.??"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 Qc7 6. Be3 Nf6 7. Bd3 Nxd4 8.
+Bxd4 Bc5 9. Bxc5 Qxc5 10. Qf3 d6 11. Bb5+ Bd7 12. Bxd7+ Nxd7 13. O-O-O Ne5 14.
+Qe2 O-O 15. f4 Nc4 16. Rd3 Rac8 17. Rh3 Nxb2 18. Kxb2 Qb4+ 19. Kc1 Rxc3 20.
+Rxc3 Qxc3 21. Rd1 Qa1+ 22. Kd2 Qxa2 23. Ke1 d5 24. e5 Rc8 25. Rd2 h6 26. Kf2
+Rc4 27. g3 b5 28. f5 Qa6 29. Qh5 Re4 30. f6 Qb6+ 31. Kg2 Qe3 32. Rf2 Rxe5 33.
+Qg4 Qe4+ 0-1
+
+[Event "CN Feminino 2014 - SR"]
+[Site "Lisboa POR"]
+[Date "2014.04.12"]
+[Round "2.3"]
+[White "Correia, Sandra"]
+[Black "Lima Santos, Inês"]
+[Result "0-1"]
+[ECO "C55"]
+[WhiteElo "1731"]
+[BlackElo "1769"]
+[WhiteFideId "1928147"]
+[BlackFideId "1913034"]
+[PlyCount "58"]
+[EventDate "2014.??.??"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Bc4 Nf6 5. e5 d5 6. Bb5 Ne4 7. Nxd4 Bd7 8.
+Bxc6 bxc6 9. O-O Bc5 10. f3 Ng5 11. f4 Ne4 12. Be3 Bb6 13. Nc3 Nxc3 14. bxc3
+O-O 15. Qd2 Qe7 16. Rf3 f6 17. exf6 Qxf6 18. Raf1 Rae8 19. h3 Re4 20. g4 c5 21.
+Nb3 d4 22. cxd4 cxd4 23. g5 dxe3 24. Qxd7 e2+ 25. Kg2 exf1=Q+ 26. Rxf1 Re2+ 27.
+Kg3 Re3+ 28. Kg2 Qe6 29. Qd1 Qxh3+ 0-1
+
+[Event "CN Feminino 2014 - SR"]
+[Site "Lisboa POR"]
+[Date "2014.04.12"]
+[Round "2.4"]
+[White "Santos, Leonor"]
+[Black "Jorge, Rita"]
+[Result "0-1"]
+[ECO "B27"]
+[BlackElo "1699"]
+[WhiteFideId "1941739"]
+[BlackFideId "1923161"]
+[PlyCount "72"]
+[EventDate "2014.??.??"]
+
+1. e4 c5 2. Nf3 g6 3. Bc4 Nc6 4. O-O Bg7 5. Nc3 d6 6. d3 Nf6 7. Bg5 O-O 8. h3
+a6 9. a3 b5 10. Bd5 Nxd5 11. Nxd5 Bxb2 12. Nxe7+ Nxe7 13. Bxe7 Qxe7 14. Rb1
+Bxa3 15. c3 Be6 16. Ra1 Bb2 17. Rb1 Bxc3 18. Qc2 Bg7 19. Qd2 b4 20. Ng5 a5 21.
+Nxe6 Qxe6 22. Qd1 a4 23. Ra1 Bxa1 24. Qxa1 a3 25. Rb1 Qe5 26. Qa2 Qe6 27. Qa1
+b3 28. Qc3 b2 29. f3 a2 30. Qxb2 axb1=Q+ 31. Qxb1 Qa2 32. Qb6 Ra6 33. Qc7 Qa1+
+34. Kh2 Qe5+ 35. Kg1 Qg3 36. d4 Ra1# 0-1
+
+[Event "CN Feminino 2014 - SR"]
+[Site "Lisboa POR"]
+[Date "2014.04.12"]
+[Round "2.5"]
+[White "Ferreira, Beatriz"]
+[Black "Rhodes, Mónica"]
+[Result "1-0"]
+[ECO "C44"]
+[WhiteElo "1561"]
+[WhiteFideId "1925377"]
+[BlackFideId "1939262"]
+[PlyCount "91"]
+[EventDate "2014.??.??"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Bc4 Bb4+ 5. c3 Ba5 6. Nxd4 Nxd4 7. Qxd4 Bb6
+8. Qxg7 Qf6 9. Qxf6 Nxf6 10. Bd3 Ng4 11. O-O d6 12. Bf4 Be6 13. Nd2 O-O-O 14.
+Nc4 Bxc4 15. Bxc4 Rde8 16. Rae1 Ne5 17. Bxe5 Rxe5 18. Bxf7 Rf8 19. Bb3 Rfe8 20.
+Bc2 d5 21. Kh1 dxe4 22. Re2 h6 23. Rfe1 Rf8 24. Bxe4 Bxf2 25. Rf1 Bc5 26. Rxf8+
+Bxf8 27. Bxb7+ Kb8 28. Rxe5 Kxb7 29. Kg1 Bd6 30. Re6 Bc5+ 31. Kf1 Bf8 32. Ke2
+c6 33. Rf6 Bg7 34. Rf7+ Kb6 35. Rxg7 h5 36. Rg6 Kc7 37. Kd3 Kd7 38. Kd4 Ke7 39.
+Ke5 Kf7 40. Rxc6 Kg7 41. Kf5 h4 42. Rf6 Kh7 43. Rg6 Kh8 44. Kf6 Kh7 45. Kf7 Kh8
+46. Rh6# 1-0
+
+[Event "CN Feminino 2014 - SR"]
+[Site "Lisboa POR"]
+[Date "2014.04.12"]
+[Round "3.1"]
+[White "Pintor, Ariana"]
+[Black "Lima Santos, Inês"]
+[Result "1/2-1/2"]
+[ECO "C68"]
+[WhiteElo "2062"]
+[BlackElo "1769"]
+[WhiteFideId "1902806"]
+[BlackFideId "1913034"]
+[WhiteTitle "WFM"]
+[PlyCount "150"]
+[EventDate "2014.??.??"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. O-O Bg4 6. h3 h5 7. d3 Qf6 8.
+Nbd2 Bxf3 9. Qxf3 Qxf3 10. Nxf3 Bd6 11. Be3 c5 12. c3 Nf6 13. Rfe1 Nd7 14. Rad1
+O-O-O 15. Ng5 Rdf8 16. d4 cxd4 17. cxd4 f6 18. Ne6 Rf7 19. Re2 Re7 20. d5 g5
+21. Rc2 Kb8 22. Nxc7 Bxc7 23. d6 Bxd6 24. Rxd6 Rg7 25. Rcd2 Rhh7 26. a4 a5 27.
+Bb6 Nxb6 28. Rxb6 Rg6 29. Rdd6 Rf7 30. Rb5 Kc7 31. Rdb6 Kc8 32. Rxa5 g4 33. h4
+g3 34. Rc5+ Rc7 35. Rxc7+ Kxc7 36. Rb4 gxf2+ 37. Kxf2 Rg4 38. g3 f5 39. Kf3 f4
+40. gxf4 Rxf4+ 41. Kg3 Rg4+ 42. Kh3 Rf4 43. Rc4+ Kd7 44. b4 Rf1 45. a5 Rh1+ 46.
+Kg3 Rg1+ 47. Kh2 Rg4 48. Kh3 Rf4 49. b5 Rf3+ 50. Kg2 Ra3 51. Rc5 Kd6 52. Rd5+
+Ke6 53. b6 Ra4 54. Kf3 Ra3+ 55. Kg2 Ra4 56. Rc5 Rxe4 57. Rc7 Ra4 58. Rxb7 Rxa5
+59. Rh7 e4 60. b7 Rb5 61. Kf2 Rb3 62. Ke2 Kd6 63. Kf2 Kc6 64. Ke2 e3 65. Rxh5
+Kxb7 66. Re5 Kc7 67. h5 Kd6 68. Re4 Rb5 69. Rh4 Rb7 70. Kxe3 Ke6 71. Rh1 Kf6
+72. Kf4 Rb4+ 73. Kg3 Kg5 74. h6 Rb3+ 75. Kg2 Rb8 1/2-1/2
+
+[Event "CN Feminino 2014 - SR"]
+[Site "Lisboa POR"]
+[Date "2014.04.12"]
+[Round "3.2"]
+[White "Oliveira, Inês"]
+[Black "Monteiro, Sara"]
+[Result "1-0"]
+[ECO "C62"]
+[WhiteElo "1915"]
+[BlackElo "1784"]
+[WhiteFideId "1909436"]
+[BlackFideId "1909860"]
+[WhiteTitle "WCM"]
+[BlackTitle "WCM"]
+[PlyCount "113"]
+[EventDate "2014.??.??"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 d6 4. c3 Bg4 5. d3 a6 6. Ba4 b5 7. Bb3 Nf6 8. Nbd2
+Be7 9. O-O O-O 10. Re1 Na5 11. Bc2 c5 12. h3 Bh5 13. Nf1 Nc6 14. g4 Bg6 15. Ng3
+d5 16. Qe2 d4 17. Kh2 Nd7 18. Rg1 f6 19. Bb3+ Bf7 20. Bd2 Rc8 21. Nf5 c4 22.
+dxc4 dxc3 23. Bxc3 bxc4 24. Bxc4 Bxc4 25. Qxc4+ Kh8 26. Qxa6 Nc5 27. Qe2 Ne6
+28. Rad1 Qe8 29. Bd2 Bc5 30. Be3 Bxe3 31. fxe3 Rd8 32. Rxd8 Qxd8 33. Rd1 Qc7
+34. Qc4 Ncd8 35. Qxc7 Nxc7 36. Rd7 Nde6 37. Nxg7 Nxg7 38. Rxc7 Ne6 39. Rc6 Nd8
+40. Rb6 Kg7 41. a4 Rf7 42. Nh4 Nb7 43. Nf5+ Kg6 44. b4 Rd7 45. Kg3 Nd8 46. Rd6
+Rxd6 47. Nxd6 Ne6 48. a5 Nc7 49. b5 Kg7 50. a6 Kf8 51. a7 Ke7 52. Nc8+ Kd8 53.
+Nb6 h6 54. a8=Q+ Nxa8 55. Nxa8 Kc8 56. Kh4 Kb7 57. Kh5 1-0
+
+[Event "CN Feminino 2014 - SR"]
+[Site "Lisboa POR"]
+[Date "2014.04.12"]
+[Round "3.3"]
+[White "Jorge, Rita"]
+[Black "Ferreira, Beatriz"]
+[Result "1-0"]
+[ECO "B01"]
+[WhiteElo "1699"]
+[BlackElo "1561"]
+[WhiteFideId "1923161"]
+[BlackFideId "1925377"]
+[PlyCount "51"]
+[EventDate "2014.??.??"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qa5 4. d4 Nf6 5. Nf3 Bg4 6. Be2 e6 7. O-O Be7 8.
+Bf4 Nbd7 9. Nb5 Nd5 10. Bd2 Qb6 11. c4 N5f6 12. Bf4 Rc8 13. c5 Qc6 14. Nxa7 Qe4
+15. Nxc8 Qxf4 16. Nxe7 Kxe7 17. Qb3 Qe4 18. Rfe1 Qc6 19. h3 Bh5 20. Bb5 Qd5 21.
+Bc4 Qc6 22. Ne5 Nxe5 23. Rxe5 Bg6 24. Bb5 Qd5 25. Rxd5 Nxd5 26. Bc4 1-0
+
+[Event "CN Feminino 2014 - SR"]
+[Site "Lisboa POR"]
+[Date "2014.04.12"]
+[Round "3.4"]
+[White "Rhodes, Mónica"]
+[Black "Baptista, Ana"]
+[Result "0-1"]
+[ECO "B20"]
+[WhiteFideId "1939262"]
+[BlackFideId "1902970"]
+[BlackTitle "WFM"]
+[PlyCount "54"]
+[EventDate "2014.??.??"]
+
+1. e4 c5 2. Bc4 e6 3. Nf3 Nc6 4. O-O Qc7 5. Nc3 Nf6 6. d3 d6 7. Qe2 Be7 8. Bg5
+O-O 9. Bxf6 Bxf6 10. Rab1 a6 11. h3 b5 12. Bb3 Bb7 13. Qe3 Nd4 14. Ng5 Rad8 15.
+Nd1 d5 16. exd5 exd5 17. c3 Nxb3 18. axb3 d4 19. cxd4 Bxd4 20. Qg3 Qxg3 21. Ne4
+Bxe4 22. dxe4 Qxb3 23. Ra1 Qe6 24. Ne3 Bxe3 25. fxe3 Qxe4 26. Rfe1 Rd2 27. Kf1
+Qxg2# 0-1
+
+[Event "CN Feminino 2014 - SR"]
+[Site "Lisboa POR"]
+[Date "2014.04.12"]
+[Round "3.5"]
+[White "Santos, Leonor"]
+[Black "Correia, Sandra"]
+[Result "0-1"]
+[ECO "B20"]
+[BlackElo "1731"]
+[WhiteFideId "1941739"]
+[BlackFideId "1928147"]
+[PlyCount "42"]
+[EventDate "2014.??.??"]
+
+1. e4 c5 2. Bc4 g6 3. Nf3 Bg7 4. Ng5 Nh6 5. d3 O-O 6. O-O Nc6 7. Nc3 d6 8. h3
+Na5 9. Bd5 e6 10. Bb3 a6 11. d4 cxd4 12. Qxd4 Bxd4 13. Nf3 Bg7 14. e5 dxe5 15.
+Nxe5 Nf5 16. Ng4 b5 17. Ne4 Qd4 18. Re1 Bb7 19. Nd2 Nxb3 20. Nxb3 Qd5 21. Bd2
+Qxg2# 0-1
+
+[Event "CN Feminino 2014 - SR"]
+[Site "Lisboa POR"]
+[Date "2014.04.12"]
+[Round "4.1"]
+[White "Lima Santos, Inês"]
+[Black "Oliveira, Inês"]
+[Result "1/2-1/2"]
+[ECO "B44"]
+[WhiteElo "1769"]
+[BlackElo "1915"]
+[WhiteFideId "1913034"]
+[BlackFideId "1909436"]
+[BlackTitle "WCM"]
+[PlyCount "204"]
+[EventDate "2014.??.??"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Be3 Nf6 6. Nc3 Qc7 7. Be2 Be7 8.
+O-O O-O 9. Nb3 b6 10. f3 Bb7 11. Bf2 Rad8 12. Nb5 Qb8 13. N3d4 Nxd4 14. Nxd4 d5
+15. exd5 Nxd5 16. Qe1 Bd6 17. g3 Bc5 18. Bd3 Nb4 19. Qc3 Nxd3 20. cxd3 Qd6 21.
+Nb5 Bxf2+ 22. Rxf2 Qxd3 23. Qxd3 Rxd3 24. f4 a6 25. Nc3 Rfd8 26. Na4 Rd1+ 27.
+Rxd1 Rxd1+ 28. Rf1 Rxf1+ 29. Kxf1 b5 30. Nc5 Bc8 31. Ke2 Kf8 32. Ke3 Ke7 33.
+Kd4 h6 34. Ne4 Bb7 35. Nc5 Bd5 36. Nxa6 Bxa2 37. Kc5 Bc4 38. Nc7 g5 39. Nxb5
+Bf1 40. Nd4 f6 41. b4 h5 42. b5 Kd7 43. b6 Bg2 44. Nb5 h4 45. fxg5 fxg5 46. Nd6
+hxg3 47. hxg3 e5 48. Nf7 e4 49. Ne5+ Kc8 50. Nc4 Bh1 51. Ne3 Kb7 52. Nd5 Bg2
+53. Ne3 Bh1 54. Nc4 Kb8 55. Ne3 Kb7 56. Kb5 Bf3 57. Ka5 Bh1 58. Nc4 Bg2 59.
+Nd6+ Kb8 60. Nf5 Kb7 61. Ne3 Bf3 62. Nd5 Bg2 63. Kb5 Bf3 64. Kc5 Bh1 65. Ne3
+Bf3 66. Nc4 Kb8 67. Ne5 Bg2 68. Kd4 Kb7 69. Nc4 Bf1 70. Nd6+ Kxb6 71. Nxe4 g4
+72. Ke3 Kc6 73. Nf2 Kd6 74. Nxg4 Ke6 75. Kf4 Kf7 76. Kg5 Kg7 77. Ne3 Bd3 78.
+Nd5 Bc2 79. Nf4 Bb1 80. Nh5+ Kh7 81. Nf6+ Kg7 82. Ne8+ Kf7 83. Nd6+ Kg7 84. g4
+Bc2 85. Kf4 Bd1 86. g5 Bc2 87. Nc4 Bd3 88. Ne5 Bc2 89. Nf3 Bd3 90. Nh4 Bc2 91.
+Nf5+ Bxf5 92. Kxf5 Kf7 93. Kf4 Kg7 94. Kg4 Kg6 95. Kh4 Kg7 96. Kh5 Kh7 97. g6+
+Kg7 98. Kg5 Kg8 99. Kf5 Kg7 100. Kg5 Kg8 101. Kh6 Kh8 102. Kh5 Kg8 1/2-1/2
+
+[Event "CN Feminino 2014 - SR"]
+[Site "Lisboa POR"]
+[Date "2014.04.12"]
+[Round "4.2"]
+[White "Baptista, Ana"]
+[Black "Pintor, Ariana"]
+[Result "0-1"]
+[ECO "B88"]
+[BlackElo "2062"]
+[WhiteFideId "1902970"]
+[BlackFideId "1902806"]
+[WhiteTitle "WFM"]
+[BlackTitle "WFM"]
+[PlyCount "66"]
+[EventDate "2014.??.??"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bc4 e6 7. Bb3 a6 8. O-O
+Be7 9. Be3 O-O 10. f4 Nxd4 11. Bxd4 b5 12. a3 Bb7 13. Qe2 d5 14. Rad1 Qc7 15.
+e5 Nd7 16. f5 Bc5 17. Bxc5 Nxc5 18. f6 Nd7 19. fxg7 Rfd8 20. Rde1 d4 21. Qh5
+Nc5 22. Ne2 Nxb3 23. cxb3 d3 24. Nf4 d2 25. Rd1 Qc5+ 26. Kh1 Rd7 27. Nd3 Qd5
+28. Rxd2 Rad8 29. Rdf2 Qxd3 30. Rxf7 Qg6 31. Qxg6 hxg6 32. R7f6 Kxg7 33. Rxe6
+Rf8 0-1
+
+[Event "CN Feminino 2014 - SR"]
+[Site "Lisboa POR"]
+[Date "2014.04.12"]
+[Round "4.3"]
+[White "Monteiro, Sara"]
+[Black "Jorge, Rita"]
+[Result "0-1"]
+[ECO "D03"]
+[WhiteElo "1784"]
+[BlackElo "1699"]
+[WhiteFideId "1909860"]
+[BlackFideId "1923161"]
+[WhiteTitle "WCM"]
+[PlyCount "66"]
+[EventDate "2014.??.??"]
+
+1. d4 d5 2. Bg5 Nf6 3. Nf3 e6 4. e3 h6 5. Bh4 Be7 6. Bd3 O-O 7. O-O Nbd7 8. c4
+b6 9. Nc3 Bb7 10. Rc1 Rc8 11. a3 c5 12. b3 a6 13. Re1 cxd4 14. Nxd4 Bxa3 15.
+Rc2 Be7 16. cxd5 Nxd5 17. Nxd5 Bxh4 18. Rxc8 Qxc8 19. Nb4 Nc5 20. Bb1 Rd8 21.
+Qg4 Bf6 22. Nf3 Bc3 23. Rf1 Nxb3 24. Nd3 Bxf3 25. gxf3 Nd2 26. Bc2 Qc6 27. e4
+Nxf1 28. Kxf1 Bf6 29. e5 Qxc2 30. exf6 Qxd3+ 31. Kg2 Qg6 32. fxg7 Qxg4+ 33.
+fxg4 Kxg7 0-1
+
+[Event "CN Feminino 2014 - SR"]
+[Site "Lisboa POR"]
+[Date "2014.04.12"]
+[Round "4.4"]
+[White "Correia, Sandra"]
+[Black "Ferreira, Beatriz"]
+[Result "0-1"]
+[ECO "B01"]
+[WhiteElo "1731"]
+[BlackElo "1561"]
+[WhiteFideId "1928147"]
+[BlackFideId "1925377"]
+[PlyCount "63"]
+[EventDate "2014.??.??"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qa5 4. Nf3 Bg4 5. h3 Bh5 6. b4 Qb6 7. g4 Bg6 8.
+Bg2 e6 9. Rb1 Nd7 10. O-O c6 11. b5 c5 12. d3 Qc7 13. Nh4 Be7 14. Nxg6 hxg6 15.
+Qf3 Rb8 16. Re1 Ngf6 17. Bf4 Bd6 18. Bg5 Be7 19. Re2 Ne5 20. Qe3 Ned7 21. Rbe1
+O-O 22. f4 Bd6 23. a4 Rfe8 24. Ne4 Nd5 25. Qf3 Bxf4 26. c4 Bh2+ 27. Kh1 Ne7 28.
+Rf1 Ne5 29. Qf2 Nc8 30. Nxc5 Nxg4 31. hxg4 Bg3 32. Qf3 0-1
+
+[Event "CN Feminino 2014 - SR"]
+[Site "Lisboa POR"]
+[Date "2014.04.12"]
+[Round "4.5"]
+[White "Rhodes, Mónica"]
+[Black "Santos, Leonor"]
+[Result "1-0"]
+[ECO "C50"]
+[WhiteFideId "1939262"]
+[BlackFideId "1941739"]
+[PlyCount "33"]
+[EventDate "2014.??.??"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. O-O Nf6 5. d3 O-O 6. Bg5 d6 7. Nc3 Bg4 8. h3
+Nd4 9. hxg4 Nxf3+ 10. Qxf3 h6 11. Bh4 a6 12. Nd5 Bd4 13. Nxf6+ gxf6 14. Bxf6
+Qe8 15. Qh3 d5 16. Qxh6 dxc4 17. Qh8# 1-0
+
+[Event "CN Feminino 2014 - SR"]
+[Site "Lisboa POR"]
+[Date "2014.04.12"]
+[Round "5.1"]
+[White "Pintor, Ariana"]
+[Black "Oliveira, Inês"]
+[Result "1-0"]
+[ECO "B48"]
+[WhiteElo "2062"]
+[BlackElo "1915"]
+[WhiteFideId "1902806"]
+[BlackFideId "1909436"]
+[WhiteTitle "WFM"]
+[BlackTitle "WCM"]
+[PlyCount "67"]
+[EventDate "2014.??.??"]
+
+1. e4 c5 2. Nf3 e6 3. Nc3 Nc6 4. d4 cxd4 5. Nxd4 Qc7 6. Be3 Nf6 7. Be2 Be7 8.
+O-O O-O 9. Kh1 d6 10. f4 Nxd4 11. Bxd4 e5 12. Be3 a6 13. a4 Be6 14. f5 Bc4 15.
+g4 Bxe2 16. Qxe2 Qc6 17. Qf3 d5 18. exd5 Qc4 19. g5 e4 20. Qh3 Nxd5 21. g6 Nf6
+22. gxh7+ Nxh7 23. Rf4 Rad8 24. Rg1 Bf6 25. Rfg4 Qc6 26. Qh6 Ng5 27. Qh5 Nf3
+28. R1g3 Bxc3 29. bxc3 Rd1+ 30. Kg2 Ne1+ 31. Kf2 Qxc3 32. Rxg7+ Qxg7 33. Rxg7+
+Kxg7 34. Qxd1 1-0
+
+[Event "CN Feminino 2014 - SR"]
+[Site "Lisboa POR"]
+[Date "2014.04.12"]
+[Round "5.2"]
+[White "Jorge, Rita"]
+[Black "Lima Santos, Inês"]
+[Result "0-1"]
+[ECO "C70"]
+[WhiteElo "1699"]
+[BlackElo "1769"]
+[WhiteFideId "1923161"]
+[BlackFideId "1913034"]
+[PlyCount "84"]
+[EventDate "2014.??.??"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 b5 5. Bb3 Nf6 6. d3 Bc5 7. O-O h6 8. h3 d6
+9. c3 O-O 10. Re1 Re8 11. Nbd2 Ne7 12. Nf1 Ng6 13. a4 Bb7 14. Ng3 d5 15. axb5
+axb5 16. Rxa8 Qxa8 17. Bc2 b4 18. Be3 Bxe3 19. Rxe3 bxc3 20. bxc3 Qa5 21. Qe1
+Qc5 22. exd5 Nxd5 23. d4 Qa3 24. Bxg6 Nxe3 25. Qxe3 fxg6 26. Nxe5 Qe7 27. Qd3
+Qe6 28. Qb5 Ba6 29. Qb1 Kh7 30. Nh5 Qf5 31. Qa2 Qe6 32. Qb1 Rf8 33. Ng3 c5 34.
+Ne4 cxd4 35. cxd4 Qf5 36. f3 Rd8 37. Qb6 Ra8 38. Qc6 Bb7 39. Qxb7 Ra1+ 40. Kh2
+Qf4+ 41. Ng3 Qxd4 42. Qe4 Qg1# 0-1
+
+[Event "CN Feminino 2014 - SR"]
+[Site "Lisboa POR"]
+[Date "2014.04.12"]
+[Round "5.3"]
+[White "Ferreira, Beatriz"]
+[Black "Baptista, Ana"]
+[Result "0-1"]
+[ECO "B23"]
+[WhiteElo "1561"]
+[WhiteFideId "1925377"]
+[BlackFideId "1902970"]
+[BlackTitle "WFM"]
+[PlyCount "68"]
+[EventDate "2014.??.??"]
+
+1. e4 c5 2. Nc3 e6 3. g3 Nc6 4. Bg2 Nf6 5. d3 Be7 6. Nge2 d5 7. f4 O-O 8. O-O
+dxe4 9. Nxe4 Nd4 10. Be3 Ng4 11. Bd2 f5 12. Nf2 c4 13. h3 Nxf2 14. Rxf2 cxd3
+15. cxd3 Bc5 16. Be3 Nb3 17. Bxc5 Nxc5 18. d4 Ne4 19. Bxe4 fxe4 20. Nc3 e3 21.
+Re2 Qb6 22. Qd3 Rd8 23. Rd1 e5 24. fxe5 Bxh3 25. Rh2 Qe6 26. Qxe3 Rf8 27. Ne2
+Qg4 28. Rf2 Rxf2 29. Kxf2 Rf8+ 30. Ke1 Rf1+ 31. Kd2 Rf3 32. Qg1 Qe4 33. Re1
+Qd3+ 34. Kc1 Bf5 0-1
+
+[Event "CN Feminino 2014 - SR"]
+[Site "Lisboa POR"]
+[Date "2014.04.12"]
+[Round "5.4"]
+[White "Correia, Sandra"]
+[Black "Rhodes, Mónica"]
+[Result "1-0"]
+[ECO "C44"]
+[WhiteElo "1731"]
+[WhiteFideId "1928147"]
+[BlackFideId "1939262"]
+[PlyCount "57"]
+[EventDate "2014.??.??"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Bc4 Bc5 5. c3 dxc3 6. Bxf7+ Kxf7 7. Qd5+ Ke8
+8. Qxc5 d6 9. Qxc3 Qg5 10. Bxg5 h6 11. Qxg7 Nge7 12. Qxh8+ Kd7 13. Qxh6 Nb4 14.
+Na3 b6 15. Qg7 Kc6 16. Rc1+ Kb7 17. O-O Bg4 18. Qxe7 Bxf3 19. Qxc7+ Ka6 20.
+Qc4+ Kb7 21. Qf7+ Ka6 22. Qxf3 Nxa2 23. Qd3+ Kb7 24. Qd5+ Ka6 25. Qxa8 Nxc1 26.
+Bxc1 Ka5 27. Qxa7+ Kb4 28. Qxb6+ Ka4 29. Qb5# 1-0
+
+[Event "CN Feminino 2014 - SR"]
+[Site "Lisboa POR"]
+[Date "2014.04.12"]
+[Round "5.5"]
+[White "Santos, Leonor"]
+[Black "Monteiro, Sara"]
+[Result "0-1"]
+[ECO "B01"]
+[BlackElo "1784"]
+[WhiteFideId "1941739"]
+[BlackFideId "1909860"]
+[BlackTitle "WCM"]
+[PlyCount "70"]
+[EventDate "2014.??.??"]
+
+1. e4 d5 2. d3 e5 3. d4 dxe4 4. dxe5 Qxd1+ 5. Kxd1 Nc6 6. Nc3 Bg4+ 7. Be2
+O-O-O+ 8. Bd2 Bf5 9. Kc1 Nxe5 10. Bg5 f6 11. Bh4 Bb4 12. Nb5 a6 13. Na7+ Kb8
+14. f4 exf3 15. Nxf3 Nxf3 16. Bxf3 Kxa7 17. a3 Bd2+ 18. Kb1 g5 19. Bf2+ b6 20.
+Be1 Bxe1 21. Rxe1 Nh6 22. Re7 Rd7 23. Re5 fxe5 24. g3 Rd2 25. Ka2 Rxc2 26. Re1
+e4 27. Bxe4 Bxe4 28. Rxe4 Rxh2 29. Re5 Rd8 30. a4 Rdd2 31. Rxg5 Rxb2+ 32. Ka3
+Rbg2 33. Rg7 Kb7 34. Rxh7 Rxg3+ 35. Kb4 Rh4# 0-1
+
+[Event "CN Feminino 2014 - SR"]
+[Site "Lisboa POR"]
+[Date "2014.04.12"]
+[Round "6.1"]
+[White "Jorge, Rita"]
+[Black "Pintor, Ariana"]
+[Result "0-1"]
+[ECO "B12"]
+[WhiteElo "1699"]
+[BlackElo "2062"]
+[WhiteFideId "1923161"]
+[BlackFideId "1902806"]
+[BlackTitle "WFM"]
+[PlyCount "48"]
+[EventDate "2014.??.??"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. Nd2 e6 5. Nb3 Nd7 6. c3 Ne7 7. Nf3 c5 8. Be2 Nc6
+9. O-O Be7 10. Bf4 Bg6 11. Bg3 O-O 12. Qd2 Rc8 13. Rac1 Qb6 14. c4 dxc4 15.
+Bxc4 cxd4 16. Nbxd4 Nc5 17. Nxc6 Rxc6 18. Rfe1 Rfc8 19. b3 Ne4 20. Qb2 Rxc4 21.
+Rxc4 Rxc4 22. Re2 Rc8 23. Nd2 Qc5 24. h3 Nxg3 0-1
+
+[Event "CN Feminino 2014 - SR"]
+[Site "Lisboa POR"]
+[Date "2014.04.12"]
+[Round "6.2"]
+[White "Lima Santos, Inês"]
+[Black "Baptista, Ana"]
+[Result "1-0"]
+[ECO "B80"]
+[WhiteElo "1769"]
+[WhiteFideId "1913034"]
+[BlackFideId "1902970"]
+[BlackTitle "WFM"]
+[PlyCount "63"]
+[EventDate "2014.??.??"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Be3 Nc6 7. Be2 a6 8. a4
+Qc7 9. Nb3 b6 10. O-O Be7 11. f3 O-O 12. Qe1 Bb7 13. Qf2 Nd7 14. Rad1 Nce5 15.
+f4 Nc6 16. f5 Nc5 17. Qg3 Nxb3 18. Bh6 g6 19. Bxf8 Bxf8 20. cxb3 exf5 21. exf5
+Ne5 22. fxg6 hxg6 23. Rd4 Bg7 24. Rdf4 Re8 25. Bc4 d5 26. Bxd5 Bxd5 27. Nxd5
+Qc5+ 28. Ne3 Bh6 29. Re4 Nf3+ 30. Qxf3 Rxe4 31. Qxe4 Bxe3+ 32. Kh1 1-0
+
+[Event "CN Feminino 2014 - SR"]
+[Site "Lisboa POR"]
+[Date "2014.04.12"]
+[Round "6.3"]
+[White "Oliveira, Inês"]
+[Black "Rhodes, Mónica"]
+[Result "1-0"]
+[ECO "C70"]
+[WhiteElo "1915"]
+[WhiteFideId "1909436"]
+[BlackFideId "1939262"]
+[WhiteTitle "WCM"]
+[PlyCount "91"]
+[EventDate "2014.??.??"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Bc5 5. d3 Nf6 6. O-O O-O 7. Bxc6 bxc6 8.
+Nxe5 Bd6 9. Nf3 Qe7 10. Re1 Ng4 11. h3 Ne5 12. d4 Nxf3+ 13. Qxf3 Bb7 14. e5 Bb4
+15. c3 Ba5 16. Nd2 d6 17. Nc4 dxe5 18. Nxa5 Bc8 19. Nxc6 Qe6 20. Nxe5 Rb8 21.
+b3 f6 22. Nd3 Bb7 23. Rxe6 Bxf3 24. gxf3 Rfe8 25. Rxe8+ Rxe8 26. Be3 c6 27. Nc5
+a5 28. Kf1 Kf7 29. a4 Rb8 30. Rb1 Kg8 31. b4 axb4 32. cxb4 Ra8 33. b5 cxb5 34.
+axb5 Rb8 35. b6 Kf7 36. b7 Rd8 37. b8=Q Rxb8 38. Rxb8 Ke7 39. Bf4 Kf7 40. d5 g5
+41. d6 gxf4 42. d7 f5 43. d8=Q Kg6 44. Rb6+ Kh5 45. Qf6 h6 46. Qxh6# 1-0
+
+[Event "CN Feminino 2014 - SR"]
+[Site "Lisboa POR"]
+[Date "2014.04.12"]
+[Round "6.4"]
+[White "Monteiro, Sara"]
+[Black "Correia, Sandra"]
+[Result "0-1"]
+[ECO "A40"]
+[WhiteElo "1784"]
+[BlackElo "1731"]
+[WhiteFideId "1909860"]
+[BlackFideId "1928147"]
+[WhiteTitle "WCM"]
+[PlyCount "96"]
+[EventDate "2014.??.??"]
+
+1. d4 g6 2. c4 c5 3. e3 Bg7 4. Nc3 Nf6 5. Nf3 cxd4 6. exd4 O-O 7. Be2 d5 8. b3
+Nc6 9. O-O Bf5 10. Bg5 Ne4 11. Nxe4 dxe4 12. Nh4 Bxd4 13. Nxf5 Bxa1 14. Nh6+
+Kg7 15. Qxa1+ Qd4 16. Ng4 Rfd8 17. Bf4 h5 18. Ne5 Qxa1 19. Rxa1 Nd4 20. Kf1 f6
+21. Rd1 Nxe2 22. Kxe2 Rxd1 23. Kxd1 fxe5 24. Bxe5+ Kf7 25. Ke2 Ke6 26. Bc3 Rd8
+27. Bb4 b6 28. Ke3 a5 29. Ba3 g5 30. Bc1 Rd1 31. Bd2 Ra1 32. a4 Ra3 33. Kxe4
+Rxb3 34. Bxg5 Rb4 35. Kd3 Rxa4 36. Be3 Rb4 37. c5 b5 38. c6 Rc4 39. Bb6 a4 40.
+c7 Kd7 41. c8=Q+ Kxc8 42. Bd4 a3 43. Be5 Kd7 44. Kd2 Ke6 45. Bh8 Kd5 46. g3 e5
+47. f4 a2 48. Bxe5 Rd4+ 0-1
+
+[Event "CN Feminino 2014 - SR"]
+[Site "Lisboa POR"]
+[Date "2014.04.12"]
+[Round "6.5"]
+[White "Ferreira, Beatriz"]
+[Black "Santos, Leonor"]
+[Result "1-0"]
+[ECO "C44"]
+[WhiteElo "1561"]
+[WhiteFideId "1925377"]
+[BlackFideId "1941739"]
+[PlyCount "25"]
+[EventDate "2014.??.??"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 Bb4+ 4. c3 Ba5 5. dxe5 d6 6. exd6 cxd6 7. Bf4 Ke7 8.
+Bc4 Nh6 9. Bg5+ f6 10. Bxh6 gxh6 11. Qd5 Be6 12. Qxe6+ Kf8 13. Qf7# 1-0
+

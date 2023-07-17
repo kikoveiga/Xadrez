@@ -1,0 +1,291 @@
+[Event "CN Equipas 2008 - Final 2. divisão"]
+[Site "Évora POR"]
+[Date "2008.08.02"]
+[Round "1.1.1"]
+[White "Evangelista, Ricardo"]
+[Black "Viela, André"]
+[Result "0-1"]
+[WhiteElo "2125"]
+[BlackElo "2200"]
+[WhiteFideId "1901079"]
+[BlackFideId "1903748"]
+[WhiteTeam "AA Coimbra 'B'"]
+[BlackTeam "GD Dias Ferreira 'A'"]
+[PlyCount "110"]
+
+1. e4 c5 2. Nf3 Nc6 3. c3 d5 4. exd5 Qxd5 5. d4 Bg4 6. Be2 e6 7. O-O Nf6 8. Na3
+Be7 9. h3 Bh5 10. Nb5 Qd8 11. dxc5 Bxc5 12. Bf4 Nd5 13. Bg5 f6 14. c4 Nde7 15.
+Be3 Bxe3 16. Nd6+ Kf8 17. fxe3 Qb6 18. Qd2 Rd8 19. Ng5 Rxd6 20. Qxd6 Qxe3+ 21.
+Rf2 Qxg5 22. Bxh5 Qxh5 23. Re1 e5 24. b4 Kf7 25. b5 Rd8 26. Qc7 Rd1 27. Ref1
+Nd4 28. Qxb7 Rxf1+ 29. Rxf1 Qe2 30. Qxa7 Qxc4 31. a4 Ne2+ 32. Kh2 Nc3 33. Rf3
+Nxa4 34. b6 Qd4 35. Rb3 e4 36. Qc7 Nc5 37. b7 Na6 38. b8=Q Nxc7 39. Qxc7 e3 40.
+Qg3 Nf5 41. Rb7+ Ke6 42. Qf3 Qe5+ 43. g3 e2 44. Qb3+ Qd5 45. Rb6+ Nd6 46. Qe3+
+Qe5 47. Qb3+ Kf5 48. Qf3+ Ke6 49. Qb3+ Ke7 50. Qg8 Qxg3+ 51. Kxg3 e1=Q+ 52. Kf3
+Qe4+ 53. Kg3 Qe3+ 54. Kg4 f5+ 55. Kh4 Qf4+ 0-1
+
+[Event "CN Equipas 2008 - Final 2. divisão"]
+[Site "Évora POR"]
+[Date "2008.08.02"]
+[Round "1.1.2"]
+[White "Viela, Marco"]
+[Black "Maltez, Nuno"]
+[Result "1-0"]
+[WhiteElo "2188"]
+[BlackElo "2034"]
+[WhiteFideId "1902776"]
+[BlackFideId "1903152"]
+[WhiteTeam "GD Dias Ferreira 'A'"]
+[BlackTeam "AA Coimbra 'B'"]
+[PlyCount "115"]
+[EventDate "2008.??.??"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d4 exd4 5. O-O Bc5 6. e5 d5 7. Bb5 Ne4 8.
+Nxd4 Bd7 9. Bxc6 bxc6 10. c3 O-O 11. Bf4 Be7 12. Nd2 Nc5 13. N2f3 Ne6 14. Bg3
+c5 15. Nf5 Bc6 16. Nxe7+ Qxe7 17. Bh4 Qd7 18. Qd2 d4 19. Ng5 Nxg5 20. Qxg5 Rfe8
+21. f4 Re6 22. Qg4 Rd6 23. f5 Rg6 24. Bg5 h6 25. e6 Rxg5 26. Qxg5 fxe6 27. fxe6
+Qxe6 28. Qd2 Rd8 29. Rae1 Qd6 30. cxd4 cxd4 31. Rf4 d3 32. Ref1 Re8 33. Qf2 Qg6
+34. Rf8+ Rxf8 35. Qxf8+ Kh7 36. Qf5 Be4 37. Qxg6+ Kxg6 38. Kf2 Bd5 39. Ke3 Bxa2
+40. Ra1 Bd5 41. g3 c6 42. Kxd3 Kf6 43. Rxa7 Bg2 44. Kd4 g6 45. Kc5 Kg5 46. Ra6
+Kg4 47. Rxc6 Bxc6 48. Kxc6 Kh3 49. b4 Kxh2 50. b5 Kxg3 51. b6 h5 52. b7 h4 53.
+b8=Q+ Kg2 54. Qg8 h3 55. Qxg6+ Kh1 56. Qf5 Kg2 57. Qg4+ Kh2 58. Kd5 1-0
+
+[Event "CN Equipas 2008 - Final 2. divisão"]
+[Site "Évora POR"]
+[Date "2008.08.02"]
+[Round "1.1.3"]
+[White "Domingues, César Bolito"]
+[Black "Machado, Luís"]
+[Result "1/2-1/2"]
+[BlackElo "2076"]
+[WhiteFideId "1904167"]
+[BlackFideId "1905139"]
+[WhiteTeam "AA Coimbra 'B'"]
+[BlackTeam "GD Dias Ferreira 'A'"]
+[PlyCount "60"]
+[EventDate "2008.??.??"]
+
+1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. bxa6 Bxa6 6. Nc3 d6 7. Nf3 g6 8. Nd2
+Bg7 9. e4 Bxf1 10. Nxf1 Nbd7 11. Ne3 Qa5 12. O-O O-O 13. Re1 Rfb8 14. Qc2 Rb4
+15. Bd2 Qc7 16. a4 Qb6 17. Rab1 c4 18. Ncd1 Rbxa4 19. Nxc4 Qa6 20. b3 Ra2 21.
+Qc1 Nc5 22. Nc3 Nd3 23. Qd1 Nxe1 24. Nxa2 Nf3+ 25. Qxf3 Qxa2 26. Qd3 Nd7 27.
+Be3 Rc8 28. h3 h5 29. Rf1 Rb8 30. Rb1 Rc8 1/2-1/2
+
+[Event "CN Equipas 2008 - Final 2. divisão"]
+[Site "Évora POR"]
+[Date "2008.08.02"]
+[Round "1.1.4"]
+[White "Oliveira, Carlos"]
+[Black "Cross, Dominic"]
+[Result "1-0"]
+[WhiteElo "2106"]
+[BlackElo "1915"]
+[WhiteFideId "1903217"]
+[BlackFideId "1904205"]
+[WhiteTeam "GD Dias Ferreira 'A'"]
+[BlackTeam "AA Coimbra 'B'"]
+[PlyCount "91"]
+[EventDate "2008.??.??"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. g3 Bf5 5. Bg2 e6 6. O-O Bd6 7. Nc3 Nbd7 8. Nh4
+Bg4 9. Qc2 h6 10. e4 dxe4 11. Nxe4 Nxe4 12. Qxe4 Nf6 13. Qc2 g5 14. Nf3 Bf5 15.
+Qb3 Qb6 16. Qa4 Qb4 17. Qxb4 Bxb4 18. Ne5 Be4 19. a3 Bxg2 20. Kxg2 Be7 21. Be3
+Nd7 22. Nxd7 Kxd7 23. Rad1 Kc7 24. f4 f6 25. f5 Kd7 26. fxe6+ Kxe6 27. d5+ cxd5
+28. cxd5+ Kd7 29. Bd4 Rhf8 30. g4 a6 31. Rf5 Rf7 32. Rdf1 Raf8 33. R1f3 Kd6 34.
+Rb3 Bd8 35. Rc3 Kd7 36. Rb3 Kd6 37. Re3 Kd7 38. Kf3 Re8 39. Rxe8 Kxe8 40. Ke4
+Re7+ 41. Kd3 Rf7 42. b4 Kd7 43. Bc5 Bc7 44. h3 Bd6 45. Rf3 Bf4 46. Ke4 1-0
+
+[Event "CN Equipas 2008 - Final 2. divisão"]
+[Site "Évora POR"]
+[Date "2008.08.02"]
+[Round "2.1.1"]
+[White "Ulyanovskyy, Viktor"]
+[Black "Evangelista, Ricardo"]
+[Result "1/2-1/2"]
+[WhiteElo "2295"]
+[BlackElo "2125"]
+[WhiteFideId "14113350"]
+[BlackFideId "1901079"]
+[WhiteTeam "GD Ferroviários do Barreiro"]
+[BlackTeam "AA Coimbra 'B'"]
+[WhiteTitle "FM"]
+[PlyCount "96"]
+[EventDate "2008.??.??"]
+
+1. e4 c5 2. Nf3 e6 3. c4 Nc6 4. Nc3 a6 5. Be2 Qc7 6. O-O Nf6 7. Re1 Be7 8. d4
+cxd4 9. Nxd4 O-O 10. Be3 Ne5 11. Rc1 Ng6 12. a3 b6 13. g3 Bb7 14. f3 h5 15. Bf2
+h4 16. Bf1 hxg3 17. hxg3 Ne5 18. b4 d6 19. Na4 Ned7 20. Qb3 g6 21. c5 dxc5 22.
+Nxe6 fxe6 23. Qxe6+ Rf7 24. e5 Bd5 25. Qh3 Nxe5 26. Rxe5 Qxe5 27. Nxb6 Rh7 28.
+Qg2 Rf8 29. Nxd5 Nxd5 30. Bc4 Kh8 31. Re1 Qg5 32. bxc5 Nf6 33. f4 Qh5 34. Be2
+Qf5 35. Rc1 g5 36. c6 Bxa3 37. Rc3 Bb2 38. Bd3 Qg4 39. Rc2 gxf4 40. Bxh7 fxg3
+41. Rxb2 Qd1+ 42. Qf1 gxf2+ 43. Rxf2 Qxf1+ 44. Kxf1 Kxh7 45. c7 Kg7 46. Rg2+
+Kf7 47. Ra2 Rc8 48. Rxa6 Rxc7 1/2-1/2
+
+[Event "CN Equipas 2008 - Final 2. divisão"]
+[Site "Évora POR"]
+[Date "2008.08.02"]
+[Round "2.1.2"]
+[White "Maltez, Nuno"]
+[Black "Ferents, Andrey"]
+[Result "0-1"]
+[WhiteElo "2034"]
+[BlackElo "2234"]
+[WhiteFideId "1903152"]
+[BlackFideId "14114941"]
+[WhiteTeam "AA Coimbra 'B'"]
+[BlackTeam "GD Ferroviários do Barreiro"]
+[PlyCount "92"]
+[EventDate "2008.??.??"]
+
+1. e4 c5 2. Nc3 a6 3. g3 b5 4. Bg2 Bb7 5. d3 b4 6. Nce2 d5 7. Be3 e5 8. f4 d4
+9. Bd2 Nd7 10. Nf3 Bd6 11. O-O Ne7 12. fxe5 Nxe5 13. Nf4 O-O 14. Nxe5 Bxe5 15.
+Qh5 Qd6 16. Rf2 a5 17. Bh3 c4 18. Raf1 c3 19. Bc1 g6 20. Qe2 cxb2 21. Bxb2 Bc8
+22. Bxc8 Raxc8 23. Qg4 Bg7 24. Qd1 Rc5 25. a3 Rb5 26. Qa1 b3 27. a4 Rb7 28. Ba3
+Qe5 29. cxb3 Rfb8 30. Bxe7 Qxe7 31. Nd5 Qe6 32. Nf6+ Kh8 33. Qxd4 Rxb3 34. e5
+R3b4 35. Qe3 Rd8 36. Rf4 Bh6 37. d4 Rbxd4 38. Qe1 Bxf4 39. gxf4 Qh3 40. Qg3
+Qxg3+ 41. hxg3 Rd1 42. Rxd1 Rxd1+ 43. Kf2 Rd4 44. Ne8 Rxa4 45. Nd6 Kg7 46. Kf3
+h5 0-1
+
+[Event "CN Equipas 2008 - Final 2. divisão"]
+[Site "Évora POR"]
+[Date "2008.08.02"]
+[Round "2.1.3"]
+[White "Reis, Luis"]
+[Black "Domingues, César Bolito"]
+[Result "0-1"]
+[WhiteElo "2083"]
+[WhiteFideId "1901940"]
+[BlackFideId "1904167"]
+[WhiteTeam "GD Ferroviários do Barreiro"]
+[BlackTeam "AA Coimbra 'B'"]
+[PlyCount "86"]
+[EventDate "2008.??.??"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 e6 4. O-O Nge7 5. b3 a6 6. Bxc6 Nxc6 7. Bb2 d5 8.
+exd5 Qxd5 9. Nc3 Qd7 10. Na4 Qc7 11. d4 cxd4 12. Nxd4 b5 13. Nc3 Nxd4 14. Qxd4
+Bb7 15. Rad1 Qc6 16. Qg4 h5 17. Qh3 Rh6 18. Rd3 h4 19. f3 Bc5+ 20. Kh1 Be7 21.
+Rfd1 Rg6 22. Ne4 Qxc2 23. R3d2 Qc7 24. Nd6+ Kf8 25. Nxb7 Qxb7 26. Rd7 Qb6 27.
+Bd4 Qc6 28. Bf2 Rc8 29. R7d2 Bf6 30. Bxh4 Qc3 31. g4 Bxh4 32. Rd3 Qf6 33. f4
+Rh6 34. g5 Bxg5 35. fxg5 Rxh3 36. gxf6 Rxd3 37. fxg7+ Kxg7 38. Rxd3 Rc1+ 39.
+Kg2 Rc2+ 40. Kg3 Rxa2 41. Rd6 Ra3 42. Kg4 a5 43. Ra6 a4 0-1
+
+[Event "CN Equipas 2008 - Final 2. divisão"]
+[Site "Évora POR"]
+[Date "2008.08.02"]
+[Round "2.1.4"]
+[White "Cross, Dominic"]
+[Black "Silva, Flávio"]
+[Result "1-0"]
+[WhiteElo "1915"]
+[BlackElo "1918"]
+[WhiteFideId "1904205"]
+[BlackFideId "1903691"]
+[WhiteTeam "AA Coimbra 'B'"]
+[BlackTeam "GD Ferroviários do Barreiro"]
+[PlyCount "132"]
+[EventDate "2008.??.??"]
+
+1. d4 d5 2. c4 c6 3. Nf3 e6 4. Nc3 Nf6 5. Bg5 Be7 6. e3 h6 7. Bh4 O-O 8. cxd5
+exd5 9. Bd3 Ne4 10. Bxe7 Qxe7 11. Qc2 f5 12. Ne5 Rf6 13. Nxd5 cxd5 14. Qxc8+
+Rf8 15. Qc2 Qb4+ 16. Ke2 Nc6 17. a3 Qd6 18. Nxc6 Rac8 19. Ne7+ Qxe7 20. Qb3 Qe6
+21. Rac1 Rce8 22. Bxe4 fxe4 23. h3 Rf7 24. Rc5 Ref8 25. Rf1 Rd7 26. Qc2 Kh7 27.
+f4 h5 28. Ke1 Rdf7 29. Qe2 g6 30. g4 g5 31. f5 Qd6 32. Qg2 h4 33. Rf2 Rd7 34.
+Qh2 Qe7 35. Qe5 Qd8 36. Rfc2 Re8 37. Qh2 Qb6 38. Qd2 Qd6 39. Qh2 Qb6 40. Rc7
+Ree7 41. Rxd7 Rxd7 42. Qe5 Qa5+ 43. Rc3 Qd8 44. b4 a5 45. b5 a4 46. Kf2 Qa5 47.
+Rc2 Qxb5 48. Qe6 Rg7 49. f6 Qd7 50. Qe5 Rf7 51. Qxg5 Qe6 52. Qh5+ Kg8 53. Qg6+
+Kf8 54. g5 Qxh3 55. Qh6+ Kg8 56. Qg6+ Kf8 57. Ke2 Qf3+ 58. Kd2 Qf2+ 59. Kd1
+Qf1+ 60. Kd2 Qd3+ 61. Kc1 Qxa3+ 62. Kb1 Qb3+ 63. Rb2 Qd3+ 64. Ka1 Qf1+ 65. Rb1
+Qa6 66. Rc1 b5 1-0
+
+[Event "CN Equipas 2008 - Final 2. divisão"]
+[Site "Évora POR"]
+[Date "2008.08.03"]
+[Round "3.1.1"]
+[White "Viela, André"]
+[Black "Ulyanovskyy, Viktor"]
+[Result "0-1"]
+[WhiteElo "2200"]
+[BlackElo "2295"]
+[WhiteFideId "1903748"]
+[BlackFideId "14113350"]
+[WhiteTeam "GD Dias Ferreira 'A'"]
+[BlackTeam "GD Ferroviários do Barreiro"]
+[BlackTitle "FM"]
+[PlyCount "122"]
+[EventDate "2008.??.??"]
+
+1. e4 c6 2. d4 d5 3. exd5 Qxd5 4. Nc3 Qa5 5. Nf3 Nf6 6. Bc4 Bg4 7. Bd2 Nbd7 8.
+Nd5 Qd8 9. Nxf6+ gxf6 10. h3 Bxf3 11. Qxf3 Nb6 12. Qd3 Nxc4 13. Qxc4 Qd5 14.
+Qxd5 cxd5 15. Bf4 Rc8 16. Kd2 h5 17. g3 Kd7 18. a4 e6 19. a5 Be7 20. Ra4 Kc6
+21. c3 Kb5 22. b3 Rc6 23. Kd3 Rhc8 24. Bd2 Ra6 25. Rha1 f5 26. c4+ dxc4+ 27.
+bxc4+ Kc6 28. h4 Rd8 29. Bc3 Rg8 30. Bd2 Rd8 31. Be3 Bf6 32. Kc3 f4 33. gxf4
+Rh8 34. Rg1 Bxh4 35. Rg7 Bd8 36. Rxf7 Rxa5 37. Rb4 b6 38. Rb1 h4 39. f5 Rxf5
+40. d5+ Kd6 41. Bf4+ Rxf4 42. Rxf4 exd5 43. cxd5 Kxd5 44. Rd1+ Ke5 45. Rf3 h3
+46. Re1+ Kd5 47. Rf7 h2 48. Rh1 a5 49. Kb3 b5 50. f3 Bb6 51. Rf5+ Kc6 52. Rg5
+Rh3 53. Rg6+ Kb7 54. Rf6 Rh4 55. Rf7+ Ka6 56. Rf6 a4+ 57. Kb2 Rh5 58. f4 Ka5
+59. f5 b4 60. Rf8 b3 61. Ka3 Bc5+ 0-1
+
+[Event "CN Equipas 2008 - Final 2. divisão"]
+[Site "Évora POR"]
+[Date "2008.08.03"]
+[Round "3.1.2"]
+[White "Ferents, Andrey"]
+[Black "Viela, Marco"]
+[Result "1/2-1/2"]
+[WhiteElo "2234"]
+[BlackElo "2188"]
+[WhiteFideId "14114941"]
+[BlackFideId "1902776"]
+[WhiteTeam "GD Ferroviários do Barreiro"]
+[BlackTeam "GD Dias Ferreira 'A'"]
+[PlyCount "55"]
+[EventDate "2008.??.??"]
+
+1. d4 Nf6 2. Nf3 e6 3. c4 b6 4. Nc3 Bb7 5. e3 Bb4 6. Qc2 c5 7. Be2 O-O 8. O-O
+d5 9. a3 Bxc3 10. Qxc3 dxc4 11. dxc5 Ne4 12. Qxc4 bxc5 13. Qc2 Nd7 14. Rd1 Qe7
+15. b3 Ndf6 16. h3 Rfd8 17. Bb2 Bd5 18. Bc4 Rac8 19. Rac1 Qb7 20. Be5 Bc6 21.
+Ne1 Nd7 22. Qd3 Qa8 23. Ba1 Ne5 24. Qc2 Nxc4 25. bxc4 Rxd1 26. Rxd1 Rd8 27. Qb2
+Nf6 28. Qc2 1/2-1/2
+
+[Event "CN Equipas 2008 - Final 2. divisão"]
+[Site "Évora POR"]
+[Date "2008.08.03"]
+[Round "3.1.3"]
+[White "Machado, Luís"]
+[Black "Reis, Luis"]
+[Result "1-0"]
+[WhiteElo "2076"]
+[BlackElo "2083"]
+[WhiteFideId "1905139"]
+[BlackFideId "1901940"]
+[WhiteTeam "GD Dias Ferreira 'A'"]
+[BlackTeam "GD Ferroviários do Barreiro"]
+[PlyCount "63"]
+[EventDate "2008.??.??"]
+
+1. d4 Nf6 2. Nf3 b6 3. c4 e6 4. Nc3 Bb7 5. e3 Bb4 6. Qc2 O-O 7. Be2 d5 8. O-O
+Nbd7 9. a3 Bxc3 10. Qxc3 c5 11. Rd1 Qe7 12. b4 Rfc8 13. dxc5 dxc4 14. Qxc4 bxc5
+15. b5 a6 16. Qh4 axb5 17. Bxb5 Bc6 18. Bxc6 Rxc6 19. Bb2 Nf8 20. Ne5 Rc7 21.
+Nc4 Ng6 22. Qg3 Rd8 23. Bxf6 gxf6 24. h4 Kh8 25. h5 Nf8 26. Rxd8 Qxd8 27. a4
+Rd7 28. Qf3 Rd5 29. a5 Rd7 30. Rb1 Ra7 31. h6 Ng6 32. Rb8 1-0
+
+[Event "CN Equipas 2008 - Final 2. divisão"]
+[Site "Évora POR"]
+[Date "2008.08.03"]
+[Round "3.1.4"]
+[White "Silva, Flávio"]
+[Black "Pereira, António Caramez"]
+[Result "0-1"]
+[WhiteElo "1918"]
+[BlackElo "2048"]
+[WhiteFideId "1903691"]
+[BlackFideId "1904485"]
+[WhiteTeam "GD Ferroviários do Barreiro"]
+[BlackTeam "GD Dias Ferreira 'A'"]
+[PlyCount "62"]
+[EventDate "2008.??.??"]
+
+1. d4 f5 2. Nf3 Nf6 3. Nbd2 e6 4. c3 Be7 5. Qc2 d5 6. Ne5 O-O 7. g3 c5 8. Bg2
+Nc6 9. Nxc6 bxc6 10. O-O Qb6 11. e3 Ba6 12. Re1 g5 13. f3 g4 14. f4 Kf7 15. Nb3
+Rab8 16. Bf1 Bxf1 17. Rxf1 a5 18. Nd2 h5 19. Kg2 Rh8 20. Rh1 h4 21. b3 Qa6 22.
+c4 cxd4 23. exd4 Bb4 24. Nf1 Ne4 25. Bb2 h3+ 26. Kg1 a4 27. c5 a3 28. Bc1 Bc3
+29. Rb1 Bxd4+ 30. Be3 Bf6 31. Nd2 Qe2 0-1

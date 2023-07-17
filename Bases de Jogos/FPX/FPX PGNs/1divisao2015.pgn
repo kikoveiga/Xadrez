@@ -1,0 +1,4636 @@
+[Event "CN Equipas 2015 - 1. div"]
+[Site "Matosinhos POR"]
+[Date "2015.08.16"]
+[Round "1.1.1"]
+[White "Jakubowski, Krzystof"]
+[Black "Silva, Luís M"]
+[Result "1-0"]
+[ECO "B32"]
+[WhiteElo "2571"]
+[BlackElo "2334"]
+[WhiteFideId "1112848"]
+[BlackFideId "1919121"]
+[WhiteTeam "AA Coimbra"]
+[BlackTeam "CX A2D"]
+[WhiteTitle "GM"]
+[BlackTitle "FM"]
+[PlyCount "65"]
+[EventDate "2015.??.??"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 e5 5. Nb5 d6 6. N1c3 Be7 7. Nd5 Rb8 8.
+Bc4 Na5 9. Be2 a6 10. Be3 axb5 11. Bb6 Qd7 12. Bxa5 Bd8 13. Bxd8 Kxd8 14. Qd2
+Ne7 15. Qg5 Rg8 16. O-O-O h6 17. Qe3 b6 18. Nxb6 Qc6 19. Rxd6+ Qxd6 20. Rd1
+Qxd1+ 21. Kxd1 g5 22. Bh5 Be6 23. Qc5 Nc8 24. Nxc8 Rxc8 25. Qd6+ Bd7 26. Bxf7
+Rh8 27. Kc1 Rc6 28. Qb8+ Rc8 29. Qxe5 Rf8 30. Qf6+ Kc7 31. e5 Kb7 32. Bd5+ Ka7
+33. Qe7 1-0
+
+[Event "CN Equipas 2015 - 1. div"]
+[Site "Matosinhos POR"]
+[Date "2015.08.16"]
+[Round "1.1.2"]
+[White "Gomes, Bruno"]
+[Black "Hammes, Michael"]
+[Result "1/2-1/2"]
+[ECO "D37"]
+[WhiteElo "2262"]
+[BlackElo "2345"]
+[WhiteFideId "1908154"]
+[BlackFideId "4619358"]
+[WhiteTeam "CX A2D"]
+[BlackTeam "AA Coimbra"]
+[WhiteTitle "CM"]
+[BlackTitle "IM"]
+[PlyCount "55"]
+[EventDate "2015.??.??"]
+
+1. d4 e6 2. c4 Nf6 3. Nf3 d5 4. Nc3 Be7 5. Bf4 O-O 6. e3 Nbd7 7. c5 Nh5 8. Be5
+f6 9. Bg3 g6 10. Bd3 c6 11. b4 Nxg3 12. hxg3 f5 13. Ne2 Bf6 14. Nf4 Qe7 15. Be2
+e5 16. dxe5 Nxe5 17. Nd4 a5 18. a3 Bd7 19. Rc1 axb4 20. axb4 Ra3 21. Ra1 Rfa8
+22. Rxa3 Rxa3 23. Qc1 Ra4 24. Qc3 Qe8 25. Bd1 Ra8 26. Be2 Ra4 27. Bd1 Ra8 28.
+Be2 1/2-1/2
+
+[Event "CN Equipas 2015 - 1. div"]
+[Site "Matosinhos POR"]
+[Date "2015.08.16"]
+[Round "1.1.3"]
+[White "Diogo, Vasco"]
+[Black "Dias, Ivo"]
+[Result "1-0"]
+[ECO "C50"]
+[WhiteElo "2240"]
+[BlackElo "2122"]
+[WhiteFideId "1902628"]
+[BlackFideId "1901680"]
+[WhiteTeam "AA Coimbra"]
+[BlackTeam "CX A2D"]
+[WhiteTitle "FM"]
+[BlackTitle "CM"]
+[PlyCount "65"]
+[EventDate "2015.??.??"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. d3 Nf6 5. c3 a6 6. O-O Ba7 7. Bb3 d6 8. h3 h6
+9. Be3 O-O 10. Nbd2 Re8 11. Re1 Be6 12. Bxe6 Rxe6 13. Bxa7 Rxa7 14. d4 Re8 15.
+Qc2 Ra8 16. Rad1 Qe7 17. d5 Nb8 18. c4 a5 19. b3 Na6 20. a3 Qd7 21. Rb1 b5 22.
+cxb5 Qxb5 23. Nc4 Reb8 24. Nfd2 Nc5 25. Re3 Ne8 26. Rc3 c6 27. Nxd6 Nxd6 28.
+Rxc5 Qe2 29. dxc6 Nb5 30. c7 Rc8 31. Qc4 Qxc4 32. Nxc4 Nc3 33. Re1 1-0
+
+[Event "CN Equipas 2015 - 1. div"]
+[Site "Matosinhos POR"]
+[Date "2015.08.16"]
+[Round "1.1.4"]
+[White "Macedo, Adriano"]
+[Black "Gasik, Anna"]
+[Result "0-1"]
+[ECO "A08"]
+[WhiteElo "1820"]
+[BlackElo "2198"]
+[WhiteFideId "1932187"]
+[BlackFideId "1121952"]
+[WhiteTeam "CX A2D"]
+[BlackTeam "AA Coimbra"]
+[BlackTitle "WIM"]
+[PlyCount "124"]
+[EventDate "2015.??.??"]
+
+1. Nf3 d5 2. g3 c5 3. Bg2 Nc6 4. O-O Nf6 5. d4 e6 6. c4 dxc4 7. Qa4 Bd7 8. Qxc4
+cxd4 9. Nxd4 Rc8 10. Nxc6 Bxc6 11. Bxc6+ Rxc6 12. Qa4 Bc5 13. Bg5 Qd4 14. Nc3
+O-O 15. Rad1 Qb4 16. Rd3 h6 17. Bxf6 gxf6 18. Qc2 Rfc8 19. Rfd1 Qb6 20. e3 Bf8
+21. Qe2 f5 22. Qh5 Bg7 23. Rd7 Rf8 24. g4 Qxb2 25. g5 hxg5 26. Ne2 Rc2 27. Nd4
+Rc1 28. Nf3 Rxd1+ 29. Rxd1 Qf6 30. Nxg5 Qh6 31. Qxh6 Bxh6 32. Nf3 f4 33. Rd7
+fxe3 34. Rxb7 Rc8 35. Rb2 exf2+ 36. Kxf2 Rc5 37. Nd2 Bxd2 38. Rxd2 Rc3 39. Ke2
+Kg7 40. Kf2 Kg6 41. Kg2 f5 42. Rd6 Kf6 43. Ra6 Rc7 44. Kf3 Rh7 45. Kf4 Rh3 46.
+a4 Rb3 47. h4 Rb4+ 48. Kf3 Rxh4 49. Rxa7 Rh3+ 50. Kg2 Ra3 51. a5 Ke5 52. a6 Kf4
+53. Ra8 Ra2+ 54. Kf1 Kf3 55. Ke1 Ke3 56. Kf1 f4 57. Kg1 Ra1+ 58. Kh2 e5 59. a7
+e4 60. Kg2 f3+ 61. Kg3 f2 62. Rf8 Rxa7 0-1
+
+[Event "CN Equipas 2015 - 1. div"]
+[Site "Matosinhos POR"]
+[Date "2015.08.16"]
+[Round "1.2.1"]
+[White "Fidalgo, André"]
+[Black "Dâmaso, Rui"]
+[Result "0-1"]
+[ECO "C50"]
+[WhiteElo "2058"]
+[BlackElo "2456"]
+[WhiteFideId "1933620"]
+[BlackFideId "1900030"]
+[WhiteTeam "Santoantoniense FC"]
+[BlackTeam "FC Barreirense"]
+[BlackTitle "IM"]
+[PlyCount "58"]
+[EventDate "2015.??.??"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d3 Bc5 5. c3 a6 6. Nbd2 d6 7. Bb3 Ba7 8. O-O
+O-O 9. Re1 Be6 10. Nf1 Bxb3 11. axb3 Ng4 12. Be3 Nxe3 13. Nxe3 Qd7 14. b4 Kh8
+15. Qa4 Qc8 16. b5 axb5 17. Qxb5 Nd8 18. d4 exd4 19. Nxd4 Ne6 20. Nec2 c6 21.
+Qb3 Nc5 22. Qa2 Nd3 23. Re2 Nxf2 24. Kf1 Ng4 25. g3 Nf6 26. Kg2 d5 27. exd5
+Nxd5 28. Qc4 Qg4 29. h3 Nf4+ 0-1
+
+[Event "CN Equipas 2015 - 1. div"]
+[Site "Matosinhos POR"]
+[Date "2015.08.16"]
+[Round "1.2.2"]
+[White "Rocha, Sérgio"]
+[Black "Figueiredo, Hélder"]
+[Result "1-0"]
+[ECO "D37"]
+[WhiteElo "2384"]
+[BlackElo "2027"]
+[WhiteFideId "1900404"]
+[BlackFideId "1903489"]
+[WhiteTeam "FC Barreirense"]
+[BlackTeam "Santoantoniense FC"]
+[WhiteTitle "IM"]
+[PlyCount "47"]
+[EventDate "2015.??.??"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Nf3 Be7 5. Bf4 O-O 6. c5 c6 7. e3 Nbd7 8. Bd3
+b6 9. b4 bxc5 10. bxc5 Qa5 11. Qd2 Nh5 12. O-O Qd8 13. Qc2 g6 14. Bh6 Re8 15.
+Qa4 Nb8 16. Rab1 Bf8 17. Bxf8 Kxf8 18. Ne5 Qc7 19. f4 Ng7 20. e4 h5 21. Rb2 Kg8
+22. f5 exf5 23. exd5 Rxe5 24. d6 1-0
+
+[Event "CN Equipas 2015 - 1. div"]
+[Site "Matosinhos POR"]
+[Date "2015.08.16"]
+[Round "1.2.3"]
+[White "Parreira, André"]
+[Black "Ulyanovskyy, Viktor"]
+[Result "0-1"]
+[ECO "A04"]
+[WhiteElo "1868"]
+[BlackElo "2233"]
+[WhiteFideId "1911368"]
+[BlackFideId "14113350"]
+[WhiteTeam "Santoantoniense FC"]
+[BlackTeam "FC Barreirense"]
+[BlackTitle "FM"]
+[PlyCount "108"]
+[EventDate "2015.??.??"]
+
+1. Nf3 e6 2. g3 b6 3. Bg2 Bb7 4. O-O Nf6 5. d4 c5 6. c3 Be7 7. Re1 O-O 8. Nbd2
+cxd4 9. cxd4 Nc6 10. e4 Rc8 11. a3 d5 12. e5 Ne4 13. Nxe4 dxe4 14. Rxe4 Qd7 15.
+Re1 Rfd8 16. Be3 Na5 17. Nd2 Bxg2 18. Kxg2 Qb5 19. b4 Nc6 20. Nf3 a5 21. bxa5
+bxa5 22. Qe2 Qd5 23. Reb1 g5 24. h3 h5 25. Kg1 Qe4 26. Re1 g4 27. hxg4 hxg4 28.
+Nd2 Qf5 29. Nc4 Nxd4 30. Bxd4 Rxd4 31. Ne3 Qxe5 32. Qa6 Rc3 33. Rab1 Bg5 34.
+Rb5 Rc5 35. Qc8+ Rxc8 36. Rxe5 Bxe3 37. R1xe3 Rc1+ 38. Kg2 a4 39. R5e4 Rcc4 40.
+Re5 Kf8 41. Ra5 Rc1 42. Rae5 Rdd1 43. f3 Rd2+ 44. Re2 Rxe2+ 45. Rxe2 gxf3+ 46.
+Kxf3 Rc3+ 47. Kf4 Rxa3 48. g4 Rb3 49. g5 Kg7 50. Re4 a3 51. Ra4 Kg6 52. Kg4 Rb5
+53. Rxa3 Rxg5+ 54. Kf4 Rb5 0-1
+
+[Event "CN Equipas 2015 - 1. div"]
+[Site "Matosinhos POR"]
+[Date "2015.08.16"]
+[Round "1.2.4"]
+[White "Ulyanovskyy, Vladimir"]
+[Black "Correia, Jorge"]
+[Result "1-0"]
+[ECO "B30"]
+[WhiteElo "2112"]
+[BlackElo "1770"]
+[WhiteFideId "14120771"]
+[BlackFideId "1915932"]
+[WhiteTeam "FC Barreirense"]
+[BlackTeam "Santoantoniense FC"]
+[PlyCount "82"]
+[EventDate "2015.??.??"]
+
+1. e4 c5 2. Nf3 Nc6 3. c4 d6 4. d4 cxd4 5. Nxd4 Nf6 6. Nc3 e5 7. Nc2 Be6 8. Be2
+Be7 9. O-O O-O 10. f3 Nh5 11. Nd5 Bg5 12. Kh1 Bxc1 13. Rxc1 Qh4 14. Qe1 Qxe1
+15. Rfxe1 Bxd5 16. cxd5 Ne7 17. Na3 Nf4 18. Bf1 Rac8 19. g3 Nfg6 20. Bh3 Rxc1
+21. Rxc1 f5 22. Kg2 Rc8 23. Rxc8+ Nxc8 24. Bxf5 Nge7 25. Be6+ Kf8 26. f4 exf4
+27. gxf4 g5 28. fxg5 Kg7 29. Kg3 h6 30. Kg4 Kg6 31. gxh6 Kxh6 32. Bxc8 Nxc8 33.
+Kf5 Kh5 34. Ke6 Kg5 35. Kd7 Kf4 36. Kxc8 Kxe4 37. Nc4 Kxd5 38. Nxd6 Kxd6 39.
+Kxb7 a5 40. Kb6 a4 41. Kb5 Kd5 1-0
+
+[Event "CN Equipas 2015 - 1. div"]
+[Site "Matosinhos POR"]
+[Date "2015.08.16"]
+[Round "1.3.1"]
+[White "Ferreira, Jorge"]
+[Black "Neves, Pedro"]
+[Result "1-0"]
+[ECO "D37"]
+[WhiteElo "2447"]
+[BlackElo "2215"]
+[WhiteFideId "1910850"]
+[BlackFideId "1905554"]
+[WhiteTeam "GD Dias Ferreira"]
+[BlackTeam "CX Montemor-o-Velho"]
+[WhiteTitle "IM"]
+[BlackTitle "NM"]
+[PlyCount "89"]
+[EventDate "2015.??.??"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 a6 5. Bg5 c6 6. e3 Be7 7. Bd3 b5 8. c5 Nbd7
+9. b4 a5 10. a3 Nh5 11. Bf4 Nxf4 12. exf4 Qc7 13. g3 O-O 14. O-O Bf6 15. Qc2 g6
+16. h4 Rd8 17. h5 Nf8 18. Kg2 Bd7 19. hxg6 fxg6 20. Rfb1 axb4 21. Rxb4 Ra7 22.
+a4 bxa4 23. Nxa4 Rb8 24. Rxb8 Qxb8 25. Rb1 Qc7 26. Rb4 Be8 27. Ne5 Nd7 28. Qb3
+Nxe5 29. fxe5 Bd8 30. Be2 Kg7 31. Nb2 Bf7 32. Nd3 Qa5 33. Nf4 g5 34. Nh5+ Kh6
+35. Nf6 Bxf6 36. exf6 Kg6 37. Rb8 Kxf6 38. Qf3+ Ke7 39. Qe3 h6 40. Rh8 Qc7 41.
+Rxh6 Kd7 42. Rh7 Ke8 43. Bh5 Bxh5 44. Qxe6+ Kf8 45. Rxc7 1-0
+
+[Event "CN Equipas 2015 - 1. div"]
+[Site "Matosinhos POR"]
+[Date "2015.08.16"]
+[Round "1.3.2"]
+[White "Figuero Toro, Julian"]
+[Black "Gonzalez Perez, Arian"]
+[Result "0-1"]
+[ECO "C54"]
+[WhiteElo "2204"]
+[BlackElo "2440"]
+[WhiteFideId "2210347"]
+[BlackFideId "3507777"]
+[WhiteTeam "CX Montemor-o-Velho"]
+[BlackTeam "GD Dias Ferreira"]
+[BlackTitle "FM"]
+[PlyCount "106"]
+[EventDate "2015.??.??"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Nf6 5. d3 a6 6. Bb3 Ba7 7. Nbd2 d6 8. Nc4
+O-O 9. Bg5 Be6 10. Ne3 h6 11. Bh4 Bxe3 12. fxe3 Nb8 13. Bxe6 fxe6 14. Qb3 Qc8
+15. Bxf6 Rxf6 16. O-O Nd7 17. Rf2 c5 18. c4 Qc6 19. Raf1 b5 20. Nd2 Rxf2 21.
+Rxf2 Nf8 22. Qd1 Qe8 23. Qg4 Rb8 24. b3 Kh7 25. Qf3 Kg8 26. Qg4 Qe7 27. Nf1
+bxc4 28. dxc4 Nh7 29. Ng3 Nf6 30. Qd1 Rd8 31. Rd2 Qc7 32. h3 Qc6 33. Kh2 g6 34.
+Qf3 Kg7 35. Rf2 Rf8 36. Kg1 h5 37. Qd1 Rf7 38. Rf3 Rd7 39. Qf1 Nh7 40. Qf2 h4
+41. Nf1 Qxe4 42. Nd2 Qd3 43. Nf1 e4 44. Rf4 g5 45. Rg4 Rf7 46. Qe1 Rxf1+ 47.
+Qxf1 Qxe3+ 48. Qf2 Qxf2+ 49. Kxf2 Nf6 50. Rxg5+ Kh6 51. Rg4 Nxg4+ 52. hxg4 Kg5
+53. Ke3 Kxg4 0-1
+
+[Event "CN Equipas 2015 - 1. div"]
+[Site "Matosinhos POR"]
+[Date "2015.08.16"]
+[Round "1.3.3"]
+[White "Martinez, Lelys"]
+[Black "Cruz, Jorge"]
+[Result "1-0"]
+[ECO "B27"]
+[WhiteElo "2450"]
+[BlackElo "2024"]
+[WhiteFideId "3504727"]
+[BlackFideId "1903977"]
+[WhiteTeam "GD Dias Ferreira"]
+[BlackTeam "CX Montemor-o-Velho"]
+[WhiteTitle "GM"]
+[PlyCount "43"]
+[EventDate "2015.??.??"]
+
+1. e4 c5 2. Nf3 g6 3. Bc4 Nc6 4. c3 e6 5. O-O Bg7 6. d4 cxd4 7. cxd4 d5 8. exd5
+exd5 9. Bb5 Nge7 10. Bg5 f6 11. Bxc6+ Nxc6 12. Re1+ Kf7 13. Bd2 Bg4 14. Ng5+
+fxg5 15. Qxg4 Qd6 16. Nc3 Nxd4 17. Nb5 Nxb5 18. Bb4 Qc6 19. Rac1 Nc3 20. Re7+
+Kg8 21. Bxc3 Bf8 22. Qd4 1-0
+
+[Event "CN Equipas 2015 - 1. div"]
+[Site "Matosinhos POR"]
+[Date "2015.08.16"]
+[Round "1.3.4"]
+[White "Cavaleiro, Daniel"]
+[Black "Martins, David"]
+[Result "0-1"]
+[ECO "A40"]
+[WhiteElo "1900"]
+[BlackElo "2334"]
+[WhiteFideId "1904663"]
+[BlackFideId "1909991"]
+[WhiteTeam "CX Montemor-o-Velho"]
+[BlackTeam "GD Dias Ferreira"]
+[BlackTitle "FM"]
+[PlyCount "72"]
+[EventDate "2015.??.??"]
+
+1. d4 g6 2. c4 f5 3. g3 Bg7 4. Bg2 Nf6 5. Nc3 O-O 6. Nh3 d6 7. O-O c6 8. d5 e5
+9. c5 dxc5 10. Be3 cxd5 11. Bxc5 Re8 12. Nxd5 Nbd7 13. Bd6 Nxd5 14. Bxd5+ Kh8
+15. Bf7 Nb6 16. Bxe8 Qxe8 17. Bc7 Bd7 18. Bxb6 axb6 19. Qb3 h6 20. Qxb6 f4 21.
+Kg2 g5 22. f3 e4 23. a3 fxg3 24. hxg3 Bc6 25. Ng1 exf3+ 26. exf3 g4 27. Rae1
+Qg6 28. Qb3 Rd8 29. Re6 Rd2+ 30. Rf2 gxf3+ 31. Kf1 Qb1+ 32. Re1 Rxf2+ 33. Kxf2
+Bd4+ 34. Re3 Qe4 35. Nh3 Bd5 36. Qd1 Qxe3+ 0-1
+
+[Event "CN Equipas 2015 - 1. div"]
+[Site "Matosinhos POR"]
+[Date "2015.08.16"]
+[Round "1.4.1"]
+[White "Getz, Nicolai"]
+[Black "Aguiar, Henrique"]
+[Result "1-0"]
+[ECO "B27"]
+[WhiteElo "2386"]
+[BlackElo "2188"]
+[WhiteFideId "1505572"]
+[BlackFideId "1908545"]
+[WhiteTeam "ADRC Mata de Benfica"]
+[BlackTeam "AEJ S. João da Madeira"]
+[WhiteTitle "IM"]
+[PlyCount "123"]
+[EventDate "2015.??.??"]
+
+1. e4 c5 2. Nf3 g6 3. d4 cxd4 4. Qxd4 Nf6 5. Nc3 Nc6 6. Qa4 d6 7. e5 dxe5 8.
+Nxe5 Bd7 9. Nxd7 Qxd7 10. Be3 Bg7 11. Rd1 Qc8 12. Be2 O-O 13. O-O a6 14. Qh4
+Qc7 15. Na4 Rac8 16. c4 Qa5 17. b3 Rb8 18. Bb6 Qf5 19. Bd3 Qh5 20. Qxh5 Nxh5
+21. Be4 Nf6 22. Bxc6 bxc6 23. Rfe1 Rfe8 24. Ba5 Bf8 25. Bc3 Bg7 26. g3 Ra8 27.
+Kg2 Kf8 28. Bb4 Ra7 29. Nc5 Rb8 30. Ba3 Rc8 31. Re2 Ke8 32. Rde1 Rcc7 33. h3 h5
+34. Bb2 Kf8 35. Be5 Rc8 36. Bd4 Rca8 37. Na4 Rc7 38. Bc5 Re8 39. Nb6 Ng8 40.
+Rd1 Bc3 41. Rd3 Ba1 42. Red2 Nf6 43. f3 a5 44. Rd1 Bb2 45. Na4 Be5 46. f4 Bd6
+47. Rxd6 exd6 48. Bxd6+ Ree7 49. Re1 Ng8 50. Nc5 Ra7 51. Kf3 Kg7 52. Bxe7 Nxe7
+53. Rd1 Ra8 54. g4 hxg4+ 55. hxg4 Kf8 56. Rd6 Ke8 57. Ke4 Ra7 58. f5 gxf5+ 59.
+gxf5 Rc7 60. Rh6 Kf8 61. f6 Ng6 62. Rxg6 1-0
+
+[Event "CN Equipas 2015 - 1. div"]
+[Site "Matosinhos POR"]
+[Date "2015.08.16"]
+[Round "1.4.2"]
+[White "Pires, Gustavo"]
+[Black "Ribeiro, Bruno"]
+[Result "1-0"]
+[ECO "C01"]
+[WhiteElo "2098"]
+[BlackElo "2178"]
+[WhiteFideId "1903250"]
+[BlackFideId "1901010"]
+[WhiteTeam "AEJ S. João da Madeira"]
+[BlackTeam "ADRC Mata de Benfica"]
+[BlackTitle "NM"]
+[PlyCount "55"]
+[EventDate "2015.??.??"]
+
+1. e4 e6 2. d4 d5 3. exd5 exd5 4. Nf3 Nf6 5. Bd3 Bd6 6. O-O O-O 7. h3 c6 8. Re1
+Qc7 9. c4 dxc4 10. Bxc4 Nbd7 11. Nc3 Nb6 12. Bb3 Nbd5 13. Bg5 Bf5 14. Nh4 Qd7
+15. Nxd5 Nxd5 16. Bxd5 cxd5 17. Nxf5 Qxf5 18. Be7 Bxe7 19. Rxe7 Rac8 20. Qg4
+Qf6 21. Rxb7 Rc2 22. Qf3 Qxd4 23. Rd1 Rd2 24. Re1 Rd3 25. Qe2 h6 26. Qe5 Qa4
+27. Qd6 Re8 28. Rxe8+ 1-0
+
+[Event "CN Equipas 2015 - 1. div"]
+[Site "Matosinhos POR"]
+[Date "2015.08.16"]
+[Round "1.4.3"]
+[White "Andrade, José"]
+[Black "Silva, Stéphane"]
+[Result "0-1"]
+[ECO "C01"]
+[WhiteElo "2199"]
+[BlackElo "2126"]
+[WhiteFideId "1900986"]
+[BlackFideId "1900846"]
+[WhiteTeam "ADRC Mata de Benfica"]
+[BlackTeam "AEJ S. João da Madeira"]
+[WhiteTitle "FM"]
+[BlackTitle "NM"]
+[PlyCount "130"]
+[EventDate "2015.??.??"]
+
+1. e4 e6 2. d4 d5 3. exd5 exd5 4. c4 Nf6 5. Nc3 Bb4 6. Bd3 O-O 7. Nge2 dxc4 8.
+Bxc4 Nbd7 9. O-O Nb6 10. Bb3 Bg4 11. f3 Bf5 12. Ng3 Bg6 13. f4 h6 14. f5 Bh7
+15. Be3 Re8 16. Bf2 Qd7 17. Qf3 c6 18. Rad1 Nbd5 19. Bc2 Re7 20. Nxd5 Nxd5 21.
+Be4 Nf6 22. Bd3 Rae8 23. Nh5 Nxh5 24. Qxh5 f6 25. Bc4+ Kh8 26. Be6 Qc7 27. Bh4
+Rf8 28. Rf3 Bd6 29. Bf2 Bg8 30. Re1 Rfe8 31. Rfe3 Qa5 32. Qg4 Bxe6 33. fxe6
+Qxa2 34. Bh4 Qd5 35. Kh1 Kh7 36. R1e2 f5 37. Qf3 Qxf3 38. gxf3 g5 39. Bf2 Kg6
+40. Rb3 b6 41. Rc3 Rc7 42. Rec2 Rec8 43. Re2 Kf6 44. Rd3 Re8 45. d5 cxd5 46.
+Rxd5 Rxe6 47. Bd4+ Ke7 48. Rd2 Bb4 49. Rd1 Rd6 50. Bg7 Rxd5 51. Rxd5 Ke6 52.
+Re5+ Kd6 53. Bf6 Rf7 54. Bh8 Bc5 55. Re8 Kd7 56. Ra8 Kc6 57. Bc3 Bf8 58. Bd2
+Bg7 59. b3 Rd7 60. Be3 a5 61. Rc8+ Kb5 62. Rb8 Bd4 63. Bxd4 Rxd4 64. Rh8 Rd6
+65. Rb8 Kb4 0-1
+
+[Event "CN Equipas 2015 - 1. div"]
+[Site "Matosinhos POR"]
+[Date "2015.08.16"]
+[Round "1.4.4"]
+[White "Castro, Francisco"]
+[Black "Gaspar, Artur"]
+[Result "0-1"]
+[ECO "B07"]
+[WhiteElo "2117"]
+[BlackElo "2134"]
+[WhiteFideId "1903080"]
+[BlackFideId "1900781"]
+[WhiteTeam "AEJ S. João da Madeira"]
+[BlackTeam "ADRC Mata de Benfica"]
+[PlyCount "114"]
+[EventDate "2015.??.??"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Bg5 Bg7 5. Qd2 h6 6. Bf4 g5 7. Bg3 Nh5 8. O-O-O
+Nd7 9. Be2 Nxg3 10. hxg3 c5 11. d5 b5 12. Nxb5 a6 13. Na3 Rb8 14. Nc4 Nb6 15.
+Nxb6 Bxb2+ 16. Kxb2 Qxb6+ 17. Bb5+ Qxb5+ 18. Kc3 a5 19. a3 Ba6 20. Qe3 Kd7 21.
+Kd2 Qa4 22. e5 Rb2 23. e6+ fxe6 24. Qxe6+ Kd8 25. Qf5 Qxa3 26. Qf3 Qa2 27. Qe4
+Bc4 28. Re1 Re8 29. Rxh6 Kc7 30. Rh7 Kb6 31. Qg6 Bb3 32. Rc1 Qa4 33. Qd3 Qb4+
+34. Kd1 Bc4 35. Qe4 Qc3 36. Ne2 Bxe2+ 37. Kxe2 Rb4 38. Qf3 Qc4+ 39. Ke1 Qe4+
+40. Qxe4 Rxe4+ 41. Kf1 Kb5 42. Rg7 g4 43. f3 gxf3 44. gxf3 Rd4 45. c3 Rd2 46.
+Ke1 Rb2 47. Rg4 Rh8 48. Rh4 Rxh4 49. gxh4 Rh2 50. Rb1+ Kc4 51. Rb7 a4 52. Rxe7
+a3 53. Ra7 a2 54. h5 Rh1+ 55. Kf2 a1=Q 56. Rxa1 Rxa1 57. Kg3 Kxc3 0-1
+
+[Event "CN Equipas 2015 - 1. div"]
+[Site "Matosinhos POR"]
+[Date "2015.08.16"]
+[Round "1.5.1"]
+[White "Stopa, Jacek"]
+[Black "Iturrizaga, Eduardo"]
+[Result "1/2-1/2"]
+[ECO "A50"]
+[WhiteElo "2544"]
+[BlackElo "2625"]
+[WhiteFideId "1119591"]
+[BlackFideId "3901211"]
+[WhiteTeam "GX Porto"]
+[BlackTeam "AX Gaia"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[PlyCount "61"]
+[EventDate "2015.??.??"]
+
+1. d4 Nf6 2. c4 b6 3. Nc3 Bb7 4. Qc2 d5 5. cxd5 Nxd5 6. e4 Nxc3 7. bxc3 e5 8.
+dxe5 Nd7 9. Nf3 Qe7 10. Bf4 O-O-O 11. O-O-O h6 12. Bc4 g5 13. Bg3 Bg7 14. e6
+Nc5 15. Nd4 Nxe6 16. Nxe6 fxe6 17. f3 Kb8 18. Qb3 Bc8 19. Kc2 h5 20. Qb4 Qf6
+21. h3 h4 22. Bh2 g4 23. fxg4 Qf2+ 24. Kb3 e5 25. Bd5 Qxg2 26. Qc4 Rhf8 27.
+Rdg1 Qd2 28. Rd1 Qg2 29. Rdg1 Qd2 30. Rd1 Qg2 31. Rdg1 1/2-1/2
+
+[Event "CN Equipas 2015 - 1. div"]
+[Site "Matosinhos POR"]
+[Date "2015.08.16"]
+[Round "1.5.2"]
+[White "Ftacnik, Lubomir"]
+[Black "Sousa, André V"]
+[Result "1-0"]
+[ECO "E92"]
+[WhiteElo "2555"]
+[BlackElo "2266"]
+[WhiteFideId "14900017"]
+[BlackFideId "1917617"]
+[WhiteTeam "AX Gaia"]
+[BlackTeam "GX Porto"]
+[WhiteTitle "GM"]
+[PlyCount "73"]
+[EventDate "2015.??.??"]
+
+1. Nf3 g6 2. d4 Nf6 3. c4 Bg7 4. Nc3 O-O 5. e4 d6 6. Be2 e5 7. Be3 Ng4 8. Bg5
+f6 9. Bh4 g5 10. Bg3 Nh6 11. h3 Nf7 12. d5 f5 13. exf5 Bxf5 14. Nd2 Nd7 15.
+Nde4 Bxe4 16. Nxe4 Nf6 17. Bd3 c6 18. Nxf6+ Qxf6 19. Be4 c5 20. h4 h6 21. h5
+Rfb8 22. a4 a6 23. O-O b6 24. Qg4 Ra7 25. Ra3 Bf8 26. Re1 Qg7 27. Ree3 Be7 28.
+Rf3 Rf8 29. Qe6 Kh8 30. Bg6 Nd8 31. Rxf8+ Bxf8 32. Qf5 Kg8 33. Rf3 Be7 34. Qc8
+Bf6 35. Qb8 Rd7 36. Be8 Qg6 37. Bxg6 1-0
+
+[Event "CN Equipas 2015 - 1. div"]
+[Site "Matosinhos POR"]
+[Date "2015.08.16"]
+[Round "1.5.3"]
+[White "Guimarães, Jorge"]
+[Black "Strikovic, Aleksa"]
+[Result "0-1"]
+[ECO "A88"]
+[WhiteElo "2254"]
+[BlackElo "2509"]
+[WhiteFideId "1900137"]
+[BlackFideId "900150"]
+[WhiteTeam "GX Porto"]
+[BlackTeam "AX Gaia"]
+[WhiteTitle "FM"]
+[BlackTitle "GM"]
+[PlyCount "58"]
+[EventDate "2015.??.??"]
+
+1. d4 f5 2. Nf3 Nf6 3. c4 g6 4. Nc3 d6 5. g3 Bg7 6. Bg2 O-O 7. O-O c6 8. Qc2
+Na6 9. a3 Qe8 10. d5 e5 11. dxe6 Bxe6 12. b3 d5 13. cxd5 Nxd5 14. Bb2 Qe7 15.
+Nd4 Nxc3 16. Nxe6 Qxe6 17. Bxc3 Bxc3 18. Qxc3 f4 19. Rad1 Rf7 20. Rd4 Raf8 21.
+Re4 Qd6 22. Bh3 Nc7 23. b4 h5 24. Qb3 fxg3 25. hxg3 Kg7 26. Be6 Nxe6 27. Rxe6
+Qd4 28. e3 Qg4 29. Rd6 Qxg3+ 0-1
+
+[Event "CN Equipas 2015 - 1. div"]
+[Site "Matosinhos POR"]
+[Date "2015.08.16"]
+[Round "1.5.4"]
+[White "Hoffman, Alejandro"]
+[Black "Rodrigues, José A A"]
+[Result "1-0"]
+[ECO "D02"]
+[WhiteElo "2433"]
+[BlackElo "2151"]
+[WhiteFideId "100340"]
+[BlackFideId "1901834"]
+[WhiteTeam "AX Gaia"]
+[BlackTeam "GX Porto"]
+[WhiteTitle "GM"]
+[PlyCount "67"]
+[EventDate "2015.??.??"]
+
+1. d4 d5 2. Nf3 e6 3. c4 Nf6 4. e3 c5 5. Nc3 Nc6 6. a3 cxd4 7. exd4 Be7 8. Bd3
+dxc4 9. Bxc4 O-O 10. O-O a6 11. Re1 b5 12. Ba2 Bb7 13. Bg5 Rc8 14. Qd3 Na5 15.
+Ne5 Nd5 16. Bxe7 Nxe7 17. Rad1 Nd5 18. Ne4 Nf4 19. Qg3 Bxe4 20. Rxe4 Nh5 21.
+Qh3 Nf6 22. Rh4 Nc4 23. Nxc4 bxc4 24. d5 exd5 25. Bxc4 Re8 26. Bxa6 Rc2 27. Bd3
+Rxb2 28. Rxh7 Nxh7 29. Qxh7+ Kf8 30. Qh8+ Ke7 31. Re1+ Kd7 32. Bf5+ Re6 33.
+Bxe6+ fxe6 34. Qxg7+ 1-0
+
+[Event "CN Equipas 2015 - 1. div"]
+[Site "Matosinhos POR"]
+[Date "2015.08.17"]
+[Round "2.1.1"]
+[White "Silva, Luís M"]
+[Black "Ftacnik, Lubomir"]
+[Result "1/2-1/2"]
+[ECO "A30"]
+[WhiteElo "2334"]
+[BlackElo "2555"]
+[WhiteFideId "1919121"]
+[BlackFideId "14900017"]
+[WhiteTeam "CX A2D"]
+[BlackTeam "AX Gaia"]
+[WhiteTitle "FM"]
+[BlackTitle "GM"]
+[PlyCount "59"]
+[EventDate "2015.??.??"]
+
+1. Nf3 Nf6 2. c4 c5 3. Nc3 e6 4. g3 b6 5. Bg2 Bb7 6. O-O Be7 7. d4 cxd4 8. Qxd4
+d6 9. Rd1 a6 10. b3 Nbd7 11. e4 Qc8 12. Ba3 Nc5 13. e5 dxe5 14. Nxe5 Bxg2 15.
+Kxg2 O-O 16. Qe3 Qc7 17. Rd2 b5 18. Kg1 Rfb8 19. Bb2 b4 20. Na4 Nxa4 21. bxa4
+Rd8 22. Rad1 Rxd2 23. Rxd2 Rc8 24. g4 h6 25. h4 Rd8 26. Rxd8+ Qxd8 27. Qd4 Qxd4
+28. Bxd4 Ne4 29. Nc6 Bd6 30. Kg2 1/2-1/2
+
+[Event "CN Equipas 2015 - 1. div"]
+[Site "Matosinhos POR"]
+[Date "2015.08.17"]
+[Round "2.1.2"]
+[White "Strikovic, Aleksa"]
+[Black "Dias, Ivo"]
+[Result "1-0"]
+[ECO "A05"]
+[WhiteElo "2509"]
+[BlackElo "2122"]
+[WhiteFideId "900150"]
+[BlackFideId "1901680"]
+[WhiteTeam "AX Gaia"]
+[BlackTeam "CX A2D"]
+[WhiteTitle "GM"]
+[BlackTitle "CM"]
+[PlyCount "53"]
+[EventDate "2015.??.??"]
+
+1. Nf3 Nf6 2. g3 b6 3. Bg2 Bb7 4. O-O e6 5. d3 d5 6. Nbd2 Be7 7. e4 dxe4 8.
+dxe4 O-O 9. Qe2 a5 10. Rd1 Qc8 11. e5 Nfd7 12. Ne4 Nc5 13. Bg5 Nxe4 14. Bxe7
+Re8 15. Ba3 Na6 16. Nd4 Nec5 17. Nc6 Nb4 18. Bxb4 axb4 19. Rd8 Qxd8 20. Nxd8
+Ba6 21. Qe1 Raxd8 22. Qxb4 f6 23. exf6 gxf6 24. Qf4 Kf7 25. Qxc7+ Rd7 26. Qxb6
+Red8 27. Bf3 1-0
+
+[Event "CN Equipas 2015 - 1. div"]
+[Site "Matosinhos POR"]
+[Date "2015.08.17"]
+[Round "2.1.3"]
+[White "Romano, Luís"]
+[Black "Hoffman, Alejandro"]
+[Result "0-1"]
+[ECO "E10"]
+[WhiteElo "2030"]
+[BlackElo "2433"]
+[WhiteFideId "1920235"]
+[BlackFideId "100340"]
+[WhiteTeam "CX A2D"]
+[BlackTeam "AX Gaia"]
+[BlackTitle "GM"]
+[PlyCount "78"]
+[EventDate "2015.??.??"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. g3 Bb4+ 5. Nbd2 O-O 6. Bg2 dxc4 7. Qc2 Nc6 8.
+Qxc4 Qd5 9. O-O Bxd2 10. Qxd5 exd5 11. Bxd2 Bg4 12. e3 Ne4 13. Rfd1 a5 14. h3
+Bxf3 15. Bxf3 Nxd2 16. Rxd2 Ne7 17. Bg2 c6 18. f3 f5 19. Kf2 Nc8 20. a4 Nd6 21.
+Re1 Ra6 22. b3 Rb6 23. Rd3 Ne4+ 24. Kg1 Nxg3 25. Kh2 Nh5 26. e4 Nf4 27. Rc3 Rb4
+28. Kg3 g5 29. h4 h6 30. exd5 Nxd5 31. Rc5 Rxd4 32. hxg5 hxg5 33. Re6 Kf7 34.
+Rd6 Rb4 35. Bf1 Ke7 36. Rg6 Rxb3 37. Rxg5 Kf6 38. Rh5 Rg8+ 39. Kh2 Rb2+ 0-1
+
+[Event "CN Equipas 2015 - 1. div"]
+[Site "Matosinhos POR"]
+[Date "2015.08.17"]
+[Round "2.1.4"]
+[White "Fróis, António"]
+[Black "Macedo, Adriano"]
+[Result "0-1"]
+[ECO "E18"]
+[WhiteElo "2320"]
+[BlackElo "1820"]
+[WhiteFideId "1900080"]
+[BlackFideId "1932187"]
+[WhiteTeam "AX Gaia"]
+[BlackTeam "CX A2D"]
+[WhiteTitle "IM"]
+[PlyCount "98"]
+[EventDate "2015.??.??"]
+
+1. Nf3 Nf6 2. g3 b6 3. Bg2 Bb7 4. c4 e6 5. O-O Be7 6. d4 O-O 7. Nc3 Ne4 8. Bd2
+f5 9. Rc1 Bf6 10. Qc2 Nxc3 11. Bxc3 Be4 12. Qb3 d6 13. Rfd1 Nd7 14. Ne1 Bxg2
+15. Nxg2 Qe8 16. Qb5 Bg5 17. e3 a5 18. Qc6 Rc8 19. Rc2 Kh8 20. Rcd2 e5 21. dxe5
+Nxe5 22. Qxe8 Nf3+ 23. Kh1 Rcxe8 24. Rc2 Kg8 25. Nf4 Bxf4 26. exf4 g5 27. Kg2
+g4 28. h3 h5 29. Rh1 Re7 30. hxg4 hxg4 31. Rh8+ Kf7 32. Rh6 Re1 33. Rh1 Rxh1
+34. Kxh1 Re8 35. Rc1 Re4 36. Kg2 Rxc4 37. Rh1 d5 38. Be5 Nxe5 39. fxe5 Ke6 40.
+f4 gxf3+ 41. Kxf3 Kxe5 42. Re1+ Re4 43. Rh1 d4 44. Rh7 Re3+ 45. Kf2 c5 46. Rb7
+Ke4 47. Rxb6 c4 48. Ra6 Kd3 49. Rxa5 Re2+ 0-1
+
+[Event "CN Equipas 2015 - 1. div"]
+[Site "Matosinhos POR"]
+[Date "2015.08.17"]
+[Round "2.2.1"]
+[White "Aguiar, Henrique"]
+[Black "Stopa, Jacek"]
+[Result "0-1"]
+[ECO "A14"]
+[WhiteElo "2188"]
+[BlackElo "2544"]
+[WhiteFideId "1908545"]
+[BlackFideId "1119591"]
+[WhiteTeam "AEJ S. João da Madeira"]
+[BlackTeam "GX Porto"]
+[BlackTitle "GM"]
+[PlyCount "114"]
+[EventDate "2015.??.??"]
+
+1. c4 e6 2. g3 Nf6 3. Bg2 d5 4. Nf3 Be7 5. O-O O-O 6. d4 b6 7. b3 Bb7 8. Bb2
+Ne4 9. cxd5 exd5 10. Nbd2 f5 11. Ne5 Nd7 12. Ndf3 Ndf6 13. Qc1 Bd6 14. Nh4 Ne8
+15. Nhf3 Qe7 16. Qc2 a5 17. Nd3 a4 18. Bc1 axb3 19. Qxb3 Qd7 20. Bf4 Ra3 21.
+Qb2 Ra5 22. Bxd6 N8xd6 23. Nfe5 Qa4 24. Rfc1 Rc8 25. Qb4 Qxb4 26. Nxb4 c5 27.
+Nbd3 c4 28. Nb4 Nb5 29. Bxe4 fxe4 30. e3 Na3 31. Nc2 Bc6 32. Nb4 Bb7 33. Nc2
+Nxc2 34. Rxc2 Rb5 35. Rf1 Rf8 36. Kg2 Bc8 37. Re1 Be6 38. Ree2 Rc8 39. Rc3 Ra8
+40. Rcc2 Kf8 41. g4 Rc8 42. Rc3 Ke7 43. Kg3 Ra8 44. f3 exf3 45. Kxf3 Rb1 46.
+Kg2 b5 47. Rcc2 Bd7 48. Rf2 Be8 49. h3 b4 50. Kg3 Ra3 51. Kf3 Re1 52. Rfe2 Rxe2
+53. Kxe2 c3 54. Ke1 Ba4 55. Rf2 c2 56. Kd2 Rxa2 57. Rf1 c1=Q+ 0-1
+
+[Event "CN Equipas 2015 - 1. div"]
+[Site "Matosinhos POR"]
+[Date "2015.08.17"]
+[Round "2.2.2"]
+[White "Sousa, André V"]
+[Black "Pires, Gustavo"]
+[Result "1/2-1/2"]
+[ECO "C02"]
+[WhiteElo "2266"]
+[BlackElo "2098"]
+[WhiteFideId "1917617"]
+[BlackFideId "1903250"]
+[WhiteTeam "GX Porto"]
+[BlackTeam "AEJ S. João da Madeira"]
+[PlyCount "56"]
+[EventDate "2015.??.??"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Bd7 6. a3 Nh6 7. Be3 Nf5 8. Bd3
+cxd4 9. cxd4 Be7 10. Bxf5 exf5 11. Nc3 Be6 12. b4 O-O 13. O-O Rc8 14. Qd3 h6
+15. g3 Qd7 16. h4 Rc7 17. Bf4 Rcc8 18. Kg2 Rfd8 19. Rfb1 b6 20. h5 Bf8 21. Nd2
+g5 22. hxg6 fxg6 23. Rh1 g5 24. Be3 Nxe5 25. dxe5 d4 26. Nce4 fxe4 27. Nxe4 Qd5
+28. f3 Qxe5 1/2-1/2
+
+[Event "CN Equipas 2015 - 1. div"]
+[Site "Matosinhos POR"]
+[Date "2015.08.17"]
+[Round "2.2.3"]
+[White "Silva, Stéphane"]
+[Black "Guimarães, Jorge"]
+[Result "0-1"]
+[ECO "B23"]
+[WhiteElo "2126"]
+[BlackElo "2254"]
+[WhiteFideId "1900846"]
+[BlackFideId "1900137"]
+[WhiteTeam "AEJ S. João da Madeira"]
+[BlackTeam "GX Porto"]
+[WhiteTitle "NM"]
+[BlackTitle "FM"]
+[PlyCount "48"]
+[EventDate "2015.??.??"]
+
+1. e4 c5 2. Nc3 Nc6 3. f4 e6 4. Nf3 d5 5. Bb5 dxe4 6. Bxc6+ bxc6 7. Nxe4 Ba6 8.
+d3 c4 9. d4 Nf6 10. Nxf6+ gxf6 11. c3 Qd5 12. O-O Bb7 13. Be3 c5 14. Qe2 cxd4
+15. Bxd4 Be7 16. Rad1 Qc6 17. Qf2 Rg8 18. Kh1 a5 19. Qh4 Qe4 20. Rde1 Qf5 21.
+Be3 Rd8 22. Qf2 Rd3 23. h3 Bd6 24. Nh4 Qxh3+ 0-1
+
+[Event "CN Equipas 2015 - 1. div"]
+[Site "Matosinhos POR"]
+[Date "2015.08.17"]
+[Round "2.2.4"]
+[White "Rodrigues, José A A"]
+[Black "Sá, Cláudio"]
+[Result "1-0"]
+[ECO "D10"]
+[WhiteElo "2151"]
+[BlackElo "1714"]
+[WhiteFideId "1901834"]
+[BlackFideId "1902903"]
+[WhiteTeam "GX Porto"]
+[BlackTeam "AEJ S. João da Madeira"]
+[PlyCount "59"]
+[EventDate "2015.??.??"]
+
+1. d4 d5 2. c4 c6 3. e3 Nf6 4. Nc3 a6 5. Nf3 b5 6. b3 Bg4 7. Bd2 e6 8. h3 Bh5
+9. g4 Bg6 10. Ne5 Nbd7 11. Nxc6 Qc7 12. cxb5 axb5 13. Bxb5 Ba3 14. Ne5 Bb2 15.
+g5 O-O 16. gxf6 Nxe5 17. dxe5 Bxc3 18. Rc1 Bxd2+ 19. Qxd2 Qxe5 20. fxg7 Kxg7
+21. a4 Kg8 22. Qd4 Qd6 23. O-O e5 24. Qh4 Qa3 25. Qf6 Qxb3 26. Qxe5 Bd3 27.
+Bxd3 Qxd3 28. Kh2 f6 29. Rg1+ Kh8 30. Qe7 1-0
+
+[Event "CN Equipas 2015 - 1. div"]
+[Site "Matosinhos POR"]
+[Date "2015.08.17"]
+[Round "2.3.1"]
+[White "Neves, Pedro"]
+[Black "Getz, Nicolai"]
+[Result "0-1"]
+[ECO "A05"]
+[WhiteElo "2215"]
+[BlackElo "2386"]
+[WhiteFideId "1905554"]
+[BlackFideId "1505572"]
+[WhiteTeam "CX Montemor-o-Velho"]
+[BlackTeam "ADRC Mata de Benfica"]
+[WhiteTitle "NM"]
+[BlackTitle "IM"]
+[PlyCount "110"]
+[EventDate "2015.??.??"]
+
+1. Nf3 Nf6 2. c4 g6 3. g3 Bg7 4. Bg2 O-O 5. O-O d6 6. Nc3 e5 7. d4 Nbd7 8. Qc2
+Re8 9. Rd1 exd4 10. Nxd4 a6 11. Bg5 h6 12. Bf4 Rb8 13. b4 Nh5 14. Bc1 c5 15.
+bxc5 dxc5 16. Nb3 Qe7 17. Bb2 Nhf6 18. Rac1 b6 19. e4 Bb7 20. Nd5 Nxd5 21. exd5
+Qd6 22. Bxg7 Kxg7 23. a4 Bc8 24. Re1 Nf6 25. Rxe8 Nxe8 26. Re1 Bf5 27. Be4 Bd7
+28. Ra1 Qe5 29. a5 bxa5 30. Ra3 Bh3 31. Nxa5 Rb2 32. Qc3 Qxc3 33. Rxc3 Nd6 34.
+Bd3 Rd2 35. f4 Rd1+ 36. Kf2 Rh1 37. Ke3 Rxh2 38. Ra3 Bg4 39. Nb3 Rg2 40. Rxa6
+Rxg3+ 41. Kd2 Bf5 42. Bxf5 Nxc4+ 43. Ke2 Re3+ 44. Kf2 Rxb3 45. Be4 Rb6 46. Ra7
+Nd6 47. Bf3 Rb4 48. Rd7 Nf5 49. Bg2 Rxf4+ 50. Ke2 g5 51. Kd3 Rd4+ 52. Kc3 Ne3
+53. Bh1 g4 54. d6 g3 55. Re7 g2 0-1
+
+[Event "CN Equipas 2015 - 1. div"]
+[Site "Matosinhos POR"]
+[Date "2015.08.17"]
+[Round "2.3.2"]
+[White "Ribeiro, Bruno"]
+[Black "Figuero Toro, Julian"]
+[Result "0-1"]
+[ECO "B08"]
+[WhiteElo "2178"]
+[BlackElo "2204"]
+[WhiteFideId "1901010"]
+[BlackFideId "2210347"]
+[WhiteTeam "ADRC Mata de Benfica"]
+[BlackTeam "CX Montemor-o-Velho"]
+[WhiteTitle "NM"]
+[PlyCount "100"]
+[EventDate "2015.??.??"]
+
+1. e4 g6 2. d4 Bg7 3. Nf3 d6 4. Nc3 Nf6 5. Bc4 O-O 6. O-O Nxe4 7. Nxe4 d5 8.
+Bd3 dxe4 9. Bxe4 Nd7 10. c3 c5 11. Be3 Nf6 12. Bc2 cxd4 13. Bxd4 b6 14. Re1 Bb7
+15. Qe2 e6 16. Rad1 Qe7 17. Be5 Rfd8 18. Nd4 a6 19. Nf3 Rxd1 20. Rxd1 Rd8 21.
+Rxd8+ Qxd8 22. Qd2 Qxd2 23. Nxd2 Nd7 24. Bxg7 Kxg7 25. f3 f5 26. Kf2 Kf6 27. b4
+Bd5 28. c4 Bc6 29. a4 a5 30. b5 Bb7 31. Nb3 Ke5 32. g3 Kd6 33. f4 Nc5 34. Nd4
+Be4 35. Bd1 Bd3 36. Nf3 Bxc4 37. Ne5 Bb3 38. Bxb3 Nxb3 39. Ke3 Kc7 40. Nc4 h6
+41. h4 Nc5 42. Kd4 Nxa4 43. Ke5 Nc3 44. Kf6 Nxb5 45. Kxg6 Nd6 46. Nb2 Ne4 47.
+Kxh6 Nxg3 48. Kg6 b5 49. Kf6 Kd6 50. Nd3 Kd5 0-1
+
+[Event "CN Equipas 2015 - 1. div"]
+[Site "Matosinhos POR"]
+[Date "2015.08.17"]
+[Round "2.3.3"]
+[White "Cruz, Jorge"]
+[Black "Andrade, José"]
+[Result "0-1"]
+[ECO "C07"]
+[WhiteElo "2024"]
+[BlackElo "2199"]
+[WhiteFideId "1903977"]
+[BlackFideId "1900986"]
+[WhiteTeam "CX Montemor-o-Velho"]
+[BlackTeam "ADRC Mata de Benfica"]
+[BlackTitle "FM"]
+[PlyCount "62"]
+[EventDate "2015.??.??"]
+
+1. e4 e6 2. d4 d5 3. Nd2 c5 4. exd5 Qxd5 5. dxc5 Bxc5 6. Ngf3 Nf6 7. Bc4 Qd6 8.
+O-O Qc7 9. Qe2 a6 10. Nb3 Bd6 11. Nbd4 O-O 12. Bg5 e5 13. Bxf6 exd4 14. Bxd4
+Bg4 15. Bd3 Nc6 16. Qe4 f5 17. Qd5+ Kh8 18. Ng5 Bxh2+ 19. Kh1 Rad8 20. Qc5 Nxd4
+21. Qxc7 Bxc7 22. c3 Bf4 23. f3 Bxg5 24. fxg4 Nb3 25. Rad1 Nd2 26. Rxf5 Rxf5
+27. Bxf5 g6 28. Be6 Ne4 29. Re1 Nf2+ 30. Kg1 Nd3 31. Re2 Nf4 0-1
+
+[Event "CN Equipas 2015 - 1. div"]
+[Site "Matosinhos POR"]
+[Date "2015.08.17"]
+[Round "2.3.4"]
+[White "Gaspar, Artur"]
+[Black "Cavaleiro, Daniel"]
+[Result "1/2-1/2"]
+[ECO "A05"]
+[WhiteElo "2134"]
+[BlackElo "1900"]
+[WhiteFideId "1900781"]
+[BlackFideId "1904663"]
+[WhiteTeam "ADRC Mata de Benfica"]
+[BlackTeam "CX Montemor-o-Velho"]
+[PlyCount "98"]
+[EventDate "2015.??.??"]
+
+1. Nf3 Nf6 2. c4 b6 3. g3 c5 4. Bg2 Bb7 5. O-O g6 6. Nc3 Bg7 7. Rb1 O-O 8. a3
+d6 9. b4 Nbd7 10. d3 Rc8 11. Bg5 h6 12. Bd2 cxb4 13. axb4 a6 14. Qc1 Kh7 15.
+Qa3 Qc7 16. Ne1 Rfe8 17. Rc1 e6 18. Nc2 Bxg2 19. Kxg2 Qb7+ 20. Kg1 d5 21. cxd5
+exd5 22. Be3 Ne4 23. Nxe4 dxe4 24. Nd4 exd3 25. Qxd3 Ne5 26. Qb3 b5 27. Rxc8
+Rxc8 28. Rd1 Nc4 29. Bf4 Qe4 30. Qf3 Re8 31. e3 g5 32. Qxe4+ Rxe4 33. Bc7 Bf8
+34. Ba5 Kg6 35. Nc6 Re6 36. Nd8 Rd6 37. Rxd6+ Bxd6 38. Nc6 Ne5 39. Nxe5+ Bxe5
+40. Kg2 g4 41. f4 Bc3 42. e4 f5 43. e5 Kf7 44. Kf1 Ke6 45. Kf2 Bd4+ 46. Kf1 Bc3
+47. Kf2 Kd5 48. Ke2 h5 49. Kd3 Be1 1/2-1/2
+
+[Event "CN Equipas 2015 - 1. div"]
+[Site "Matosinhos POR"]
+[Date "2015.08.17"]
+[Round "2.4.1"]
+[White "Dâmaso, Rui"]
+[Black "Ferreira, Jorge"]
+[Result "1/2-1/2"]
+[ECO "A48"]
+[WhiteElo "2456"]
+[BlackElo "2447"]
+[WhiteFideId "1900030"]
+[BlackFideId "1910850"]
+[WhiteTeam "FC Barreirense"]
+[BlackTeam "GD Dias Ferreira"]
+[WhiteTitle "IM"]
+[BlackTitle "IM"]
+[PlyCount "16"]
+[EventDate "2015.??.??"]
+
+1. d4 Nf6 2. Nf3 g6 3. Bg5 Bg7 4. Nbd2 c5 5. c3 cxd4 6. cxd4 d5 7. e3 Nc6 8.
+Bd3 O-O 1/2-1/2
+
+[Event "CN Equipas 2015 - 1. div"]
+[Site "Matosinhos POR"]
+[Date "2015.08.17"]
+[Round "2.4.2"]
+[White "Gonzalez Perez, Arian"]
+[Black "Rocha, Sérgio"]
+[Result "1-0"]
+[ECO "E91"]
+[WhiteElo "2440"]
+[BlackElo "2384"]
+[WhiteFideId "3507777"]
+[BlackFideId "1900404"]
+[WhiteTeam "GD Dias Ferreira"]
+[BlackTeam "FC Barreirense"]
+[WhiteTitle "FM"]
+[BlackTitle "IM"]
+[PlyCount "65"]
+[EventDate "2015.??.??"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 Bg4 7. Be3 Bxf3 8.
+Bxf3 e5 9. dxe5 dxe5 10. Qb3 Qc8 11. Nd5 Nc6 12. O-O Re8 13. Rfe1 Rb8 14. c5
+Nxd5 15. exd5 e4 16. Be2 Nd4 17. Qc4 b5 18. cxb6 cxb6 19. Rac1 Qxc4 20. Rxc4
+Nf5 21. Bf4 Rbd8 22. Rd1 Be5 23. Bg5 f6 24. Bc1 Rc8 25. b3 Nd6 26. Rc6 Rxc6 27.
+dxc6 Kf7 28. Ba3 Ke6 29. Ba6 Re7 30. Bxd6 Bxd6 31. Bc4+ Ke5 32. Rd5+ Ke6 33.
+Be2 1-0
+
+[Event "CN Equipas 2015 - 1. div"]
+[Site "Matosinhos POR"]
+[Date "2015.08.17"]
+[Round "2.4.3"]
+[White "Ulyanovskyy, Viktor"]
+[Black "Martinez, Lelys"]
+[Result "0-1"]
+[ECO "B20"]
+[WhiteElo "2233"]
+[BlackElo "2450"]
+[WhiteFideId "14113350"]
+[BlackFideId "3504727"]
+[WhiteTeam "FC Barreirense"]
+[BlackTeam "GD Dias Ferreira"]
+[WhiteTitle "FM"]
+[BlackTitle "GM"]
+[PlyCount "100"]
+[EventDate "2015.??.??"]
+
+1. e4 c5 2. c4 Nc6 3. Nc3 g6 4. g3 Bg7 5. Bg2 e6 6. Nge2 Nge7 7. O-O a6 8. a3
+O-O 9. Rb1 b5 10. cxb5 axb5 11. b4 cxb4 12. axb4 d5 13. d3 Rb8 14. Bf4 e5 15.
+Bg5 d4 16. Nd5 f6 17. Nxe7+ Qxe7 18. Bd2 Be6 19. Rb2 Rb6 20. f4 Ra8 21. f5 Bf7
+22. fxg6 hxg6 23. Bh3 Ra4 24. Qb1 Bf8 25. Rc1 Be6 26. Bxe6+ Qxe6 27. Rcc2 Rba6
+28. Qe1 Qe7 29. Nc1 Nxb4 30. Rc8 Rc6 31. Bxb4 Rxb4 32. Rxf8+ Qxf8 33. Rxb4 Rxc1
+34. Qxc1 Qxb4 35. Qc8+ Qf8 36. Qe6+ Qf7 37. Qb6 Kg7 38. Qxb5 Qa7 39. Kg2 Qa2+
+40. Kg1 Kh6 41. h3 Kg5 42. Qc4 Qd2 43. Qb5 Qe1+ 44. Kg2 Qe2+ 45. Kg1 Qf3 46.
+Qd7 Qxg3+ 47. Kh1 Qxd3 48. Qg4+ Kh6 49. h4 Qf1+ 50. Kh2 Qf4+ 0-1
+
+[Event "CN Equipas 2015 - 1. div"]
+[Site "Matosinhos POR"]
+[Date "2015.08.17"]
+[Round "2.4.4"]
+[White "Martins, David"]
+[Black "Ulyanovskyy, Vladimir"]
+[Result "1-0"]
+[ECO "B38"]
+[WhiteElo "2334"]
+[BlackElo "2112"]
+[WhiteFideId "1909991"]
+[BlackFideId "14120771"]
+[WhiteTeam "GD Dias Ferreira"]
+[BlackTeam "FC Barreirense"]
+[WhiteTitle "FM"]
+[PlyCount "59"]
+[EventDate "2015.??.??"]
+
+1. Nf3 c5 2. c4 g6 3. d4 cxd4 4. Nxd4 Bg7 5. e4 Nc6 6. Be3 Nf6 7. Nc3 d6 8. Be2
+O-O 9. O-O Qa5 10. Rc1 Nxd4 11. Bxd4 Be6 12. f4 a6 13. Kh1 Rac8 14. b3 b5 15.
+f5 Bd7 16. fxg6 fxg6 17. e5 dxe5 18. Bxe5 Bc6 19. Bg4 Rcd8 20. Be6+ Kh8 21. Qe2
+b4 22. Nd5 Nxd5 23. cxd5 Qb5 24. Bxg7+ Kxg7 25. Qe5+ Kh6 26. Qe3+ Kg7 27. Rxf8
+Rxf8 28. Qd4+ Rf6 29. dxc6 Kh6 30. Qxf6 1-0
+
+[Event "CN Equipas 2015 - 1. div"]
+[Site "Matosinhos POR"]
+[Date "2015.08.17"]
+[Round "2.5.1"]
+[White "Jakubowski, Krzystof"]
+[Black "Fidalgo, André"]
+[Result "1-0"]
+[ECO "A36"]
+[WhiteElo "2571"]
+[BlackElo "2058"]
+[WhiteFideId "1112848"]
+[BlackFideId "1933620"]
+[WhiteTeam "AA Coimbra"]
+[BlackTeam "Santoantoniense FC"]
+[WhiteTitle "GM"]
+[PlyCount "67"]
+[EventDate "2015.??.??"]
+
+1. c4 c5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. a3 Nf6 6. Rb1 O-O 7. b4 cxb4 8. axb4
+d6 9. b5 Nb8 10. Nf3 Nbd7 11. O-O Re8 12. Ne1 e5 13. Nc2 Qc7 14. d3 Nb6 15. Nb4
+Be6 16. h3 h6 17. Be3 Rad8 18. Qd2 Kh7 19. Ra1 Ra8 20. Ra3 Nfd7 21. Rfa1 Nc5
+22. Nbd5 Nxd5 23. Nxd5 Bxd5 24. Bxd5 Re7 25. Rxa7 Rxa7 26. Rxa7 Qb6 27. Qa5
+Qxa5 28. Rxa5 Bf8 29. b6 Rd7 30. Ra7 Be7 31. Bxc5 dxc5 32. Bxb7 Bd8 33. Bd5 Re7
+34. b7 1-0
+
+[Event "CN Equipas 2015 - 1. div"]
+[Site "Matosinhos POR"]
+[Date "2015.08.17"]
+[Round "2.5.2"]
+[White "Sousa, Ricardo"]
+[Black "Diogo, Vasco"]
+[Result "0-1"]
+[ECO "A04"]
+[WhiteElo "2091"]
+[BlackElo "2240"]
+[WhiteFideId "1903713"]
+[BlackFideId "1902628"]
+[WhiteTeam "Santoantoniense FC"]
+[BlackTeam "AA Coimbra"]
+[BlackTitle "FM"]
+[PlyCount "82"]
+[EventDate "2015.??.??"]
+
+1. Nf3 c5 2. g3 Nc6 3. Bg2 g6 4. O-O Bg7 5. d3 Nf6 6. e4 O-O 7. Nbd2 d5 8. Re1
+h6 9. c3 dxe4 10. dxe4 Be6 11. Qe2 Qd7 12. Nc4 Ng4 13. Bf4 b5 14. Rad1 Qc8 15.
+Ne3 g5 16. Bxg5 hxg5 17. Nxg5 Nxe3 18. Qh5 Rd8 19. Rxd8+ Nxd8 20. Rxe3 Qd7 21.
+e5 Rb8 22. Be4 c4 23. Rf3 Rb6 24. Bg6 Qd1+ 25. Kg2 Bd5 26. Bh7+ Kf8 27. Be4
+Bxe4 28. Nxe4 Qd5 29. Qf5 Qxe5 30. Qd7 Rb8 31. Qxa7 Nc6 32. Qe3 Rd8 33. Qe2 Kg8
+34. Re3 Qd5 35. Qf3 Ne5 36. Qh5 e6 37. g4 Nd3 38. Qh4 f5 39. gxf5 exf5 40. f3
+fxe4 41. fxe4 Qd6 0-1
+
+[Event "CN Equipas 2015 - 1. div"]
+[Site "Matosinhos POR"]
+[Date "2015.08.17"]
+[Round "2.5.3"]
+[White "Gasik, Anna"]
+[Black "Figueiredo, Hélder"]
+[Result "1-0"]
+[ECO "B24"]
+[WhiteElo "2198"]
+[BlackElo "2027"]
+[WhiteFideId "1121952"]
+[BlackFideId "1903489"]
+[WhiteTeam "AA Coimbra"]
+[BlackTeam "Santoantoniense FC"]
+[WhiteTitle "WIM"]
+[PlyCount "117"]
+[EventDate "2015.??.??"]
+
+1. e4 c5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. d3 e6 6. Be3 d6 7. Qd2 Nd4 8. Nd1 e5
+9. c3 Ne6 10. Ne2 Ne7 11. d4 O-O 12. d5 Nc7 13. Bh6 f5 14. Bxg7 Kxg7 15. exf5
+Nxf5 16. O-O Bd7 17. b3 Bb5 18. Ne3 Bxe2 19. Qxe2 Qf6 20. a4 Rae8 21. Be4 Qg5
+22. Nc4 Qf6 23. Qd3 h5 24. f4 exf4 25. Rxf4 Re7 26. Raf1 b5 27. Ne3 Qe5 28.
+Nxf5+ gxf5 29. Bxf5 Qxd5 30. axb5 Qxd3 31. Bxd3 Rxf4 32. Rxf4 Re3 33. Bf1 Rxc3
+34. Ra4 Kf6 35. Rxa7 Nxb5 36. Bxb5 Rxb3 37. Be2 d5 38. Ra5 Rc3 39. Bxh5 d4 40.
+Kf2 c4 41. h4 Rc2+ 42. Ke1 Rg2 43. Rd5 Rxg3 44. Rxd4 c3 45. Kd1 Kg7 46. Kc2 Kh6
+47. Be2 Re3 48. Rd6+ Kg7 49. Bd3 Rh3 50. Rg6+ Kf7 51. Rg4 Rh2+ 52. Kxc3 Rh3 53.
+Kd4 Rh2 54. Ke5 Rh3 55. Bc4+ Kf8 56. Bd5 Rh2 57. Kf6 Rf2+ 58. Kg6 Rf1 59. h5
+1-0
+
+[Event "CN Equipas 2015 - 1. div"]
+[Site "Matosinhos POR"]
+[Date "2015.08.17"]
+[Round "2.5.4"]
+[White "Correia, Jorge"]
+[Black "Vicente, João"]
+[Result "1-0"]
+[ECO "A48"]
+[WhiteElo "1770"]
+[BlackElo "2102"]
+[WhiteFideId "1915932"]
+[BlackFideId "1912054"]
+[WhiteTeam "Santoantoniense FC"]
+[BlackTeam "AA Coimbra"]
+[PlyCount "83"]
+[EventDate "2015.??.??"]
+
+1. d4 Nf6 2. Nf3 g6 3. Bg5 Bg7 4. Nbd2 O-O 5. e4 d5 6. e5 Ne4 7. Bd3 Bf5 8. Qe2
+f6 9. Be3 Nc6 10. exf6 Bxf6 11. c3 e6 12. Bh6 Nxd2 13. Kxd2 Re8 14. Rae1 Qd7
+15. Ne5 Nxe5 16. dxe5 Bg7 17. Bxg7 Bxd3 18. Qxd3 Qxg7 19. f4 Qf7 20. Rhf1 Qf5
+21. Qf3 h5 22. Rg1 Kf7 23. g4 hxg4 24. Rxg4 Rh8 25. Qg3 Rh5 26. h4 c5 27. Rg1
+Rg8 28. Qe3 b6 29. b3 Rgh8 30. Qg3 Rg8 31. Qe3 Rd8 32. Qg3 Rg8 33. Qe3 d4 34.
+cxd4 Rd8 35. Qf3 Rxd4+ 36. Kc1 Rd5 37. Rxg6 Ke7 38. Rf6 Qh7 39. Rgg6 Rd7 40.
+Rxe6+ Kf7 41. Rgf6+ Kg8 42. Qa8+ 1-0
+
+[Event "CN Equipas 2015 - 1. div"]
+[Site "Matosinhos POR"]
+[Date "2015.08.18"]
+[Round "3.1.1"]
+[White "Fidalgo, André"]
+[Black "Silva, Luís M"]
+[Result "0-1"]
+[ECO "B47"]
+[WhiteElo "2058"]
+[BlackElo "2334"]
+[WhiteFideId "1933620"]
+[BlackFideId "1919121"]
+[WhiteTeam "Santoantoniense FC"]
+[BlackTeam "CX A2D"]
+[BlackTitle "FM"]
+[PlyCount "119"]
+[EventDate "2015.??.??"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 Qc7 6. Be2 a6 7. O-O Nf6 8.
+Be3 Be7 9. a4 d6 10. Nb3 b6 11. f4 Bb7 12. Bf3 O-O 13. Qe2 Rac8 14. Rad1 Nb4
+15. Qf2 Nd7 16. Rd4 Nc6 17. Rd2 Rfe8 18. Rfd1 Bf8 19. e5 d5 20. Bxd5 exd5 21.
+Nxd5 Qb8 22. Nxb6 Nxb6 23. Bxb6 Ne7 24. a5 Ng6 25. Nc5 Bxc5 26. Bxc5 Qc7 27. b4
+Qc6 28. Rd6 Qe4 29. R1d4 Qf5 30. h3 h5 31. c4 Bc6 32. Kh2 Nxe5 33. R4d5 Bxd5
+34. Rxd5 Nd3 35. Rxf5 Nxf2 36. Bxf2 Rxc4 37. Bc5 h4 38. b5 axb5 39. a6 b4 40.
+a7 b3 41. Bf2 Rb4 42. Re5 Ra8 43. Re1 b2 44. Rb1 Kh7 45. f5 Kh6 46. Be3+ Kh5
+47. Kg1 Rb5 48. f6 g5 49. Kf2 Kg6 50. Ke2 Kxf6 51. Kd3 Kg6 52. Kc4 Rb7 53. Kc3
+f5 54. Rxb2 Rc8+ 55. Bc5 Rxa7 56. Rb6+ Kh5 57. Kb4 Ra2 58. Rf6 Rb2+ 59. Kc3 Rb5
+60. Kd4 0-1
+
+[Event "CN Equipas 2015 - 1. div"]
+[Site "Matosinhos POR"]
+[Date "2015.08.18"]
+[Round "3.1.2"]
+[White "Gomes, Bruno"]
+[Black "Sousa, Ricardo"]
+[Result "1-0"]
+[ECO "E92"]
+[WhiteElo "2262"]
+[BlackElo "2091"]
+[WhiteFideId "1908154"]
+[BlackFideId "1903713"]
+[WhiteTeam "CX A2D"]
+[BlackTeam "Santoantoniense FC"]
+[WhiteTitle "CM"]
+[PlyCount "63"]
+[EventDate "2015.??.??"]
+
+1. d4 g6 2. c4 Nf6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 e5 7. Be3 Nbd7 8. O-O
+Re8 9. Qc2 c6 10. Rfd1 Qe7 11. d5 c5 12. Rab1 Rf8 13. Bg5 h6 14. Bd2 Ne8 15. g3
+f5 16. Nh4 Qf6 17. exf5 gxf5 18. Bh5 Nc7 19. Qc1 Rd8 20. Bg6 Nf8 21. Bxh6 Nxg6
+22. Bg5 Nxh4 23. Bxf6 Bxf6 24. gxh4 Kh7 25. Kh1 Bd7 26. Rg1 Rg8 27. Qe3 e4 28.
+Nxe4 fxe4 29. Qxe4+ Kh8 30. Qf3 Rxg1+ 31. Rxg1 Bg7 32. Qf7 1-0
+
+[Event "CN Equipas 2015 - 1. div"]
+[Site "Matosinhos POR"]
+[Date "2015.08.18"]
+[Round "3.1.3"]
+[White "Figueiredo, Hélder"]
+[Black "Dias, Ivo"]
+[Result "0-1"]
+[ECO "B52"]
+[WhiteElo "2027"]
+[BlackElo "2122"]
+[WhiteFideId "1903489"]
+[BlackFideId "1901680"]
+[WhiteTeam "Santoantoniense FC"]
+[BlackTeam "CX A2D"]
+[BlackTitle "CM"]
+[PlyCount "96"]
+[EventDate "2015.??.??"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Bd7 4. Bxd7+ Qxd7 5. O-O Nc6 6. c3 Nf6 7. Re1 e6 8.
+d4 cxd4 9. cxd4 d5 10. e5 Ne4 11. Ng5 Nxg5 12. Bxg5 Be7 13. Be3 O-O 14. Nc3
+Rac8 15. Ne2 Nb4 16. Nc3 Nc6 17. Ne2 f6 18. f4 f5 19. Rf1 Rc7 20. Rf3 Rfc8 21.
+Bd2 Nd8 22. Rh3 Qb5 23. Nc3 Qb6 24. Be1 g6 25. Rb1 Nc6 26. Bf2 Na5 27. Na4 Qa6
+28. b4 Bxb4 29. Nc5 Bxc5 30. dxc5 Nc4 31. a4 b6 32. cxb6 Nxb6 33. Bh4 Qxa4 34.
+Qxa4 Nxa4 35. Ra3 Nc3 36. Rba1 Ne4 37. h3 d4 38. Kh2 h6 39. Ra6 Kf7 40. Rxa7 d3
+41. R7a3 d2 42. Rd3 g5 43. fxg5 hxg5 44. Bxg5 Nxg5 45. Rxd2 Rc2 46. Rd7+ Kg6
+47. Ra6 R8c3 48. h4 Nf3+ 0-1
+
+[Event "CN Equipas 2015 - 1. div"]
+[Site "Matosinhos POR"]
+[Date "2015.08.18"]
+[Round "3.1.4"]
+[White "Romano, Luís"]
+[Black "Parreira, André"]
+[Result "1/2-1/2"]
+[ECO "B30"]
+[WhiteElo "2030"]
+[BlackElo "1868"]
+[WhiteFideId "1920235"]
+[BlackFideId "1911368"]
+[WhiteTeam "CX A2D"]
+[BlackTeam "Santoantoniense FC"]
+[PlyCount "86"]
+[EventDate "2015.??.??"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 Nd4 4. Nxd4 cxd4 5. O-O g6 6. c3 Bg7 7. cxd4 Bxd4 8.
+Nc3 e6 9. d3 a6 10. Ba4 b5 11. Bb3 Bb7 12. Qg4 Rc8 13. Bg5 Qb6 14. Kh1 h6 15.
+Bd2 h5 16. Qh3 Nh6 17. Bxh6 Rxh6 18. f4 Bxc3 19. bxc3 Rxc3 20. Rac1 Rxc1 21.
+Rxc1 a5 22. a4 Qd4 23. axb5 h4 24. Bc4 f5 25. Re1 Qc3 26. Qe3 fxe4 27. h3 Rh5
+28. Rc1 Qb2 29. dxe4 Bxe4 30. Bf1 Ke7 31. Rc3 Ba8 32. Qd4 Qb1 33. Qg7+ Kd6 34.
+Rd3+ Rd5 35. Qf8+ Kc7 36. Rc3+ Bc6 37. bxc6 Qxf1+ 38. Kh2 dxc6 39. Qg7+ Kd6 40.
+Qf8+ Kd7 41. Qf7+ Kd6 42. Qf8+ Kc7 43. Qg7+ Kd6 1/2-1/2
+
+[Event "CN Equipas 2015 - 1. div"]
+[Site "Matosinhos POR"]
+[Date "2015.08.18"]
+[Round "3.2.1"]
+[White "Ferreira, Jorge"]
+[Black "Jakubowski, Krzystof"]
+[Result "1-0"]
+[ECO "A84"]
+[WhiteElo "2447"]
+[BlackElo "2571"]
+[WhiteFideId "1910850"]
+[BlackFideId "1112848"]
+[WhiteTeam "GD Dias Ferreira"]
+[BlackTeam "AA Coimbra"]
+[WhiteTitle "IM"]
+[BlackTitle "GM"]
+[PlyCount "63"]
+[EventDate "2015.??.??"]
+
+1. d4 f5 2. c4 Nf6 3. Nf3 g6 4. Nc3 d6 5. e3 Bg7 6. Be2 Nbd7 7. b4 e5 8. dxe5
+dxe5 9. Bb2 O-O 10. Ng5 Nb6 11. Qb3 c6 12. Rd1 Qe7 13. c5+ Nbd5 14. Bc4 Kh8 15.
+h4 a5 16. a3 axb4 17. axb4 h6 18. Bxd5 cxd5 19. Nxd5 Nxd5 20. Qxd5 Ra6 21. b5
+Ra5 22. Nf3 Rxb5 23. Bxe5 Qxc5 24. Qxc5 Rxc5 25. Bd6 Bc3+ 26. Ke2 Be6 27. Bxc5
+Bc4+ 28. Rd3 Ra8 29. Nd2 Ba6 30. Rc1 Bb2 31. Rc2 Bg7 32. Nf3 1-0
+
+[Event "CN Equipas 2015 - 1. div"]
+[Site "Matosinhos POR"]
+[Date "2015.08.18"]
+[Round "3.2.2"]
+[White "Hammes, Michael"]
+[Black "Gonzalez Perez, Arian"]
+[Result "0-1"]
+[ECO "D45"]
+[WhiteElo "2345"]
+[BlackElo "2440"]
+[WhiteFideId "4619358"]
+[BlackFideId "3507777"]
+[WhiteTeam "AA Coimbra"]
+[BlackTeam "GD Dias Ferreira"]
+[WhiteTitle "IM"]
+[BlackTitle "FM"]
+[PlyCount "74"]
+[EventDate "2015.??.??"]
+
+1. d4 d5 2. c4 c6 3. Nc3 Nf6 4. e3 e6 5. Nf3 Nbd7 6. Qc2 Bd6 7. b3 O-O 8. Be2
+b6 9. O-O Bb7 10. Rd1 Re8 11. Bb2 Qe7 12. Rac1 Rad8 13. Bf1 dxc4 14. bxc4 e5
+15. c5 bxc5 16. dxe5 Nxe5 17. Na4 Nxf3+ 18. gxf3 Nd5 19. Qc4 Bc8 20. Bg2 Qg5
+21. f4 Qg6 22. Kh1 Be6 23. Qf1 Nb4 24. Nxc5 Bxc5 25. Rxd8 Rxd8 26. Rxc5 h6 27.
+Bf3 Nd3 28. Rc2 Ne1 29. Qxe1 Qxc2 30. Be5 f6 31. Bd4 Bd5 32. Bxd5+ Rxd5 33. Kg2
+Qe4+ 34. f3 Qc2+ 35. Kg3 Qg6+ 36. Kf2 Rh5 37. e4 c5 0-1
+
+[Event "CN Equipas 2015 - 1. div"]
+[Site "Matosinhos POR"]
+[Date "2015.08.18"]
+[Round "3.2.3"]
+[White "Martinez, Lelys"]
+[Black "Diogo, Vasco"]
+[Result "1/2-1/2"]
+[ECO "B01"]
+[WhiteElo "2450"]
+[BlackElo "2240"]
+[WhiteFideId "3504727"]
+[BlackFideId "1902628"]
+[WhiteTeam "GD Dias Ferreira"]
+[BlackTeam "AA Coimbra"]
+[WhiteTitle "GM"]
+[BlackTitle "FM"]
+[PlyCount "114"]
+[EventDate "2015.??.??"]
+
+1. e4 d5 2. exd5 Nf6 3. Nf3 Nxd5 4. d4 g6 5. Be2 Bg7 6. O-O O-O 7. c4 Nb6 8.
+Be3 c6 9. Nc3 Bg4 10. Ne5 Bxe2 11. Qxe2 N8d7 12. f4 e6 13. Rad1 Qe7 14. b3 Rad8
+15. Kh1 Nc8 16. Bc1 Rfe8 17. Ne4 f5 18. Ng5 Nxe5 19. dxe5 h6 20. Nf3 Bf8 21. h3
+Rxd1 22. Rxd1 Rd8 23. Rd3 Qe8 24. Be3 Be7 25. Kg1 Rxd3 26. Qxd3 Qd8 27. Qxd8+
+Bxd8 28. Kf2 Kf7 29. Ke2 Bb6 30. Bd2 Bc5 31. b4 Bf8 32. Kd3 c5 33. a3 Nb6 34.
+Kc3 Be7 35. h4 Nd7 36. g3 b6 37. Kb3 Ke8 38. Ka4 a6 39. Be3 Kd8 40. Ne1 Kc7 41.
+Nd3 Kb7 42. Bf2 h5 43. Kb3 Kc7 44. Nb2 Kc6 45. Na4 Kc7 46. Nc3 Bf8 47. Ka4 Kb7
+48. Be1 Be7 49. Bd2 Nb8 50. b5 a5 51. Kb3 Kc8 52. a4 Nd7 53. Be3 Kd8 54. Kc2
+Ke8 55. Nd1 Bd8 56. Bf2 Bc7 57. Ne3 Kf7 1/2-1/2
+
+[Event "CN Equipas 2015 - 1. div"]
+[Site "Matosinhos POR"]
+[Date "2015.08.18"]
+[Round "3.2.4"]
+[White "Gasik, Anna"]
+[Black "Martins, David"]
+[Result "1/2-1/2"]
+[ECO "C06"]
+[WhiteElo "2198"]
+[BlackElo "2334"]
+[WhiteFideId "1121952"]
+[BlackFideId "1909991"]
+[WhiteTeam "AA Coimbra"]
+[BlackTeam "GD Dias Ferreira"]
+[WhiteTitle "WIM"]
+[BlackTitle "FM"]
+[PlyCount "68"]
+[EventDate "2015.??.??"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. Bd3 c5 6. c3 Nc6 7. Ne2 cxd4 8. cxd4
+f6 9. exf6 Nxf6 10. Nf3 Bd6 11. O-O Qc7 12. Bg5 O-O 13. Qc1 Nh5 14. Qe3 Bd7 15.
+Rac1 a6 16. Bb1 Rae8 17. Bh4 Nf4 18. Bg3 Nxe2+ 19. Qxe2 Bxg3 20. hxg3 Rf6 21.
+Ne5 Qd8 22. Rfd1 Nxe5 23. Qxe5 Bc6 24. b3 Ref8 25. Rd2 Qa5 26. Qe3 Qa3 27. Rc5
+Qb4 28. Bd3 Qb6 29. Bb1 Qd8 30. Rc1 Qe8 31. Re1 Qe7 32. a4 Qb4 33. Rc1 Qe7 34.
+Re1 Qb4 1/2-1/2
+
+[Event "CN Equipas 2015 - 1. div"]
+[Site "Matosinhos POR"]
+[Date "2015.08.18"]
+[Round "3.3.1"]
+[White "Getz, Nicolai"]
+[Black "Dâmaso, Rui"]
+[Result "1-0"]
+[ECO "B32"]
+[WhiteElo "2386"]
+[BlackElo "2456"]
+[WhiteFideId "1505572"]
+[BlackFideId "1900030"]
+[WhiteTeam "ADRC Mata de Benfica"]
+[BlackTeam "FC Barreirense"]
+[WhiteTitle "IM"]
+[BlackTitle "IM"]
+[PlyCount "91"]
+[EventDate "2015.??.??"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 e5 5. Nb5 d6 6. c4 Be7 7. N1c3 a6 8. Na3
+f5 9. exf5 Bxf5 10. Bd3 Be6 11. O-O Nf6 12. Bg5 O-O 13. Bxf6 Rxf6 14. Be4 Kh8
+15. Nd5 Rh6 16. Nc2 Rb8 17. Qd3 b5 18. b3 Bg5 19. cxb5 axb5 20. Ncb4 Nd4 21. f4
+Bf6 22. Rac1 Qe8 23. Nxf6 gxf6 24. fxe5 dxe5 25. Nc6 Qh5 26. Nxd4 Qxh2+ 27. Kf2
+exd4 28. Qxd4 Qf4+ 29. Ke2 Qg4+ 30. Kd3 Qg8 31. Kc2 Rd8 32. Qe3 Qg5 33. Qxg5
+fxg5 34. Rh1 Rh4 35. Rxh4 gxh4 36. Re1 Bf7 37. Kc3 Re8 38. Kd4 b4 39. Rh1 Rd8+
+40. Ke3 h5 41. Rxh4 Rd1 42. Bf3 Re1+ 43. Kd4 Kg7 44. Bxh5 Bxh5 45. Rxh5 Re2 46.
+Ra5 1-0
+
+[Event "CN Equipas 2015 - 1. div"]
+[Site "Matosinhos POR"]
+[Date "2015.08.18"]
+[Round "3.3.2"]
+[White "Rocha, Sérgio"]
+[Black "Andrade, José"]
+[Result "1-0"]
+[ECO "E12"]
+[WhiteElo "2384"]
+[BlackElo "2199"]
+[WhiteFideId "1900404"]
+[BlackFideId "1900986"]
+[WhiteTeam "FC Barreirense"]
+[BlackTeam "ADRC Mata de Benfica"]
+[WhiteTitle "IM"]
+[BlackTitle "FM"]
+[PlyCount "57"]
+[EventDate "2015.??.??"]
+
+1. Nf3 e6 2. d4 Nf6 3. c4 b6 4. a3 c5 5. d5 exd5 6. cxd5 d6 7. Nc3 g6 8. e4 Bg7
+9. Bd3 O-O 10. h3 Na6 11. O-O Nc7 12. Bf4 Nfe8 13. Re1 a6 14. Qd2 b5 15. Rad1
+Rb8 16. b4 a5 17. Rb1 axb4 18. axb4 c4 19. Bc2 Ra8 20. Nd4 Bd7 21. Bd1 Ra3 22.
+Bg4 f5 23. Bg5 Qxg5 24. Qxg5 Rxc3 25. exf5 Bf6 26. Qf4 Rd3 27. Ne6 Nxd5 28. Qh6
+Bxe6 29. fxg6 1-0
+
+[Event "CN Equipas 2015 - 1. div"]
+[Site "Matosinhos POR"]
+[Date "2015.08.18"]
+[Round "3.3.3"]
+[White "Gaspar, Artur"]
+[Black "Ulyanovskyy, Viktor"]
+[Result "1-0"]
+[ECO "A37"]
+[WhiteElo "2134"]
+[BlackElo "2233"]
+[WhiteFideId "1900781"]
+[BlackFideId "14113350"]
+[WhiteTeam "ADRC Mata de Benfica"]
+[BlackTeam "FC Barreirense"]
+[BlackTitle "FM"]
+[PlyCount "55"]
+[EventDate "2015.??.??"]
+
+1. Nf3 c5 2. c4 Nc6 3. Nc3 g6 4. g3 Bg7 5. Bg2 e6 6. O-O Nge7 7. d4 cxd4 8. Nb5
+O-O 9. Nbxd4 d5 10. cxd5 Nxd4 11. Nxd4 Nxd5 12. e4 Nb6 13. Nb5 Bd7 14. Qb3 a6
+15. Nc3 Bc6 16. Rd1 Nd7 17. Be3 Qa5 18. e5 Nc5 19. Qc4 Na4 20. b4 Qxe5 21. Bd4
+Nb6 22. Bxb6 Qxc3 23. Rac1 Qb2 24. Rc2 Qa3 25. Bxc6 Rac8 26. Rd3 Rxc6 27. Rxa3
+Rxc4 28. Rxc4 1-0
+
+[Event "CN Equipas 2015 - 1. div"]
+[Site "Matosinhos POR"]
+[Date "2015.08.18"]
+[Round "3.3.4"]
+[White "Ulyanovskyy, Vladimir"]
+[Black "Guerreiro, Nuno"]
+[Result "0-1"]
+[ECO "B00"]
+[WhiteElo "2112"]
+[BlackElo "2106"]
+[WhiteFideId "14120771"]
+[BlackFideId "1903012"]
+[WhiteTeam "FC Barreirense"]
+[BlackTeam "ADRC Mata de Benfica"]
+[PlyCount "144"]
+[EventDate "2015.??.??"]
+
+1. e4 Nc6 2. Nc3 Nf6 3. Nf3 d5 4. exd5 Nxd5 5. Nxd5 Qxd5 6. d4 Bg4 7. Be2 e6 8.
+O-O Rd8 9. c4 Qd7 10. Bg5 f6 11. d5 fxg5 12. Nxg5 Bxe2 13. Qxe2 Nd4 14. Qe4 Be7
+15. Nxh7 Qd6 16. Qg6+ Kd7 17. dxe6+ Kc8 18. Rae1 Bf6 19. f4 Nxe6 20. Nxf6 Rh6
+21. Qg4 Rxf6 22. f5 Qd4+ 23. Qxd4 Nxd4 24. Re5 Rdf8 25. g4 b6 26. Kg2 g6 27.
+Rd1 Nc6 28. Re2 gxf5 29. g5 Rg6 30. h4 f4 31. Kf3 Rd6 32. Rxd6 cxd6 33. Rf2
+Ne5+ 34. Ke4 f3 35. h5 Rh8 36. h6 Kd7 37. Kd5 Ke7 38. b4 Nf7 39. Rxf3 Nxg5 40.
+Re3+ Kd7 41. c5 dxc5 42. bxc5 Rxh6 43. Ra3 Ne6 44. c6+ Kc8 45. Rxa7 Nc7+ 46.
+Kc4 Rxc6+ 47. Kb4 Rh6 48. Kb3 Rh3+ 49. Kb2 Kb8 50. Ra4 Kb7 51. Rb4 Na6 52. Rd4
+Kc6 53. Rg4 Kb5 54. Rg5+ Nc5 55. Rg4 Ka5 56. Rd4 Na4+ 57. Kc2 b5 58. Rg4 Rh2+
+59. Kb3 Nc5+ 60. Kc3 Rxa2 61. Rg8 Na4+ 62. Kd3 Rh2 63. Rc8 Kb4 64. Rb8 Nc5+ 65.
+Kd4 Rd2+ 66. Ke3 Rd3+ 67. Ke2 Kc4 68. Rc8 Rd5 69. Rh8 b4 70. Rh4+ Kc3 71. Rh3+
+Kc2 72. Rh5 Rxh5 0-1
+
+[Event "CN Equipas 2015 - 1. div"]
+[Site "Matosinhos POR"]
+[Date "2015.08.18"]
+[Round "3.4.1"]
+[White "Stopa, Jacek"]
+[Black "Neves, Pedro"]
+[Result "1/2-1/2"]
+[ECO "A50"]
+[WhiteElo "2544"]
+[BlackElo "2215"]
+[WhiteFideId "1119591"]
+[BlackFideId "1905554"]
+[WhiteTeam "GX Porto"]
+[BlackTeam "CX Montemor-o-Velho"]
+[WhiteTitle "GM"]
+[BlackTitle "NM"]
+[PlyCount "85"]
+[EventDate "2015.??.??"]
+
+1. d4 Nf6 2. c4 b6 3. Nc3 Bb7 4. Qc2 d5 5. cxd5 Nxd5 6. e4 Nxc3 7. bxc3 e5 8.
+dxe5 Nc6 9. Nf3 Qe7 10. Bf4 O-O-O 11. Be2 h6 12. O-O g5 13. Bg3 Bg7 14. Qa4 Qc5
+15. Nd4 Kb8 16. Nxc6+ Bxc6 17. Qc4 Rde8 18. Qxc5 bxc5 19. Rab1+ Ka8 20. Bb5
+Bxb5 21. Rxb5 Bxe5 22. Rxc5 Bxg3 23. fxg3 Re7 24. Rf6 Rb8 25. h3 Rb2 26. Rxh6
+Kb7 27. a4 Rxe4 28. Rb5+ Rxb5 29. axb5 Re3 30. c4 Rxg3 31. Rf6 Rc3 32. Rxf7
+Rxc4 33. Rf5 g4 34. hxg4 Rxg4 35. Kf2 a6 36. bxa6+ Kxa6 37. Kf3 Rg8 38. g4 Kb6
+39. g5 c5 40. Rf6+ Kb5 41. g6 c4 42. Rf5+ Kb4 43. Rf6 1/2-1/2
+
+[Event "CN Equipas 2015 - 1. div"]
+[Site "Matosinhos POR"]
+[Date "2015.08.18"]
+[Round "3.4.2"]
+[White "Figuero Toro, Julian"]
+[Black "Sousa, André V"]
+[Result "0-1"]
+[ECO "B24"]
+[WhiteElo "2204"]
+[BlackElo "2266"]
+[WhiteFideId "2210347"]
+[BlackFideId "1917617"]
+[WhiteTeam "CX Montemor-o-Velho"]
+[BlackTeam "GX Porto"]
+[PlyCount "64"]
+[EventDate "2015.??.??"]
+
+1. e4 c5 2. Nc3 Nc6 3. Bb5 Nd4 4. Bc4 e6 5. Nge2 Ne7 6. O-O Nec6 7. a3 a6 8.
+Ba2 b5 9. Nxd4 cxd4 10. Ne2 Bb7 11. d3 Rc8 12. f4 g6 13. f5 gxf5 14. exf5 Rg8
+15. Ng3 Ne7 16. fxe6 dxe6 17. Qh5 Rg6 18. Rf2 Ng8 19. Qxh7 Nf6 20. Qh3 Ng4 21.
+Re2 Qf6 22. Bd2 Ne3 23. Bxe3 dxe3 24. Rf1 Qxb2 25. Bb3 Qd4 26. Qh7 Qg7 27. Qh3
+Rh6 28. Nh5 Qg5 29. g4 Rg6 30. Qg3 Bd6 31. Qxd6 Qxg4+ 32. Ng3 Qxe2 0-1
+
+[Event "CN Equipas 2015 - 1. div"]
+[Site "Matosinhos POR"]
+[Date "2015.08.18"]
+[Round "3.4.3"]
+[White "Rodrigues, José A A"]
+[Black "Cruz, Jorge"]
+[Result "1/2-1/2"]
+[ECO "D35"]
+[WhiteElo "2151"]
+[BlackElo "2024"]
+[WhiteFideId "1901834"]
+[BlackFideId "1903977"]
+[WhiteTeam "GX Porto"]
+[BlackTeam "CX Montemor-o-Velho"]
+[PlyCount "93"]
+[EventDate "2015.??.??"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 d5 4. cxd5 exd5 5. Bg5 Be7 6. e3 O-O 7. Bd3 Nbd7 8.
+Nf3 Re8 9. O-O c6 10. Qc2 Nf8 11. h3 Ng6 12. Bxf6 Bxf6 13. b4 Qd6 14. Rab1 Bd8
+15. Na4 Bc7 16. Rfc1 a6 17. Bf5 Bxf5 18. Qxf5 Ne7 19. Qd3 Nc8 20. Nc5 Ra7 21.
+Qc2 Nb6 22. a4 Nc4 23. Ra1 b6 24. Nd3 Rea8 25. Rcb1 b5 26. Ra2 Qe7 27. Nfe5
+Bxe5 28. Nxe5 Qc7 29. Nd3 Qe7 30. Rba1 g6 31. Qe2 Nb6 32. Ne5 Qc7 33. axb5 cxb5
+34. Rc2 Nc4 35. Qf3 Qd6 36. Nd3 a5 37. bxa5 Rxa5 38. Rxa5 Rxa5 39. Qf4 Ra1+ 40.
+Kh2 Qa3 41. Ne5 Qe7 42. Nc6 Qb7 43. Qf6 b4 44. Ne7+ Kf8 45. Nc6 Kg8 46. h4 b3
+47. h5 1/2-1/2
+
+[Event "CN Equipas 2015 - 1. div"]
+[Site "Matosinhos POR"]
+[Date "2015.08.18"]
+[Round "3.4.4"]
+[White "Cavaleiro, Daniel"]
+[Black "Silva, António"]
+[Result "0-1"]
+[ECO "A81"]
+[WhiteElo "1900"]
+[BlackElo "2150"]
+[WhiteFideId "1904663"]
+[BlackFideId "1900293"]
+[WhiteTeam "CX Montemor-o-Velho"]
+[BlackTeam "GX Porto"]
+[BlackTitle "NM"]
+[PlyCount "80"]
+[EventDate "2015.??.??"]
+
+1. d4 f5 2. g3 Nf6 3. Bg2 e6 4. c4 c6 5. Nc3 d5 6. cxd5 exd5 7. Nh3 Bd6 8. O-O
+O-O 9. Bf4 Be7 10. Rc1 h6 11. Qc2 Qe8 12. Be5 Na6 13. Qb1 Ng4 14. Nf4 Nxe5 15.
+dxe5 Bg5 16. e3 Nc7 17. Nce2 Ne6 18. b4 a6 19. a4 Bxf4 20. exf4 Qh5 21. Qd3 g5
+22. b5 axb5 23. axb5 Bd7 24. Nd4 Nxd4 25. Qxd4 Qf7 26. Rfe1 Qe6 27. Rc5 Kh7 28.
+Bxd5 cxd5 29. Rxd5 Be8 30. Rd6 Qe7 31. Qb6 Qg7 32. e6 gxf4 33. Kg2 Ra3 34. e7
+f3+ 35. Kf1 Rf7 36. Qc5 Ra1 37. Rde6 Rxe1+ 38. Rxe1 Qb2 39. Qc8 Qxb5+ 40. Kg1
+Qb4 0-1
+
+[Event "CN Equipas 2015 - 1. div"]
+[Site "Matosinhos POR"]
+[Date "2015.08.18"]
+[Round "3.5.1"]
+[White "Iturrizaga, Eduardo"]
+[Black "Aguiar, Henrique"]
+[Result "1-0"]
+[ECO "D37"]
+[WhiteElo "2625"]
+[BlackElo "2188"]
+[WhiteFideId "3901211"]
+[BlackFideId "1908545"]
+[WhiteTeam "AX Gaia"]
+[BlackTeam "AEJ S. João da Madeira"]
+[WhiteTitle "GM"]
+[PlyCount "53"]
+[EventDate "2015.??.??"]
+
+1. Nf3 Nf6 2. c4 e6 3. Nc3 d5 4. d4 Be7 5. Bf4 O-O 6. e3 c6 7. h3 b6 8. Qc2 Bb7
+9. Rd1 Nbd7 10. Bd3 h6 11. O-O Rc8 12. Qe2 Re8 13. a3 Bf8 14. e4 dxe4 15. Nxe4
+Nxe4 16. Bxe4 Qe7 17. b4 Nf6 18. Bc2 Ba6 19. Rfe1 Red8 20. Ne5 Qe8 21. Qf3 Be7
+22. Re3 Bb7 23. Bxh6 gxh6 24. Qf4 Qf8 25. Rg3+ Kh8 26. Qxh6+ Qxh6 27. Nxf7# 1-0
+
+[Event "CN Equipas 2015 - 1. div"]
+[Site "Matosinhos POR"]
+[Date "2015.08.18"]
+[Round "3.5.2"]
+[White "Pires, Gustavo"]
+[Black "Ftacnik, Lubomir"]
+[Result "0-1"]
+[ECO "B83"]
+[WhiteElo "2098"]
+[BlackElo "2555"]
+[WhiteFideId "1903250"]
+[BlackFideId "14900017"]
+[WhiteTeam "AEJ S. João da Madeira"]
+[BlackTeam "AX Gaia"]
+[BlackTitle "GM"]
+[PlyCount "50"]
+[EventDate "2015.??.??"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e6 6. Be2 Be7 7. O-O a6 8. a4
+Nc6 9. Be3 O-O 10. Kh1 Qc7 11. f4 Re8 12. Nb3 b6 13. Bf3 Bb7 14. Rf2 Rab8 15.
+Rd2 Na5 16. Nxa5 bxa5 17. Ba7 Rbc8 18. Qg1 Nd7 19. Bd4 Bc6 20. Re1 Qb7 21. Nd1
+e5 22. Bc3 exf4 23. Qd4 Ne5 24. Bxa5 f5 25. Bc3 Bf6 0-1
+
+[Event "CN Equipas 2015 - 1. div"]
+[Site "Matosinhos POR"]
+[Date "2015.08.18"]
+[Round "3.5.3"]
+[White "Strikovic, Aleksa"]
+[Black "Silva, Stéphane"]
+[Result "1-0"]
+[ECO "A11"]
+[WhiteElo "2509"]
+[BlackElo "2126"]
+[WhiteFideId "900150"]
+[BlackFideId "1900846"]
+[WhiteTeam "AX Gaia"]
+[BlackTeam "AEJ S. João da Madeira"]
+[WhiteTitle "GM"]
+[BlackTitle "NM"]
+[PlyCount "103"]
+[EventDate "2015.??.??"]
+
+1. c4 c6 2. e4 e5 3. Nf3 d6 4. d4 Nd7 5. Nc3 Ngf6 6. g3 Be7 7. Bg2 O-O 8. O-O
+a6 9. Qc2 Re8 10. Rd1 Qc7 11. h3 b5 12. Be3 Bb7 13. a3 Bf8 14. cxb5 cxb5 15. d5
+Rec8 16. Rdc1 Be7 17. Qe2 Qd8 18. Nd2 Nb6 19. b3 Nfd7 20. h4 Nf6 21. Bh3 Rcb8
+22. Na2 Bc8 23. Bxc8 Rxc8 24. Nb4 Rxc1+ 25. Rxc1 Nc8 26. Nc6 Qd7 27. f3 Bd8 28.
+Kg2 Bb6 29. Nf1 Bxe3 30. Nxe3 g6 31. Qd2 Ne7 32. Qa5 Ne8 33. Qb6 Nc8 34. Qa5
+Ne7 35. Qc3 Qb7 36. Nc2 Qd7 37. N2b4 Qb7 38. Qe3 Kg7 39. h5 Ng8 40. Rh1 Nef6
+41. h6+ Kf8 42. Rc1 a5 43. Nd3 Nd7 44. g4 Qb6 45. Qd2 f6 46. g5 fxg5 47. Qxg5
+Ndf6 48. Ncxe5 dxe5 49. Rc6 Qd8 50. Nc5 Qe7 51. Ne6+ Kf7 52. Qxe5 1-0
+
+[Event "CN Equipas 2015 - 1. div"]
+[Site "Matosinhos POR"]
+[Date "2015.08.18"]
+[Round "3.5.4"]
+[White "Sá, Cláudio"]
+[Black "Hoffman, Alejandro"]
+[Result "0-1"]
+[ECO "B23"]
+[WhiteElo "1714"]
+[BlackElo "2433"]
+[WhiteFideId "1902903"]
+[BlackFideId "100340"]
+[WhiteTeam "AEJ S. João da Madeira"]
+[BlackTeam "AX Gaia"]
+[BlackTitle "GM"]
+[PlyCount "144"]
+[EventDate "2015.??.??"]
+
+1. e4 c5 2. Nc3 Nc6 3. f4 e6 4. Nf3 Nge7 5. d3 d5 6. g3 g6 7. Bg2 Bg7 8. O-O
+dxe4 9. Nxe4 O-O 10. c3 b6 11. Nf2 Qc7 12. Re1 Bd7 13. Ng4 Rad8 14. Be3 Bc8 15.
+Qc2 Bb7 16. Rad1 Qc8 17. Bf2 Qa8 18. Nfe5 Nd4 19. Bxd4 cxd4 20. Bxb7 Qxb7 21.
+Qg2 Qxg2+ 22. Kxg2 h5 23. Nf2 Nd5 24. cxd4 Rc8 25. Rc1 Ne3+ 26. Kf3 Nc2 27.
+Red1 Rfd8 28. Ne4 Nxd4+ 29. Kf2 Nc2 30. Rd2 Nb4 31. Rxc8 Rxc8 32. a3 Bxe5 33.
+fxe5 Nd5 34. Nd6 Rc1 35. Kg2 Ne3+ 36. Kf3 Ng4 37. d4 Rf1+ 38. Kg2 Ne3+ 39. Kh3
+Kg7 40. Re2 Ng4 41. Kg2 Rd1 42. h3 Nh6 43. Nc8 Nf5 44. Nxa7 Rd3 45. g4 Nxd4 46.
+Re4 h4 47. Nc8 b5 48. Nd6 Rd2+ 49. Kf1 g5 50. Ne8+ Kg6 51. Nd6 Nf3 52. Re3 Nd4
+53. Re4 f5 54. exf6 Kxf6 55. Ne8+ Kf7 56. Nc7 Ke7 57. Nd5+ Kd6 58. Nc3 e5 59.
+Ne2 Nxe2 60. Rxe2 Rd3 61. Kg2 Kd5 62. Rf2 Rg3+ 63. Kh2 Rb3 64. Kg2 e4 65. Rf5+
+Kd4 66. Rxg5 Rxb2+ 67. Kf1 Rb3 68. Rh5 Rxh3 69. Rxb5 Rxa3 70. Rh5 h3 71. g5
+Ra1+ 72. Ke2 h2 0-1
+
+[Event "CN Equipas 2015 - 1. div"]
+[Site "Matosinhos POR"]
+[Date "2015.08.18"]
+[Round "4.1.1"]
+[White "Silva, Luís M"]
+[Black "Aguiar, Henrique"]
+[Result "1/2-1/2"]
+[ECO "A16"]
+[WhiteElo "2334"]
+[BlackElo "2188"]
+[WhiteFideId "1919121"]
+[BlackFideId "1908545"]
+[WhiteTeam "CX A2D"]
+[BlackTeam "AEJ S. João da Madeira"]
+[WhiteTitle "FM"]
+[PlyCount "167"]
+[EventDate "2015.??.??"]
+
+1. c4 Nf6 2. Nc3 g6 3. d4 Bg7 4. Bg5 O-O 5. e3 d6 6. Be2 c6 7. Nf3 a6 8. O-O
+Nbd7 9. Qc2 b5 10. a3 bxc4 11. Bxc4 c5 12. dxc5 Nxc5 13. Rac1 Bb7 14. Rfd1 Rc8
+15. Qe2 Qb6 16. Bh4 a5 17. Nd4 Rfe8 18. f3 Rb8 19. Rb1 Rec8 20. Bf2 Ba6 21.
+Bxa6 Qxa6 22. Qxa6 Nxa6 23. Na4 Nd7 24. Be1 Ndc5 25. Nc3 Kf8 26. Kf1 Ke8 27.
+Ke2 Nb3 28. Nxb3 Rxb3 29. Rdc1 Rcb8 30. Na4 Bxb2 31. Rc6 Nc5 32. Nxc5 dxc5 33.
+Rxc5 Bxa3 34. Rxb3 Rxb3 35. Rxa5 Rb2+ 36. Kf1 Bd6 37. f4 Kd7 38. Bf2 h5 39. g3
+Bc7 40. Ra3 e5 41. Kg2 exf4 42. gxf4 Rb5 43. Ra7 Ra5 44. Rb7 Kc6 45. Rb2 g5 46.
+fxg5 Rxg5+ 47. Kh3 Rf5 48. Bg3 Bxg3 49. hxg3 Re5 50. Rf2 Rxe3 51. Rxf7 Kd6 52.
+Kh4 Ke6 53. Rf8 Ke7 54. Rf5 Ke6 55. Rxh5 Kf6 56. Rg5 Re1 57. Rg8 Rh1+ 58. Kg4
+Rh2 59. Ra8 Rb2 60. Ra7 Rb5 61. Kh4 Kg6 62. Ra6+ Kg7 63. g4 Rc5 64. Ra7+ Kg6
+65. Ra8 Kg7 66. Ra6 Rb5 67. Ra4 Kg6 68. Rc4 Ra5 69. Rc6+ Kg7 70. g5 Ra1 71. Rc4
+Rh1+ 72. Kg4 Rg1+ 73. Kf5 Rf1+ 74. Rf4 Rxf4+ 75. Kxf4 Kg6 76. Kg4 Kg7 77. Kf5
+Kf7 78. g6+ Kg7 79. Kg5 Kg8 80. Kf4 Kg7 81. Kf5 Kg8 82. Kf6 Kf8 83. g7+ Kg8 84.
+Kg6 1/2-1/2
+
+[Event "CN Equipas 2015 - 1. div"]
+[Site "Matosinhos POR"]
+[Date "2015.08.18"]
+[Round "4.1.2"]
+[White "Pires, Gustavo"]
+[Black "Gomes, Bruno"]
+[Result "1/2-1/2"]
+[ECO "B10"]
+[WhiteElo "2098"]
+[BlackElo "2262"]
+[WhiteFideId "1903250"]
+[BlackFideId "1908154"]
+[WhiteTeam "AEJ S. João da Madeira"]
+[BlackTeam "CX A2D"]
+[BlackTitle "CM"]
+[PlyCount "56"]
+[EventDate "2015.??.??"]
+
+1. e4 c6 2. Nf3 d5 3. Nc3 Nf6 4. Qe2 Bg4 5. d3 d4 6. Nb1 e5 7. h3 Be6 8. Nbd2
+Qc7 9. g3 Be7 10. Bg2 O-O 11. O-O Ne8 12. c3 c5 13. Re1 f6 14. Nf1 Nc6 15. g4
+dxc3 16. bxc3 Rd8 17. Ne3 Qa5 18. Bb2 Nc7 19. Nf5 Rd7 20. Nxe7+ Rxe7 21. d4
+exd4 22. cxd4 cxd4 23. Nxd4 Qa4 24. Nxe6 Nxe6 25. Qd1 Qc4 26. Qb3 Qxb3 27. axb3
+Rd8 28. e5 fxe5 1/2-1/2
+
+[Event "CN Equipas 2015 - 1. div"]
+[Site "Matosinhos POR"]
+[Date "2015.08.18"]
+[Round "4.1.3"]
+[White "Dias, Ivo"]
+[Black "Silva, Stéphane"]
+[Result "1-0"]
+[ECO "B01"]
+[WhiteElo "2122"]
+[BlackElo "2126"]
+[WhiteFideId "1901680"]
+[BlackFideId "1900846"]
+[WhiteTeam "CX A2D"]
+[BlackTeam "AEJ S. João da Madeira"]
+[WhiteTitle "CM"]
+[BlackTitle "NM"]
+[PlyCount "79"]
+[EventDate "2015.??.??"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qa5 4. d4 c6 5. Nf3 Nf6 6. Bc4 Bg4 7. h3 Bh5 8. g4
+Bg6 9. Qe2 Nbd7 10. Bd2 e6 11. O-O-O Bb4 12. Ne5 Nxe5 13. dxe5 Nd5 14. Bxd5
+cxd5 15. Qb5+ Qxb5 16. Nxb5 Bxd2+ 17. Kxd2 Ke7 18. c3 f6 19. Rde1 Kd7 20. f4
+Be4 21. Rhf1 fxe5 22. fxe5 Bg6 23. Nd6 b6 24. Rf4 Rhf8 25. Ref1 Rxf4 26. Rxf4
+Ke7 27. h4 h6 28. Ra4 Be8 29. Ra6 Bd7 30. a4 Kd8 31. a5 Rb8 32. b4 bxa5 33.
+Rxa5 Ra8 34. Ra6 Kc7 35. Ke3 Kd8 36. Kd4 Kc7 37. b5 Kb8 38. Kc5 Kc7 39. h5 Kb8
+40. Kd4 1-0
+
+[Event "CN Equipas 2015 - 1. div"]
+[Site "Matosinhos POR"]
+[Date "2015.08.18"]
+[Round "4.1.4"]
+[White "Sá, Cláudio"]
+[Black "Romano, Luís"]
+[Result "0-1"]
+[ECO "B06"]
+[WhiteElo "1714"]
+[BlackElo "2030"]
+[WhiteFideId "1902903"]
+[BlackFideId "1920235"]
+[WhiteTeam "AEJ S. João da Madeira"]
+[BlackTeam "CX A2D"]
+[PlyCount "78"]
+[EventDate "2015.??.??"]
+
+1. e4 g6 2. Nc3 Bg7 3. f4 c6 4. Nf3 d5 5. e5 h5 6. d4 Nh6 7. Be3 Bg4 8. Bd3 Nf5
+9. Bf2 e6 10. h3 Bxf3 11. Qxf3 h4 12. Bxf5 gxf5 13. g4 hxg3 14. Qxg3 Bf8 15. h4
+Nd7 16. h5 Qa5 17. Be3 Nb6 18. Bd2 Nc4 19. Ne4 Nxd2 20. Nxd2 Bh6 21. c3 O-O-O
+22. Nb3 Qc7 23. O-O-O Rdg8 24. Qf2 Rg4 25. Rh4 Rhg8 26. Rxg4 Rxg4 27. Kb1 Rxf4
+28. Qh2 Qd8 29. Rg1 Rg4 30. Rxg4 fxg4 31. Qf2 Qg8 32. Nc1 Qg5 33. Nd3 Qf5 34.
+Qg3 Qxh5 35. Nf2 Qf5+ 36. Ka1 Qf3 37. Qg1 g3 38. Nh3 g2 39. Nf2 Be3 0-1
+
+[Event "CN Equipas 2015 - 1. div"]
+[Site "Matosinhos POR"]
+[Date "2015.08.18"]
+[Round "4.2.1"]
+[White "Neves, Pedro"]
+[Black "Iturrizaga, Eduardo"]
+[Result "0-1"]
+[ECO "A10"]
+[WhiteElo "2215"]
+[BlackElo "2625"]
+[WhiteFideId "1905554"]
+[BlackFideId "3901211"]
+[WhiteTeam "CX Montemor-o-Velho"]
+[BlackTeam "AX Gaia"]
+[WhiteTitle "NM"]
+[BlackTitle "GM"]
+[PlyCount "78"]
+[EventDate "2015.??.??"]
+
+1. c4 b6 2. Nc3 Bb7 3. Nf3 Nf6 4. g3 g6 5. Bg2 Bg7 6. O-O O-O 7. d3 e6 8. Bg5
+h6 9. Bd2 d5 10. Qc1 Kh7 11. cxd5 exd5 12. e4 d4 13. Ne2 c5 14. Nf4 Nbd7 15.
+Re1 Ng4 16. e5 Bxf3 17. Bxf3 Ngxe5 18. Bg2 Rc8 19. h4 Re8 20. h5 Nf6 21. hxg6+
+fxg6 22. Qd1 Qd6 23. Qb3 Rcd8 24. Re2 g5 25. Nh3 g4 26. Nf4 Nf3+ 27. Bxf3 gxf3
+28. Rxe8 Rxe8 29. Qf7 Qd7 30. Qg6+ Kg8 31. Nh5 Nxh5 32. Qxh5 Qf7 33. Qg4 h5 34.
+Qg5 Re5 35. Qd8+ Kh7 36. Bf4 Qe8 37. Qd6 Re1+ 38. Rxe1 Qxe1+ 39. Kh2 Qf1 0-1
+
+[Event "CN Equipas 2015 - 1. div"]
+[Site "Matosinhos POR"]
+[Date "2015.08.18"]
+[Round "4.2.2"]
+[White "Ftacnik, Lubomir"]
+[Black "Figuero Toro, Julian"]
+[Result "1-0"]
+[ECO "B38"]
+[WhiteElo "2555"]
+[BlackElo "2204"]
+[WhiteFideId "14900017"]
+[BlackFideId "2210347"]
+[WhiteTeam "AX Gaia"]
+[BlackTeam "CX Montemor-o-Velho"]
+[WhiteTitle "GM"]
+[PlyCount "89"]
+[EventDate "2015.??.??"]
+
+1. Nf3 c5 2. c4 g6 3. d4 cxd4 4. Nxd4 Bg7 5. e4 Nc6 6. Be3 Nf6 7. Nc3 d6 8. Be2
+O-O 9. O-O Bd7 10. Nc2 a6 11. f3 Rb8 12. Qd2 Ne5 13. a4 Rc8 14. b3 a5 15. Rad1
+Bc6 16. Nd4 Ned7 17. g4 Nc5 18. e5 Nfd7 19. exd6 exd6 20. Ncb5 Be5 21. Nxc6
+Rxc6 22. f4 Bg7 23. Bf3 Nxb3 24. Qc2 Ndc5 25. Bxc6 bxc6 26. Nxd6 Qh4 27. g5
+Qg4+ 28. Kh1 Qh3 29. Bxc5 Nxc5 30. Ne4 Bd4 31. Qg2 Qxg2+ 32. Kxg2 Ne6 33. f5
+gxf5 34. Rxf5 Rb8 35. Rxa5 Rb3 36. Rf5 Re3 37. Ng3 Rb3 38. Rdf1 Rb2+ 39. Kh1
+Rb7 40. Ra5 c5 41. Nf5 Be5 42. Ra8+ Bb8 43. Nh6+ Kg7 44. Rxf7+ Rxf7 45. Nxf7
+1-0
+
+[Event "CN Equipas 2015 - 1. div"]
+[Site "Matosinhos POR"]
+[Date "2015.08.18"]
+[Round "4.2.3"]
+[White "Cruz, Jorge"]
+[Black "Strikovic, Aleksa"]
+[Result "0-1"]
+[ECO "B07"]
+[WhiteElo "2024"]
+[BlackElo "2509"]
+[WhiteFideId "1903977"]
+[BlackFideId "900150"]
+[WhiteTeam "CX Montemor-o-Velho"]
+[BlackTeam "AX Gaia"]
+[BlackTitle "GM"]
+[PlyCount "91"]
+[EventDate "2015.??.??"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 e5 4. dxe5 dxe5 5. Qxd8+ Kxd8 6. Bc4 Ke8 7. Nf3 Bd6
+8. O-O Nbd7 9. Be3 c6 10. a3 Ke7 11. Rad1 Bc7 12. Ne1 Bb6 13. Bxb6 Nxb6 14. Ba2
+Be6 15. Bxe6 Kxe6 16. Nd3 Nfd7 17. b3 f6 18. f3 Ke7 19. Kf2 Rad8 20. Ke3 Na8
+21. Rd2 Nc7 22. Rfd1 Ne6 23. Ne2 h5 24. h4 Ndc5 25. Nxc5 Rxd2 26. Rxd2 Nxc5 27.
+Rd1 Ne6 28. g3 g6 29. f4 Rg8 30. Rg1 a5 31. a4 Rd8 32. fxe5 fxe5 33. g4 hxg4
+34. Rxg4 Kf6 35. Rg1 Rh8 36. Rg4 Rh7 37. Kd2 Rd7+ 38. Ke1 Nc5 39. Ng3 b5 40. h5
+g5 41. Nf5 Nxe4 42. Nh6 Rh7 43. Ng8+ Kf5 44. Rxe4 Rh8 45. Re2 Rxg8 46. Rd2 0-1
+
+[Event "CN Equipas 2015 - 1. div"]
+[Site "Matosinhos POR"]
+[Date "2015.08.18"]
+[Round "4.2.4"]
+[White "Hoffman, Alejandro"]
+[Black "Cavaleiro, Daniel"]
+[Result "1-0"]
+[ECO "E08"]
+[WhiteElo "2433"]
+[BlackElo "1900"]
+[WhiteFideId "100340"]
+[BlackFideId "1904663"]
+[WhiteTeam "AX Gaia"]
+[BlackTeam "CX Montemor-o-Velho"]
+[WhiteTitle "GM"]
+[PlyCount "67"]
+[EventDate "2015.??.??"]
+
+1. d4 Nf6 2. c4 e6 3. g3 d5 4. Nf3 Nbd7 5. Bg2 Be7 6. O-O O-O 7. Qc2 c5 8. Rd1
+Qb6 9. cxd5 Nxd5 10. Nc3 Nb4 11. Qb1 cxd4 12. Nxd4 Ne5 13. Be3 Qc7 14. Ncb5 Qb8
+15. Rc1 Nbc6 16. Nxc6 bxc6 17. Nd4 Bb7 18. Nxc6 Bxc6 19. Bxc6 Nxc6 20. Rxc6 Bf6
+21. Qc2 Qb7 22. Rc1 a5 23. b3 h6 24. Qc4 Rfd8 25. Bb6 Rd2 26. a4 Bb2 27. Rb1
+Ba3 28. e4 Ra6 29. Rc8+ Kh7 30. Be3 Rdd6 31. Rc7 Qb4 32. Rxf7 Qxc4 33. bxc4 Bb4
+34. Bf4 1-0
+
+[Event "CN Equipas 2015 - 1. div"]
+[Site "Matosinhos POR"]
+[Date "2015.08.18"]
+[Round "4.3.1"]
+[White "Dâmaso, Rui"]
+[Black "Stopa, Jacek"]
+[Result "1/2-1/2"]
+[ECO "C78"]
+[WhiteElo "2456"]
+[BlackElo "2544"]
+[WhiteFideId "1900030"]
+[BlackFideId "1119591"]
+[WhiteTeam "FC Barreirense"]
+[BlackTeam "GX Porto"]
+[WhiteTitle "IM"]
+[BlackTitle "GM"]
+[PlyCount "61"]
+[EventDate "2015.??.??"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O b5 6. Bb3 Bc5 7. a4 Rb8 8. axb5
+axb5 9. Nxe5 Nxe5 10. d4 Bxd4 11. Qxd4 d6 12. f4 c5 13. Qd2 Nc6 14. e5 dxe5 15.
+fxe5 Qxd2 16. Nxd2 Nxe5 17. Re1 Nfd7 18. Nf3 f6 19. Bd5 Kd8 20. Ra7 Re8 21. Rd1
+g5 22. Bd2 b4 23. Nxe5 Rxe5 24. Be1 f5 25. Bc6 Re7 26. Bf2 Rb6 27. Ba4 Rbe6 28.
+Bxc5 Re1+ 29. Rxe1 Rxe1+ 30. Kf2 Re4 31. Bxd7 1/2-1/2
+
+[Event "CN Equipas 2015 - 1. div"]
+[Site "Matosinhos POR"]
+[Date "2015.08.18"]
+[Round "4.3.2"]
+[White "Sousa, André V"]
+[Black "Rocha, Sérgio"]
+[Result "0-1"]
+[ECO "B41"]
+[WhiteElo "2266"]
+[BlackElo "2384"]
+[WhiteFideId "1917617"]
+[BlackFideId "1900404"]
+[WhiteTeam "GX Porto"]
+[BlackTeam "FC Barreirense"]
+[BlackTitle "IM"]
+[PlyCount "86"]
+[EventDate "2015.??.??"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. c4 Ne7 6. Nc3 Nbc6 7. Nf3 Ng6 8.
+Be3 Qc7 9. Qd2 Be7 10. Be2 O-O 11. O-O d6 12. Rfc1 Nce5 13. Nd4 b6 14. b4 Bb7
+15. f3 Nd7 16. Rab1 Rac8 17. Na4 Bf6 18. Bf1 Rfe8 19. Qf2 Be5 20. Ne2 Qb8 21.
+Nxb6 Nxb6 22. Bxb6 d5 23. Ba7 Qd6 24. Bc5 Qb8 25. exd5 Bxh2+ 26. Kh1 exd5 27.
+Ba7 Qd6 28. c5 Qc7 29. c6 Ba8 30. Bb6 Qd6 31. Bc5 Qc7 32. Nd4 Bg3 33. Qc2 Nh4
+34. Bxa6 Rb8 35. Bd3 Qf4 36. Bf5 Bxc6 37. Bh3 Ba8 38. Rd1 Qg5 39. Rb3 Bb7 40.
+Kg1 Bc8 41. Bxc8 Rbxc8 42. Ne2 Bb8 43. Qd2 Qxg2# 0-1
+
+[Event "CN Equipas 2015 - 1. div"]
+[Site "Matosinhos POR"]
+[Date "2015.08.18"]
+[Round "4.3.3"]
+[White "Ulyanovskyy, Viktor"]
+[Black "Rodrigues, José A A"]
+[Result "1-0"]
+[ECO "C04"]
+[WhiteElo "2233"]
+[BlackElo "2151"]
+[WhiteFideId "14113350"]
+[BlackFideId "1901834"]
+[WhiteTeam "FC Barreirense"]
+[BlackTeam "GX Porto"]
+[WhiteTitle "FM"]
+[PlyCount "37"]
+[EventDate "2015.??.??"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nc6 4. Ngf3 Nf6 5. e5 Nd7 6. Bb5 a6 7. Bxc6 bxc6 8.
+O-O c5 9. c3 cxd4 10. cxd4 c5 11. Qa4 Be7 12. dxc5 Bxc5 13. Nb3 Bb6 14. Qg4 Kf8
+15. Bg5 Qe8 16. Rfe1 f5 17. exf6 Nxf6 18. Bxf6 gxf6 19. Qb4+ 1-0
+
+[Event "CN Equipas 2015 - 1. div"]
+[Site "Matosinhos POR"]
+[Date "2015.08.18"]
+[Round "4.3.4"]
+[White "Silva, António"]
+[Black "Ulyanovskyy, Vladimir"]
+[Result "1/2-1/2"]
+[ECO "A30"]
+[WhiteElo "2150"]
+[BlackElo "2112"]
+[WhiteFideId "1900293"]
+[BlackFideId "14120771"]
+[WhiteTeam "GX Porto"]
+[BlackTeam "FC Barreirense"]
+[WhiteTitle "NM"]
+[PlyCount "106"]
+[EventDate "2015.??.??"]
+
+1. c4 c5 2. g3 g6 3. Bg2 Bg7 4. Nc3 e6 5. Nf3 Nc6 6. O-O Nge7 7. d4 cxd4 8. Nb5
+O-O 9. Nfxd4 d5 10. cxd5 Nxd4 11. Nxd4 Nxd5 12. Nb3 Bd7 13. e4 Nb4 14. a3 Ba4
+15. axb4 Qxd1 16. Rxd1 Bxb3 17. Rd7 Rad8 18. Rxd8 Rxd8 19. Be3 Bd4 20. e5 b6
+21. Bc6 Bxe3 22. fxe3 Rd1+ 23. Rxd1 Bxd1 24. Kf2 Kg7 25. e4 f6 26. exf6+ Kxf6
+27. Ke3 Ke5 28. h4 h6 29. Be8 g5 30. hxg5 hxg5 31. Bc6 Bb3 32. Bb5 Bc2 33. Bd3
+Ba4 34. Be2 Bc6 35. Bd3 a6 36. Bc2 Bb5 37. Bb3 a5 38. bxa5 bxa5 39. Ba2 Bd7 40.
+Bc4 Kd6 41. Kd4 e5+ 42. Kc3 Bc6 43. Bd3 Bb7 44. Bc2 Kc5 45. Bd3 Bc8 46. Bc2 Ba6
+47. Bb1 Bb5 48. Bc2 Kd6 49. Kd2 Bd7 50. Bb3 Bg4 51. Bc2 Bf3 52. Bd3 Kc6 53. Kc3
+Kc5 1/2-1/2
+
+[Event "CN Equipas 2015 - 1. div"]
+[Site "Matosinhos POR"]
+[Date "2015.08.18"]
+[Round "4.4.1"]
+[White "Jakubowski, Krzystof"]
+[Black "Getz, Nicolai"]
+[Result "1/2-1/2"]
+[ECO "C78"]
+[WhiteElo "2571"]
+[BlackElo "2386"]
+[WhiteFideId "1112848"]
+[BlackFideId "1505572"]
+[WhiteTeam "AA Coimbra"]
+[BlackTeam "ADRC Mata de Benfica"]
+[WhiteTitle "GM"]
+[BlackTitle "IM"]
+[PlyCount "78"]
+[EventDate "2015.??.??"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O b5 6. Bb3 Bb7 7. d3 Be7 8. Nc3
+O-O 9. a4 Na5 10. axb5 Nxb3 11. cxb3 axb5 12. Rxa8 Qxa8 13. Nxb5 d5 14. Nxc7
+Qa5 15. Nxd5 Nxd5 16. exd5 Qxd5 17. Qe2 Bf6 18. b4 Rd8 19. Ne1 Qb5 20. f3 Qxb4
+21. Be3 Ba6 22. Qd2 Qb3 23. Qc3 Qxc3 24. bxc3 Bxd3 25. Bb6 Rd6 26. Nxd3 Rxb6
+27. Rc1 Rd6 28. Nf2 Bg5 29. Re1 Rc6 30. Rxe5 f6 31. Re1 Rxc3 32. Ne4 Be3+ 33.
+Kf1 Rb3 34. Nd6 h5 35. Nf5 Bc5 36. Rc1 Rb5 37. Rd1 g6 38. Rd8+ Kf7 39. Nd6+
+Bxd6 1/2-1/2
+
+[Event "CN Equipas 2015 - 1. div"]
+[Site "Matosinhos POR"]
+[Date "2015.08.18"]
+[Round "4.4.2"]
+[White "Andrade, José"]
+[Black "Hammes, Michael"]
+[Result "1/2-1/2"]
+[ECO "C16"]
+[WhiteElo "2199"]
+[BlackElo "2345"]
+[WhiteFideId "1900986"]
+[BlackFideId "4619358"]
+[WhiteTeam "ADRC Mata de Benfica"]
+[BlackTeam "AA Coimbra"]
+[WhiteTitle "FM"]
+[BlackTitle "IM"]
+[PlyCount "85"]
+[EventDate "2015.??.??"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 b6 5. Qg4 Bf8 6. Bg5 Qd7 7. O-O-O Ba6 8. Nf3
+Bxf1 9. Rhxf1 Nc6 10. Qh3 Nge7 11. g4 O-O-O 12. Ne1 Kb8 13. f4 Re8 14. f5 Ng8
+15. f6 gxf6 16. exf6 Bb4 17. Bh4 e5 18. dxe5 h5 19. Nxd5 Qxg4 20. Qxg4 hxg4 21.
+Bg3 Bxe1 22. Rfxe1 Nh6 23. e6 Rxe6 24. Rxe6 fxe6 25. Nxc7 e5 26. Rd7 Kc8 27.
+Rg7 Nf5 28. Nd5 Nxg7 29. fxg7 Rd8 30. Nf6 Ne7 31. Bxe5 Ng8 32. Nxg4 Kd7 33. h4
+Ke6 34. h5 Kf5 35. h6 Kg6 36. Bf4 Rd4 37. Ne5+ Kh7 38. Nd3 Rd8 39. Ne5 Rd4 40.
+Bg5 Rd5 41. Bf4 Rd4 42. Bg5 Rd5 43. Bf4 1/2-1/2
+
+[Event "CN Equipas 2015 - 1. div"]
+[Site "Matosinhos POR"]
+[Date "2015.08.18"]
+[Round "4.4.3"]
+[White "Diogo, Vasco"]
+[Black "Guerra, Vítor"]
+[Result "1/2-1/2"]
+[ECO "B40"]
+[WhiteElo "2240"]
+[BlackElo "2119"]
+[WhiteFideId "1902628"]
+[BlackFideId "1901095"]
+[WhiteTeam "AA Coimbra"]
+[BlackTeam "ADRC Mata de Benfica"]
+[WhiteTitle "FM"]
+[BlackTitle "NM"]
+[PlyCount "83"]
+[EventDate "2015.??.??"]
+
+1. e4 c5 2. Nf3 e6 3. d3 Nc6 4. g3 d5 5. Nbd2 Bd6 6. Bg2 Nge7 7. O-O O-O 8. Re1
+d4 9. e5 Bc7 10. h4 Rb8 11. h5 Nd5 12. h6 g6 13. Nb3 b6 14. Bg5 Qd7 15. Nbd2 a5
+16. Nf1 a4 17. N1h2 f6 18. exf6 e5 19. Nd2 Qf7 20. Ne4 Be6 21. Qe2 Qd7 22. Bf3
+Nd8 23. Ng4 Nf7 24. Bd2 Rbe8 25. c4 dxc3 26. bxc3 Qd8 27. c4 Bxg4 28. Bxg4 Nxf6
+29. Bf3 Nxe4 30. Bxe4 Qf6 31. Kg2 Kh8 32. Be3 Ng5 33. Bd5 Qf5 34. Rh1 Rd8 35.
+Rh4 Ne6 36. Be4 Qf7 37. Rf1 Rd6 38. Bd5 Rdd8 39. Re4 Qf6 40. Re1 Nd4 41. Bxd4
+cxd4 42. Rh4 1/2-1/2
+
+[Event "CN Equipas 2015 - 1. div"]
+[Site "Matosinhos POR"]
+[Date "2015.08.18"]
+[Round "4.4.4"]
+[White "Guerreiro, Nuno"]
+[Black "Vicente, João"]
+[Result "0-1"]
+[ECO "B31"]
+[WhiteElo "2106"]
+[BlackElo "2102"]
+[WhiteFideId "1903012"]
+[BlackFideId "1912054"]
+[WhiteTeam "ADRC Mata de Benfica"]
+[BlackTeam "AA Coimbra"]
+[PlyCount "50"]
+[EventDate "2015.??.??"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 g6 4. Bxc6 bxc6 5. O-O Bg7 6. Re1 Nh6 7. d3 O-O 8.
+h3 d6 9. Na3 f6 10. Bd2 Nf7 11. Bc3 e5 12. b4 cxb4 13. Bxb4 c5 14. Bc3 f5 15.
+Nc4 f4 16. Rb1 h5 17. Rb3 Ng5 18. Kf1 Nxf3 19. Qxf3 Qh4 20. Reb1 Bg4 21. hxg4
+hxg4 22. Qd1 f3 23. gxf3 gxf3 24. Ke1 Bh6 25. Nd2 Be3 0-1
+
+[Event "CN Equipas 2015 - 1. div"]
+[Site "Matosinhos POR"]
+[Date "2015.08.18"]
+[Round "4.5.1"]
+[White "Fidalgo, André"]
+[Black "Ferreira, Jorge"]
+[Result "0-1"]
+[ECO "B17"]
+[WhiteElo "2058"]
+[BlackElo "2447"]
+[WhiteFideId "1933620"]
+[BlackFideId "1910850"]
+[WhiteTeam "Santoantoniense FC"]
+[BlackTeam "GD Dias Ferreira"]
+[BlackTitle "IM"]
+[PlyCount "62"]
+[EventDate "2015.??.??"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nd7 5. Nf3 Ngf6 6. Nxf6+ Nxf6 7. Bd3 Bg4
+8. c3 e6 9. O-O Bd6 10. Re1 Qc7 11. h3 Bh5 12. c4 O-O-O 13. Be3 Bf4 14. Qe2
+Bxe3 15. fxe3 c5 16. Qf2 Bxf3 17. Qxf3 cxd4 18. e4 Qe5 19. c5 Rd7 20. Rac1 Rc7
+21. b4 Kb8 22. Qf2 Nh5 23. Rc4 Rd8 24. Rf1 g5 25. Rfc1 Nf4 26. Qf3 h5 27. b5 g4
+28. hxg4 hxg4 29. Qd1 g3 30. b6 Qh8 31. bxc7+ Kxc7 0-1
+
+[Event "CN Equipas 2015 - 1. div"]
+[Site "Matosinhos POR"]
+[Date "2015.08.18"]
+[Round "4.5.2"]
+[White "Martinez, Lelys"]
+[Black "Figueiredo, Hélder"]
+[Result "1-0"]
+[ECO "B30"]
+[WhiteElo "2450"]
+[BlackElo "2027"]
+[WhiteFideId "3504727"]
+[BlackFideId "1903489"]
+[WhiteTeam "GD Dias Ferreira"]
+[BlackTeam "Santoantoniense FC"]
+[WhiteTitle "GM"]
+[PlyCount "47"]
+[EventDate "2015.??.??"]
+
+1. Nf3 c5 2. e4 Nc6 3. Bb5 Nd4 4. Nxd4 cxd4 5. c3 a6 6. Bc4 Qc7 7. Bb3 dxc3 8.
+Nxc3 e6 9. d4 Bb4 10. O-O Bxc3 11. bxc3 Ne7 12. Ba3 d6 13. Qd2 O-O 14. Rad1 b5
+15. e5 d5 16. Rfe1 Bb7 17. Re3 Rfc8 18. Bc2 Nf5 19. Bxf5 exf5 20. Rg3 Kh8 21.
+Qg5 Rg8 22. Rh3 Rge8 23. Qxf5 h6 24. Bd6 1-0
+
+[Event "CN Equipas 2015 - 1. div"]
+[Site "Matosinhos POR"]
+[Date "2015.08.18"]
+[Round "4.5.3"]
+[White "Parreira, André"]
+[Black "Martins, David"]
+[Result "0-1"]
+[ECO "A04"]
+[WhiteElo "1868"]
+[BlackElo "2334"]
+[WhiteFideId "1911368"]
+[BlackFideId "1909991"]
+[WhiteTeam "Santoantoniense FC"]
+[BlackTeam "GD Dias Ferreira"]
+[BlackTitle "FM"]
+[PlyCount "66"]
+[EventDate "2015.??.??"]
+
+1. Nf3 e6 2. c4 f5 3. d4 Nf6 4. Nc3 Bb4 5. Bd2 b6 6. e3 Bb7 7. Bd3 O-O 8. O-O
+a6 9. a3 Bd6 10. b4 c5 11. bxc5 bxc5 12. h3 Nc6 13. Rb1 Qc7 14. Na4 cxd4 15.
+exd4 Rab8 16. c5 Bf4 17. Bc4 Ne7 18. Rb3 Ned5 19. Bxf4 Nxf4 20. Re1 Be4 21. Nb6
+a5 22. Qc1 a4 23. Rc3 Bc6 24. Ne5 Nxg2 25. Nxc6 Qxc6 26. Re5 Nh4 27. d5 Qxc5
+28. Nxa4 Qd4 29. Ree3 exd5 30. Bb3 f4 31. Red3 Qe4 32. Qf1 Rxb3 33. Nc5 Qg6+
+0-1
+
+[Event "CN Equipas 2015 - 1. div"]
+[Site "Matosinhos POR"]
+[Date "2015.08.18"]
+[Round "4.5.4"]
+[White "Costa, João Guerra"]
+[Black "Correia, Jorge"]
+[Result "1-0"]
+[ECO "B01"]
+[WhiteElo "2180"]
+[BlackElo "1770"]
+[WhiteFideId "1901737"]
+[BlackFideId "1915932"]
+[WhiteTeam "GD Dias Ferreira"]
+[BlackTeam "Santoantoniense FC"]
+[WhiteTitle "NM"]
+[PlyCount "79"]
+[EventDate "2015.??.??"]
+
+1. e4 d5 2. exd5 Nf6 3. Nf3 Bg4 4. Bb5+ c6 5. dxc6 bxc6 6. Be2 Nbd7 7. h3 Bh5
+8. O-O Qb6 9. b3 Bxf3 10. Bxf3 e5 11. Bb2 O-O-O 12. Nc3 g5 13. Ne4 Nxe4 14.
+Bxe4 f6 15. Qf3 Kc7 16. Rad1 Bc5 17. c3 h5 18. d4 Bd6 19. Qf5 g4 20. h4 g3 21.
+c4 gxf2+ 22. Rxf2 exd4 23. Bxd4 Bc5 24. Bxc5 Nxc5 25. Rdf1 Rhe8 26. Bc2 Re5 27.
+Qxf6 Rde8 28. Kh1 Nd7 29. Qf3 Qd4 30. Qf4 Qd6 31. Rd2 Qe7 32. Bf5 Nc5 33. Bg6
+Rg8 34. Re1 Nd7 35. Rxd7+ Qxd7 36. Qxe5+ Kb6 37. Qe3+ Ka6 38. Qe6 Qd2 39. Qxc6+
+Ka5 40. Qb5# 1-0
+
+[Event "CN Equipas 2015 - 1. div"]
+[Site "Matosinhos POR"]
+[Date "2015.08.19"]
+[Round "5.1.1"]
+[White "Ferreira, Jorge"]
+[Black "Silva, Luís M"]
+[Result "1/2-1/2"]
+[ECO "A61"]
+[WhiteElo "2447"]
+[BlackElo "2334"]
+[WhiteFideId "1910850"]
+[BlackFideId "1919121"]
+[WhiteTeam "GD Dias Ferreira"]
+[BlackTeam "CX A2D"]
+[WhiteTitle "IM"]
+[BlackTitle "FM"]
+[PlyCount "39"]
+[EventDate "2015.??.??"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. Nf3 g6 7. Bf4 Bg7 8. Qa4+
+Bd7 9. Qb3 Qc7 10. e4 O-O 11. Nd2 Nh5 12. Be3 f5 13. exf5 Bxf5 14. Be2 Nf6 15.
+h3 Na6 16. a3 Rab8 17. O-O Qd8 18. Nb5 Nc7 19. Nxa7 Nfxd5 20. Bc4 1/2-1/2
+
+[Event "CN Equipas 2015 - 1. div"]
+[Site "Matosinhos POR"]
+[Date "2015.08.19"]
+[Round "5.1.2"]
+[White "Gomes, Bruno"]
+[Black "Gonzalez Perez, Arian"]
+[Result "1-0"]
+[ECO "C17"]
+[WhiteElo "2262"]
+[BlackElo "2440"]
+[WhiteFideId "1908154"]
+[BlackFideId "3507777"]
+[WhiteTeam "CX A2D"]
+[BlackTeam "GD Dias Ferreira"]
+[WhiteTitle "CM"]
+[BlackTitle "FM"]
+[PlyCount "77"]
+[EventDate "2015.??.??"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. Bd2 Nh6 6. Bxh6 gxh6 7. Nf3 Nc6 8. a3
+Ba5 9. Bb5 cxd4 10. Nxd4 Bd7 11. Bxc6 bxc6 12. O-O Rg8 13. Nf3 c5 14. Qd3 Rg6
+15. Nb5 Bc6 16. Nd6+ Kf8 17. Rfd1 Bc7 18. Qa6 Bb6 19. b4 d4 20. Rd3 cxb4 21.
+axb4 f6 22. g3 fxe5 23. Nf7 Qd5 24. c4 Bb7 25. Qa2 Qe4 26. N7xe5 Kg8 27. c5 Bc7
+28. Rxd4 Qf5 29. Nxg6 hxg6 30. Nh4 Qf6 31. Rd7 Rc8 32. Qxa7 Rf8 33. Rf1 Bc6 34.
+Rxc7 Bb5 35. Qa1 e5 36. Qa2+ Kh8 37. Rd1 Qg5 38. Qd2 Qh5 39. Qd6 1-0
+
+[Event "CN Equipas 2015 - 1. div"]
+[Site "Matosinhos POR"]
+[Date "2015.08.19"]
+[Round "5.1.3"]
+[White "Martinez, Lelys"]
+[Black "Dias, Ivo"]
+[Result "1/2-1/2"]
+[ECO "A05"]
+[WhiteElo "2450"]
+[BlackElo "2122"]
+[WhiteFideId "3504727"]
+[BlackFideId "1901680"]
+[WhiteTeam "GD Dias Ferreira"]
+[BlackTeam "CX A2D"]
+[WhiteTitle "GM"]
+[BlackTitle "CM"]
+[PlyCount "140"]
+[EventDate "2015.??.??"]
+
+1. Nf3 Nf6 2. c4 e6 3. g3 b6 4. Bg2 Bb7 5. O-O Be7 6. Nc3 O-O 7. Re1 c5 8. e4
+d6 9. d4 cxd4 10. Nxd4 Qc7 11. Ndb5 Qc6 12. Bf4 Rd8 13. Rc1 a6 14. Nd4 Qc7 15.
+Be3 Bf8 16. Bg5 Nbd7 17. Nd5 exd5 18. cxd5 Qb8 19. Nc6 Bxc6 20. dxc6 Nc5 21.
+Bxf6 gxf6 22. c7 Qxc7 23. b4 Rac8 24. Bh3 Rb8 25. Bf5 Qe7 26. Qh5 h6 27. bxc5
+dxc5 28. Rc3 Rd2 29. Rf3 Bg7 30. Rf4 Rbd8 31. Rg4 Kf8 32. Re3 Qe5 33. Rf3 c4
+34. Bg6 Qxh5 35. Bxh5 R2d3 36. Rxd3 cxd3 37. Rf4 Rc8 38. Rf5 Ke7 39. Rd5 Rc5
+40. Kf1 f5 41. Rxf5 Bc3 42. Bg4 Bb4 43. Rxc5 Bxc5 44. f4 b5 45. Bc8 a5 46. Ba6
+d2 47. Ke2 Bg1 48. h3 Bh2 49. Kxd2 Bxg3 50. Ke3 b4 51. Bb5 f6 52. Kf3 Be1 53.
+Kg4 Bd2 54. Kf5 Bc3 55. h4 Bd2 56. h5 Bc1 57. Ba4 Bd2 58. Bb3 Bc1 59. e5 fxe5
+60. Kxe5 Bb2+ 61. Kf5 Bc1 62. Bd1 Bd2 63. Ke5 Bc3+ 64. Kf5 Bd2 65. Bc2 Bc1 66.
+Ke5 Bb2+ 67. Kd5 Bc1 68. f5 Kf6 69. Kc5 Bb2 70. Kb5 Bc3 1/2-1/2
+
+[Event "CN Equipas 2015 - 1. div"]
+[Site "Matosinhos POR"]
+[Date "2015.08.19"]
+[Round "5.1.4"]
+[White "Romano, Luís"]
+[Black "Martins, David"]
+[Result "0-1"]
+[ECO "D35"]
+[WhiteElo "2030"]
+[BlackElo "2334"]
+[WhiteFideId "1920235"]
+[BlackFideId "1909991"]
+[WhiteTeam "CX A2D"]
+[BlackTeam "GD Dias Ferreira"]
+[BlackTitle "FM"]
+[PlyCount "72"]
+[EventDate "2015.??.??"]
+
+1. d4 e6 2. c4 Nf6 3. Nc3 d5 4. cxd5 exd5 5. Bg5 Be7 6. e3 c6 7. Bd3 Ne4 8. Bf4
+Bb4 9. Qc2 Qe7 10. a3 Bxc3+ 11. bxc3 O-O 12. Nf3 Nd7 13. O-O Re8 14. a4 Nf8 15.
+c4 dxc4 16. Bxe4 Qxe4 17. Qxe4 Rxe4 18. Ne5 Be6 19. Rab1 f6 20. Nf3 Rxf4 21.
+exf4 b6 22. Rfc1 Rd8 23. Rb2 Bd5 24. Nd2 Ne6 25. Nxc4 Nxf4 26. Ne3 Nd3 27. Rbc2
+Nxc1 28. Rxc1 Bb3 29. a5 bxa5 30. Rxc6 a4 31. Ra6 Rxd4 32. Rxa7 Kf8 33. g4 Ke8
+34. Kf1 Kd8 35. Ke2 Kc8 36. Rxg7 a3 0-1
+
+[Event "CN Equipas 2015 - 1. div"]
+[Site "Matosinhos POR"]
+[Date "2015.08.19"]
+[Round "5.2.1"]
+[White "Getz, Nicolai"]
+[Black "Sousa, Ricardo"]
+[Result "1-0"]
+[ECO "B09"]
+[WhiteElo "2386"]
+[BlackElo "2091"]
+[WhiteFideId "1505572"]
+[BlackFideId "1903713"]
+[WhiteTeam "ADRC Mata de Benfica"]
+[BlackTeam "Santoantoniense FC"]
+[WhiteTitle "IM"]
+[PlyCount "117"]
+[EventDate "2015.??.??"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. f4 Bg7 5. Nf3 O-O 6. Bd3 Na6 7. O-O c5 8. d5
+Bg4 9. Bc4 Nc7 10. a4 b6 11. Qe1 a6 12. Qh4 Bxf3 13. Rxf3 b5 14. axb5 axb5 15.
+Rxa8 Qxa8 16. Nxb5 Nxb5 17. Bxb5 Qa1 18. Rf1 Nxe4 19. c3 Nf6 20. Bc6 Qa2 21.
+Rd1 Qb3 22. Qe1 Ne4 23. Rd3 f5 24. Qd1 Qb6 25. Rf3 e5 26. Qe2 Rb8 27. fxe5 Bxe5
+28. Rf1 c4+ 29. Kh1 Qd8 30. Kg1 Qh4 31. g3 Qh3 32. Qg2 Qg4 33. Ba4 Nf6 34. Re1
+Rb3 35. Bxb3 cxb3 36. Qe2 Qxe2 37. Rxe2 Nxd5 38. Kf2 Kf7 39. Kf3 Ke6 40. Be3
+Ne7 41. Re1 Nc6 42. Ra1 Kd5 43. Ke2 Kc4 44. Bd2 d5 45. Ra4+ Kb5 46. Rh4 h5 47.
+Kd3 Na5 48. Rb4+ Kc5 49. Be3+ d4 50. Bxd4+ Bxd4 51. Rxd4 Nc6 52. Ra4 Ne5+ 53.
+Ke2 Nc4 54. Rb4 Nxb2 55. Rxb3 Na4 56. Kd3 Kc6 57. Kd4 Nc5 58. Rb2 Ne6+ 59. Ke5
+1-0
+
+[Event "CN Equipas 2015 - 1. div"]
+[Site "Matosinhos POR"]
+[Date "2015.08.19"]
+[Round "5.2.2"]
+[White "Figueiredo, Hélder"]
+[Black "Andrade, José"]
+[Result "1/2-1/2"]
+[ECO "C14"]
+[WhiteElo "2027"]
+[BlackElo "2199"]
+[WhiteFideId "1903489"]
+[BlackFideId "1900986"]
+[WhiteTeam "Santoantoniense FC"]
+[BlackTeam "ADRC Mata de Benfica"]
+[BlackTitle "FM"]
+[PlyCount "41"]
+[EventDate "2015.??.??"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 Be7 5. e5 Nfd7 6. Bxe7 Qxe7 7. f4 a6 8. Qd2
+c5 9. Nf3 Nc6 10. dxc5 Nxc5 11. O-O-O Bd7 12. Qe3 g6 13. g4 O-O-O 14. f5 d4 15.
+Nxd4 exf5 16. Nd5 Qxe5 17. Nb6+ Kc7 18. Nd5+ Kc8 19. Nb6+ Kc7 20. Nd5+ Kc8 21.
+Nb6+ 1/2-1/2
+
+[Event "CN Equipas 2015 - 1. div"]
+[Site "Matosinhos POR"]
+[Date "2015.08.19"]
+[Round "5.2.3"]
+[White "Guerra, Vítor"]
+[Black "Parreira, André"]
+[Result "1-0"]
+[ECO "E10"]
+[WhiteElo "2119"]
+[BlackElo "1868"]
+[WhiteFideId "1901095"]
+[BlackFideId "1911368"]
+[WhiteTeam "ADRC Mata de Benfica"]
+[BlackTeam "Santoantoniense FC"]
+[WhiteTitle "NM"]
+[PlyCount "111"]
+[EventDate "2015.??.??"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. g3 Nbd7 5. Bg2 c6 6. O-O Bd6 7. Nc3 O-O 8. b3
+dxc4 9. bxc4 e5 10. e3 exd4 11. exd4 Bb4 12. Qb3 Bxc3 13. Qxc3 Nb6 14. a4 Be6
+15. Nd2 Qd7 16. a5 Nc8 17. Nb3 Nd6 18. Nc5 Qc8 19. Re1 Bh3 20. Bh1 Rd8 21. Bg5
+Qf5 22. Re5 Qg6 23. Bf4 Nh5 24. Be3 f5 25. Ne6 Rd7 26. Ng5 f4 27. Nxh3 fxe3 28.
+Rxe3 Qg4 29. Bg2 Nf5 30. Re4 Nxd4 31. Rae1 Qf5 32. Rxd4 Rxd4 33. Qxd4 Nf6 34.
+Nf4 Qxa5 35. Ra1 Qb4 36. Rxa7 Re8 37. Ra1 c5 38. Bd5+ Kh8 39. Qd1 g5 40. Ng2
+Qc3 41. Rb1 Rd8 42. Ne3 Ne4 43. Qc1 Qd4 44. Qb2 Nc3 45. Rc1 Nxd5 46. Qxd4+ cxd4
+47. Nxd5 b5 48. Nb4 bxc4 49. Rxc4 Kg7 50. Nd3 Kf6 51. Kf1 Kf5 52. Rc5+ Kg4 53.
+Kg2 Rd6 54. h3+ Kh5 55. h4 h6 56. Nf4+ 1-0
+
+[Event "CN Equipas 2015 - 1. div"]
+[Site "Matosinhos POR"]
+[Date "2015.08.19"]
+[Round "5.2.4"]
+[White "Correia, Jorge"]
+[Black "Guerreiro, Nuno"]
+[Result "1-0"]
+[ECO "E16"]
+[WhiteElo "1770"]
+[BlackElo "2106"]
+[WhiteFideId "1915932"]
+[BlackFideId "1903012"]
+[WhiteTeam "Santoantoniense FC"]
+[BlackTeam "ADRC Mata de Benfica"]
+[PlyCount "85"]
+[EventDate "2015.??.??"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 Bb4+ 4. Bd2 Qe7 5. Nc3 O-O 6. Qc2 d6 7. a3 Bxc3 8.
+Bxc3 Nbd7 9. e3 e5 10. dxe5 Nxe5 11. Be2 Re8 12. Nxe5 dxe5 13. e4 Nd7 14. b4
+Nf8 15. h4 f6 16. c5 Be6 17. O-O Qf7 18. f4 exf4 19. e5 fxe5 20. Bxe5 Bd5 21.
+Bxf4 Qe7 22. Bc4 Bxc4 23. Qxc4+ Kh8 24. Bg5 Qd7 25. Rf7 Qc6 26. Qc3 Ne6 27. Re1
+Rg8 28. Bh6 Qe8 29. Rxg7 Nxg7 30. Rxe8 Raxe8 31. h5 Re6 32. Bxg7+ Rxg7 33. Qf3
+h6 34. Qxb7 Re2 35. Qc8+ Rg8 36. Qh3 c6 37. Qc3+ Rg7 38. Qf3 Re6 39. Qf8+ Rg8
+40. Qf7 Re2 41. Qf6+ Kh7 42. Qxc6 Rg7 43. Qd5 1-0
+
+[Event "CN Equipas 2015 - 1. div"]
+[Site "Matosinhos POR"]
+[Date "2015.08.19"]
+[Round "5.3.1"]
+[White "Stopa, Jacek"]
+[Black "Jakubowski, Krzystof"]
+[Result "1/2-1/2"]
+[ECO "E04"]
+[WhiteElo "2544"]
+[BlackElo "2571"]
+[WhiteFideId "1119591"]
+[BlackFideId "1112848"]
+[WhiteTeam "GX Porto"]
+[BlackTeam "AA Coimbra"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[PlyCount "91"]
+[EventDate "2015.??.??"]
+
+1. d4 Nf6 2. c4 e6 3. g3 d5 4. Nf3 dxc4 5. Bg2 Bd7 6. Ne5 Bc6 7. Nxc6 Nxc6 8.
+Bxc6+ bxc6 9. Qa4 Qd5 10. O-O Qb5 11. Qc2 Bb4 12. a3 Ba5 13. Bd2 Rb8 14. Bxa5
+Qxa5 15. Nd2 c3 16. b4 Qb5 17. Qxc3 Nd5 18. Qc4 a5 19. bxa5 Qxc4 20. Nxc4 Nc3
+21. Rfe1 f6 22. Kf1 Kd7 23. Rec1 Ne4 24. Rc2 Ra8 25. Rac1 Ra6 26. Nb2 Rxa5 27.
+f3 Nd6 28. Rxc6 Ra7 29. R6c2 Rb8 30. a4 Kd8 31. Nd3 Nf5 32. Rd2 Rb6 33. Nc5 Ke7
+34. e4 Nd6 35. Kf2 Nb7 36. Nd3 c6 37. Rb2 Rxb2+ 38. Nxb2 Ra6 39. Rc3 Rb6 40.
+Nd3 Kd6 41. Nc5 Rb2+ 42. Ke3 Nxc5 43. dxc5+ Kc7 44. h4 Ra2 45. Rc4 e5 46. h5
+1/2-1/2
+
+[Event "CN Equipas 2015 - 1. div"]
+[Site "Matosinhos POR"]
+[Date "2015.08.19"]
+[Round "5.3.2"]
+[White "Hammes, Michael"]
+[Black "Sousa, André V"]
+[Result "1/2-1/2"]
+[ECO "E97"]
+[WhiteElo "2345"]
+[BlackElo "2266"]
+[WhiteFideId "4619358"]
+[BlackFideId "1917617"]
+[WhiteTeam "AA Coimbra"]
+[BlackTeam "GX Porto"]
+[WhiteTitle "IM"]
+[PlyCount "85"]
+[EventDate "2015.??.??"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Be2 O-O 6. Nf3 e5 7. O-O Nc6 8. d5
+Ne7 9. Nd2 a5 10. a3 Nd7 11. Rb1 f5 12. Qc2 Nf6 13. b4 Kh8 14. f3 axb4 15. axb4
+c6 16. Kh1 Nh5 17. Nb3 fxe4 18. fxe4 Rxf1+ 19. Bxf1 Qf8 20. Be3 Bh6 21. Qf2
+Qxf2 22. Bxf2 cxd5 23. cxd5 Nf6 24. Bd3 Bd7 25. Na5 Rb8 26. h3 Bd2 27. Ne2 b6
+28. Nc4 Bb5 29. Bh4 g5 30. Nxd2 Bxd3 31. Bxg5 Nxe4 32. Nxe4 Bxe4 33. Bxe7 Bxb1
+34. Bxd6 Rc8 35. Bxe5+ Kg8 36. Nc3 Bc2 37. Kg1 Kf7 38. Kf2 Rc4 39. b5 Bd3 40.
+Ke3 Bf1 41. Kf2 Bd3 42. Ke3 Bf1 43. Kf2 1/2-1/2
+
+[Event "CN Equipas 2015 - 1. div"]
+[Site "Matosinhos POR"]
+[Date "2015.08.19"]
+[Round "5.3.3"]
+[White "Silva, António"]
+[Black "Gasik, Anna"]
+[Result "0-1"]
+[ECO "A89"]
+[WhiteElo "2150"]
+[BlackElo "2198"]
+[WhiteFideId "1900293"]
+[BlackFideId "1121952"]
+[WhiteTeam "GX Porto"]
+[BlackTeam "AA Coimbra"]
+[WhiteTitle "NM"]
+[BlackTitle "WIM"]
+[PlyCount "56"]
+[EventDate "2015.??.??"]
+
+1. Nf3 f5 2. c4 Nf6 3. g3 g6 4. Bg2 Bg7 5. O-O O-O 6. Nc3 d6 7. d4 Nc6 8. d5
+Ne5 9. Nxe5 dxe5 10. e4 e6 11. Qe2 f4 12. gxf4 Nh5 13. f5 exf5 14. exf5 Bxf5
+15. Ne4 Nf4 16. Bxf4 exf4 17. Rad1 Qh4 18. f3 Rae8 19. Qf2 Qh5 20. Rfe1 Bxe4
+21. fxe4 f3 22. Bf1 Bf6 23. Re3 Bg5 24. Rdd3 Bxe3 25. Rxe3 Qg4+ 26. Kh1 Rxe4
+27. Bh3 Qf4 28. Be6+ Kg7 0-1
+
+[Event "CN Equipas 2015 - 1. div"]
+[Site "Matosinhos POR"]
+[Date "2015.08.19"]
+[Round "5.3.4"]
+[White "Vicente, João"]
+[Black "Ferreira, Paulo"]
+[Result "1-0"]
+[ECO "A53"]
+[WhiteElo "2102"]
+[BlackElo "2040"]
+[WhiteFideId "1912054"]
+[BlackFideId "1900820"]
+[WhiteTeam "AA Coimbra"]
+[BlackTeam "GX Porto"]
+[BlackTitle "NM"]
+[PlyCount "87"]
+[EventDate "2015.??.??"]
+
+1. d4 Nf6 2. c4 d6 3. Nc3 Nbd7 4. e4 e5 5. Nf3 Be7 6. Be2 O-O 7. O-O c6 8. Qc2
+Qc7 9. Re1 Ne8 10. b4 a5 11. b5 exd4 12. Nxd4 Bf6 13. Be3 g6 14. Rad1 Bg7 15.
+f4 Ndf6 16. h3 Bd7 17. Bf3 c5 18. Nb3 Be6 19. Na4 Rd8 20. Rd2 b6 21. Red1 Bc8
+22. e5 Bf5 23. Qc1 Ne4 24. Rd5 Ng3 25. Kh2 Be4 26. Kxg3 Bxd5 27. exd6 Nxd6 28.
+Rxd5 Rfe8 29. Kh2 Nf5 30. Bf2 Rxd5 31. cxd5 g5 32. g3 Qd6 33. Qc2 Ne3 34. Bxe3
+Rxe3 35. Nd2 Qe7 36. Qc4 Re1 37. Ne4 gxf4 38. d6 fxg3+ 39. Kg2 Qe5 40. d7 Bf6
+41. Nxf6+ Qxf6 42. Qc3 Re2+ 43. Kg1 Qxc3 44. d8=Q+ 1-0
+
+[Event "CN Equipas 2015 - 1. div"]
+[Site "Matosinhos POR"]
+[Date "2015.08.19"]
+[Round "5.4.1"]
+[White "Iturrizaga, Eduardo"]
+[Black "Dâmaso, Rui"]
+[Result "1-0"]
+[ECO "A05"]
+[WhiteElo "2625"]
+[BlackElo "2456"]
+[WhiteFideId "3901211"]
+[BlackFideId "1900030"]
+[WhiteTeam "AX Gaia"]
+[BlackTeam "FC Barreirense"]
+[WhiteTitle "GM"]
+[BlackTitle "IM"]
+[PlyCount "61"]
+[EventDate "2015.??.??"]
+
+1. Nf3 Nf6 2. c4 g6 3. Nc3 Bg7 4. g3 O-O 5. Bg2 c6 6. d4 d6 7. e4 Bg4 8. Be3 a6
+9. a4 a5 10. h3 Bxf3 11. Bxf3 Na6 12. h4 h5 13. Qe2 e5 14. d5 Qe7 15. O-O-O
+Rfc8 16. Kb1 cxd5 17. cxd5 Nc5 18. g4 Nb3 19. gxh5 Nd4 20. Bxd4 exd4 21. Nb5
+Re8 22. hxg6 fxg6 23. Rhg1 Nxe4 24. Bxe4 Qxe4+ 25. Qxe4 Rxe4 26. Rxg6 Kh7 27.
+Nxd6 Kxg6 28. Rg1+ Kh6 29. Nxe4 Rf8 30. d6 Bf6 31. Kc2 1-0
+
+[Event "CN Equipas 2015 - 1. div"]
+[Site "Matosinhos POR"]
+[Date "2015.08.19"]
+[Round "5.4.2"]
+[White "Rocha, Sérgio"]
+[Black "Ftacnik, Lubomir"]
+[Result "1/2-1/2"]
+[ECO "B91"]
+[WhiteElo "2384"]
+[BlackElo "2555"]
+[WhiteFideId "1900404"]
+[BlackFideId "14900017"]
+[WhiteTeam "FC Barreirense"]
+[BlackTeam "AX Gaia"]
+[WhiteTitle "IM"]
+[BlackTitle "GM"]
+[PlyCount "124"]
+[EventDate "2015.??.??"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. g3 e5 7. Nb3 Be7 8. Bg2
+b5 9. a4 b4 10. Nd5 Nxd5 11. Qxd5 Ra7 12. Be3 Be6 13. Qd3 Rb7 14. O-O O-O 15.
+Rfc1 a5 16. h4 h6 17. Qd1 Nd7 18. c3 bxc3 19. Rxc3 Qa8 20. Nd2 Rxb2 21. Nc4
+Bxc4 22. Rxc4 Nc5 23. Qg4 Qc8 24. Qxc8 Rxc8 25. Bf1 Rcb8 26. Rd1 Rb1 27. Rd5
+R8b4 28. Kg2 Rxc4 29. Bxc4 Rb4 30. Bxc5 Rxc4 31. Bxd6 Bxd6 32. Rxd6 Rxe4 33.
+Rd8+ Kh7 34. Rd5 Rxa4 35. Rxe5 g6 36. h5 Kg7 37. Rb5 g5 38. Rb6 g4 39. Ra6 Ra2
+40. Kg1 a4 41. Kg2 Ra1 42. Kh2 a3 43. Kg2 a2 44. Kh2 Kf8 45. Kg2 Ke7 46. Kh2
+Kd7 47. Kg2 Kc7 48. Ra8 Kb7 49. Ra3 Kb6 50. Ra8 f6 51. Ra3 Kb5 52. Ra8 f5 53.
+Rb8+ Kc4 54. Rc8+ Kd4 55. Ra8 f4 56. gxf4 Ke4 57. Ra4+ Kf5 58. Kh2 Rc1 59. Rxa2
+Kxf4 60. Ra5 Rc2 61. Kg2 Re2 62. Ra4+ Re4 1/2-1/2
+
+[Event "CN Equipas 2015 - 1. div"]
+[Site "Matosinhos POR"]
+[Date "2015.08.19"]
+[Round "5.4.3"]
+[White "Strikovic, Aleksa"]
+[Black "Ulyanovskyy, Viktor"]
+[Result "1/2-1/2"]
+[ECO "A30"]
+[WhiteElo "2509"]
+[BlackElo "2233"]
+[WhiteFideId "900150"]
+[BlackFideId "14113350"]
+[WhiteTeam "AX Gaia"]
+[BlackTeam "FC Barreirense"]
+[WhiteTitle "GM"]
+[BlackTitle "FM"]
+[PlyCount "86"]
+[EventDate "2015.??.??"]
+
+1. c4 c5 2. Nf3 g6 3. d4 cxd4 4. Nxd4 Bg7 5. e4 Nf6 6. Nc3 d6 7. Be2 Nc6 8. Be3
+O-O 9. O-O Bd7 10. Qd2 Qa5 11. Nb3 Qd8 12. Rfd1 Be6 13. f3 Rc8 14. Nd5 Nd7 15.
+Rac1 b6 16. Bf1 Nc5 17. Nd4 Bxd5 18. cxd5 Nxd4 19. Bxd4 Bxd4+ 20. Qxd4 a5 21.
+Bb5 e5 22. Qe3 f5 23. exf5 Rxf5 24. Rc4 Ra8 25. b3 Qg5 26. Qxg5 Rxg5 27. Rc3
+Rf8 28. a3 Rf4 29. Rb1 e4 30. Rf1 exf3 31. Rcxf3 Rxf3 32. Rxf3 Kg7 33. Bc4 Rg4
+34. Re3 Re4 35. Kf2 Kf6 36. Rc3 Ke5 37. Rc2 g5 38. g3 h6 39. Kf3 g4+ 40. Kf2
+Kd4 41. Bf1 Ke5 42. Bc4 Kd4 43. Bf1 Ke5 1/2-1/2
+
+[Event "CN Equipas 2015 - 1. div"]
+[Site "Matosinhos POR"]
+[Date "2015.08.19"]
+[Round "5.4.4"]
+[White "Ulyanovskyy, Vladimir"]
+[Black "Hoffman, Alejandro"]
+[Result "1/2-1/2"]
+[ECO "C41"]
+[WhiteElo "2112"]
+[BlackElo "2433"]
+[WhiteFideId "14120771"]
+[BlackFideId "100340"]
+[WhiteTeam "FC Barreirense"]
+[BlackTeam "AX Gaia"]
+[BlackTitle "GM"]
+[PlyCount "45"]
+[EventDate "2015.??.??"]
+
+1. e4 e5 2. Nf3 d6 3. d4 exd4 4. Nxd4 Nf6 5. Nc3 Be7 6. Bd3 O-O 7. O-O c6 8.
+Bf4 Re8 9. h3 a5 10. a4 Bf8 11. Qd2 Nbd7 12. Rfe1 Ne5 13. Rad1 Qb6 14. Be3 Qc7
+15. Bg5 Nfd7 16. Bf1 Nc5 17. Be3 b6 18. f4 Ned7 19. Nf5 Re6 20. Nd4 Re8 21. Nf5
+Re6 22. Nd4 Re8 23. Nf5 1/2-1/2
+
+[Event "CN Equipas 2015 - 1. div"]
+[Site "Matosinhos POR"]
+[Date "2015.08.19"]
+[Round "5.5.1"]
+[White "Aguiar, Henrique"]
+[Black "Neves, Pedro"]
+[Result "0-1"]
+[ECO "C70"]
+[WhiteElo "2188"]
+[BlackElo "2215"]
+[WhiteFideId "1908545"]
+[BlackFideId "1905554"]
+[WhiteTeam "AEJ S. João da Madeira"]
+[BlackTeam "CX Montemor-o-Velho"]
+[BlackTitle "NM"]
+[PlyCount "104"]
+[EventDate "2015.??.??"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nge7 5. O-O g6 6. c3 b5 7. Bc2 Bg7 8. a4
+Rb8 9. axb5 axb5 10. Re1 O-O 11. d3 d6 12. Nbd2 h6 13. Nb3 f5 14. Nfd2 f4 15.
+f3 g5 16. Kh1 Ng6 17. Na5 Nxa5 18. Rxa5 Nh4 19. b4 g4 20. Qe2 Qg5 21. Ra7 c6
+22. Bd1 g3 23. Nf1 Bh3 24. gxh3 g2+ 25. Kg1 gxf1=Q+ 26. Kxf1 Rf6 27. Qf2 Kh8
+28. Ke2 Rg6 29. Kd2 Qg2 30. Rf1 Qxh3 31. Rg1 Rxg1 32. Qxg1 Rg8 33. Kc2 Bf8 34.
+Qb6 Nxf3 35. Bxf3 Qxf3 36. Bd2 Qh5 37. Qc7 Rg7 38. Qb6 Rxa7 39. Qxa7 f3 40. Kb3
+Kg8 41. Qg1+ Bg7 42. Kc2 Qf7 43. Qf2 d5 44. exd5 cxd5 45. Kc1 Qf5 46. Kc2 e4
+47. dxe4 Qxe4+ 48. Kc1 Qd3 49. Qc5 Kh7 50. Qa7 Qf1+ 51. Kc2 f2 52. Qf7 Qg2 0-1
+
+[Event "CN Equipas 2015 - 1. div"]
+[Site "Matosinhos POR"]
+[Date "2015.08.19"]
+[Round "5.5.2"]
+[White "Figuero Toro, Julian"]
+[Black "Pires, Gustavo"]
+[Result "1-0"]
+[ECO "A00"]
+[WhiteElo "2204"]
+[BlackElo "2098"]
+[WhiteFideId "2210347"]
+[BlackFideId "1903250"]
+[WhiteTeam "CX Montemor-o-Velho"]
+[BlackTeam "AEJ S. João da Madeira"]
+[PlyCount "164"]
+[EventDate "2015.??.??"]
+
+1. g3 e5 2. Bg2 Nf6 3. c4 d5 4. cxd5 Nxd5 5. Nc3 Nb6 6. Nf3 Nc6 7. O-O Be7 8.
+d3 O-O 9. b3 Re8 10. Bb2 Bf8 11. Rc1 Nd4 12. Nd2 c6 13. e3 Ne6 14. Nf3 f6 15.
+Qc2 Nc7 16. d4 exd4 17. Nxd4 Bg4 18. h3 Bh5 19. g4 Bf7 20. Rfd1 Qe7 21. Nf5 Qe6
+22. Ne4 Ncd5 23. Nc5 Qc8 24. Nd3 Qc7 25. a3 a5 26. Nc5 g6 27. Nd4 Bg7 28. Ne4
+Qe7 29. Qc5 Qxc5 30. Nxc5 Re7 31. Ne2 Bh6 32. Bd4 Rae8 33. Ng3 Bg7 34. Nge4 Rb8
+35. Nd6 Be8 36. Nce4 Nd7 37. Nc5 N7b6 38. Bf1 Bf7 39. Be2 Kf8 40. Bf3 Bg8 41.
+h4 Na8 42. Nd3 Nac7 43. Ba7 Ra8 44. Bc5 b6 45. Bd4 c5 46. Ba1 Rb8 47. e4 Re6
+48. Nc4 Ne7 49. Nf4 Rc6 50. e5 fxe5 51. Nxe5 Bxe5 52. Bxe5 Rc8 53. Bxc6 Nxc6
+54. Bd6+ Kg7 55. b4 axb4 56. axb4 Nxb4 57. Be5+ Kf8 58. Bd6+ Kg7 59. Bxc5 bxc5
+60. Rxc5 Nba6 61. Rc6 Rf8 62. Rd7+ Rf7 63. Rd4 Re7 64. Kg2 Nb5 65. Rd8 Nac7 66.
+Rc5 Bf7 67. Kg3 Be8 68. Rb8 Nd6 69. Rxc7 Ne4+ 70. Kh2 Rxc7 71. Ne6+ Kf6 72.
+Nxc7 Bd7 73. f3 Nc5 74. Kg3 h6 75. Rb6+ Kf7 76. Nd5 Be8 77. Nf4 Kg7 78. Rb8 Bd7
+79. Ra8 Kf7 80. Ra5 Nb7 81. Ra7 Nc5 82. Rc7 Ke8 1-0
+
+[Event "CN Equipas 2015 - 1. div"]
+[Site "Matosinhos POR"]
+[Date "2015.08.19"]
+[Round "5.5.3"]
+[White "Silva, Stéphane"]
+[Black "Cruz, Jorge"]
+[Result "1/2-1/2"]
+[ECO "B24"]
+[WhiteElo "2126"]
+[BlackElo "2024"]
+[WhiteFideId "1900846"]
+[BlackFideId "1903977"]
+[WhiteTeam "AEJ S. João da Madeira"]
+[BlackTeam "CX Montemor-o-Velho"]
+[WhiteTitle "NM"]
+[PlyCount "49"]
+[EventDate "2015.??.??"]
+
+1. e4 c5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. d3 e6 6. Be3 d6 7. Qd2 Nge7 8. Bh6
+O-O 9. Bxg7 Kxg7 10. Nge2 e5 11. O-O Be6 12. f4 f6 13. Nd5 Nd4 14. Nxe7 Nxe2+
+15. Qxe2 Qxe7 16. c3 Rac8 17. Qe3 Rc7 18. Rfd1 Rfc8 19. b3 b5 20. c4 Qd7 21.
+Rdb1 Rb7 22. Qf2 Qc7 23. Rf1 Qe7 24. Qd2 Qd8 25. Qd1 1/2-1/2
+
+[Event "CN Equipas 2015 - 1. div"]
+[Site "Matosinhos POR"]
+[Date "2015.08.19"]
+[Round "5.5.4"]
+[White "Cavaleiro, Daniel"]
+[Black "Sá, Cláudio"]
+[Result "1/2-1/2"]
+[ECO "D15"]
+[WhiteElo "1900"]
+[BlackElo "1714"]
+[WhiteFideId "1904663"]
+[BlackFideId "1902903"]
+[WhiteTeam "CX Montemor-o-Velho"]
+[BlackTeam "AEJ S. João da Madeira"]
+[PlyCount "27"]
+[EventDate "2015.??.??"]
+
+1. d4 d5 2. c4 c6 3. Nc3 Nf6 4. Nf3 a6 5. c5 Nbd7 6. Bf4 Nh5 7. Bd2 e5 8. dxe5
+Nxc5 9. e3 g6 10. Nd4 Ng7 11. b4 Nd7 12. Na4 Nxe5 13. Bc3 Bd6 14. Qb3 1/2-1/2
+
+[Event "CN Equipas 2015 - 1. div"]
+[Site "Matosinhos POR"]
+[Date "2015.08.20"]
+[Round "6.1.1"]
+[White "Silva, Luís M"]
+[Black "Neves, Pedro"]
+[Result "1-0"]
+[ECO "A50"]
+[WhiteElo "2334"]
+[BlackElo "2215"]
+[WhiteFideId "1919121"]
+[BlackFideId "1905554"]
+[WhiteTeam "CX A2D"]
+[BlackTeam "CX Montemor-o-Velho"]
+[WhiteTitle "FM"]
+[BlackTitle "NM"]
+[PlyCount "119"]
+[EventDate "2015.??.??"]
+
+1. d4 Nf6 2. c4 b6 3. f3 e6 4. e4 d5 5. cxd5 exd5 6. e5 Nh5 7. Be3 f5 8. f4 g6
+9. Nc3 Ng7 10. g3 c6 11. Nf3 Ne6 12. Bg2 Be7 13. O-O a5 14. Qd2 Nd7 15. Rac1
+Bb7 16. Rfd1 b5 17. Rc2 Nb6 18. b3 a4 19. Ne2 axb3 20. axb3 Ra3 21. Nc1 Qa8 22.
+h4 h5 23. Qe1 Ra1 24. Bd2 Kd7 25. Bb4 Bxb4 26. Qxb4 Qf8 27. Qc3 Qa3 28. Kf2 Rc8
+29. Ng5 Ke7 30. Nxe6 Kxe6 31. Rdd2 Nd7 32. Nd3 Rb1 33. Ra2 Qxb3 34. Nc5+ Nxc5
+35. Qxc5 Qb4 36. Qb6 Ra8 37. Qxb7 Rxa2 38. Qxc6+ Ke7 39. Qd6+ Qxd6 40. exd6+
+Kxd6 41. Rxa2 b4 42. Ra6+ Kc7 43. Bxd5 b3 44. Ra3 b2 45. Rb3 Kd6 46. Bf3 Kd7
+47. Kg2 Kd6 48. Rb5 Kd7 49. Bd5 Ke7 50. Ba2 Rd1 51. Rxb2 Rxd4 52. Kf2 Rd3 53.
+Rb7+ Kf8 54. Bf7 Rd6 55. Ke3 Kg7 56. Bd5+ Kh8 57. Kd4 Ra6 58. Ke5 Ra3 59. Kf6
+Rxg3 60. Bf7 1-0
+
+[Event "CN Equipas 2015 - 1. div"]
+[Site "Matosinhos POR"]
+[Date "2015.08.20"]
+[Round "6.1.2"]
+[White "Figuero Toro, Julian"]
+[Black "Gomes, Bruno"]
+[Result "1-0"]
+[ECO "A67"]
+[WhiteElo "2204"]
+[BlackElo "2262"]
+[WhiteFideId "2210347"]
+[BlackFideId "1908154"]
+[WhiteTeam "CX Montemor-o-Velho"]
+[BlackTeam "CX A2D"]
+[BlackTitle "CM"]
+[PlyCount "59"]
+[EventDate "2015.??.??"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 c5 4. d5 exd5 5. cxd5 d6 6. e4 g6 7. f4 Bg7 8. Bb5+
+Nfd7 9. Nf3 a6 10. Bd3 O-O 11. O-O b5 12. Kh1 c4 13. Bc2 Re8 14. e5 dxe5 15. f5
+Nf6 16. fxg6 hxg6 17. Bg5 Qd6 18. Qe1 Nbd7 19. Qh4 Ra7 20. Bxf6 Nxf6 21. Ng5
+Ree7 22. Rad1 e4 23. Ncxe4 Nxe4 24. Qh7+ Kf8 25. Nxe4 Rxe4 26. Bxe4 Bxb2 27.
+Bxg6 Bf6 28. Qh6+ Bg7 29. Qh5 Kg8 30. Bxf7+ 1-0
+
+[Event "CN Equipas 2015 - 1. div"]
+[Site "Matosinhos POR"]
+[Date "2015.08.20"]
+[Round "6.1.3"]
+[White "Dias, Ivo"]
+[Black "Cruz, Jorge"]
+[Result "1-0"]
+[ECO "B36"]
+[WhiteElo "2122"]
+[BlackElo "2024"]
+[WhiteFideId "1901680"]
+[BlackFideId "1903977"]
+[WhiteTeam "CX A2D"]
+[BlackTeam "CX Montemor-o-Velho"]
+[WhiteTitle "CM"]
+[PlyCount "113"]
+[EventDate "2015.??.??"]
+
+1. e4 c5 2. Nf3 g6 3. d4 cxd4 4. Nxd4 Nc6 5. c4 Nf6 6. Nc3 d6 7. Be2 Nxd4 8.
+Qxd4 Bg7 9. Be3 O-O 10. Qd2 Be6 11. Rc1 Qa5 12. b3 Rfc8 13. f3 a6 14. Na4 Qxd2+
+15. Kxd2 Nd7 16. g4 Rf8 17. Rhg1 Kh8 18. f4 f5 19. exf5 gxf5 20. Bf3 Rab8 21.
+g5 Bf7 22. Nb6 Rfd8 23. h4 e5 24. Bd5 exf4 25. Bxf4 Bxd5 26. Nxd5 Ne5 27. h5
+Nf3+ 28. Kd3 Nxg1 29. Rxg1 Be5 30. g6 Bxf4 31. Nxf4 hxg6 32. hxg6 Kg7 33. Kd4
+Re8 34. Kd5 b5 35. Nh5+ Kh6 36. Nf6 bxc4 37. bxc4 f4 38. Nxe8 Rxe8 39. Kxd6 f3
+40. g7 Kh7 41. Kd7 Rg8 42. Rf1 Rxg7+ 43. Kd6 Rg6+ 44. Ke5 Rc6 45. Kd5 Rf6 46.
+c5 Kg6 47. c6 Rf5+ 48. Kd6 Rf6+ 49. Kd7 Rf7+ 50. Kd6 Rf6+ 51. Kc5 Kg5 52. c7
+Rf8 53. Kb6 Kf4 54. Kxa6 Ra8+ 55. Kb7 Rxa2 56. c8=Q Rb2+ 57. Ka6 1-0
+
+[Event "CN Equipas 2015 - 1. div"]
+[Site "Matosinhos POR"]
+[Date "2015.08.20"]
+[Round "6.1.4"]
+[White "Cavaleiro, Daniel"]
+[Black "Macedo, Adriano"]
+[Result "0-1"]
+[ECO "E38"]
+[WhiteElo "1900"]
+[BlackElo "1820"]
+[WhiteFideId "1904663"]
+[BlackFideId "1932187"]
+[WhiteTeam "CX Montemor-o-Velho"]
+[BlackTeam "CX A2D"]
+[PlyCount "70"]
+[EventDate "2015.??.??"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 c5 5. a3 Bxc3+ 6. bxc3 Nc6 7. Nf3 Qa5 8.
+Bd2 d6 9. e4 Qc7 10. Be2 e5 11. d5 Na5 12. O-O b6 13. Bd3 Ba6 14. Rfe1 h6 15.
+Rab1 O-O-O 16. Qa2 g5 17. h3 Rdg8 18. Nh2 h5 19. g3 Qd7 20. Kg2 Kc7 21. a4 Bc8
+22. Bf1 Qxh3+ 23. Kg1 Qd7 24. f3 g4 25. f4 h4 26. fxe5 dxe5 27. Bg2 hxg3 28.
+Nf1 Nh5 29. Re3 f6 30. Nxg3 Nf4 31. Nf5 Nxg2 32. Kxg2 Qh7 33. Kf1 Bxf5 34. exf5
+Qxf5+ 35. Ke2 Rh2+ 0-1
+
+[Event "CN Equipas 2015 - 1. div"]
+[Site "Matosinhos POR"]
+[Date "2015.08.20"]
+[Round "6.2.1"]
+[White "Dâmaso, Rui"]
+[Black "Aguiar, Henrique"]
+[Result "1/2-1/2"]
+[ECO "A45"]
+[WhiteElo "2456"]
+[BlackElo "2188"]
+[WhiteFideId "1900030"]
+[BlackFideId "1908545"]
+[WhiteTeam "FC Barreirense"]
+[BlackTeam "AEJ S. João da Madeira"]
+[WhiteTitle "IM"]
+[PlyCount "38"]
+[EventDate "2015.??.??"]
+
+1. d4 Nf6 2. Bg5 c5 3. d5 Ne4 4. Bf4 Qb6 5. Bc1 d6 6. f3 Nf6 7. e4 g6 8. Na3
+Qc7 9. Ne2 Bg7 10. c4 O-O 11. Nc3 Nbd7 12. Be2 a6 13. O-O e6 14. Bg5 exd5 15.
+exd5 Re8 16. Qd2 Ne5 17. h3 Ned7 18. Rae1 Nf8 19. Nc2 Bd7 1/2-1/2
+
+[Event "CN Equipas 2015 - 1. div"]
+[Site "Matosinhos POR"]
+[Date "2015.08.20"]
+[Round "6.2.2"]
+[White "Pires, Gustavo"]
+[Black "Rocha, Sérgio"]
+[Result "0-1"]
+[ECO "C41"]
+[WhiteElo "2098"]
+[BlackElo "2384"]
+[WhiteFideId "1903250"]
+[BlackFideId "1900404"]
+[WhiteTeam "AEJ S. João da Madeira"]
+[BlackTeam "FC Barreirense"]
+[BlackTitle "IM"]
+[PlyCount "52"]
+[EventDate "2015.??.??"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 e5 4. Nf3 Nbd7 5. Bc4 Be7 6. O-O O-O 7. Re1 c6 8. a4
+b6 9. b3 a6 10. Bb2 Bb7 11. Bf1 Re8 12. Qd2 Qc7 13. Rad1 Bf8 14. dxe5 dxe5 15.
+h3 b5 16. Qe2 Nc5 17. axb5 axb5 18. Ra1 Rxa1 19. Bxa1 b4 20. Na4 Ncxe4 21. Qc4
+c5 22. Bxe5 Rxe5 23. Nxe5 Qxe5 24. f3 Qg3 25. Rxe4 Bxe4 26. fxe4 Qe3+ 0-1
+
+[Event "CN Equipas 2015 - 1. div"]
+[Site "Matosinhos POR"]
+[Date "2015.08.20"]
+[Round "6.2.3"]
+[White "Ulyanovskyy, Viktor"]
+[Black "Silva, Stéphane"]
+[Result "0-1"]
+[ECO "C00"]
+[WhiteElo "2233"]
+[BlackElo "2126"]
+[WhiteFideId "14113350"]
+[BlackFideId "1900846"]
+[WhiteTeam "FC Barreirense"]
+[BlackTeam "AEJ S. João da Madeira"]
+[WhiteTitle "FM"]
+[BlackTitle "NM"]
+[PlyCount "86"]
+[EventDate "2015.??.??"]
+
+1. e4 e6 2. e5 d5 3. exd6 cxd6 4. d4 Nf6 5. c4 Be7 6. Nc3 d5 7. c5 b6 8. b4 a5
+9. Na4 axb4 10. Nxb6 Ra5 11. Bd2 Nc6 12. a4 O-O 13. Bb5 Nxd4 14. Bxb4 Rxb5 15.
+axb5 Nxb5 16. Nf3 Nc7 17. Nd4 Ba6 18. f3 Nd7 19. Nc6 Qe8 20. Nxd7 Qxd7 21.
+Nxe7+ Qxe7 22. Qd2 Bc4 23. Ra7 Qh4+ 24. g3 Qf6 25. Kf2 Rc8 26. Rha1 h6 27. Bc3
+e5 28. Qb2 d4 29. Bxd4 exd4 30. Rxc7 Rxc7 31. Qb8+ Kh7 32. Qxc7 d3 33. Rg1 Qb2+
+34. Ke3 Qe2+ 35. Kd4 d2 36. c6 Qf2+ 37. Kxc4 Qxg1 38. Qxf7 Qc1+ 39. Kb5 Qb1+
+40. Ka6 d1=Q 41. Qc4 Qd8 42. Qe4+ Qxe4 43. fxe4 Qc7 0-1
+
+[Event "CN Equipas 2015 - 1. div"]
+[Site "Matosinhos POR"]
+[Date "2015.08.20"]
+[Round "6.2.4"]
+[White "Castro, Francisco"]
+[Black "Ulyanovskyy, Vladimir"]
+[Result "1/2-1/2"]
+[ECO "B46"]
+[WhiteElo "2117"]
+[BlackElo "2112"]
+[WhiteFideId "1903080"]
+[BlackFideId "14120771"]
+[WhiteTeam "AEJ S. João da Madeira"]
+[BlackTeam "FC Barreirense"]
+[PlyCount "136"]
+[EventDate "2015.??.??"]
+
+1. e4 c5 2. Nc3 Nc6 3. Nf3 a6 4. d4 cxd4 5. Nxd4 e6 6. Nxc6 bxc6 7. Bd3 Qc7 8.
+O-O d5 9. Qe2 Nf6 10. Bg5 Be7 11. e5 Nd7 12. Bxe7 Kxe7 13. Rae1 g6 14. Nd1 Kf8
+15. f4 Kg7 16. g4 Re8 17. g5 c5 18. c4 Bb7 19. Ne3 d4 20. Ng4 Qc6 21. Be4 Qxe4
+22. Qxe4 Bxe4 23. Rxe4 Reb8 24. Re2 Rb4 25. b3 a5 26. Nf2 a4 27. Nd3 Rb7 28.
+Rb1 axb3 29. Rxb3 Rba7 30. Rbb2 Ra3 31. Red2 Kf8 32. Kf2 Rc3 33. Rbc2 Raa3 34.
+Ke2 Ke7 35. Rxc3 Rxc3 36. Nb2 Ra3 37. Nd3 Kd8 38. Rc2 Kc7 39. Nc1 Rh3 40. Nd3
+Rxh2+ 41. Nf2 h6 42. gxh6 Rxh6 43. Kf3 f5 44. exf6 Nxf6 45. Rb2 Rh8 46. Rb5 Kc6
+47. Ra5 Nd7 48. Kg4 Rf8 49. Nd3 Rf5 50. Ra6+ Nb6 51. Ne5+ Kb7 52. Ra5 g5 53.
+Rxc5 gxf4 54. Rb5 Kc7 55. Nd3 Rxb5 56. cxb5 Kd6 57. Kxf4 Kd5 58. Ne5 Na4 59. a3
+Nb6 60. Nd3 Nd7 61. Nb4+ Kc5 62. Ke4 e5 63. Nc2 d3 64. Kxd3 Kxb5 65. Ke4 Kc4
+66. Ne3+ Kb3 67. Ng4 Kxa3 68. Nxe5 Nxe5 1/2-1/2
+
+[Event "CN Equipas 2015 - 1. div"]
+[Site "Matosinhos POR"]
+[Date "2015.08.20"]
+[Round "6.3.1"]
+[White "Jakubowski, Krzystof"]
+[Black "Iturrizaga, Eduardo"]
+[Result "1/2-1/2"]
+[ECO "B13"]
+[WhiteElo "2571"]
+[BlackElo "2625"]
+[WhiteFideId "1112848"]
+[BlackFideId "3901211"]
+[WhiteTeam "AA Coimbra"]
+[BlackTeam "AX Gaia"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[PlyCount "26"]
+[EventDate "2015.??.??"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c3 Nc6 5. Bf4 Nf6 6. Nf3 Bf5 7. Nbd2 e6 8.
+Nh4 Bg4 9. Be2 Bxe2 10. Qxe2 Ne4 11. Nhf3 Nxd2 12. Qxd2 Bd6 13. O-O O-O 1/2-1/2
+
+[Event "CN Equipas 2015 - 1. div"]
+[Site "Matosinhos POR"]
+[Date "2015.08.20"]
+[Round "6.3.2"]
+[White "Ftacnik, Lubomir"]
+[Black "Hammes, Michael"]
+[Result "1-0"]
+[ECO "A13"]
+[WhiteElo "2555"]
+[BlackElo "2345"]
+[WhiteFideId "14900017"]
+[BlackFideId "4619358"]
+[WhiteTeam "AX Gaia"]
+[BlackTeam "AA Coimbra"]
+[WhiteTitle "GM"]
+[BlackTitle "IM"]
+[PlyCount "87"]
+[EventDate "2015.??.??"]
+
+1. c4 e6 2. Nf3 Nf6 3. g3 d5 4. d4 Bb4+ 5. Bd2 Be7 6. Bg2 O-O 7. O-O c6 8. Qc2
+Nbd7 9. Rd1 b6 10. b3 a5 11. Bc3 Bb7 12. Nbd2 Qc7 13. e4 Rfd8 14. e5 Ne8 15.
+Rac1 Rac8 16. cxd5 cxd5 17. Qb1 Qb8 18. b4 axb4 19. Bxb4 Bxb4 20. Qxb4 Ba6 21.
+h4 Qb7 22. Ng5 Be2 23. Re1 Bd3 24. Qa3 Ba6 25. Bh3 Nf8 26. f4 h6 27. Ngf3 g6
+28. h5 Ng7 29. hxg6 fxg6 30. Kf2 Rxc1 31. Rxc1 Rc8 32. Rxc8 Qxc8 33. g4 Bc4 34.
+Qa7 b5 35. a3 Bd3 36. Qc5 Qa6 37. Nf1 Qa4 38. Ne3 Qb3 39. Qb4 Qa2+ 40. Kg3 Qa1
+41. Bg2 Qa2 42. Qc3 Bc4 43. Nd2 Nd7 44. Nc2 1-0
+
+[Event "CN Equipas 2015 - 1. div"]
+[Site "Matosinhos POR"]
+[Date "2015.08.20"]
+[Round "6.3.3"]
+[White "Diogo, Vasco"]
+[Black "Strikovic, Aleksa"]
+[Result "1-0"]
+[ECO "B41"]
+[WhiteElo "2240"]
+[BlackElo "2509"]
+[WhiteFideId "1902628"]
+[BlackFideId "900150"]
+[WhiteTeam "AA Coimbra"]
+[BlackTeam "AX Gaia"]
+[WhiteTitle "FM"]
+[BlackTitle "GM"]
+[PlyCount "139"]
+[EventDate "2015.??.??"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. c4 Nf6 6. Nc3 d6 7. Be2 b6 8. O-O
+Bb7 9. f3 Be7 10. Be3 O-O 11. Qd2 Nbd7 12. Rfd1 Rc8 13. Rac1 Qc7 14. Bf1 Qb8
+15. Qf2 Kh8 16. b3 Rg8 17. h4 h6 18. g3 Ne5 19. Be2 Ned7 20. Qg2 h5 21. a4 Rge8
+22. Bg5 g6 23. Kh2 Bf8 24. Bf1 Nh7 25. Be3 Nc5 26. b4 Nd7 27. Qb2 Bg7 28. Be2
+Ne5 29. Qb3 Nf6 30. Nc2 Ba8 31. Na3 Nfd7 32. Rd2 f5 33. f4 Ng4+ 34. Bxg4 hxg4
+35. Rcd1 Bf8 36. Qb2 Kg8 37. Qc2 Nf6 38. exf5 exf5 39. Bd4 Ne4 40. Nxe4 Rxe4
+41. Qb3 Qb7 42. Nc2 Rce8 43. c5+ Kh7 44. c6 Qxc6 45. Qf7+ Kh6 46. Ne3 Rxe3 47.
+Bxe3 Rxe3 48. Qxf8+ Kh7 49. Qf7+ Kh6 50. h5 Qe8 51. Qxe8 Rxe8 52. hxg6 Bf3 53.
+Rc1 d5 54. Kg1 Kxg6 55. Rc6+ Kf7 56. Rxb6 Re1+ 57. Kf2 Rc1 58. Rxa6 Rc3 59. b5
+Be4 60. b6 Rf3+ 61. Ke1 Rxg3 62. Rh2 Rb3 63. Rh7+ Kg6 64. Rc7 Bd3 65. Raa7 Rxb6
+66. Rg7+ Kf6 67. Raf7+ Ke6 68. Rg6+ Kxf7 69. Rxb6 Ke7 70. a5 1-0
+
+[Event "CN Equipas 2015 - 1. div"]
+[Site "Matosinhos POR"]
+[Date "2015.08.20"]
+[Round "6.3.4"]
+[White "Hoffman, Alejandro"]
+[Black "Gasik, Anna"]
+[Result "1-0"]
+[ECO "D30"]
+[WhiteElo "2433"]
+[BlackElo "2198"]
+[WhiteFideId "100340"]
+[BlackFideId "1121952"]
+[WhiteTeam "AX Gaia"]
+[BlackTeam "AA Coimbra"]
+[WhiteTitle "GM"]
+[BlackTitle "WIM"]
+[PlyCount "44"]
+[EventDate "2015.??.??"]
+
+1. d4 d5 2. c4 e6 3. Nf3 Nf6 4. e3 Be7 5. Nc3 Nbd7 6. b3 O-O 7. Bd3 b6 8. O-O
+Bb7 9. Bb2 c5 10. Qe2 Rc8 11. Rad1 Qc7 12. Ne5 dxc4 13. bxc4 Rfe8 14. f4 Nf8
+15. d5 a6 16. e4 exd5 17. Nxd5 Nxd5 18. exd5 Bd6 19. Qh5 Rcd8 20. Ng4 Bc8 21.
+f5 Nd7 22. Bxg7 Kxg7 1-0
+
+[Event "CN Equipas 2015 - 1. div"]
+[Site "Matosinhos POR"]
+[Date "2015.08.20"]
+[Round "6.4.1"]
+[White "Fidalgo, André"]
+[Black "Stopa, Jacek"]
+[Result "0-1"]
+[ECO "B07"]
+[WhiteElo "2058"]
+[BlackElo "2544"]
+[WhiteFideId "1933620"]
+[BlackFideId "1119591"]
+[WhiteTeam "Santoantoniense FC"]
+[BlackTeam "GX Porto"]
+[BlackTitle "GM"]
+[PlyCount "46"]
+[EventDate "2015.??.??"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 c6 4. Be2 Qa5 5. Qd3 Na6 6. Bf3 d5 7. Qd2 Nb4 8. Nge2
+dxe4 9. Nxe4 Nxc2+ 10. Kd1 Qxd2+ 11. Bxd2 Nxa1 12. N2c3 Bf5 13. Kc1 O-O-O 14.
+Be3 b5 15. Nxf6 exf6 16. Be4 Bxe4 17. Nxe4 Re8 18. Nd2 Bb4 19. Nf3 Rxe3 20.
+fxe3 Re8 21. Kb1 Nb3 22. axb3 Rxe3 23. Rc1 Kd7 0-1
+
+[Event "CN Equipas 2015 - 1. div"]
+[Site "Matosinhos POR"]
+[Date "2015.08.20"]
+[Round "6.4.2"]
+[White "Sousa, André V"]
+[Black "Sousa, Ricardo"]
+[Result "1-0"]
+[ECO "B07"]
+[WhiteElo "2266"]
+[BlackElo "2091"]
+[WhiteFideId "1917617"]
+[BlackFideId "1903713"]
+[WhiteTeam "GX Porto"]
+[BlackTeam "Santoantoniense FC"]
+[PlyCount "67"]
+[EventDate "2015.??.??"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Be3 Bg7 5. f3 c6 6. Qd2 Nbd7 7. O-O-O Qa5 8.
+Kb1 Rb8 9. g4 b5 10. Bh6 Bxh6 11. Qxh6 Nb6 12. e5 dxe5 13. dxe5 Nfd5 14. Nxd5
+Nxd5 15. Ne2 b4 16. Nd4 Be6 17. Nxe6 fxe6 18. Bc4 Qc5 19. Qg7 Kd7 20. Bb3 Qe3
+21. Rhe1 Qf4 22. g5 Qxg5 23. Re4 Rbg8 24. Qf7 Rf8 25. Qg7 Qh5 26. Bxd5 Qxf3 27.
+Bxc6+ Kxc6 28. Rc4+ Kb5 29. Rxb4+ Kxb4 30. Qxe7+ Kb5 31. a4+ Kxa4 32. Rd4+ Kb5
+33. Rb4+ Kc6 34. Qd6# 1-0
+
+[Event "CN Equipas 2015 - 1. div"]
+[Site "Matosinhos POR"]
+[Date "2015.08.20"]
+[Round "6.4.3"]
+[White "Parreira, André"]
+[Black "Silva, António"]
+[Result "1/2-1/2"]
+[ECO "A06"]
+[WhiteElo "1868"]
+[BlackElo "2150"]
+[WhiteFideId "1911368"]
+[BlackFideId "1900293"]
+[WhiteTeam "Santoantoniense FC"]
+[BlackTeam "GX Porto"]
+[BlackTitle "NM"]
+[PlyCount "67"]
+[EventDate "2015.??.??"]
+
+1. Nf3 d5 2. c4 e6 3. d4 f5 4. cxd5 exd5 5. Bf4 Nf6 6. Nc3 c6 7. a3 Be7 8. e3
+O-O 9. Bd3 Ne4 10. O-O Nd7 11. Ne5 Ndf6 12. f3 Nxc3 13. bxc3 Nh5 14. c4 Be6 15.
+c5 Bf6 16. g4 Nxf4 17. exf4 Bxe5 18. dxe5 Qh4 19. Be2 h5 20. Qe1 Qxe1 21. Raxe1
+fxg4 22. fxg4 hxg4 23. Kg2 b6 24. Rc1 Rab8 25. Bd1 bxc5 26. Rxc5 Rb6 27. Kg3 g5
+28. Ba4 Bd7 29. e6 Bxe6 30. Rxc6 Rxc6 31. Bxc6 Rc8 32. f5 Rxc6 33. fxe6 Rxe6
+34. Rf5 1/2-1/2
+
+[Event "CN Equipas 2015 - 1. div"]
+[Site "Matosinhos POR"]
+[Date "2015.08.20"]
+[Round "6.4.4"]
+[White "Ferreira, Paulo"]
+[Black "Correia, Jorge"]
+[Result "1-0"]
+[ECO "E80"]
+[WhiteElo "2040"]
+[BlackElo "1770"]
+[WhiteFideId "1900820"]
+[BlackFideId "1915932"]
+[WhiteTeam "GX Porto"]
+[BlackTeam "Santoantoniense FC"]
+[WhiteTitle "NM"]
+[PlyCount "91"]
+[EventDate "2015.??.??"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 c6 6. Be3 O-O 7. Bd3 e5 8. d5 cxd5
+9. cxd5 Nh5 10. Nge2 f5 11. Qd2 f4 12. Bf2 g5 13. g4 Nf6 14. h3 Bd7 15. Nc1 Qe8
+16. b4 h5 17. Nb3 hxg4 18. hxg4 Qg6 19. Na5 b6 20. Nc4 Nxg4 21. fxg4 Bxg4 22.
+Rg1 Bh3 23. Nb5 Nd7 24. Nc7 Rac8 25. Ne6 Bxe6 26. dxe6 Qxe6 27. Nxd6 Rc6 28.
+Nf5 Rxf5 29. exf5 Qf6 30. Be4 Rd6 31. Qc2 Qe7 32. Qc8+ Kf7 33. Qc4+ Kf8 34. Rd1
+Rxd1+ 35. Kxd1 Nf6 36. Kc2 Nxe4 37. Qxe4 Qc7+ 38. Kb2 Qd6 39. Rc1 Kg8 40. Rc8+
+Bf8 41. Be1 g4 42. Bc3 Qd7 43. Rc6 Bg7 44. f6 f3 45. Qg6 f2 46. Rc8+ 1-0
+
+[Event "CN Equipas 2015 - 1. div"]
+[Site "Matosinhos POR"]
+[Date "2015.08.20"]
+[Round "6.5.1"]
+[White "Ferreira, Jorge"]
+[Black "Getz, Nicolai"]
+[Result "1/2-1/2"]
+[ECO "E15"]
+[WhiteElo "2447"]
+[BlackElo "2386"]
+[WhiteFideId "1910850"]
+[BlackFideId "1505572"]
+[WhiteTeam "GD Dias Ferreira"]
+[BlackTeam "ADRC Mata de Benfica"]
+[WhiteTitle "IM"]
+[BlackTitle "IM"]
+[PlyCount "79"]
+[EventDate "2015.??.??"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Ba6 5. Nbd2 d5 6. Bg2 Be7 7. O-O O-O 8. b3
+c5 9. Bb2 Nbd7 10. Re1 Bb7 11. cxd5 exd5 12. Ne5 Nxe5 13. dxe5 Ne8 14. e3 a5
+15. Nb1 Nc7 16. Nc3 Qd7 17. Qc2 Qe6 18. Ne2 Rfd8 19. f4 Bc8 20. Rf1 Ba6 21. Rf2
+Qh6 22. g4 Qh4 23. Ng3 g6 24. f5 Bg5 25. Re1 Qh6 26. e6 fxe6 27. Qc3 d4 28.
+exd4 Nb5 29. Qf3 Nxd4 30. Bxd4 cxd4 31. fxe6 Qg7 32. Qf7+ Qxf7 33. exf7+ Kf8
+34. Bxa8 Rxa8 35. Ne4 Be3 36. Rxe3 dxe3 37. Rf3 e2 38. Kf2 Bb7 39. Rf4 Bxe4 40.
+Rxe4 1/2-1/2
+
+[Event "CN Equipas 2015 - 1. div"]
+[Site "Matosinhos POR"]
+[Date "2015.08.20"]
+[Round "6.5.2"]
+[White "Andrade, José"]
+[Black "Martinez, Lelys"]
+[Result "0-1"]
+[ECO "B21"]
+[WhiteElo "2199"]
+[BlackElo "2450"]
+[WhiteFideId "1900986"]
+[BlackFideId "3504727"]
+[WhiteTeam "ADRC Mata de Benfica"]
+[BlackTeam "GD Dias Ferreira"]
+[WhiteTitle "FM"]
+[BlackTitle "GM"]
+[PlyCount "62"]
+[EventDate "2015.??.??"]
+
+1. e4 c5 2. d4 cxd4 3. c3 d3 4. Bxd3 Nc6 5. Nf3 d6 6. h3 g6 7. O-O Bg7 8. Qe2
+Nf6 9. Rd1 Nd7 10. Bc2 O-O 11. a3 a5 12. c4 Nc5 13. Be3 Qb6 14. Nc3 Qxb2 15.
+Nb5 Nxe4 16. Rab1 Nc3 17. Qd2 Nxb1 18. Rxb1 Qa2 19. Qc1 Qxc4 20. Nd2 Qe2 21.
+Be4 Bf5 22. Bf3 Qd3 23. g4 Ne5 24. Bg2 Rac8 25. Qe1 Bd7 26. Nd4 Qxa3 27. Ra1
+Nd3 28. Rxa3 Nxe1 29. Bxb7 Rc7 30. Be4 Bxd4 31. Bxd4 Nc2 0-1
+
+[Event "CN Equipas 2015 - 1. div"]
+[Site "Matosinhos POR"]
+[Date "2015.08.20"]
+[Round "6.5.3"]
+[White "Bernal Moro, Luis"]
+[Black "Guerra, Vítor"]
+[Result "0-1"]
+[ECO "A04"]
+[WhiteElo "2435"]
+[BlackElo "2119"]
+[WhiteFideId "2200236"]
+[BlackFideId "1901095"]
+[WhiteTeam "GD Dias Ferreira"]
+[BlackTeam "ADRC Mata de Benfica"]
+[WhiteTitle "IM"]
+[BlackTitle "NM"]
+[PlyCount "91"]
+[EventDate "2015.??.??"]
+
+1. Nf3 e6 2. g3 d5 3. Bg2 Nf6 4. O-O Be7 5. c4 c6 6. d4 b5 7. c5 a5 8. Nbd2 O-O
+9. Qc2 Na6 10. Rd1 Re8 11. a3 Bb7 12. b3 Bf8 13. Bb2 Nc7 14. a4 b4 15. e4 Nxe4
+16. Nxe4 dxe4 17. Qxe4 Nd5 18. Ne5 g6 19. Qf3 Re7 20. h4 Bg7 21. h5 g5 22. Bf1
+f6 23. Nc4 f5 24. Nd6 g4 25. Qh1 Qf8 26. Bc4 Qf6 27. Rd3 Bh6 28. Re1 Bc8 29.
+Re5 Bd7 30. Rd1 Rf8 31. Rde1 Rg7 32. Bc1 Bxc1 33. Rxc1 Qh6 34. Rce1 Rg5 35.
+Bxd5 exd5 36. Re7 f4 37. gxf4 Rxh5 38. Qg2 Qxf4 39. Qg3 Qxd4 40. Qe3 Qxe3 41.
+R1xe3 Bf5 42. R3e5 d4 43. Nc4 d3 44. Rc7 Rh6 45. Ra7 Be6 46. Ne3 0-1
+
+[Event "CN Equipas 2015 - 1. div"]
+[Site "Matosinhos POR"]
+[Date "2015.08.20"]
+[Round "6.5.4"]
+[White "Guerreiro, Nuno"]
+[Black "Martins, David"]
+[Result "0-1"]
+[ECO "C00"]
+[WhiteElo "2106"]
+[BlackElo "2334"]
+[WhiteFideId "1903012"]
+[BlackFideId "1909991"]
+[WhiteTeam "ADRC Mata de Benfica"]
+[BlackTeam "GD Dias Ferreira"]
+[BlackTitle "FM"]
+[PlyCount "68"]
+[EventDate "2015.??.??"]
+
+1. e4 e6 2. Qe2 c5 3. Nf3 Nc6 4. g3 g6 5. Bg2 Bg7 6. O-O Nge7 7. d3 O-O 8. Nbd2
+d6 9. Nc4 b5 10. Ne3 Rb8 11. h4 h6 12. Ng4 Kh7 13. Qe3 Ng8 14. e5 Nb4 15. c3
+Nd5 16. Qe2 f5 17. Ngh2 Re8 18. d4 Bb7 19. exd6 Qxd6 20. h5 gxh5 21. Ne5 Ngf6
+22. a4 cxd4 23. axb5 dxc3 24. Rxa7 h4 25. Nc6 hxg3 26. Nf3 Bxc6 27. bxc6 Ne4
+28. bxc3 gxf2+ 29. Rxf2 Nxf2 30. Qxf2 Rb1 31. Qc2 Rxc1+ 32. Qxc1 Qc5+ 33. Nd4
+Qxa7 34. Bxd5 Bxd4+ 0-1
+
+[Event "CN Equipas 2015 - 1. div"]
+[Site "Matosinhos POR"]
+[Date "2015.08.20"]
+[Round "7.1.1"]
+[White "Getz, Nicolai"]
+[Black "Silva, Luís M"]
+[Result "0-1"]
+[ECO "B31"]
+[WhiteElo "2386"]
+[BlackElo "2334"]
+[WhiteFideId "1505572"]
+[BlackFideId "1919121"]
+[WhiteTeam "ADRC Mata de Benfica"]
+[BlackTeam "CX A2D"]
+[WhiteTitle "IM"]
+[BlackTitle "FM"]
+[PlyCount "108"]
+[EventDate "2015.??.??"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 g6 4. O-O Bg7 5. Re1 Nf6 6. c3 O-O 7. d3 d6 8. Nbd2
+e5 9. Nf1 Re8 10. Bg5 h6 11. Bxf6 Qxf6 12. Ne3 Be6 13. Nd2 Qd8 14. a4 Rf8 15.
+Bc4 Qd7 16. a5 Rab8 17. Qa4 Ne7 18. Qa2 h5 19. Nf3 Bh6 20. d4 Bxc4 21. Qxc4
+cxd4 22. cxd4 Rfc8 23. Qb3 exd4 24. Nxd4 Bg7 25. Nf3 Rc5 26. Rad1 Qc6 27. Qa3
+Qb5 28. Rxd6 Bxb2 29. Qa2 Bc3 30. Rb1 Qxa5 31. Qb3 Bg7 32. Rd7 Rc7 33. Rbd1
+Rbc8 34. h4 Qb6 35. Qa2 Qa6 36. Qxa6 bxa6 37. Rxc7 Rxc7 38. Rd8+ Bf8 39. Ng5 a5
+40. Nd5 Nxd5 41. exd5 a4 42. d6 Rc1+ 43. Kh2 a3 44. Nh7 Kxh7 45. Rxf8 a2 46. d7
+a1=Q 47. d8=Q Rh1+ 48. Kg3 Qe5+ 49. Kf3 Qf5+ 50. Ke2 Qg4+ 51. f3 Qxg2+ 52. Ke3
+Re1+ 53. Kf4 Qh2+ 54. Kg5 Qe5# 0-1
+
+[Event "CN Equipas 2015 - 1. div"]
+[Site "Matosinhos POR"]
+[Date "2015.08.20"]
+[Round "7.1.2"]
+[White "Gomes, Bruno"]
+[Black "Andrade, José"]
+[Result "1-0"]
+[ECO "C11"]
+[WhiteElo "2262"]
+[BlackElo "2199"]
+[WhiteFideId "1908154"]
+[BlackFideId "1900986"]
+[WhiteTeam "CX A2D"]
+[BlackTeam "ADRC Mata de Benfica"]
+[WhiteTitle "CM"]
+[BlackTitle "FM"]
+[PlyCount "99"]
+[EventDate "2015.??.??"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. e5 Nfd7 5. f4 c5 6. Nf3 Nc6 7. Be3 a6 8. Qd2 b5
+9. dxc5 Bxc5 10. O-O-O Qb6 11. Bxc5 Qxc5 12. Ne2 Nb6 13. Ned4 Bd7 14. Nb3 Qe7
+15. Qf2 Na4 16. Kb1 O-O 17. Bd3 f6 18. Qh4 f5 19. Qxe7 Nxe7 20. Nbd4 b4 21. Ng5
+Nc5 22. Be2 Rab8 23. g3 Rb6 24. Nb3 Nb7 25. Rd2 a5 26. Rhd1 a4 27. Nd4 Nc5 28.
+Bf3 h6 29. Nh3 Rc8 30. Nf2 Nb7 31. Rg1 g6 32. g4 Kh7 33. gxf5 gxf5 34. Nd3 Rg8
+35. Rxg8 Kxg8 36. Rg2+ Kf8 37. Rg3 Be8 38. Rh3 Kg7 39. Kc1 Kh7 40. Rg3 Bf7 41.
+Kd2 Na5 42. Nc5 Nc4+ 43. Kc1 a3 44. b3 Na5 45. Nd7 Ra6 46. Be2 Ra8 47. Nc5 Ng6
+48. Ncxe6 Bxe6 49. Nxe6 Re8 50. Bd3 1-0
+
+[Event "CN Equipas 2015 - 1. div"]
+[Site "Matosinhos POR"]
+[Date "2015.08.20"]
+[Round "7.1.3"]
+[White "Guerra, Vítor"]
+[Black "Dias, Ivo"]
+[Result "1-0"]
+[ECO "E19"]
+[WhiteElo "2119"]
+[BlackElo "2122"]
+[WhiteFideId "1901095"]
+[BlackFideId "1901680"]
+[WhiteTeam "ADRC Mata de Benfica"]
+[BlackTeam "CX A2D"]
+[WhiteTitle "NM"]
+[BlackTitle "CM"]
+[PlyCount "71"]
+[EventDate "2015.??.??"]
+
+1. d4 Nf6 2. Nf3 e6 3. g3 b6 4. Bg2 Bb7 5. O-O Be7 6. c4 O-O 7. Nc3 Ne4 8. Qc2
+Nxc3 9. Qxc3 c5 10. Rd1 d6 11. b3 Nd7 12. Bb2 Nf6 13. dxc5 bxc5 14. Ng5 Bxg2
+15. Kxg2 Qb6 16. Qd3 Qc6+ 17. f3 e5 18. Rac1 a5 19. Bc3 Rfb8 20. Rb1 h6 21. Nh3
+Ra6 22. Nf2 Bd8 23. h3 Kf8 24. Ng4 e4 25. Qc2 exf3+ 26. exf3 Nxg4 27. hxg4 Kg8
+28. Qb2 a4 29. Bxg7 axb3 30. a3 d5 31. Rxd5 Rba8 32. Bc3 Rxa3 33. Qd2 Ra2 34.
+Bb2 Qe6 35. Rxd8+ Rxd8 36. Qxd8+ 1-0
+
+[Event "CN Equipas 2015 - 1. div"]
+[Site "Matosinhos POR"]
+[Date "2015.08.20"]
+[Round "7.1.4"]
+[White "Macedo, Adriano"]
+[Black "Guerreiro, Nuno"]
+[Result "1/2-1/2"]
+[ECO "A04"]
+[WhiteElo "1820"]
+[BlackElo "2106"]
+[WhiteFideId "1932187"]
+[BlackFideId "1903012"]
+[WhiteTeam "CX A2D"]
+[BlackTeam "ADRC Mata de Benfica"]
+[PlyCount "91"]
+[EventDate "2015.??.??"]
+
+1. Nf3 Nc6 2. d4 d5 3. c4 Bg4 4. Nc3 e6 5. Bf4 Bd6 6. Bg3 Nh6 7. e3 Nf5 8. cxd5
+exd5 9. Qb3 O-O 10. Bxd6 Qxd6 11. Qxd5 Qb4 12. Qb5 Qe7 13. Be2 a6 14. Qc5 Qf6
+15. Nd5 Qh6 16. O-O Nh4 17. Nf4 b6 18. Qc2 Bxf3 19. Bxf3 Nxf3+ 20. gxf3 Nxd4
+21. Qe4 Nb5 22. Rad1 Rae8 23. Qc2 Re5 24. Kh1 Rc5 25. Qd3 Qc6 26. e4 Qf6 27. b4
+Rc3 28. Nd5 Qxf3+ 29. Qxf3 Rxf3 30. a4 Nd6 31. Rd4 Ne8 32. Ne7+ Kh8 33. Rd8 g6
+34. Ra8 Kg7 35. e5 c5 36. bxc5 bxc5 37. Kg2 Ra3 38. Rxa6 Nc7 39. Ra7 Nb5 40.
+Ra5 Nd4 41. Rxc5 Rxa4 42. Rb1 Re8 43. Rb7 Ne6 44. Rcb5 Ra3 45. Nd5 Rd8 46. Ne3
+1/2-1/2
+
+[Event "CN Equipas 2015 - 1. div"]
+[Site "Matosinhos POR"]
+[Date "2015.08.20"]
+[Round "7.2.1"]
+[White "Stopa, Jacek"]
+[Black "Ferreira, Jorge"]
+[Result "1/2-1/2"]
+[ECO "E04"]
+[WhiteElo "2544"]
+[BlackElo "2447"]
+[WhiteFideId "1119591"]
+[BlackFideId "1910850"]
+[WhiteTeam "GX Porto"]
+[BlackTeam "GD Dias Ferreira"]
+[WhiteTitle "GM"]
+[BlackTitle "IM"]
+[PlyCount "59"]
+[EventDate "2015.??.??"]
+
+1. d4 Nf6 2. c4 e6 3. g3 d5 4. Nf3 dxc4 5. Bg2 Bd7 6. O-O Bc6 7. Qc2 b5 8. Nc3
+b4 9. Nb1 Nbd7 10. Re1 Be7 11. e4 Bb7 12. Nbd2 c5 13. Nxc4 cxd4 14. e5 Nd5 15.
+Bg5 O-O 16. Nd6 d3 17. Qxd3 Nxe5 18. Bxe7 Nxf3+ 19. Bxf3 Qxe7 20. Nxb7 Qxb7 21.
+Bxd5 Qxd5 22. Qxd5 exd5 23. Rad1 Rac8 24. Rxd5 Rc2 25. Ra5 Rxb2 26. Re3 Rd2 27.
+Rxa7 g6 28. Ree7 Rdd8 29. Kf1 Rb8 30. h4 1/2-1/2
+
+[Event "CN Equipas 2015 - 1. div"]
+[Site "Matosinhos POR"]
+[Date "2015.08.20"]
+[Round "7.2.2"]
+[White "Gonzalez Perez, Arian"]
+[Black "Sousa, André V"]
+[Result "1-0"]
+[ECO "B06"]
+[WhiteElo "2440"]
+[BlackElo "2266"]
+[WhiteFideId "3507777"]
+[BlackFideId "1917617"]
+[WhiteTeam "GD Dias Ferreira"]
+[BlackTeam "GX Porto"]
+[WhiteTitle "FM"]
+[PlyCount "93"]
+[EventDate "2015.??.??"]
+
+1. e4 g6 2. d4 Bg7 3. Nc3 d5 4. exd5 Nf6 5. Bc4 Nbd7 6. Bg5 Nb6 7. Bxf6 Bxf6 8.
+Bb3 c6 9. dxc6 Qxd4 10. Qxd4 Bxd4 11. Nge2 Bg7 12. cxb7 Bxb7 13. f3 O-O 14.
+O-O-O e6 15. Nb5 Ba6 16. Nec3 Rfc8 17. a4 Rc5 18. Ne4 Rc6 19. Rd6 Rxd6 20.
+Nexd6 Rd8 21. Ne4 Bb7 22. Nc5 Ba8 23. Nxa7 Bd4 24. Nd3 Nxa4 25. Bxa4 Bxa7 26.
+Re1 Rd4 27. Bb5 Bb8 28. h3 Kf8 29. b4 Ke7 30. c3 Rd5 31. Bc4 Rd8 32. Kc2 Rc8
+33. Bb3 Ba7 34. c4 Bd4 35. c5 Bc6 36. Bc4 Ba4+ 37. Kd2 Be8 38. Rb1 Kd8 39. Ba6
+Ra8 40. b5 e5 41. Rc1 Ra7 42. Nb4 Bb2 43. Rc2 Ba3 44. Kc3 Bxb5 45. Bxb5 Rb7 46.
+Nc6+ Kc7 47. Kc4 1-0
+
+[Event "CN Equipas 2015 - 1. div"]
+[Site "Matosinhos POR"]
+[Date "2015.08.20"]
+[Round "7.2.3"]
+[White "Silva, António"]
+[Black "Bernal Moro, Luis"]
+[Result "1/2-1/2"]
+[ECO "A04"]
+[WhiteElo "2150"]
+[BlackElo "2435"]
+[WhiteFideId "1900293"]
+[BlackFideId "2200236"]
+[WhiteTeam "GX Porto"]
+[BlackTeam "GD Dias Ferreira"]
+[WhiteTitle "NM"]
+[BlackTitle "IM"]
+[PlyCount "59"]
+[EventDate "2015.??.??"]
+
+1. Nf3 c5 2. c4 Nc6 3. g3 e5 4. Nc3 g6 5. Bg2 Bg7 6. O-O Nge7 7. a3 a5 8. d3 d6
+9. Rb1 O-O 10. Ne1 Be6 11. Nd5 Rb8 12. Bd2 b5 13. Nc2 b4 14. a4 Qd7 15. b3 f5
+16. e3 Kh8 17. f4 Rbe8 18. Ne1 Ng8 19. Rc1 Nce7 20. Rc2 Nf6 21. Nxf6 Bxf6 22.
+Bc1 exf4 23. exf4 Nc6 24. Nf3 Nd4 25. Nxd4 Bxd4+ 26. Kh1 Qg7 27. Re1 Bd7 28.
+Rxe8 Rxe8 29. Re2 Qf8 30. Qe1 1/2-1/2
+
+[Event "CN Equipas 2015 - 1. div"]
+[Site "Matosinhos POR"]
+[Date "2015.08.20"]
+[Round "7.2.4"]
+[White "Martins, David"]
+[Black "Ribeiro, Dinis"]
+[Result "1-0"]
+[ECO "A13"]
+[WhiteElo "2334"]
+[BlackElo "1944"]
+[WhiteFideId "1909991"]
+[BlackFideId "1903675"]
+[WhiteTeam "GD Dias Ferreira"]
+[BlackTeam "GX Porto"]
+[WhiteTitle "FM"]
+[PlyCount "51"]
+[EventDate "2015.??.??"]
+
+1. c4 e6 2. Nc3 f5 3. Nf3 Nf6 4. g3 c6 5. Bg2 d5 6. O-O Bd6 7. d3 O-O 8. e4
+Nbd7 9. Re1 Qc7 10. exf5 exf5 11. cxd5 Nxd5 12. Nxd5 cxd5 13. Nd4 Nf6 14. Bg5
+Qc5 15. Nb3 Qb5 16. Qf3 Rb8 17. Nd4 Qb6 18. Bxf6 gxf6 19. Nxf5 Bxf5 20. Qxf5
+Be5 21. Bxd5+ Kh8 22. Re4 Qc7 23. Rae1 Rbd8 24. Bc4 Qg7 25. Rg4 Qd7 26. Rxe5
+1-0
+
+[Event "CN Equipas 2015 - 1. div"]
+[Site "Matosinhos POR"]
+[Date "2015.08.20"]
+[Round "7.3.1"]
+[White "Iturrizaga, Eduardo"]
+[Black "Fidalgo, André"]
+[Result "1-0"]
+[ECO "A04"]
+[WhiteElo "2625"]
+[BlackElo "2058"]
+[WhiteFideId "3901211"]
+[BlackFideId "1933620"]
+[WhiteTeam "AX Gaia"]
+[BlackTeam "Santoantoniense FC"]
+[WhiteTitle "GM"]
+[PlyCount "97"]
+[EventDate "2015.??.??"]
+
+1. Nf3 c5 2. c4 g6 3. d4 cxd4 4. Nxd4 Nc6 5. g3 Bg7 6. Nc2 Nf6 7. Bg2 O-O 8.
+Nc3 d6 9. O-O Be6 10. b3 Qd7 11. Re1 Rfc8 12. e4 Rab8 13. Bd2 Bh3 14. Bh1 a6
+15. a4 b6 16. Rc1 h5 17. Ne3 Nb4 18. Qe2 Ng4 19. Ncd5 Nxd5 20. exd5 Re8 21.
+Nxg4 Bxg4 22. Qd3 b5 23. cxb5 axb5 24. a5 b4 25. Rc6 Qa7 26. a6 Bd4 27. Be3
+Bxe3 28. Qxe3 Qxe3 29. fxe3 Ra8 30. Ra1 Ra7 31. Rb6 Rea8 32. Bg2 Be2 33. Bf1
+Bxf1 34. Kxf1 Kg7 35. Ke2 Kf6 36. Kd3 Ke5 37. Kc4 Ke4 38. Kxb4 Kxd5 39. Ka5 Ke4
+40. b4 Kxe3 41. b5 d5 42. Rc6 d4 43. Kb6 d3 44. Rc7 Rxc7 45. Kxc7 d2 46. Kb7
+Rd8 47. a7 Rd7+ 48. Kb6 Rd8 49. Kc7 1-0
+
+[Event "CN Equipas 2015 - 1. div"]
+[Site "Matosinhos POR"]
+[Date "2015.08.20"]
+[Round "7.3.2"]
+[White "Sousa, Ricardo"]
+[Black "Ftacnik, Lubomir"]
+[Result "0-1"]
+[ECO "A05"]
+[WhiteElo "2091"]
+[BlackElo "2555"]
+[WhiteFideId "1903713"]
+[BlackFideId "14900017"]
+[WhiteTeam "Santoantoniense FC"]
+[BlackTeam "AX Gaia"]
+[BlackTitle "GM"]
+[PlyCount "72"]
+[EventDate "2015.??.??"]
+
+1. Nf3 Nf6 2. g3 d5 3. Bg2 g6 4. O-O Bg7 5. d3 O-O 6. Nbd2 c5 7. e4 Nc6 8. c3
+h6 9. Re1 dxe4 10. dxe4 Be6 11. Qe2 Qc8 12. Nc4 b5 13. Nce5 Nxe5 14. Nxe5 Rb8
+15. Be3 Rd8 16. Qc2 a5 17. Rad1 Rxd1 18. Rxd1 a4 19. b3 axb3 20. axb3 Ng4 21.
+Nxg4 Bxg4 22. Rd5 c4 23. Rc5 Qa6 24. bxc4 bxc4 25. h3 Qa1+ 26. Kh2 Be6 27. e5
+h5 28. Qd2 Kh7 29. Bd4 Bh6 30. Qe2 Rb2 31. Qe4 Qc1 32. h4 Rb1 33. f4 Rb2 34.
+Rc6 Bf5 35. Qf3 Qe1 36. Qe3 Rxg2+ 0-1
+
+[Event "CN Equipas 2015 - 1. div"]
+[Site "Matosinhos POR"]
+[Date "2015.08.20"]
+[Round "7.3.3"]
+[White "Strikovic, Aleksa"]
+[Black "Parreira, André"]
+[Result "1-0"]
+[ECO "A18"]
+[WhiteElo "2509"]
+[BlackElo "1868"]
+[WhiteFideId "900150"]
+[BlackFideId "1911368"]
+[WhiteTeam "AX Gaia"]
+[BlackTeam "Santoantoniense FC"]
+[WhiteTitle "GM"]
+[PlyCount "59"]
+[EventDate "2015.??.??"]
+
+1. c4 Nf6 2. Nc3 e6 3. e4 d5 4. e5 Nfd7 5. cxd5 Nxe5 6. d4 Ng6 7. dxe6 Bxe6 8.
+d5 Bd7 9. Nf3 Bd6 10. Bg5 f6 11. Be3 O-O 12. Qd2 Re8 13. Be2 c6 14. O-O Qe7 15.
+Rfe1 Kh8 16. Bd3 Ne5 17. Nxe5 Bxe5 18. Bd4 Qd6 19. Bxe5 Rxe5 20. Rxe5 Qxe5 21.
+Re1 Qd6 22. Qe2 Kg8 23. Bc4 Kf8 24. dxc6 Nxc6 25. Qh5 Nd8 26. Qxh7 Nf7 27. Rd1
+Qc7 28. Bxf7 Kxf7 29. Qh5+ Kg8 30. Qd5+ 1-0
+
+[Event "CN Equipas 2015 - 1. div"]
+[Site "Matosinhos POR"]
+[Date "2015.08.20"]
+[Round "7.3.4"]
+[White "Correia, Jorge"]
+[Black "Hoffman, Alejandro"]
+[Result "0-1"]
+[ECO "A01"]
+[WhiteElo "1770"]
+[BlackElo "2433"]
+[WhiteFideId "1915932"]
+[BlackFideId "100340"]
+[WhiteTeam "Santoantoniense FC"]
+[BlackTeam "AX Gaia"]
+[BlackTitle "GM"]
+[PlyCount "52"]
+[EventDate "2015.??.??"]
+
+1. b3 Nf6 2. Nf3 g6 3. Bb2 Bg7 4. g3 O-O 5. Bg2 d5 6. d4 c5 7. O-O cxd4 8. Na3
+Re8 9. Bxd4 Nc6 10. Bb2 e5 11. e3 e4 12. Nd4 Ne5 13. h3 h5 14. Qe2 h4 15. f4
+exf3 16. Nxf3 Nh5 17. Nxe5 Bxe5 18. Bxe5 Rxe5 19. Qd3 Nxg3 20. Rf4 Qg5 21. c4
+Bf5 22. Rxf5 Nxf5 23. Nc2 Rae8 24. e4 Rxe4 25. Qxd5 Re2 26. Nd4 Re1+ 0-1
+
+[Event "CN Equipas 2015 - 1. div"]
+[Site "Matosinhos POR"]
+[Date "2015.08.20"]
+[Round "7.4.1"]
+[White "Aguiar, Henrique"]
+[Black "Jakubowski, Krzystof"]
+[Result "0-1"]
+[ECO "A25"]
+[WhiteElo "2188"]
+[BlackElo "2571"]
+[WhiteFideId "1908545"]
+[BlackFideId "1112848"]
+[WhiteTeam "AEJ S. João da Madeira"]
+[BlackTeam "AA Coimbra"]
+[BlackTitle "GM"]
+[PlyCount "66"]
+[EventDate "2015.??.??"]
+
+1. c4 e5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. e4 d6 6. Nge2 h5 7. h4 Bg4 8. f3 Be6
+9. d3 Qd7 10. Qa4 Nce7 11. Qxd7+ Kxd7 12. Be3 f5 13. Bg5 fxe4 14. fxe4 c6 15.
+Kd2 Nf6 16. Raf1 Rhf8 17. b4 Rf7 18. b5 Kc7 19. a4 Neg8 20. Ng1 Nh6 21. Nh3
+Nhg4 22. Ke2 Raf8 23. Bd2 Nd7 24. Rxf7 Rxf7 25. Bf3 Bf6 26. a5 Nc5 27. Bg2 Nb3
+28. a6 Nd4+ 29. Ke1 bxa6 30. bxc6 Kxc6 31. Nd5 Bxd5 32. cxd5+ Kc5 33. Rf1 Rb7
+0-1
+
+[Event "CN Equipas 2015 - 1. div"]
+[Site "Matosinhos POR"]
+[Date "2015.08.20"]
+[Round "7.4.2"]
+[White "Hammes, Michael"]
+[Black "Pires, Gustavo"]
+[Result "1-0"]
+[ECO "E42"]
+[WhiteElo "2345"]
+[BlackElo "2098"]
+[WhiteFideId "4619358"]
+[BlackFideId "1903250"]
+[WhiteTeam "AA Coimbra"]
+[BlackTeam "AEJ S. João da Madeira"]
+[WhiteTitle "IM"]
+[PlyCount "47"]
+[EventDate "2015.??.??"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Nge2 O-O 6. a3 Bxc3+ 7. Nxc3 d6 8.
+Be2 Nc6 9. O-O b6 10. d5 Ne7 11. e4 e5 12. f4 exf4 13. Bxf4 Ne8 14. Bh5 a6 15.
+e5 Bf5 16. Qe2 Bg6 17. Rae1 Bxh5 18. Qxh5 dxe5 19. Bxe5 Ng6 20. Ne4 h6 21. Bg3
+Rc8 22. Qh3 Nc7 23. Nd6 Ra8 24. Nxf7 1-0
+
+[Event "CN Equipas 2015 - 1. div"]
+[Site "Matosinhos POR"]
+[Date "2015.08.20"]
+[Round "7.4.3"]
+[White "Silva, Stéphane"]
+[Black "Diogo, Vasco"]
+[Result "1/2-1/2"]
+[ECO "B20"]
+[WhiteElo "2126"]
+[BlackElo "2240"]
+[WhiteFideId "1900846"]
+[BlackFideId "1902628"]
+[WhiteTeam "AEJ S. João da Madeira"]
+[BlackTeam "AA Coimbra"]
+[WhiteTitle "NM"]
+[BlackTitle "FM"]
+[PlyCount "79"]
+[EventDate "2015.??.??"]
+
+1. e4 c5 2. d3 Nc6 3. g3 g6 4. Bg2 Bg7 5. f4 d6 6. Nf3 h5 7. O-O Bd7 8. c3 Qc8
+9. Be3 Nf6 10. Kh1 Bh3 11. Nbd2 Qd7 12. Qe2 b6 13. d4 cxd4 14. cxd4 Bxg2+ 15.
+Kxg2 d5 16. e5 Ng4 17. Rac1 Rc8 18. h3 Nh6 19. Bf2 O-O 20. a3 Nf5 21. Rc3 f6
+22. Rfc1 fxe5 23. fxe5 e6 24. b4 Bh6 25. Qd3 Nfe7 26. Be3 Bxe3 27. Qxe3 Nf5 28.
+Qd3 Nce7 29. b5 Rxc3 30. Rxc3 Rc8 31. a4 Rc7 32. Kf2 Qc8 33. Nb1 Rc4 34. g4
+hxg4 35. hxg4 Nh6 36. Kg3 Nf7 37. Nfd2 Rxc3 38. Qxc3 Qxc3+ 39. Nxc3 g5 40. Nf3
+1/2-1/2
+
+[Event "CN Equipas 2015 - 1. div"]
+[Site "Matosinhos POR"]
+[Date "2015.08.20"]
+[Round "7.4.4"]
+[White "Vicente, João"]
+[Black "Sá, Cláudio"]
+[Result "1-0"]
+[ECO "D11"]
+[WhiteElo "2102"]
+[BlackElo "1714"]
+[WhiteFideId "1912054"]
+[BlackFideId "1902903"]
+[WhiteTeam "AA Coimbra"]
+[BlackTeam "AEJ S. João da Madeira"]
+[PlyCount "95"]
+[EventDate "2015.??.??"]
+
+1. d4 d5 2. c4 c6 3. e3 Nf6 4. Nf3 a6 5. b3 b5 6. Nbd2 Bg4 7. Bd3 Nbd7 8. Bb2
+e6 9. O-O Bd6 10. Qc2 Bxf3 11. Nxf3 O-O 12. c5 Bb8 13. Rae1 h6 14. Ne5 Nxe5 15.
+dxe5 Nd7 16. f4 Qa5 17. Bd4 f6 18. exf6 Nxf6 19. Qf2 Qd8 20. Qg3 Ra7 21. Rf3
+Ne4 22. Qg6 e5 23. Qe6+ Kh8 24. Bxe5 Bxe5 25. Qxe5 Nxc5 26. Bb1 Re7 27. Qc3 Qd6
+28. Rc1 Ne4 29. Bxe4 dxe4 30. Rf2 Rc8 31. Rd2 Qe6 32. Rcd1 Rcc7 33. Rd6 Qg4 34.
+Rxh6+ Kg8 35. Rhd6 Red7 36. h3 Qf5 37. g4 Qf7 38. Qe5 Re7 39. Rd8+ Kh7 40. Qg5
+Re6 41. f5 Rh6 42. Qf4 Rxh3 43. Kg2 Rh6 44. g5 Qh5 45. gxh6 Qe2+ 46. Kg3 Rf7
+47. R1d7 Qe1+ 48. Qf2 1-0
+
+[Event "CN Equipas 2015 - 1. div"]
+[Site "Matosinhos POR"]
+[Date "2015.08.20"]
+[Round "7.5.1"]
+[White "Neves, Pedro"]
+[Black "Dâmaso, Rui"]
+[Result "1-0"]
+[ECO "A22"]
+[WhiteElo "2215"]
+[BlackElo "2456"]
+[WhiteFideId "1905554"]
+[BlackFideId "1900030"]
+[WhiteTeam "CX Montemor-o-Velho"]
+[BlackTeam "FC Barreirense"]
+[WhiteTitle "NM"]
+[BlackTitle "IM"]
+[PlyCount "101"]
+[EventDate "2015.??.??"]
+
+1. c4 e5 2. Nc3 Nf6 3. g3 c6 4. d4 e4 5. Bg5 Bb4 6. Qb3 Bxc3+ 7. bxc3 O-O 8.
+Nh3 d6 9. Nf4 Nbd7 10. h4 e3 11. f3 h6 12. Bxf6 Qxf6 13. Rd1 Nb6 14. Rd3 Re8
+15. Bh3 Bxh3 16. Rxh3 Qf5 17. Rh1 d5 18. cxd5 cxd5 19. Kf1 Re7 20. Kg2 Rd8 21.
+Qa3 Nc8 22. Qa5 b6 23. Qb5 Nd6 24. Nxd5 Re6 25. Qb3 b5 26. Rxe3 Kh8 27. Rxe6
+Qxe6 28. Nf4 Qe3 29. Rd1 Nc4 30. Rd3 Qc1 31. Qxb5 Nd2 32. Rxd2 Qxd2 33. Qc4 Kg8
+34. h5 Qe3 35. Qc7 Re8 36. d5 Qb6 37. Qd7 Rd8 38. Qe7 Qd6 39. Qxa7 Rb8 40. a4
+Rb2 41. Qd4 Ra2 42. Qc4 Ra1 43. Qc8+ Kh7 44. Qe8 Qf6 45. c4 Qd4 46. Qxf7 Rg1+
+47. Kh3 Rh1+ 48. Kg4 Kh8 49. Qf8+ Kh7 50. Qf5+ Kh8 51. e4 1-0
+
+[Event "CN Equipas 2015 - 1. div"]
+[Site "Matosinhos POR"]
+[Date "2015.08.20"]
+[Round "7.5.2"]
+[White "Rocha, Sérgio"]
+[Black "Figuero Toro, Julian"]
+[Result "1-0"]
+[ECO "A46"]
+[WhiteElo "2384"]
+[BlackElo "2204"]
+[WhiteFideId "1900404"]
+[BlackFideId "2210347"]
+[WhiteTeam "FC Barreirense"]
+[BlackTeam "CX Montemor-o-Velho"]
+[WhiteTitle "IM"]
+[PlyCount "172"]
+[EventDate "2015.??.??"]
+
+1. d4 Nf6 2. Nf3 e6 3. c4 c5 4. g3 cxd4 5. Nxd4 a6 6. Bg2 Nc6 7. O-O Bc5 8. Nb3
+Be7 9. Nc3 d6 10. Nd4 Bd7 11. b3 Qa5 12. Bb2 Nxd4 13. Qxd4 Bc6 14. e4 O-O 15.
+a3 Qc5 16. Qd2 Qh5 17. Rfe1 Rfe8 18. h3 Rad8 19. Rad1 Nd7 20. Qe3 Bf8 21. Ne2
+b6 22. Nd4 Ba8 23. Ne2 Qc5 24. Bd4 Qc7 25. Rc1 Qb7 26. b4 Rc8 27. Qb3 Rc7 28.
+Bb2 Rec8 29. Rc2 b5 30. Rec1 bxc4 31. Rxc4 Rxc4 32. Rxc4 Rxc4 33. Qxc4 Nb6 34.
+Qd3 Qc8 35. Nc3 Nc4 36. Bc1 Ne5 37. Qd4 Be7 38. f4 Nd7 39. Ne2 h6 40. Qc3 Qb7
+41. Qc2 Nf6 42. Nc3 Qc7 43. Bd2 Qc4 44. Qc1 Bd8 45. Be3 Qc6 46. Qd2 Bb6 47. Bd4
+Nd7 48. Qe3 Bb7 49. Bf1 e5 50. Bxb6 Nxb6 51. b5 axb5 52. Bxb5 Qc7 53. a4 Nc4
+54. Qd3 Qc5+ 55. Kg2 d5 56. Bxc4 dxc4 57. Qf3 f5 58. fxe5 Qxe5 59. Qe3 Bxe4+
+60. Kf2 Qa5 61. Qd4 Qb4 62. g4 Qb2+ 63. Ke3 Qc1+ 64. Kf2 Qf4+ 65. Ke1 Qc1+ 66.
+Kf2 Qf4+ 67. Ke1 Qg3+ 68. Kd2 Bd3 69. Nd5 Qg2+ 70. Kc3 Qc2+ 71. Kb4 Qb3+ 72.
+Ka5 Qb7 73. gxf5 Bxf5 74. h4 Be6 75. Nc3 Qc7+ 76. Kb4 Qb8+ 77. Nb5 Qg3 78. a5
+Qb3+ 79. Kc5 Qa4 80. Kb6 Qb3 81. a6 Qf3 82. Nc7 Qb3+ 83. Nb5 Qf3 84. Nc3 Qf8
+85. a7 Qa8 86. Qd6 Kh7 1-0
+
+[Event "CN Equipas 2015 - 1. div"]
+[Site "Matosinhos POR"]
+[Date "2015.08.20"]
+[Round "7.5.3"]
+[White "Cruz, Jorge"]
+[Black "Ulyanovskyy, Viktor"]
+[Result "1-0"]
+[ECO "B05"]
+[WhiteElo "2024"]
+[BlackElo "2233"]
+[WhiteFideId "1903977"]
+[BlackFideId "14113350"]
+[WhiteTeam "CX Montemor-o-Velho"]
+[BlackTeam "FC Barreirense"]
+[BlackTitle "FM"]
+[PlyCount "107"]
+[EventDate "2015.??.??"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. Nf3 Bg4 5. Be2 e6 6. O-O Be7 7. Re1 O-O 8. exd6
+cxd6 9. h3 Bh5 10. Nbd2 Nc6 11. c3 Rb8 12. Ne4 Nc7 13. Ng3 Bxf3 14. Bxf3 d5 15.
+Nh5 b5 16. Nf4 Rb6 17. Be3 Ne8 18. b4 a5 19. a3 Nd6 20. Nd3 a4 21. Bf4 Nc4 22.
+Nc5 Re8 23. Be2 Bg5 24. Bxg5 Qxg5 25. Bxc4 dxc4 26. d5 Nd8 27. dxe6 Nxe6 28.
+Qd7 Rd8 29. Nxe6 fxe6 30. Qc7 Rbd6 31. Re3 h6 32. Rae1 Qf6 33. Rf3 Qg6 34. Rg3
+Qf7 35. Qc5 Rd5 36. Qe3 R8d6 37. Qxh6 Rd1 38. Rxd1 Rxd1+ 39. Kh2 Rd3 40. Qg5
+Rxg3 41. Qd8+ Kh7 42. Qh4+ Kg8 43. Qxg3 Qf5 44. Qe3 Kh8 45. h4 Qg4 46. g3 Qf5
+47. Kg2 Qd5+ 48. Qf3 Qe5 49. Qf8+ Kh7 50. Qf3 Kh8 51. g4 Qe1 52. g5 Qd2 53. g6
+Qd6 54. Qa8+ 1-0
+
+[Event "CN Equipas 2015 - 1. div"]
+[Site "Matosinhos POR"]
+[Date "2015.08.20"]
+[Round "7.5.4"]
+[White "Ulyanovskyy, Vladimir"]
+[Black "Cavaleiro, Daniel"]
+[Result "1-0"]
+[ECO "C89"]
+[WhiteElo "2112"]
+[BlackElo "1900"]
+[WhiteFideId "14120771"]
+[BlackFideId "1904663"]
+[WhiteTeam "FC Barreirense"]
+[BlackTeam "CX Montemor-o-Velho"]
+[PlyCount "51"]
+[EventDate "2015.??.??"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. c3
+d5 9. exd5 Nxd5 10. Nxe5 Nxe5 11. Rxe5 c6 12. Bxd5 cxd5 13. d4 Bd6 14. Re1 Qh4
+15. g3 Qh3 16. Be3 Bg4 17. Qd3 f5 18. f4 Rae8 19. Nd2 Re6 20. Qf1 Qh5 21. a4
+Rfe8 22. axb5 Rxe3 23. Rxe3 Rxe3 24. bxa6 Re2 25. Qxe2 Bxe2 26. a7 1-0
+
+[Event "CN Equipas 2015 - 1. div"]
+[Site "Matosinhos POR"]
+[Date "2015.08.21"]
+[Round "8.1.1"]
+[White "Silva, Luís M"]
+[Black "Dâmaso, Rui"]
+[Result "1/2-1/2"]
+[ECO "A50"]
+[WhiteElo "2334"]
+[BlackElo "2456"]
+[WhiteFideId "1919121"]
+[BlackFideId "1900030"]
+[WhiteTeam "CX A2D"]
+[BlackTeam "FC Barreirense"]
+[WhiteTitle "FM"]
+[BlackTitle "IM"]
+[PlyCount "24"]
+[EventDate "2015.??.??"]
+
+1. d4 Nf6 2. c4 c6 3. Nc3 d5 4. cxd5 cxd5 5. Bf4 Nc6 6. e3 a6 7. Nf3 Bg4 8. Be2
+Bxf3 9. Bxf3 e6 10. O-O Bd6 11. Bxd6 Qxd6 12. Rc1 O-O 1/2-1/2
+
+[Event "CN Equipas 2015 - 1. div"]
+[Site "Matosinhos POR"]
+[Date "2015.08.21"]
+[Round "8.1.2"]
+[White "Rocha, Sérgio"]
+[Black "Gomes, Bruno"]
+[Result "1-0"]
+[ECO "A70"]
+[WhiteElo "2384"]
+[BlackElo "2262"]
+[WhiteFideId "1900404"]
+[BlackFideId "1908154"]
+[WhiteTeam "FC Barreirense"]
+[BlackTeam "CX A2D"]
+[WhiteTitle "IM"]
+[BlackTitle "CM"]
+[PlyCount "77"]
+[EventDate "2015.??.??"]
+
+1. d4 Nf6 2. Nf3 c5 3. d5 g6 4. c4 d6 5. Nc3 e6 6. e4 exd5 7. cxd5 a6 8. h3 b5
+9. Bd3 Bg7 10. O-O O-O 11. Bf4 Re8 12. Re1 Bb7 13. Qd2 Nh5 14. Bh2 Qc7 15. Rac1
+c4 16. Bb1 Nd7 17. b4 Qb6 18. a4 h6 19. a5 Qc7 20. Nd4 Ne5 21. Kh1 Rac8 22.
+Nce2 Re7 23. f4 Nd7 24. Nc3 Qb8 25. Re3 Bf6 26. Rce1 Rce8 27. Bc2 Bh4 28. Rf1
+Qa8 29. Bd1 Ng7 30. Nf3 Bf6 31. Rfe1 Qb8 32. Bc2 Nh5 33. g4 Bxc3 34. Qxc3 Nhf6
+35. Qd4 Qc7 36. Bg3 h5 37. g5 Nh7 38. R1e2 Rc8 39. Be1 1-0
+
+[Event "CN Equipas 2015 - 1. div"]
+[Site "Matosinhos POR"]
+[Date "2015.08.21"]
+[Round "8.1.3"]
+[White "Dias, Ivo"]
+[Black "Ulyanovskyy, Viktor"]
+[Result "1/2-1/2"]
+[ECO "C41"]
+[WhiteElo "2122"]
+[BlackElo "2233"]
+[WhiteFideId "1901680"]
+[BlackFideId "14113350"]
+[WhiteTeam "CX A2D"]
+[BlackTeam "FC Barreirense"]
+[WhiteTitle "CM"]
+[BlackTitle "FM"]
+[PlyCount "65"]
+[EventDate "2015.??.??"]
+
+1. e4 e5 2. Nf3 d6 3. d4 exd4 4. Nxd4 Nf6 5. Nc3 Be7 6. Be2 O-O 7. O-O Re8 8.
+f4 Nbd7 9. Bf3 Bf8 10. g4 h6 11. Re1 c6 12. Kg2 Nc5 13. h4 d5 14. e5 Nfe4 15.
+Bxe4 Nxe4 16. Nxe4 dxe4 17. Nf5 Qxd1 18. Rxd1 h5 19. Be3 g6 20. Nd6 Bxd6 21.
+Rxd6 Bxg4 22. c4 Red8 23. c5 Kf8 24. Rc1 Ke7 25. Kf2 Rxd6 26. cxd6+ Kd7 27. Rc4
+Bf5 28. Ra4 a6 29. Bb6 Rc8 30. Bc5 f6 31. exf6 Rf8 32. Bd4 Kxd6 33. Be5+
+1/2-1/2
+
+[Event "CN Equipas 2015 - 1. div"]
+[Site "Matosinhos POR"]
+[Date "2015.08.21"]
+[Round "8.1.4"]
+[White "Ulyanovskyy, Vladimir"]
+[Black "Romano, Luís"]
+[Result "1/2-1/2"]
+[ECO "C67"]
+[WhiteElo "2112"]
+[BlackElo "2030"]
+[WhiteFideId "14120771"]
+[BlackFideId "1920235"]
+[WhiteTeam "FC Barreirense"]
+[BlackTeam "CX A2D"]
+[PlyCount "70"]
+[EventDate "2015.??.??"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. d4 Nd6 6. Bxc6 dxc6 7. dxe5 Nf5
+8. Qe2 Nd4 9. Nxd4 Qxd4 10. Rd1 Bg4 11. Rxd4 Bxe2 12. Nc3 Bh5 13. Bg5 h6 14.
+Bh4 Bc5 15. Rd2 g5 16. Ne4 Be7 17. Bg3 Rd8 18. Rxd8+ Kxd8 19. f3 Bg6 20. Rd1+
+Kc8 21. Kf2 Bxe4 22. fxe4 Rd8 23. Rxd8+ Kxd8 24. Kf3 Kd7 25. Kg4 Ke6 26. h4
+gxh4 27. Bxh4 Bxh4 28. Kxh4 Kxe5 29. Kh5 Kxe4 30. Kxh6 f5 31. Kg5 Ke5 32. g3 c5
+33. Kg6 Ke6 34. Kg5 Ke5 35. Kg6 Ke6 1/2-1/2
+
+[Event "CN Equipas 2015 - 1. div"]
+[Site "Matosinhos POR"]
+[Date "2015.08.21"]
+[Round "8.2.1"]
+[White "Jakubowski, Krzystof"]
+[Black "Neves, Pedro"]
+[Result "1-0"]
+[ECO "B34"]
+[WhiteElo "2571"]
+[BlackElo "2215"]
+[WhiteFideId "1112848"]
+[BlackFideId "1905554"]
+[WhiteTeam "AA Coimbra"]
+[BlackTeam "CX Montemor-o-Velho"]
+[WhiteTitle "GM"]
+[BlackTitle "NM"]
+[PlyCount "115"]
+[EventDate "2015.??.??"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. Bg5 a6 8.
+Bxf6 gxf6 9. Na3 f5 10. Bd3 Bg7 11. Nc4 O-O 12. O-O b5 13. Ne3 f4 14. Nf5 Bxf5
+15. exf5 d5 16. Nxd5 Qg5 17. Qf3 Rad8 18. Qe4 Bf6 19. a4 Nd4 20. axb5 Rxd5 21.
+Qxd5 f3 22. g3 Qg4 23. Kh1 Rd8 24. Qe4 Qh3 25. Rg1 axb5 26. Ra8 Rxa8 27. Qxa8+
+Kg7 28. Qe4 b4 29. c3 bxc3 30. bxc3 Ne2 31. Bxe2 fxe2 32. Qxe2 Qxf5 33. f3 Qc8
+34. c4 Qc5 35. Rd1 Qa3 36. Kg2 h5 37. h4 Qc3 38. Qd3 Qb2+ 39. Rd2 Qa1 40. c5
+Be7 41. Rc2 Qb1 42. Qe2 Qb8 43. Qe4 Bd8 44. c6 Bc7 45. Qf5 Qb1 46. Qg5+ Kf8 47.
+Qc1 Qb3 48. Re2 Qb5 49. Rb2 Qd3 50. Qh6+ Kg8 51. Qxh5 Qc3 52. Qg5+ Kf8 53. Qh6+
+Ke8 54. Re2 Qc4 55. Rd2 Qc3 56. Qh8+ Ke7 57. Rd7+ Ke6 58. Qe8+ 1-0
+
+[Event "CN Equipas 2015 - 1. div"]
+[Site "Matosinhos POR"]
+[Date "2015.08.21"]
+[Round "8.2.2"]
+[White "Figuero Toro, Julian"]
+[Black "Hammes, Michael"]
+[Result "0-1"]
+[ECO "D31"]
+[WhiteElo "2204"]
+[BlackElo "2345"]
+[WhiteFideId "2210347"]
+[BlackFideId "4619358"]
+[WhiteTeam "CX Montemor-o-Velho"]
+[BlackTeam "AA Coimbra"]
+[BlackTitle "IM"]
+[PlyCount "63"]
+[EventDate "2015.??.??"]
+
+1. c4 e6 2. Nc3 d5 3. d4 Be7 4. cxd5 exd5 5. Bf4 c6 6. Qc2 g6 7. e3 Bf5 8. Qd2
+Bd6 9. Bxd6 Qxd6 10. f3 Nf6 11. Nge2 Nbd7 12. Ng3 Qe6 13. Nxf5 Qxf5 14. Bd3 Qe6
+15. O-O O-O 16. Bc2 Rad8 17. Rae1 Qd6 18. a3 a6 19. Kh1 Nb6 20. Qf2 Nc4 21. Bd3
+b5 22. e4 dxe4 23. fxe4 Ng4 24. Qh4 Nxb2 25. e5 Qxd4 26. Ne4 Nxd3 27. Qxg4 Nxe1
+28. Qh4 f5 29. exf6 Nd3 30. h3 Rf7 31. Qg4 Re8 32. Ng5 0-1
+
+[Event "CN Equipas 2015 - 1. div"]
+[Site "Matosinhos POR"]
+[Date "2015.08.21"]
+[Round "8.2.3"]
+[White "Diogo, Vasco"]
+[Black "Cruz, Jorge"]
+[Result "0-1"]
+[ECO "B27"]
+[WhiteElo "2240"]
+[BlackElo "2024"]
+[WhiteFideId "1902628"]
+[BlackFideId "1903977"]
+[WhiteTeam "AA Coimbra"]
+[BlackTeam "CX Montemor-o-Velho"]
+[WhiteTitle "FM"]
+[PlyCount "56"]
+[EventDate "2015.??.??"]
+
+1. e4 c5 2. Nf3 g6 3. d4 cxd4 4. Qxd4 Nf6 5. e5 Nc6 6. Qa4 Nd5 7. Qe4 Nb6 8.
+Bf4 d5 9. exd6 Bf5 10. Qe2 Nd5 11. Be5 f6 12. Nc3 Ndb4 13. O-O-O Bh6+ 14. Nd2
+fxe5 15. dxe7 Qxe7 16. a3 Nxc2 17. g4 N6d4 18. Qc4 Rc8 19. Qa4+ Bd7 20. Qxa7
+O-O 21. Kb1 Nxa3+ 22. bxa3 Rxc3 23. Qa5 Rxa3 24. Bc4+ Kh8 25. Qb6 Bxg4 26. Ne4
+Bxd1 27. Rxd1 Rff3 28. Nd6 Rab3+ 0-1
+
+[Event "CN Equipas 2015 - 1. div"]
+[Site "Matosinhos POR"]
+[Date "2015.08.21"]
+[Round "8.2.4"]
+[White "Cavaleiro, Daniel"]
+[Black "Gasik, Anna"]
+[Result "1/2-1/2"]
+[ECO "A44"]
+[WhiteElo "1900"]
+[BlackElo "2198"]
+[WhiteFideId "1904663"]
+[BlackFideId "1121952"]
+[WhiteTeam "CX Montemor-o-Velho"]
+[BlackTeam "AA Coimbra"]
+[BlackTitle "WIM"]
+[PlyCount "69"]
+[EventDate "2015.??.??"]
+
+1. d4 c5 2. d5 e5 3. c4 d6 4. e4 Be7 5. Nc3 Bg5 6. Bxg5 Qxg5 7. Qa4+ Kf8 8. h4
+Qe7 9. g3 Nh6 10. Bh3 Bd7 11. Qb3 Bxh3 12. Nxh3 g6 13. Ng5 Kg7 14. Rf1 Nd7 15.
+Qc2 Rhb8 16. Qe2 Nf8 17. f4 exf4 18. gxf4 Re8 19. Nf3 Nd7 20. O-O-O f5 21. Ng5
+Kg8 22. h5 Nf6 23. hxg6 hxg6 24. Ne6 a6 25. Rh1 Nfg4 26. exf5 gxf5 27. Rdg1 Qf6
+28. Qd3 Kf7 29. Rxg4 Nxg4 30. Rh7+ Kg8 31. Qh3 Re7 32. Rh5 Kf7 33. Rh7+ Kg8 34.
+Rh5 Kf7 35. Rh7+ 1/2-1/2
+
+[Event "CN Equipas 2015 - 1. div"]
+[Site "Matosinhos POR"]
+[Date "2015.08.21"]
+[Round "8.3.1"]
+[White "Fidalgo, André"]
+[Black "Aguiar, Henrique"]
+[Result "0-1"]
+[ECO "B36"]
+[WhiteElo "2058"]
+[BlackElo "2188"]
+[WhiteFideId "1933620"]
+[BlackFideId "1908545"]
+[WhiteTeam "Santoantoniense FC"]
+[BlackTeam "AEJ S. João da Madeira"]
+[PlyCount "114"]
+[EventDate "2015.??.??"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 g6 5. c4 Nf6 6. Nc3 d6 7. f3 Bg7 8. Be3
+O-O 9. Qd2 a5 10. Be2 a4 11. O-O Qa5 12. Rab1 Nxd4 13. Bxd4 Be6 14. b4 axb3 15.
+axb3 Qb4 16. Qd3 Nd7 17. Bxg7 Kxg7 18. Qd4+ f6 19. Nb5 Ra2 20. Rb2 Rxb2 21.
+Qxb2 Nc5 22. Rb1 Ra8 23. h4 Ra5 24. Kh2 Bd7 25. Nc3 Ra3 26. Nd5 Qxb3 27. Qc1
+Qa2 28. Rb2 Qa1 29. Qxa1 Rxa1 30. Nxe7 Be6 31. g4 Kf7 32. Nd5 h6 33. Nc3 Ke7
+34. Nb5 Bd7 35. Nc3 Bc6 36. Kg2 g5 37. hxg5 hxg5 38. Kf2 Ke6 39. Nb5 Bxb5 40.
+cxb5 Ra4 41. Rc2 Ke5 42. Rd2 Rd4 43. Ra2 Kf4 44. Ra3 Rd2 45. Ke1 Rb2 46. Kf2
+Rc2 47. Ra8 Nd3+ 48. Kf1 Nc1 49. Bd1 Rh2 50. Rf8 Kg3 51. Ke1 Nd3+ 52. Kf1 Rf2+
+53. Kg1 Nf4 54. Rh8 Rd2 55. Bb3 Rb2 56. Bc4 Rb1+ 57. Bf1 Ne2+ 0-1
+
+[Event "CN Equipas 2015 - 1. div"]
+[Site "Matosinhos POR"]
+[Date "2015.08.21"]
+[Round "8.3.2"]
+[White "Pires, Gustavo"]
+[Black "Sousa, Ricardo"]
+[Result "0-1"]
+[ECO "E61"]
+[WhiteElo "2098"]
+[BlackElo "2091"]
+[WhiteFideId "1903250"]
+[BlackFideId "1903713"]
+[WhiteTeam "AEJ S. João da Madeira"]
+[BlackTeam "Santoantoniense FC"]
+[PlyCount "82"]
+[EventDate "2015.??.??"]
+
+1. d4 g6 2. c4 Nf6 3. Nc3 Bg7 4. Nf3 O-O 5. Bg5 d6 6. e3 Nbd7 7. Be2 e5 8. Qc2
+c6 9. O-O Qe7 10. Rfd1 h6 11. Bh4 g5 12. Bg3 e4 13. Nd2 Re8 14. b4 Nf8 15. c5
+d5 16. b5 Bg4 17. Bxg4 Nxg4 18. h3 Nf6 19. bxc6 bxc6 20. Qa4 Qd7 21. Rab1 h5
+22. Nb3 h4 23. Bd6 a5 24. Nd2 Ra6 25. Nf1 g4 26. hxg4 Nxg4 27. Ne2 Ng6 28. Nf4
+Nxf4 29. Bxf4 Re6 30. Rb6 Ra8 31. Rdb1 Rg6 32. Rb8+ Rxb8 33. Rxb8+ Kh7 34. Qxa5
+Nf6 35. Nh2 Nh5 36. Qc7 Qe6 37. Rb7 Nxf4 38. Qxf4 Qh3 39. g3 hxg3 40. Nf1 gxf2+
+41. Kxf2 Rf6 0-1
+
+[Event "CN Equipas 2015 - 1. div"]
+[Site "Matosinhos POR"]
+[Date "2015.08.21"]
+[Round "8.3.3"]
+[White "Parreira, André"]
+[Black "Silva, Stéphane"]
+[Result "1-0"]
+[ECO "B38"]
+[WhiteElo "1868"]
+[BlackElo "2126"]
+[WhiteFideId "1911368"]
+[BlackFideId "1900846"]
+[WhiteTeam "Santoantoniense FC"]
+[BlackTeam "AEJ S. João da Madeira"]
+[BlackTitle "NM"]
+[PlyCount "51"]
+[EventDate "2015.??.??"]
+
+1. Nf3 c5 2. c4 Nc6 3. d4 cxd4 4. Nxd4 g6 5. e4 Bg7 6. Be3 Nf6 7. Nc3 d6 8. Be2
+O-O 9. O-O Bd7 10. Rc1 Nxd4 11. Bxd4 Bc6 12. Bf3 Nd7 13. Bxg7 Kxg7 14. Qd4+ Kg8
+15. Be2 a5 16. Nd5 Rc8 17. Rfd1 h5 18. Qe3 Bxd5 19. Rxd5 Qb6 20. Qxb6 Nxb6 21.
+Rxa5 Ra8 22. Rb5 Ra6 23. a3 Rb8 24. c5 dxc5 25. Rcxc5 Na8 26. Rxb7 1-0
+
+[Event "CN Equipas 2015 - 1. div"]
+[Site "Matosinhos POR"]
+[Date "2015.08.21"]
+[Round "8.3.4"]
+[White "Castro, Francisco"]
+[Black "Correia, Jorge"]
+[Result "0-1"]
+[ECO "B30"]
+[WhiteElo "2117"]
+[BlackElo "1770"]
+[WhiteFideId "1903080"]
+[BlackFideId "1915932"]
+[WhiteTeam "AEJ S. João da Madeira"]
+[BlackTeam "Santoantoniense FC"]
+[PlyCount "60"]
+[EventDate "2015.??.??"]
+
+1. e4 c5 2. Nf3 Nc6 3. Nc3 a6 4. d4 cxd4 5. Nxd4 d6 6. Bc4 Nf6 7. Nxc6 bxc6 8.
+e5 d5 9. exf6 dxc4 10. Qxd8+ Kxd8 11. fxe7+ Bxe7 12. Bf4 Be6 13. O-O-O+ Kc8 14.
+Be5 Kb7 15. Ne4 Bd5 16. Rhe1 Rhe8 17. f3 f6 18. Bd6 Bxe4 19. Rxe4 Bxd6 20. Rxd6
+Rxe4 21. fxe4 Kc7 22. Rd4 c3 23. bxc3 Re8 24. Ra4 Kb6 25. Kd2 c5 26. Kd3 Kb5
+27. Ra3 c4+ 28. Kd4 Rd8+ 29. Ke3 Rd1 30. Ke2 Rc1 0-1
+
+[Event "CN Equipas 2015 - 1. div"]
+[Site "Matosinhos POR"]
+[Date "2015.08.21"]
+[Round "8.4.1"]
+[White "Ferreira, Jorge"]
+[Black "Iturrizaga, Eduardo"]
+[Result "1-0"]
+[ECO "E15"]
+[WhiteElo "2447"]
+[BlackElo "2625"]
+[WhiteFideId "1910850"]
+[BlackFideId "3901211"]
+[WhiteTeam "GD Dias Ferreira"]
+[BlackTeam "AX Gaia"]
+[WhiteTitle "IM"]
+[BlackTitle "GM"]
+[PlyCount "96"]
+[EventDate "2015.??.??"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Bb7 5. Bg2 g6 6. O-O Bg7 7. Nc3 Ne4 8. Nxe4
+Bxe4 9. Bg5 Qc8 10. Qd2 h6 11. Be3 d6 12. d5 Nd7 13. dxe6 fxe6 14. Nd4 Bxg2 15.
+Kxg2 Nf6 16. Qd3 Kf7 17. b4 e5 18. Nb5 Qb7+ 19. Kg1 Rhe8 20. Rac1 Rad8 21. Qb3
+a6 22. Nc3 Kg8 23. Rfd1 Kh7 24. Nd5 c6 25. Nxf6+ Bxf6 26. b5 axb5 27. cxb5 c5
+28. Rd5 Rf8 29. Rcd1 Be7 30. h4 Rf6 31. Qc4 Ra8 32. a4 Qc8 33. Qe4 Ra7 34. g4
+Qa8 35. Ra1 Rf8 36. h5 Qe8 37. Kg2 Kg7 38. Rh1 Rh8 39. f4 exf4 40. Bxf4 g5 41.
+Bg3 Rf8 42. Rhd1 Bf6 43. Qc2 Qe6 44. Rxd6 Qxg4 45. Qg6+ Kh8 46. Rxf6 Qxe2+ 47.
+Kh3 Rg8 48. Rd8 g4+ 1-0
+
+[Event "CN Equipas 2015 - 1. div"]
+[Site "Matosinhos POR"]
+[Date "2015.08.21"]
+[Round "8.4.2"]
+[White "Ftacnik, Lubomir"]
+[Black "Gonzalez Perez, Arian"]
+[Result "1-0"]
+[ECO "D48"]
+[WhiteElo "2555"]
+[BlackElo "2440"]
+[WhiteFideId "14900017"]
+[BlackFideId "3507777"]
+[WhiteTeam "AX Gaia"]
+[BlackTeam "GD Dias Ferreira"]
+[WhiteTitle "GM"]
+[BlackTitle "FM"]
+[PlyCount "77"]
+[EventDate "2015.??.??"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 e6 5. e3 Nbd7 6. Bd3 dxc4 7. Bxc4 b5 8. Bd3
+a6 9. a4 b4 10. Ne4 Bb7 11. Ned2 c5 12. O-O cxd4 13. exd4 Be7 14. Nc4 O-O 15.
+Bf4 a5 16. Nd6 Bxd6 17. Bxd6 Re8 18. Rc1 Nd5 19. Qe2 N7f6 20. Be5 Rc8 21. Bb5
+Rf8 22. Nd2 Rxc1 23. Rxc1 Qa8 24. Rc5 Rc8 25. Nc4 Rxc5 26. dxc5 Bc6 27. Nb6
+Nxb6 28. cxb6 Bxg2 29. Bxf6 Bf3 30. Qe5 gxf6 31. Qxf6 Qd5 32. h3 Qd1+ 33. Bf1
+h6 34. Qxh6 Be2 35. Qg5+ Kh7 36. Qh4+ Kg7 37. Qg3+ Kh7 38. b7 Qxf1+ 39. Kh2 1-0
+
+[Event "CN Equipas 2015 - 1. div"]
+[Site "Matosinhos POR"]
+[Date "2015.08.21"]
+[Round "8.4.3"]
+[White "Martinez, Lelys"]
+[Black "Strikovic, Aleksa"]
+[Result "1/2-1/2"]
+[ECO "C88"]
+[WhiteElo "2450"]
+[BlackElo "2509"]
+[WhiteFideId "3504727"]
+[BlackFideId "900150"]
+[WhiteTeam "GD Dias Ferreira"]
+[BlackTeam "AX Gaia"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[PlyCount "129"]
+[EventDate "2015.??.??"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. d4
+d6 9. dxe5 Nxe5 10. Nbd2 Bb7 11. Nxe5 dxe5 12. Qf3 Nd7 13. Nf1 Nc5 14. Ng3 Nxb3
+15. axb3 Re8 16. Nf5 Bf8 17. Rd1 Qc8 18. Qg4 Kh8 19. Rd3 Re6 20. Be3 Rd6 21.
+Rad1 Rxd3 22. Rxd3 Qe6 23. Qh4 f6 24. f3 g6 25. Nh6 Be7 26. h3 Rd8 27. Rxd8+
+Bxd8 28. Bc5 Kg7 29. Qf2 Qe8 30. Qd2 Bc8 31. Ng4 Be6 32. b4 Be7 33. Qh6+ Kg8
+34. Qe3 Bxg4 35. hxg4 Qd7 36. Qb3+ Kg7 37. Qd5 Qxd5 38. exd5 Bd8 39. Kf2 f5 40.
+b3 h5 41. gxf5 gxf5 42. c4 Kf7 43. Be3 Ke8 44. c5 Kd7 45. Bd2 c6 46. d6 Ke6 47.
+g3 Bf6 48. Ke2 Bd8 49. Bc3 Bf6 50. Ke3 Bd8 51. Kf2 Bf6 52. Kg2 Bd8 53. Bd2 Bf6
+54. Kh3 Bd8 55. g4 hxg4+ 56. fxg4 f4 57. Be1 e4 58. Kg2 Bg5 59. Kf2 Kd5 60. Bc3
+Ke6 61. Ke2 f3+ 62. Kf2 Bh4+ 63. Ke3 Bg5+ 64. Kf2 Bh4+ 65. Ke3 1/2-1/2
+
+[Event "CN Equipas 2015 - 1. div"]
+[Site "Matosinhos POR"]
+[Date "2015.08.21"]
+[Round "8.4.4"]
+[White "Hoffman, Alejandro"]
+[Black "Bernal Moro, Luis"]
+[Result "1/2-1/2"]
+[ECO "E92"]
+[WhiteElo "2433"]
+[BlackElo "2435"]
+[WhiteFideId "100340"]
+[BlackFideId "2200236"]
+[WhiteTeam "AX Gaia"]
+[BlackTeam "GD Dias Ferreira"]
+[WhiteTitle "GM"]
+[BlackTitle "IM"]
+[PlyCount "67"]
+[EventDate "2015.??.??"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 e5 7. d5 a5 8. Bg5 h6
+9. Bh4 Na6 10. Nd2 Bd7 11. O-O Nc5 12. b3 c6 13. f3 Qb8 14. Bf2 Nh5 15. g3 f5
+16. a3 fxe4 17. Ndxe4 Nxe4 18. Nxe4 Nf6 19. Bd3 cxd5 20. cxd5 Nxe4 21. Bxe4 Bf5
+22. Rc1 Qd8 23. Qd3 a4 24. b4 Qd7 25. Be3 h5 26. Rf2 Rac8 27. Rfc2 Kh7 28. Kg2
+Bxe4 29. Qxe4 Bh6 30. Bxh6 Kxh6 31. Qe3+ Kh7 32. h4 Rxc2+ 33. Rxc2 Rc8 34. Qe4
+1/2-1/2
+
+[Event "CN Equipas 2015 - 1. div"]
+[Site "Matosinhos POR"]
+[Date "2015.08.21"]
+[Round "8.5.1"]
+[White "Getz, Nicolai"]
+[Black "Stopa, Jacek"]
+[Result "1-0"]
+[ECO "C96"]
+[WhiteElo "2386"]
+[BlackElo "2544"]
+[WhiteFideId "1505572"]
+[BlackFideId "1119591"]
+[WhiteTeam "ADRC Mata de Benfica"]
+[BlackTeam "GX Porto"]
+[WhiteTitle "IM"]
+[BlackTitle "GM"]
+[PlyCount "85"]
+[EventDate "2015.??.??"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3
+O-O 9. h3 Na5 10. Bc2 c5 11. d4 Nd7 12. Nbd2 exd4 13. cxd4 Nc6 14. dxc5 dxc5
+15. e5 Bb7 16. Qe2 Nd4 17. Nxd4 cxd4 18. Qd3 g6 19. Nb3 Qc7 20. Bf4 f6 21. Nxd4
+fxe5 22. Bg3 Kh8 23. Bb3 Bf6 24. Ne6 Qc6 25. Qf1 Rfc8 26. Rad1 Nc5 27. Bd5 Qb6
+28. Nxc5 Rxc5 29. Bxb7 Qxb7 30. Rd6 Bg7 31. Qd3 Re8 32. Re4 a5 33. Rd7 Qc6 34.
+Kh2 Rc4 35. f3 Rc1 36. h4 Qc5 37. Rd8 Qg1+ 38. Kh3 Rc8 39. Rxe8+ Rxe8 40. Qxb5
+Qh1+ 41. Bh2 Rf8 42. Qe2 Rc8 43. Rxe5 1-0
+
+[Event "CN Equipas 2015 - 1. div"]
+[Site "Matosinhos POR"]
+[Date "2015.08.21"]
+[Round "8.5.2"]
+[White "Sousa, André V"]
+[Black "Andrade, José"]
+[Result "1-0"]
+[ECO "C02"]
+[WhiteElo "2266"]
+[BlackElo "2199"]
+[WhiteFideId "1917617"]
+[BlackFideId "1900986"]
+[WhiteTeam "GX Porto"]
+[BlackTeam "ADRC Mata de Benfica"]
+[BlackTitle "FM"]
+[PlyCount "102"]
+[EventDate "2015.??.??"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. a3 Bd7 7. b4 cxd4 8. cxd4
+Rc8 9. Be3 Nh6 10. Bd3 Ng4 11. O-O Nxe3 12. fxe3 Be7 13. Ra2 h6 14. Kh1 Nb8 15.
+b5 a6 16. a4 O-O 17. g4 Qa5 18. g5 h5 19. g6 fxg6 20. Rg1 Bxb5 21. Bxg6 Be8 22.
+Bxe8 Rcxe8 23. Rag2 Rf7 24. Nfd2 Bf8 25. Qxh5 Qxa4 26. Nf3 Rxf3 27. Qxf3 Re7
+28. Nd2 Qe8 29. Qh3 Qb5 30. Rg4 Qd3 31. Rh4 Kf7 32. Rf1+ Ke8 33. Rhf4 Nd7 34.
+Rc1 Kd8 35. Qf3 Re8 36. Qf2 Be7 37. Rf7 a5 38. Nf1 a4 39. Rxg7 a3 40. Qd2 Qe4+
+41. Rg2 Bh4 42. Qa5+ b6 43. Qa8+ Ke7 44. Qxa3+ Kd8 45. Kg1 Qh7 46. Qd6 Rg8 47.
+Qxe6 Rxg2+ 48. Kxg2 Qe4+ 49. Kg1 Qh7 50. Qxd5 Qg7+ 51. Qg2 Qf7 1-0
+
+[Event "CN Equipas 2015 - 1. div"]
+[Site "Matosinhos POR"]
+[Date "2015.08.21"]
+[Round "8.5.3"]
+[White "Guerra, Vítor"]
+[Black "Guimarães, Jorge"]
+[Result "1/2-1/2"]
+[ECO "A46"]
+[WhiteElo "2119"]
+[BlackElo "2254"]
+[WhiteFideId "1901095"]
+[BlackFideId "1900137"]
+[WhiteTeam "ADRC Mata de Benfica"]
+[BlackTeam "GX Porto"]
+[WhiteTitle "NM"]
+[BlackTitle "FM"]
+[PlyCount "32"]
+[EventDate "2015.??.??"]
+
+1. d4 Nf6 2. Nf3 e6 3. g3 Be7 4. Bg2 d5 5. c4 O-O 6. O-O dxc4 7. Ne5 Nc6 8.
+Nxc6 bxc6 9. e4 Rb8 10. Nc3 c5 11. d5 exd5 12. e5 c6 13. exf6 Bxf6 14. Qa4 Qb6
+15. Bf4 Rb7 16. Nxd5 cxd5 1/2-1/2
+
+[Event "CN Equipas 2015 - 1. div"]
+[Site "Matosinhos POR"]
+[Date "2015.08.21"]
+[Round "8.5.4"]
+[White "Silva, António"]
+[Black "Guerreiro, Nuno"]
+[Result "1/2-1/2"]
+[ECO "A20"]
+[WhiteElo "2150"]
+[BlackElo "2106"]
+[WhiteFideId "1900293"]
+[BlackFideId "1903012"]
+[WhiteTeam "GX Porto"]
+[BlackTeam "ADRC Mata de Benfica"]
+[WhiteTitle "NM"]
+[PlyCount "82"]
+[EventDate "2015.??.??"]
+
+1. c4 e5 2. g3 Nc6 3. Bg2 Bc5 4. Nc3 Nf6 5. a3 a6 6. e3 O-O 7. Nge2 Re8 8. O-O
+d6 9. d4 Ba7 10. h3 Ne7 11. b4 Ng6 12. Qc2 Bd7 13. Kh2 Qc8 14. c5 Rb8 15. Bb2
+d5 16. dxe5 Nxe5 17. Nd4 c6 18. Rae1 b6 19. Na4 bxc5 20. Nxc5 Bxc5 21. bxc5 Nc4
+22. Bc1 Ne4 23. Bxe4 Rxe4 24. f3 Re8 25. g4 Qc7+ 26. Kg2 Qa5 27. e4 Qxc5 28.
+Qc3 a5 29. Kh1 Qb6 30. Rg1 Qc7 31. f4 f6 32. g5 fxg5 33. Rxg5 Be6 34. Reg1 g6
+35. f5 Bf7 36. fxg6 Bxg6 37. Rxg6+ hxg6 38. Rxg6+ Kh7 39. Rh6+ Kg8 40. Rg6+ Kh7
+41. Rh6+ Kg8 1/2-1/2
+
+[Event "CN Equipas 2015 - 1. div"]
+[Site "Matosinhos POR"]
+[Date "2015.08.22"]
+[Round "9.1.1"]
+[White "Sousa, André V"]
+[Black "Silva, Luís M"]
+[Result "0-1"]
+[ECO "B10"]
+[WhiteElo "2266"]
+[BlackElo "2334"]
+[WhiteFideId "1917617"]
+[BlackFideId "1919121"]
+[WhiteTeam "GX Porto"]
+[BlackTeam "CX A2D"]
+[BlackTitle "FM"]
+[PlyCount "82"]
+[EventDate "2015.??.??"]
+
+1. e4 c6 2. Nc3 d5 3. Nf3 Nf6 4. e5 Ne4 5. Qe2 Nxc3 6. dxc3 e6 7. Be3 Nd7 8. h4
+h6 9. Qd2 Qc7 10. Bf4 Qb6 11. b3 a5 12. a4 Nc5 13. Be3 Qc7 14. Bxc5 Bxc5 15. h5
+O-O 16. Rd1 f6 17. exf6 Rxf6 18. c4 Bd7 19. Be2 Raf8 20. O-O Be8 21. cxd5 exd5
+22. Nd4 Ba7 23. g3 Bd7 24. f4 g5 25. hxg6 Rxg6 26. Kh2 Kh8 27. Qc3 Rg7 28. Nb5
+Qb6 29. Nxa7 Qxa7 30. f5 Rxf5 31. Rxf5 Bxf5 32. Rf1 d4 33. Qe1 Qc5 34. Bc4 Bg6
+35. Qe6 Kh7 36. Rf6 Qh5+ 37. Kg2 Bxc2 38. Be2 Qg5 39. Bg4 h5 40. Qe8 Qxg4 41.
+Rf8 Qxg3+ 0-1
+
+[Event "CN Equipas 2015 - 1. div"]
+[Site "Matosinhos POR"]
+[Date "2015.08.22"]
+[Round "9.1.2"]
+[White "Gomes, Bruno"]
+[Black "Guimarães, Jorge"]
+[Result "1/2-1/2"]
+[ECO "B33"]
+[WhiteElo "2262"]
+[BlackElo "2254"]
+[WhiteFideId "1908154"]
+[BlackFideId "1900137"]
+[WhiteTeam "CX A2D"]
+[BlackTeam "GX Porto"]
+[WhiteTitle "CM"]
+[BlackTitle "FM"]
+[PlyCount "69"]
+[EventDate "2015.??.??"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. Bg5 a6 8.
+Na3 b5 9. Nd5 Be7 10. Bxf6 Bxf6 11. c3 O-O 12. Nc2 Bg5 13. h4 Bh6 14. g4 Bf4
+15. Qf3 Be6 16. Nxf4 Qf6 17. O-O-O Rfd8 18. g5 Qxf4+ 19. Qxf4 exf4 20. Kb1 Bg4
+21. Re1 Ne5 22. Nd4 Re8 23. Be2 f3 24. Bf1 g6 25. Kc2 Re7 26. Rg1 Bh5 27. Re3
+h6 28. gxh6 Kh7 29. b3 Kxh6 30. Bh3 Rb8 31. Kb2 Rc7 32. Nc2 a5 33. Rd1 Rb6 34.
+Rd5 Rc5 35. Rd4 1/2-1/2
+
+[Event "CN Equipas 2015 - 1. div"]
+[Site "Matosinhos POR"]
+[Date "2015.08.22"]
+[Round "9.1.3"]
+[White "Silva, António"]
+[Black "Dias, Ivo"]
+[Result "1/2-1/2"]
+[ECO "A13"]
+[WhiteElo "2150"]
+[BlackElo "2122"]
+[WhiteFideId "1900293"]
+[BlackFideId "1901680"]
+[WhiteTeam "GX Porto"]
+[BlackTeam "CX A2D"]
+[WhiteTitle "NM"]
+[BlackTitle "CM"]
+[PlyCount "19"]
+[EventDate "2015.??.??"]
+
+1. c4 e6 2. g3 Nf6 3. Nf3 b6 4. Bg2 Bb7 5. O-O Be7 6. b3 O-O 7. Bb2 c5 8. Nc3
+d6 9. d4 cxd4 10. Qxd4 1/2-1/2
+
+[Event "CN Equipas 2015 - 1. div"]
+[Site "Matosinhos POR"]
+[Date "2015.08.22"]
+[Round "9.1.4"]
+[White "Macedo, Adriano"]
+[Black "Ferreira, Paulo"]
+[Result "1-0"]
+[ECO "B90"]
+[WhiteElo "1820"]
+[BlackElo "2040"]
+[WhiteFideId "1932187"]
+[BlackFideId "1900820"]
+[WhiteTeam "CX A2D"]
+[BlackTeam "GX Porto"]
+[BlackTitle "NM"]
+[PlyCount "107"]
+[EventDate "2015.??.??"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. Bb3 Be7 8. g4
+Nc6 9. g5 Nxd4 10. Qxd4 Nh5 11. Rg1 O-O 12. Be3 b5 13. O-O-O Qc7 14. f4 Re8 15.
+Qd3 d5 16. f5 b4 17. Nxd5 exd5 18. Qxd5 Bxg5 19. Rxg5 Bb7 20. Qxf7+ Qxf7 21.
+Bxf7+ Kxf7 22. Rxh5 Bxe4 23. Rd7+ Re7 24. Rxe7+ Kxe7 25. Bc5+ Kf6 26. Bd4+ Kf7
+27. Rxh7 Rg8 28. Rh5 Rd8 29. c3 bxc3 30. bxc3 Rb8 31. Rg5 Rg8 32. Kd2 g6 33. f6
+Bf5 34. Rg2 Be6 35. Kd3 Re8 36. Rb2 Bf5+ 37. Kc4 Be6+ 38. Kc5 Rc8+ 39. Kd6 Rd8+
+40. Ke5 Bc4 41. Rb7+ Ke8 42. Re7+ Kf8 43. a3 Rd5+ 44. Ke4 Rf5 45. Be5 Ba2 46.
+Ra7 Bc4 47. Kd4 Bf1 48. c4 Rf3 49. Rxa6 Rd3+ 50. Kc5 Rd7 51. Kc6 Bh3 52. Rb6
+Ke8 53. Rb8+ Kf7 54. Rb7 1-0
+
+[Event "CN Equipas 2015 - 1. div"]
+[Site "Matosinhos POR"]
+[Date "2015.08.22"]
+[Round "9.2.1"]
+[White "Iturrizaga, Eduardo"]
+[Black "Getz, Nicolai"]
+[Result "1-0"]
+[ECO "D37"]
+[WhiteElo "2625"]
+[BlackElo "2386"]
+[WhiteFideId "3901211"]
+[BlackFideId "1505572"]
+[WhiteTeam "AX Gaia"]
+[BlackTeam "ADRC Mata de Benfica"]
+[WhiteTitle "GM"]
+[BlackTitle "IM"]
+[PlyCount "127"]
+[EventDate "2015.??.??"]
+
+1. Nf3 e6 2. c4 d5 3. d4 Nf6 4. Nc3 b6 5. Bg5 Be7 6. Qa4+ c6 7. cxd5 Nxd5 8.
+Bxe7 Nxc3 9. Qxc6+ Nxc6 10. Bxd8 Ne4 11. Bh4 Nb4 12. Kd1 Bd7 13. Ne1 g5 14. f3
+gxh4 15. fxe4 Rg8 16. a3 Nc6 17. e3 e5 18. Nf3 Rg4 19. d5 Na5 20. Nd2 Rc8 21.
+a4 Rc7 22. Rg1 Ke7 23. Bd3 Nb7 24. Ke2 Nd6 25. h3 Rg3 26. Kf2 f5 27. Rgc1 Rxc1
+28. Rxc1 f4 29. Nf1 fxe3+ 30. Nxe3 Kd8 31. Bc2 h5 32. Nf1 Rg6 33. Nd2 Rf6+ 34.
+Ke2 Rf4 35. b3 Bc8 36. Ke3 Rf7 37. Nf3 Rg7 38. Rg1 Rc7 39. Kd2 Rg7 40. Bd3 Nb7
+41. Ke3 Nc5 42. Bc2 Ke7 43. b4 Na6 44. b5 Nb4 45. Bd1 Kd6 46. Nxh4 Bxh3 47.
+Bxh5 Nc2+ 48. Kf2 Bd7 49. g4 Nd4 50. Nf3 Nb3 51. Ke3 Nc5 52. Nd2 Rg5 53. Nc4+
+Ke7 54. Rf1 Bxg4 55. d6+ Ke6 56. Bf7+ Kd7 57. Bd5 Bh5 58. Rf6 Rg3+ 59. Kf2 Rg8
+60. Nxe5+ Kd8 61. Rh6 Re8 62. Nc6+ Kd7 63. Ke3 Bd1 64. e5 1-0
+
+[Event "CN Equipas 2015 - 1. div"]
+[Site "Matosinhos POR"]
+[Date "2015.08.22"]
+[Round "9.2.2"]
+[White "Andrade, José"]
+[Black "Ftacnik, Lubomir"]
+[Result "1/2-1/2"]
+[ECO "B21"]
+[WhiteElo "2199"]
+[BlackElo "2555"]
+[WhiteFideId "1900986"]
+[BlackFideId "14900017"]
+[WhiteTeam "ADRC Mata de Benfica"]
+[BlackTeam "AX Gaia"]
+[WhiteTitle "FM"]
+[BlackTitle "GM"]
+[PlyCount "71"]
+[EventDate "2015.??.??"]
+
+1. e4 c5 2. d4 cxd4 3. c3 d3 4. Bxd3 Nc6 5. c4 g6 6. Nf3 Bg7 7. O-O d6 8. h3
+Nf6 9. Nc3 O-O 10. Be3 Nd7 11. Rc1 Nc5 12. Bb1 a5 13. Qe2 a4 14. e5 Nxe5 15.
+Nxe5 Bxe5 16. Bxc5 Bxc3 17. Bxd6 Bxb2 18. Bxe7 Re8 19. Qxb2 Qxe7 20. c5 a3 21.
+Qb4 Qc7 22. Be4 Qa5 23. Qd4 Rd8 24. Qe5 Be6 25. Bxb7 Ra7 26. Qe4 Bxa2 27. c6
+Bd5 28. Qf4 Rf8 29. Qd4 Be6 30. f4 a2 31. Kh2 Bc8 32. Qb2 Qc7 33. Ra1 Bxb7 34.
+cxb7 Rxb7 35. Qxa2 Rb4 36. Qf2 1/2-1/2
+
+[Event "CN Equipas 2015 - 1. div"]
+[Site "Matosinhos POR"]
+[Date "2015.08.22"]
+[Round "9.2.3"]
+[White "Strikovic, Aleksa"]
+[Black "Galvão, Henrique"]
+[Result "1-0"]
+[ECO "A34"]
+[WhiteElo "2509"]
+[BlackElo "2201"]
+[WhiteFideId "900150"]
+[BlackFideId "1901214"]
+[WhiteTeam "AX Gaia"]
+[BlackTeam "ADRC Mata de Benfica"]
+[WhiteTitle "GM"]
+[BlackTitle "NM"]
+[PlyCount "104"]
+[EventDate "2015.??.??"]
+
+1. c4 c5 2. Nf3 Nf6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nb4 6. Bc4 Nd3+ 7. Ke2 Nxc1+
+8. Rxc1 Nc6 9. Bb5 Bd7 10. d4 cxd4 11. Nxd4 e5 12. Nxc6 bxc6 13. Ba4 Be7 14.
+Qd3 Bg4+ 15. f3 Qxd3+ 16. Kxd3 Bd7 17. Nb1 O-O-O 18. Ke2 Kb7 19. Rc3 Rc8 20.
+Nd2 Be6 21. Bb3 Bxb3 22. Rxb3+ Ka8 23. Nc4 f6 24. Rc1 Rhd8 25. Na5 c5 26. Rb7
+Bf8 27. Rf7 Rd6 28. Nc4 Rd4 29. Ne3 Rb4 30. b3 Rb7 31. Rxb7 Kxb7 32. Rd1 Kc6
+33. Rd5 g6 34. g4 Be7 35. Kd3 Rd8 36. Kc4 a6 37. a3 Rxd5 38. exd5+ Kd6 39. Kd3
+Kd7 40. Ke4 Bd6 41. h3 Kc7 42. a4 Kd7 43. Nf1 Bc7 44. Ne3 Bd6 45. Nc4 Kc7 46.
+h4 Kd7 47. h5 Ke7 48. Ne3 Kd7 49. Nf1 Ke7 50. Ng3 Kd7 51. Kd3 Kc7 52. Kc4 Kb6
+1-0
+
+[Event "CN Equipas 2015 - 1. div"]
+[Site "Matosinhos POR"]
+[Date "2015.08.22"]
+[Round "9.2.4"]
+[White "Guerreiro, Nuno"]
+[Black "Hoffman, Alejandro"]
+[Result "0-1"]
+[ECO "B51"]
+[WhiteElo "2106"]
+[BlackElo "2433"]
+[WhiteFideId "1903012"]
+[BlackFideId "100340"]
+[WhiteTeam "ADRC Mata de Benfica"]
+[BlackTeam "AX Gaia"]
+[BlackTitle "GM"]
+[PlyCount "90"]
+[EventDate "2015.??.??"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Nd7 4. O-O a6 5. Bxd7+ Bxd7 6. h3 Nf6 7. d3 g6 8.
+Nh4 e5 9. Qe1 Nh5 10. Nf3 Bg7 11. b4 O-O 12. bxc5 dxc5 13. Bb2 Re8 14. Nc3 Bc6
+15. Ne2 f5 16. Ng3 Nxg3 17. fxg3 c4 18. Qc3 fxe4 19. dxe4 Bxe4 20. Kh2 Qc7 21.
+Rae1 Qc6 22. Re3 b5 23. Rfe1 Bxf3 24. gxf3 Ra7 25. Re4 Rf7 26. R1e3 Rxf3 27.
+Rxf3 Qxe4 28. Re3 Qd5 29. Qe1 Rd8 30. Bc3 Qd1 31. Qf2 e4 32. Ba5 Rf8 33. Qg2
+Bd4 34. Re1 Qf3 35. Rxe4 Qxg2+ 36. Kxg2 Rf2+ 37. Kh1 Bc5 38. a4 Rxc2 39. axb5
+axb5 40. Re5 Bd6 41. Rxb5 Bxg3 42. Rb7 c3 43. Bd8 Rh2+ 44. Kg1 Rb2 45. Rd7 Rd2
+0-1
+
+[Event "CN Equipas 2015 - 1. div"]
+[Site "Matosinhos POR"]
+[Date "2015.08.22"]
+[Round "9.3.1"]
+[White "Aguiar, Henrique"]
+[Black "Ferreira, Jorge"]
+[Result "0-1"]
+[ECO "B11"]
+[WhiteElo "2188"]
+[BlackElo "2447"]
+[WhiteFideId "1908545"]
+[BlackFideId "1910850"]
+[WhiteTeam "AEJ S. João da Madeira"]
+[BlackTeam "GD Dias Ferreira"]
+[BlackTitle "IM"]
+[PlyCount "86"]
+[EventDate "2015.??.??"]
+
+1. e4 c6 2. Nf3 d5 3. Nc3 Bg4 4. h3 Bh5 5. exd5 cxd5 6. Bb5+ Nc6 7. g4 Bg6 8.
+Ne5 Rc8 9. d4 e6 10. Bf4 Bd6 11. Bxc6+ bxc6 12. Qd2 Bb4 13. Nd3 Bxd3 14. Qxd3
+Nf6 15. f3 O-O 16. a3 Ba5 17. Kf2 c5 18. dxc5 Rxc5 19. Ne2 Rc4 20. Kg2 Qe7 21.
+Bd2 Bxd2 22. Qxd2 Nd7 23. Rhe1 Qf6 24. c3 Ne5 25. Qe3 Ng6 26. b3 Rc7 27. Rab1
+Rfc8 28. Rec1 h6 29. a4 e5 30. Kg3 Qd6 31. Kg2 Nh4+ 32. Kf2 d4 33. Qe4 d3 34.
+Kg3 dxe2 35. Kxh4 Rxc3 36. Rxc3 Rxc3 37. Kg3 Qd2 38. Qa8+ Kh7 39. Qe4+ g6 40.
+Qxe5 Re3 41. Qf6 e1=Q+ 42. Rxe1 Qxe1+ 43. Kf4 Re7 0-1
+
+[Event "CN Equipas 2015 - 1. div"]
+[Site "Matosinhos POR"]
+[Date "2015.08.22"]
+[Round "9.3.2"]
+[White "Gonzalez Perez, Arian"]
+[Black "Silva, Stéphane"]
+[Result "1-0"]
+[ECO "B01"]
+[WhiteElo "2440"]
+[BlackElo "2126"]
+[WhiteFideId "3507777"]
+[BlackFideId "1900846"]
+[WhiteTeam "GD Dias Ferreira"]
+[BlackTeam "AEJ S. João da Madeira"]
+[WhiteTitle "FM"]
+[BlackTitle "NM"]
+[PlyCount "82"]
+[EventDate "2015.??.??"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qa5 4. d4 c6 5. Nf3 Nf6 6. Bc4 Bf5 7. Bd2 e6 8.
+Nd5 Qd8 9. Nxf6+ gxf6 10. Qe2 Be7 11. O-O-O Nd7 12. g3 Qc7 13. Nh4 Bg6 14. Bf4
+Bd6 15. Bxd6 Qxd6 16. f4 f5 17. d5 cxd5 18. Rxd5 Qc7 19. Nxf5 O-O-O 20. Ne7+
+Kb8 21. Nxg6 hxg6 22. Rd2 Nb6 23. Rxd8+ Rxd8 24. Bd3 a6 25. Re1 Rh8 26. h4 Nd7
+27. c3 Nc5 28. Bc2 Rd8 29. Rd1 Rh8 30. Qe3 Kc8 31. Qd4 Rd8 32. Qxd8+ Qxd8 33.
+Rxd8+ Kxd8 34. g4 Ke7 35. Kd2 f5 36. g5 Nd7 37. Ke3 e5 38. b4 exf4+ 39. Kxf4
+Kd6 40. h5 gxh5 41. Bxf5 Kd5 1-0
+
+[Event "CN Equipas 2015 - 1. div"]
+[Site "Matosinhos POR"]
+[Date "2015.08.22"]
+[Round "9.3.3"]
+[White "Castro, Francisco"]
+[Black "Martinez, Lelys"]
+[Result "0-1"]
+[ECO "B35"]
+[WhiteElo "2117"]
+[BlackElo "2450"]
+[WhiteFideId "1903080"]
+[BlackFideId "3504727"]
+[WhiteTeam "AEJ S. João da Madeira"]
+[BlackTeam "GD Dias Ferreira"]
+[BlackTitle "GM"]
+[PlyCount "80"]
+[EventDate "2015.??.??"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 g6 5. Nc3 Bg7 6. Be3 Nf6 7. Bc4 O-O 8.
+Bb3 d6 9. f3 Bd7 10. Qd2 Nxd4 11. Bxd4 b5 12. a4 bxa4 13. Bxa4 Bxa4 14. Rxa4
+Qb8 15. O-O Rc8 16. b3 Qb7 17. Rfa1 a6 18. g4 e6 19. R1a2 h5 20. h3 hxg4 21.
+hxg4 Rc6 22. Ne2 Rac8 23. Rb4 Qe7 24. c4 d5 25. exd5 exd5 26. Rba4 dxc4 27.
+bxc4 Re8 28. Rxa6 Rxc4 29. Qd3 Rc7 30. Ra8 Rcc8 31. Rxc8 Rxc8 32. Qe3 Qd6 33.
+Ra7 Re8 34. Qf4 Qe6 35. Ng3 Nd5 36. Qd2 Qe1+ 37. Qxe1 Rxe1+ 38. Kf2 Bxd4+ 39.
+Kxe1 Bxa7 40. Ke2 Nf4+ 0-1
+
+[Event "CN Equipas 2015 - 1. div"]
+[Site "Matosinhos POR"]
+[Date "2015.08.22"]
+[Round "9.3.4"]
+[White "Martins, David"]
+[Black "Sá, Cláudio"]
+[Result "1-0"]
+[ECO "A05"]
+[WhiteElo "2334"]
+[BlackElo "1714"]
+[WhiteFideId "1909991"]
+[BlackFideId "1902903"]
+[WhiteTeam "GD Dias Ferreira"]
+[BlackTeam "AEJ S. João da Madeira"]
+[WhiteTitle "FM"]
+[PlyCount "33"]
+[EventDate "2015.??.??"]
+
+1. Nf3 Nf6 2. g3 g6 3. b3 Bg7 4. Bb2 d6 5. d4 O-O 6. Bg2 Bf5 7. O-O Qc8 8. Re1
+Nc6 9. Nbd2 Re8 10. d5 Nxd5 11. Bxg7 Kxg7 12. e4 Nc3 13. Qc1 Nxe4 14. Nxe4 d5
+15. Nc5 Nb4 16. Qb2+ Kg8 17. Nd4 1-0
+
+[Event "CN Equipas 2015 - 1. div"]
+[Site "Matosinhos POR"]
+[Date "2015.08.22"]
+[Round "9.4.1"]
+[White "Neves, Pedro"]
+[Black "Fidalgo, André"]
+[Result "1-0"]
+[ECO "A36"]
+[WhiteElo "2215"]
+[BlackElo "2058"]
+[WhiteFideId "1905554"]
+[BlackFideId "1933620"]
+[WhiteTeam "CX Montemor-o-Velho"]
+[BlackTeam "Santoantoniense FC"]
+[WhiteTitle "NM"]
+[PlyCount "109"]
+[EventDate "2015.??.??"]
+
+1. c4 c5 2. Nc3 g6 3. g3 Bg7 4. Bg2 Nc6 5. a3 Nf6 6. Rb1 e6 7. e4 O-O 8. Nge2
+Rb8 9. b4 d6 10. O-O b6 11. b5 Nd4 12. d3 Qc7 13. Bg5 Nd7 14. Qd2 Bb7 15. Kh1
+Rfe8 16. Bh6 Nxe2 17. Nxe2 Bxh6 18. Qxh6 d5 19. cxd5 exd5 20. Nc3 Qe5 21. Rbc1
+Nf6 22. f3 Rbd8 23. Rfd1 dxe4 24. dxe4 Rxd1+ 25. Nxd1 Rd8 26. Ne3 Qb2 27. Nc4
+Qe2 28. h4 Bxe4 29. Qf4 Nh5 30. Qc7 Rd1+ 31. Rxd1 Qxd1+ 32. Kh2 Bxf3 33. Ne5
+Bd5 34. Qd8+ Kg7 35. Qxd5 Qxd5 36. Bxd5 f5 37. Nc6 Nf6 38. Bb3 Ne4 39. Nxa7 Nd6
+40. a4 c4 41. Bc2 c3 42. Nc6 Kf6 43. Kg2 Nc4 44. Kf3 Na3 45. Nb4 Ke5 46. Ke3 h6
+47. Kd3 g5 48. hxg5 hxg5 49. Kxc3 f4 50. gxf4+ Kxf4 51. Nd5+ Kf3 52. Nf6 Kf4
+53. Bd3 g4 54. Nxg4 Kxg4 55. Kb4 1-0
+
+[Event "CN Equipas 2015 - 1. div"]
+[Site "Matosinhos POR"]
+[Date "2015.08.22"]
+[Round "9.4.2"]
+[White "Sousa, Ricardo"]
+[Black "Figuero Toro, Julian"]
+[Result "0-1"]
+[ECO "A04"]
+[WhiteElo "2091"]
+[BlackElo "2204"]
+[WhiteFideId "1903713"]
+[BlackFideId "2210347"]
+[WhiteTeam "Santoantoniense FC"]
+[BlackTeam "CX Montemor-o-Velho"]
+[PlyCount "83"]
+[EventDate "2015.??.??"]
+
+1. Nf3 d6 2. g3 e5 3. d3 f5 4. Bg2 Nf6 5. O-O Be7 6. c4 O-O 7. Nc3 Qe8 8. Bd2
+Qh5 9. Rb1 f4 10. Re1 fxg3 11. hxg3 Bh3 12. Bh1 Ng4 13. Nd5 Nc6 14. Ne3 Nh6 15.
+c5 Rf7 16. cxd6 cxd6 17. Qb3 Raf8 18. Qxb7 Nd4 19. Rbc1 Bg5 20. Rc7 Rxc7 21.
+Qxc7 Bxe3 22. Bxe3 Ng4 23. Bxd4 exd4 24. Qc4+ Kh8 25. Qxd4 h6 26. Rc1 Re8 27.
+Rc7 Nf6 28. Qxd6 Qa5 29. Bg2 Bg4 30. e4 Bh5 31. e5 Ng4 32. Qd7 Rg8 33. Bh3 Nxe5
+34. Nxe5 Qxe5 35. Be6 Bf3 36. Rc1 Qxb2 37. Rf1 Rf8 38. Qe7 Rb8 39. Qxa7 Qe5 40.
+Qe3 Qh5 41. Bh3 Re8 42. Qf4 0-1
+
+[Event "CN Equipas 2015 - 1. div"]
+[Site "Matosinhos POR"]
+[Date "2015.08.22"]
+[Round "9.4.3"]
+[White "Cruz, Jorge"]
+[Black "Parreira, André"]
+[Result "1/2-1/2"]
+[ECO "B30"]
+[WhiteElo "2024"]
+[BlackElo "1868"]
+[WhiteFideId "1903977"]
+[BlackFideId "1911368"]
+[WhiteTeam "CX Montemor-o-Velho"]
+[BlackTeam "Santoantoniense FC"]
+[PlyCount "59"]
+[EventDate "2015.??.??"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 Nd4 4. Nxd4 cxd4 5. O-O g6 6. c3 Bg7 7. cxd4 Bxd4 8.
+Nc3 e6 9. Qa4 Bg7 10. d4 Ne7 11. Bg5 h6 12. Bxe7 Qxe7 13. e5 O-O 14. Ne4 a6 15.
+Nd6 Rb8 16. Rac1 f6 17. f4 g5 18. Bd3 gxf4 19. Rxf4 fxe5 20. dxe5 Qg5 21. Rxf8+
+Bxf8 22. Re1 Bxd6 23. exd6 b5 24. Qe4 Qg7 25. Re3 Bb7 26. Qg6 Qxg6 27. Bxg6 Kg7
+28. Bd3 Kf6 29. Kf2 Rg8 30. Be4 1/2-1/2
+
+[Event "CN Equipas 2015 - 1. div"]
+[Site "Matosinhos POR"]
+[Date "2015.08.22"]
+[Round "9.4.4"]
+[White "Correia, Jorge"]
+[Black "Cavaleiro, Daniel"]
+[Result "1/2-1/2"]
+[ECO "E21"]
+[WhiteElo "1770"]
+[BlackElo "1900"]
+[WhiteFideId "1915932"]
+[BlackFideId "1904663"]
+[WhiteTeam "Santoantoniense FC"]
+[BlackTeam "CX Montemor-o-Velho"]
+[PlyCount "56"]
+[EventDate "2015.??.??"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. Nc3 Bb7 5. e3 Be7 6. Bd3 d5 7. cxd5 exd5 8. O-O
+O-O 9. b3 Nbd7 10. Bb2 Re8 11. Rc1 Ne4 12. Qc2 Ndf6 13. Nd2 Nxc3 14. Bxc3 Bd6
+15. h3 g6 16. Nf3 Nd7 17. Rfd1 Qe7 18. Qd2 a5 19. a4 Rec8 20. Bb2 c6 21. Rc2 f6
+22. Rdc1 Nb8 23. Be2 Qe8 24. Ne1 Na6 25. Nd3 Rc7 26. Bc3 Qe7 27. Rb1 Nb4 28.
+Nxb4 axb4 1/2-1/2
+
+[Event "CN Equipas 2015 - 1. div"]
+[Site "Matosinhos POR"]
+[Date "2015.08.22"]
+[Round "9.5.1"]
+[White "Dâmaso, Rui"]
+[Black "Jakubowski, Krzystof"]
+[Result "1/2-1/2"]
+[ECO "B06"]
+[WhiteElo "2456"]
+[BlackElo "2571"]
+[WhiteFideId "1900030"]
+[BlackFideId "1112848"]
+[WhiteTeam "FC Barreirense"]
+[BlackTeam "AA Coimbra"]
+[WhiteTitle "IM"]
+[BlackTitle "GM"]
+[PlyCount "19"]
+[EventDate "2015.??.??"]
+
+1. d4 g6 2. e4 Bg7 3. Nf3 d6 4. Nc3 c6 5. Be2 Bg4 6. O-O Qb6 7. Na4 Qc7 8. c4
+Nd7 9. Be3 Ngf6 10. Nd2 1/2-1/2
+
+[Event "CN Equipas 2015 - 1. div"]
+[Site "Matosinhos POR"]
+[Date "2015.08.22"]
+[Round "9.5.2"]
+[White "Hammes, Michael"]
+[Black "Rocha, Sérgio"]
+[Result "1/2-1/2"]
+[ECO "A41"]
+[WhiteElo "2345"]
+[BlackElo "2384"]
+[WhiteFideId "4619358"]
+[BlackFideId "1900404"]
+[WhiteTeam "AA Coimbra"]
+[BlackTeam "FC Barreirense"]
+[WhiteTitle "IM"]
+[BlackTitle "IM"]
+[PlyCount "20"]
+[EventDate "2015.??.??"]
+
+1. d4 d6 2. c4 e5 3. Nf3 e4 4. Nfd2 f5 5. e3 Nf6 6. b4 g6 7. Nc3 Bg7 8. Be2 O-O
+9. Nb3 Be6 10. Bb2 Nbd7 1/2-1/2
+
+[Event "CN Equipas 2015 - 1. div"]
+[Site "Matosinhos POR"]
+[Date "2015.08.22"]
+[Round "9.5.3"]
+[White "Ulyanovskyy, Viktor"]
+[Black "Diogo, Vasco"]
+[Result "1/2-1/2"]
+[ECO "A22"]
+[WhiteElo "2233"]
+[BlackElo "2240"]
+[WhiteFideId "14113350"]
+[BlackFideId "1902628"]
+[WhiteTeam "FC Barreirense"]
+[BlackTeam "AA Coimbra"]
+[WhiteTitle "FM"]
+[BlackTitle "FM"]
+[PlyCount "27"]
+[EventDate "2015.??.??"]
+
+1. c4 e5 2. Nc3 Nf6 3. e4 Bc5 4. d3 c6 5. Na4 Be7 6. Nf3 d5 7. cxd5 cxd5 8.
+Nxe5 d4 9. Bd2 O-O 10. b3 Re8 11. Nf3 Ba3 12. Rb1 Nd5 13. Be2 Nb4 14. O-O
+1/2-1/2
+
+[Event "CN Equipas 2015 - 1. div"]
+[Site "Matosinhos POR"]
+[Date "2015.08.22"]
+[Round "9.5.4"]
+[White "Vicente, João"]
+[Black "Ulyanovskyy, Vladimir"]
+[Result "1/2-1/2"]
+[ECO "E36"]
+[WhiteElo "2102"]
+[BlackElo "2112"]
+[WhiteFideId "1912054"]
+[BlackFideId "14120771"]
+[WhiteTeam "AA Coimbra"]
+[BlackTeam "FC Barreirense"]
+[PlyCount "19"]
+[EventDate "2015.??.??"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 d5 5. a3 Be7 6. Nf3 O-O 7. e3 b6 8. Bd3
+Bb7 9. cxd5 exd5 10. O-O 1/2-1/2
+

@@ -1,0 +1,221 @@
+[Event "Campeonato Europeu Amador 2015"]
+[Site "Kaunas LTU"]
+[Date "2015.08.09"]
+[Round "1.11"]
+[White "Nasyrov, Anton"]
+[Black "Fanha, Paulo"]
+[Result "0-1"]
+[ECO "A00"]
+[WhiteElo "1280"]
+[BlackElo "1890"]
+[WhiteFideId "34133434"]
+[BlackFideId "1902148"]
+[WhiteCountry "RUS"]
+[BlackCountry "POR"]
+[PlyCount "80"]
+[EventDate "2015.??.??"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 e5 7. Nb3 Be6 8. f3
+Be7 9. Qd2 O-O 10. O-O-O b5 11. h4 Nbd7 12. g4 Nb6 13. Kb1 Nc4 14. Bxc4 Bxc4
+15. h5 b4 16. Na4 Nd7 17. Qxb4 d5 18. Qc3 Rc8 19. Qd2 d4 20. Bf2 Bb5 21. h6 Bg5
+22. Qe1 Bxh6 23. Bxd4 Bxa4 24. Bxe5 Qb6 25. Bc3 Bf4 26. Qh4 h6 27. Rdg1 Bg5 28.
+Qh3 Rxc3 29. bxc3 Qe3 30. Qh2 Bf4 31. Qh4 Qxc3 32. g5 Be5 33. Kc1 Bxb3 34. axb3
+Nc5 35. Kd1 Rd8+ 36. Ke2 Qxc2+ 37. Kf1 Rd1+ 38. Qe1 Rxe1+ 39. Kxe1 Bg3+ 40. Kf1
+Qf2# 0-1
+
+[Event "Campeonato Europeu Amador 2015"]
+[Site "Kaunas LTU"]
+[Date "2015.08.10"]
+[Round "2.10"]
+[White "Fanha, Paulo"]
+[Black "Antanaitis, Martynas"]
+[Result "1-0"]
+[ECO "B06"]
+[WhiteElo "1890"]
+[WhiteFideId "1902148"]
+[BlackFideId "12808288"]
+[WhiteCountry "POR"]
+[BlackCountry "LTU"]
+[PlyCount "65"]
+[EventDate "2015.??.??"]
+
+1. c4 c6 2. Nf3 g6 3. d4 Bg7 4. e4 d6 5. Be2 Qa5+ 6. Bd2 Qb6 7. Bc3 Nf6 8. Nbd2
+O-O 9. O-O Rd8 10. Qa4 Qc7 11. Rac1 Bd7 12. c5 dxc5 13. dxc5 Qc8 14. Rfd1 Be6
+15. Ng5 Bd7 16. Bc4 e6 17. Ndf3 h6 18. Nxf7 Kxf7 19. Ne5+ Ke8 20. Nxg6 b5 21.
+cxb6 c5 22. Bb5 a6 23. Bxd7+ Nbxd7 24. e5 Nd5 25. Rxd5 exd5 26. Qh4 Nf6 27.
+exf6 Bf8 28. Re1+ Kd7 29. Qa4+ Kd6 30. Be5+ Ke6 31. Qg4+ Kf7 32. Nh8+ Ke8 33.
+Bd6+ 1-0
+
+[Event "Campeonato Europeu Amador 2015"]
+[Site "Kaunas LTU"]
+[Date "2015.08.11"]
+[Round "3.4"]
+[White "Pazarcioglu, Ilker"]
+[Black "Fanha, Paulo"]
+[Result "0-1"]
+[ECO "B90"]
+[WhiteElo "1584"]
+[BlackElo "1890"]
+[WhiteFideId "6388710"]
+[BlackFideId "1902148"]
+[WhiteCountry "TUR"]
+[BlackCountry "POR"]
+[PlyCount "68"]
+[EventDate "2015.??.??"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 Qc7 7. Bb3 e5 8. Nf3
+Be6 9. O-O Be7 10. Ng5 Bc4 11. f4 Nbd7 12. Bxc4 Qxc4 13. Qf3 O-O 14. Qh3 h6 15.
+Nf3 Rfd8 16. fxe5 dxe5 17. Nd5 Nxd5 18. exd5 Bc5+ 19. Rf2 Qxc2 20. Bd2 Qxb2 21.
+Raf1 e4 22. Bxh6 exf3 23. Qxf3 Qf6 24. Bf4 Nf8 25. d6 Ne6 26. Qd5 Bxf2+ 27.
+Rxf2 Nxf4 28. Qe4 Qa1+ 29. Rf1 Qd4+ 30. Qxd4 Ne2+ 31. Kf2 Nxd4 32. Rd1 Rxd6 33.
+Ke3 Nc2+ 34. Ke2 Re8+ 0-1
+
+[Event "Campeonato Europeu Amador 2015"]
+[Site "Kaunas LTU"]
+[Date "2015.08.12"]
+[Round "4.1"]
+[White "Fanha, Paulo"]
+[Black "Mulevicius, Andrius"]
+[Result "1/2-1/2"]
+[ECO "A10"]
+[WhiteElo "1890"]
+[BlackElo "1845"]
+[WhiteFideId "1902148"]
+[BlackFideId "12803790"]
+[WhiteCountry "POR"]
+[BlackCountry "LTU"]
+[PlyCount "114"]
+[EventDate "2015.??.??"]
+
+1. c4 b6 2. d4 Bb7 3. Nc3 e6 4. e4 Bb4 5. Bd3 f5 6. Qe2 Ne7 7. Nf3 O-O 8. O-O
+Bxc3 9. bxc3 h6 10. Ba3 d6 11. exf5 exf5 12. Rfe1 Rf7 13. Rab1 Ng6 14. d5 Nf4
+15. Qe8+ Qxe8 16. Rxe8+ Kh7 17. Bf1 Nd7 18. Rxa8 Bxa8 19. Re1 Nf6 20. Bc1 N4h5
+21. Bd3 g6 22. Nd4 Ng7 23. Nb5 a6 24. Nd4 Nd7 25. f4 Nc5 26. Bc2 b5 27. cxb5
+Bxd5 28. bxa6 Nxa6 29. Bb3 Bxb3 30. axb3 Nc5 31. Re3 Nh5 32. g3 Nf6 33. c4 Nce4
+34. Nc6 Rf8 35. b4 Ra8 36. Ra3 Rxa3 37. Bxa3 Nd2 38. Na5 Nfe4 39. Kg2 g5 40.
+Bc1 g4 41. c5 Nf3 42. cxd6 Nxd6 43. Be3 Ne1+ 44. Kf1 Nf3 45. Bc5 Ne4 46. Bg1
+Kg7 47. Nc6 Kf6 48. b5 Nd6 49. Na7 Ke6 50. Bc5 Nxh2+ 51. Kg2 Nf3 52. b6 cxb6
+53. Bxb6 Ne4 54. Nc6 Ne1+ 55. Kh2 Nf3+ 56. Kg2 Ne1+ 57. Kh2 Nf3+ 1/2-1/2
+
+[Event "Campeonato Europeu Amador 2015"]
+[Site "Kaunas LTU"]
+[Date "2015.08.12"]
+[Round "5.4"]
+[White "Ivanov, Nikolay A."]
+[Black "Fanha, Paulo"]
+[Result "1/2-1/2"]
+[ECO "A15"]
+[WhiteElo "1911"]
+[BlackElo "1890"]
+[WhiteFideId "4100352"]
+[BlackFideId "1902148"]
+[WhiteCountry "RUS"]
+[BlackCountry "POR"]
+[PlyCount "53"]
+[EventDate "2015.??.??"]
+
+1. c4 Nf6 2. Nf3 g6 3. Nc3 Bg7 4. g3 O-O 5. Bg2 d6 6. d3 e5 7. Bg5 h6 8. Bd2 c6
+9. Qc1 Kh7 10. h4 Nh5 11. Qc2 d5 12. cxd5 cxd5 13. Nxd5 Nc6 14. O-O Be6 15. Nc3
+Rc8 16. Qa4 f5 17. Kh2 f4 18. Ne4 b5 19. Qd1 fxg3+ 20. fxg3 Bf5 21. Be3 Nd4 22.
+Rc1 Rxc1 23. Bxc1 Bxe4 24. dxe4 Qc7 25. Be3 Rd8 26. Nxd4 exd4 27. Bf4 1/2-1/2
+
+[Event "Campeonato Europeu Amador 2015"]
+[Site "Kaunas LTU"]
+[Date "2015.08.13"]
+[Round "6.5"]
+[White "Fanha, Paulo"]
+[Black "Kalvaitis, Gintautas"]
+[Result "1-0"]
+[ECO "D30"]
+[WhiteElo "1890"]
+[WhiteFideId "1902148"]
+[BlackFideId "12824844"]
+[WhiteCountry "POR"]
+[BlackCountry "LTU"]
+[PlyCount "115"]
+[EventDate "2015.??.??"]
+
+1. d4 d5 2. c4 e6 3. Nf3 Nf6 4. e3 c5 5. Nc3 Nc6 6. a3 dxc4 7. Bxc4 cxd4 8.
+exd4 Be7 9. O-O O-O 10. Re1 b6 11. d5 exd5 12. Nxd5 Nxd5 13. Qxd5 Bb7 14. Bg5
+Bxg5 15. Nxg5 h6 16. Nxf7 Qxd5 17. Bxd5 Rxf7 18. Rac1 Rc8 19. Rc3 Kf8 20. Bxf7
+Kxf7 21. Rf3+ Kg8 22. Rd3 Ne5 23. Rde3 Ng6 24. g3 Kf7 25. h4 Rc7 26. h5 Ne7 27.
+g4 Nd5 28. Re5 Re7 29. Rf5+ Nf6 30. Rxe7+ Kxe7 31. g5 hxg5 32. Rxg5 Kf7 33. Rf5
+Be4 34. Rf4 Ke6 35. Rh4 Kf5 36. f4 Ng4 37. Rh3 Kxf4 38. Rc3 Nf6 39. Rc7 Nxh5
+40. Rxa7 b5 41. Ra5 Bd3 42. a4 Nf6 43. axb5 Nd5 44. Ra7 g6 45. Rd7 Ke5 46. b6
+Ba6 47. Rg7 Nxb6 48. Rxg6 Kd4 49. Rxb6 Bc4 50. Kf2 Kd3 51. Kf3 Kc2 52. b4 Kd3
+53. Kf4 Kd4 54. Rb7 Ba6 55. Rc7 Bb5 56. Kf5 Kd3 57. Rc5 Ba4 58. Ke5 1-0
+
+[Event "Campeonato Europeu Amador 2015"]
+[Site "Kaunas LTU"]
+[Date "2015.08.14"]
+[Round "7.1"]
+[White "Fanha, Paulo"]
+[Black "Jonkus, Lukas"]
+[Result "1/2-1/2"]
+[ECO "A05"]
+[WhiteElo "1890"]
+[BlackElo "1853"]
+[WhiteFideId "1902148"]
+[BlackFideId "12804347"]
+[WhiteCountry "POR"]
+[BlackCountry "LTU"]
+[PlyCount "52"]
+[EventDate "2015.??.??"]
+
+1. Nf3 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. g3 Bg7 6. Bg2 Nxc3 7. bxc3 O-O 8.
+O-O c5 9. d4 Nc6 10. Be3 Qa5 11. Qb3 b5 12. Qd5 Bb7 13. Qxc5 Rac8 14. d5 Nd4
+15. Qxe7 Nxe2+ 16. Kh1 Bxd5 17. a4 Bxc3 18. Rad1 Rfe8 19. Qxa7 Qxa7 20. Bxa7
+Bb3 21. axb5 Bxd1 22. Rxd1 Red8 23. Rb1 Nd4 24. Nxd4 Bxd4 25. Bxd4 Rxd4 26. b6
+Rb8 1/2-1/2
+
+[Event "Campeonato Europeu Amador 2015"]
+[Site "Kaunas LTU"]
+[Date "2015.08.15"]
+[Round "8.3"]
+[White "Grabarczyk, Sylwester"]
+[Black "Fanha, Paulo"]
+[Result "0-1"]
+[ECO "E71"]
+[WhiteElo "1725"]
+[BlackElo "1890"]
+[WhiteFideId "313122"]
+[BlackFideId "1902148"]
+[WhiteCountry "CZE"]
+[BlackCountry "POR"]
+[PlyCount "114"]
+[EventDate "2015.??.??"]
+
+1. c4 Nf6 2. Nc3 g6 3. d4 Bg7 4. e4 d6 5. h3 O-O 6. Nf3 e5 7. d5 c5 8. Bd3 Na6
+9. a3 Bd7 10. O-O Nc7 11. Bg5 Rb8 12. b4 b6 13. Qd2 Qc8 14. Qe3 a5 15. Rfb1
+axb4 16. axb4 Ra8 17. b5 Qb7 18. Nh4 Rxa1 19. Rxa1 Ra8 20. Na4 Ra7 21. Bc2 Qa8
+22. Kh2 Rb7 23. Bh6 Qf8 24. Bxg7 Qxg7 25. Nc3 h6 26. Ne2 Kh7 27. Ng3 Qf8 28. f4
+Qe7 29. Nf3 Bg4 30. fxe5 dxe5 31. Rd1 Nce8 32. Kg1 Bxf3 33. Qxf3 Nd6 34. Rf1
+Kg7 35. Bd3 Ra7 36. Qe2 Ra4 37. h4 Qd7 38. Qf3 Nde8 39. h5 Qg4 40. hxg6 Qxf3
+41. gxf3 fxg6 42. Be2 Nd6 43. Rc1 g5 44. Kf2 h5 45. Nf1 g4 46. Nd2 Kg6 47. fxg4
+hxg4 48. Rg1 Ra2 49. Ke3 Ra3+ 50. Kf2 Ndxe4+ 51. Ke1 Ra1+ 52. Bd1 Nc3 53. Kf2
+Nxd1+ 54. Kg3 Ra3+ 55. Kh2 Ne3 56. Rg3 Nh5 57. Rg1 Ra2 0-1
+
+[Event "Campeonato Europeu Amador 2015"]
+[Site "Kaunas LTU"]
+[Date "2015.08.16"]
+[Round "9.2"]
+[White "Fanha, Paulo"]
+[Black "Velioniskis, Robertas"]
+[Result "1-0"]
+[ECO "A41"]
+[WhiteElo "1890"]
+[BlackElo "1964"]
+[WhiteFideId "1902148"]
+[BlackFideId "12804142"]
+[WhiteCountry "POR"]
+[BlackCountry "LTU"]
+[PlyCount "65"]
+[EventDate "2015.??.??"]
+
+1. d4 d6 2. Nf3 g6 3. g3 Bg7 4. Bg2 e5 5. dxe5 dxe5 6. Qxd8+ Kxd8 7. Nc3 c6 8.
+O-O f6 9. b3 Bf8 10. Bb2 Be6 11. Rad1+ Nd7 12. Rd2 Ne7 13. Ne4 Kc8 14. c4 Ng8
+15. Rfd1 Kc7 16. Rxd7+ Bxd7 17. Nxf6 Nxf6 18. Bxe5+ Bd6 19. Bxd6+ Kc8 20. Ne5
+Be6 21. Nxc6 bxc6 22. Bxc6 Rb8 23. Bxb8 Kxb8 24. Rd6 Bg4 25. Rxf6 Bxe2 26. Rf7
+Rd8 27. Rd7 Rf8 28. Rb7+ Kc8 29. Rxa7 Rf6 30. Bd5 h5 31. Re7 Bg4 32. Kg2 Ra6
+33. Bb7+ 1-0
+

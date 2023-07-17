@@ -1,0 +1,927 @@
+[Event "5th EU Youth Championship - U10"]
+[Site "Mureck AUT"]
+[Date "2007.08.01"]
+[Round "1.15"]
+[White "Santos, Carolina Inácio"]
+[Black "Damas, Edi"]
+[Result "0-1"]
+[ECO "D08"]
+[PlyCount "134"]
+[EventDate "2007.??.??"]
+[WhiteCountry "POR"]
+[BlackCountry "POR"]
+
+1. d4 d5 2. c4 e5 3. Nf3 exd4 4. Nxd4 dxc4 5. e3 c5 6. Bxc4 cxd4 7. exd4 Bb4+
+8. Nc3 Nc6 9. Be3 Nf6 10. O-O O-O 11. a3 Bxc3 12. bxc3 Nd5 13. Bd2 Be6 14. Bd3
+Qf6 15. h3 Nf4 16. Bxf4 Qxf4 17. g3 Qd6 18. Kh2 Bd5 19. c4 Be6 20. d5 Ne5 21.
+Bc2 Bd7 22. Bb3 Qf6 23. f4 Ng6 24. Rb1 Qf5 25. g4 Qf6 26. f5 Ne7 27. c5 Qe5+
+28. Kg2 Qe4+ 29. Kg1 Qe3+ 30. Kg2 Rad8 31. Qc2 Bb5 32. Rfe1 Qg5 33. Rbd1 Nxd5
+34. Bxd5 Rxd5 35. Rxd5 Bc6 36. Qc4 Qd2+ 37. Qe2 Bxd5+ 38. Kf1 Qxe2+ 39. Kxe2
+Re8+ 40. Kf2 Rxe1 41. Kxe1 Kf8 42. Kf2 Ke7 43. Ke3 f6 44. h4 h6 45. Kd4 Bf3 46.
+Ke3 Bxg4 47. Kf4 Bd1 48. Ke3 b6 49. cxb6 axb6 50. Kd4 Kd6 51. Ke3 Ke5 52. Kd2
+Ba4 53. Ke3 Kxf5 54. Kf3 h5 55. Kg3 Bc6 56. Kh3 Kf4 57. Kh2 Kf3 58. Kh1 Kg3+
+59. Kg1 f5 60. Kf1 f4 61. Kg1 f3 62. Kf1 f2 63. Ke2 Bb5+ 64. Ke3 f1=Q 65. Ke4
+Qd3+ 66. Ke5 Bc4 67. a4 Qd5# 0-1
+
+[Event "5th EU Youth Championship - U12"]
+[Site "Mureck AUT"]
+[Date "2007.08.01"]
+[Round "1.11"]
+[White "Pahole, Samanta"]
+[Black "Pereira, Susana"]
+[Result "1/2-1/2"]
+[ECO "B50"]
+[BlackElo "1432"]
+[PlyCount "137"]
+[EventDate "2007.??.??"]
+[WhiteCountry "SLO"]
+[BlackCountry "POR"]
+
+1. e4 c5 2. Nc3 e6 3. Bc4 Nc6 4. Nf3 Nf6 5. d3 Be7 6. O-O d6 7. Re1 O-O 8. Bb3
+a6 9. a3 b5 10. Ne2 d5 11. exd5 Nxd5 12. Nf4 Nxf4 13. Bxf4 Bf6 14. c3 Bb7 15.
+Qe2 Ne7 16. Rad1 Bd5 17. Bxd5 Nxd5 18. Be5 Bxe5 19. Qxe5 Qf6 20. c4 Qxe5 21.
+Rxe5 bxc4 22. dxc4 Nb6 23. Rxc5 Na4 24. Ra5 Nxb2 25. Rd4 Rfd8 26. Rxd8+ Rxd8
+27. h3 Nxc4 28. Rxa6 h6 29. Kh2 Rd5 30. Ra8+ Kh7 31. Ne1 Ra5 32. Rxa5 Nxa5 33.
+Nc2 Kg6 34. Kg3 Kf5 35. Kf3 Ke5 36. Ke3 Kd5 37. Kd3 Kc5 38. Kc3 Kb5 39. Nd4+
+Ka4 40. Kb2 Nc4+ 41. Ka2 Nxa3 42. Nc6 Nc4 43. Nd8 Ne5 44. f4 Nd3 45. g3 e5 46.
+fxe5 Nxe5 47. g4 Kb4 48. Kb2 Kc4 49. Kc2 Kd4 50. Kd2 Ke4 51. Ke2 Kf4 52. Kf2
+Kg5 53. Kg3 g6 54. h4+ Kf6 55. Nb7 Nd3 56. Nd6 Ke6 57. Nc4 f5 58. gxf5+ Kxf5
+59. Ne3+ Ke4 60. Ng4 h5 61. Nf6+ Kf5 62. Nd5 Ne1 63. Ne7+ Kf6 64. Nd5+ Ke6 65.
+Nf4+ Kf5 66. Nd5 Ng2 67. Kxg2 Kg4 68. Ne7 Kxh4 69. Nxg6+ 1/2-1/2
+
+[Event "5th EU Youth Championship - U14"]
+[Site "Mureck AUT"]
+[Date "2007.08.01"]
+[Round "1.2"]
+[White "Vasques, António"]
+[Black "Dragomirescu, Robin-Alexandru"]
+[Result "1-0"]
+[ECO "B00"]
+[WhiteElo "1839"]
+[BlackElo "2189"]
+[PlyCount "87"]
+[EventDate "2007.??.??"]
+[WhiteCountry "POR"]
+[BlackCountry "ROU"]
+
+1. e4 Nc6 2. Nf3 d6 3. d4 Nf6 4. Bd3 Bg4 5. c3 g6 6. h3 Bxf3 7. Qxf3 Bg7 8. O-O
+O-O 9. Be3 e5 10. d5 Ne7 11. Nd2 Nd7 12. Qe2 f5 13. f4 fxe4 14. Bxe4 Bh6 15.
+fxe5 Bxe3+ 16. Qxe3 Nxe5 17. Rxf8+ Qxf8 18. Rf1 Qg7 19. Nf3 c6 20. dxc6 bxc6
+21. Nxe5 Qxe5 22. Re1 a5 23. Bc2 Qxe3+ 24. Rxe3 Kf7 25. c4 Rb8 26. b3 a4 27. g4
+d5 28. cxd5 cxd5 29. bxa4 Nc6 30. Bb3 Rd8 31. Rc3 Ne5 32. Rc7+ Kf6 33. a5 d4
+34. a6 Kg5 35. a7 Kf4 36. Bd5 d3 37. Rc1 d2 38. Rf1+ Ke3 39. a8=Q Rxa8 40. Bxa8
+Ke2 41. Kg2 d1=Q 42. Bf3+ Nxf3 43. Rxd1 Nh4+ 44. Kg3 1-0
+
+[Event "5th EU Youth Championship - U14"]
+[Site "Mureck AUT"]
+[Date "2007.08.01"]
+[Round "1.8"]
+[White "Meireles, Ana"]
+[Black "Nemeth, Denes"]
+[Result "0-1"]
+[ECO "B50"]
+[WhiteElo "1578"]
+[BlackElo "2035"]
+[PlyCount "78"]
+[EventDate "2007.??.??"]
+[WhiteCountry "POR"]
+[BlackCountry "HUN"]
+
+1. e4 c5 2. Nf3 d6 3. Bd3 g6 4. c3 Bg7 5. Bc2 Nc6 6. O-O Nf6 7. d3 O-O 8. Be3
+b5 9. d4 Ng4 10. Bf4 e5 11. dxe5 Ngxe5 12. Nxe5 dxe5 13. Be3 c4 14. Qd2 a5 15.
+Rd1 Ba6 16. Qd5 Qc7 17. Bg5 h6 18. Bh4 Qb6 19. Qd2 g5 20. Bg3 Nd8 21. Qd5 Ne6
+22. Qd2 Rfd8 23. Qe2 Rxd1+ 24. Bxd1 Rd8 25. Nd2 Qd6 26. Nf1 Nc5 27. Ne3 Qd2 28.
+Nd5 Qxe2 29. Bxe2 Nxe4 30. Nc7 Nc5 31. Bg4 b4 32. Re1 Bc8 33. Be2 Nd3 34. Rd1
+Rd7 35. Nb5 Ba6 36. Bg4 Re7 37. Nd6 Nxb2 38. Rc1 Nd3 39. Rc2 b3 0-1
+
+[Event "5th EU Youth Championship - U10"]
+[Site "Mureck AUT"]
+[Date "2007.08.02"]
+[Round "2.2"]
+[White "Damas, Edi"]
+[Black "Kessler, Luca"]
+[Result "0-1"]
+[ECO "B92"]
+[BlackElo "1905"]
+[PlyCount "66"]
+[EventDate "2007.??.??"]
+[WhiteCountry "POR"]
+[BlackCountry "AUT"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 e5 7. Nb3 Be6 8. Be2
+Be7 9. O-O O-O 10. Qd2 Nbd7 11. Rad1 Qc7 12. f4 exf4 13. Bxf4 Ne5 14. Bg5 b5
+15. Bxf6 gxf6 16. Nd5 Bxd5 17. exd5 Rac8 18. c3 Kh8 19. Nd4 Qc5 20. Kh1 Qxd5
+21. Qh6 Rg8 22. Nf3 Qxa2 23. Nxe5 dxe5 24. Bd3 Rg7 25. Rf3 Qxb2 26. Rg3 Rcg8
+27. h3 Qf2 28. Rxg7 Rxg7 29. Be4 f5 30. Rd2 Qe1+ 31. Kh2 Qxe4 32. Kg1 Bg5 33.
+Rd8+ Bxd8 0-1
+
+[Event "5th EU Youth Championship - U10"]
+[Site "Mureck AUT"]
+[Date "2007.08.02"]
+[Round "2.20"]
+[White "Urbanc, Peter"]
+[Black "Santos, Carolina Inácio"]
+[Result "1-0"]
+[ECO "B66"]
+[PlyCount "49"]
+[EventDate "2007.??.??"]
+[WhiteCountry "SLO"]
+[BlackCountry "POR"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 a6 6. Bg5 Nf6 7. f4 e6 8. Qd2
+Be7 9. O-O-O O-O 10. h4 h6 11. Qe2 Bd7 12. e5 dxe5 13. fxe5 Nxd4 14. Rxd4 Bc5
+15. Rf4 Bb5 16. Qf3 Bd4 17. exf6 Qa5 18. Rxd4 Bc6 19. Qg3 Bd5 20. Bxh6 g6 21.
+h5 Be4 22. hxg6 Bxg6 23. Bg7 Bh5 24. Bh6+ Kh8 25. Qg7# 1-0
+
+[Event "5th EU Youth Championship - U12"]
+[Site "Mureck AUT"]
+[Date "2007.08.02"]
+[Round "2.8"]
+[White "Pereira, Susana"]
+[Black "Rauramaa, Julius"]
+[Result "1/2-1/2"]
+[ECO "A28"]
+[WhiteElo "1432"]
+[PlyCount "84"]
+[EventDate "2007.??.??"]
+[WhiteCountry "POR"]
+[BlackCountry "FIN"]
+
+1. c4 e5 2. Nc3 Nf6 3. Nf3 Nc6 4. d4 exd4 5. Nxd4 Bc5 6. Nxc6 bxc6 7. g3 d5 8.
+cxd5 cxd5 9. Bg2 c6 10. e4 Be6 11. exd5 cxd5 12. O-O O-O 13. Bg5 h6 14. Bxf6
+Qxf6 15. Nxd5 Qxb2 16. Nc7 Rad8 17. Qc1 Qb6 18. Nxe6 fxe6 19. Qc2 a6 20. Rab1
+Qc6 21. Rbc1 Bxf2+ 22. Kh1 Qc5 23. Qxc5 Bxc5 24. Rxf8+ Rxf8 25. Re1 Rd8 26. Bh3
+e5 27. Be6+ Kf8 28. Rxe5 Bb4 29. Bb3 g6 30. Re4 a5 31. Rc4 Ke7 32. Re4+ Kf8 33.
+Re6 Rd6 34. Rxd6 Bxd6 35. Kg2 Ke7 36. Kf3 Kf6 37. Ke4 Bc5 38. h3 Bf2 39. g4 Kg5
+40. Kf3 Bc5 41. a4 Bb4 42. Bc2 Bc5 1/2-1/2
+
+[Event "5th EU Youth Championship - U14"]
+[Site "Mureck AUT"]
+[Date "2007.08.02"]
+[Round "2.6"]
+[White "Nemeth, Denes"]
+[Black "Vasques, António"]
+[Result "1-0"]
+[ECO "A56"]
+[WhiteElo "2035"]
+[BlackElo "1839"]
+[PlyCount "43"]
+[EventDate "2007.??.??"]
+[WhiteCountry "HUN"]
+[BlackCountry "POR"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e5 4. Nc3 d6 5. e4 Be7 6. g3 O-O 7. Bg2 Nbd7 8. Nge2
+Nb6 9. b3 Ne8 10. O-O f5 11. f4 Bf6 12. fxe5 Bxe5 13. Bf4 Bxf4 14. Nxf4 Nc7 15.
+Qd2 Nd7 16. Ne6 Nxe6 17. dxe6 Ne5 18. exf5 g6 19. Nd5 Nc6 20. Rae1 Re8 21. fxg6
+Bxe6 22. Qh6 1-0
+
+[Event "5th EU Youth Championship - U14"]
+[Site "Mureck AUT"]
+[Date "2007.08.02"]
+[Round "2.14"]
+[White "Dragomirescu, Robin-Alexandru"]
+[Black "Meireles, Ana"]
+[Result "1-0"]
+[ECO "B33"]
+[WhiteElo "2189"]
+[BlackElo "1578"]
+[PlyCount "45"]
+[EventDate "2007.??.??"]
+[WhiteCountry "ROU"]
+[BlackCountry "POR"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Qb6 5. Nb3 Nf6 6. Nc3 e6 7. Be3 Qc7 8.
+Bd3 Bb4 9. O-O Bxc3 10. bxc3 d5 11. exd5 exd5 12. Bc5 Ne7 13. Bb5+ Bd7 14. Re1
+Bxb5 15. Bxe7 Kd7 16. Nd4 Bc6 17. Bxf6 gxf6 18. Qg4+ Kd8 19. Qg7 Re8 20. Qxf6+
+Kc8 21. Nxc6 Rxe1+ 22. Rxe1 Qxc6 23. Qxf7 1-0
+
+[Event "5th EU Youth Championship - U10"]
+[Site "Mureck AUT"]
+[Date "2007.08.03"]
+[Round "3.9"]
+[White "Boyarchenko, Vlada"]
+[Black "Damas, Edi"]
+[Result "1-0"]
+[ECO "B34"]
+[WhiteElo "1620"]
+[PlyCount "41"]
+[EventDate "2007.??.??"]
+[WhiteCountry "LUX"]
+[BlackCountry "POR"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 g6 5. Nxc6 bxc6 6. Bc4 Bg7 7. Nc3 Nf6 8.
+O-O O-O 9. Be3 Bb7 10. Qd2 Re8 11. Bh6 Nxe4 12. Nxe4 d5 13. Bxg7 dxc4 14. Bc3
+Qc7 15. Qh6 f6 16. Nc5 Bc8 17. Rfe1 Qd6 18. Ne4 Qc7 19. Nxf6+ exf6 20. Rxe8+
+Kf7 21. Qf8# 1-0
+
+[Event "5th EU Youth Championship - U10"]
+[Site "Mureck AUT"]
+[Date "2007.08.03"]
+[Round "3.23"]
+[White "Santos, Carolina Inácio"]
+[Black "Pahole, Tjasa"]
+[Result "1-0"]
+[ECO "D38"]
+[PlyCount "73"]
+[EventDate "2007.??.??"]
+[WhiteCountry "POR"]
+[BlackCountry "SLO"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bf4 Bb4 5. Nf3 Nc6 6. Bd2 Ne4 7. e3 O-O 8. Bd3
+f5 9. O-O Bd7 10. a3 Bd6 11. h3 Qe8 12. cxd5 exd5 13. Nxd5 Qg6 14. Qc2 Be6 15.
+Nc3 Nxd2 16. Qxd2 Be7 17. d5 Bd7 18. dxc6 bxc6 19. Ne5 Qe6 20. Bc4 Bd6 21.
+Bxe6+ Bxe6 22. Nf3 Rf6 23. Ng5 Bc4 24. Rfd1 Rg6 25. Nf3 Bd5 26. Nxd5 cxd5 27.
+Qxd5+ Kf8 28. Qxa8+ Kf7 29. Qd5+ Ke7 30. Qxf5 Rf6 31. Qxh7 Rf7 32. Rd3 Rf8 33.
+Rad1 Rb8 34. b4 Rd8 35. Qxg7+ Ke6 36. Ng5+ Kf5 37. Rd5+ 1-0
+
+[Event "5th EU Youth Championship - U12"]
+[Site "Mureck AUT"]
+[Date "2007.08.03"]
+[Round "3.10"]
+[White "Gelip, Ioana"]
+[Black "Pereira, Susana"]
+[Result "1-0"]
+[ECO "D02"]
+[BlackElo "1432"]
+[PlyCount "65"]
+[EventDate "2007.??.??"]
+[WhiteCountry "ROU"]
+[BlackCountry "POR"]
+
+1. d4 d5 2. Nf3 Nf6 3. Bf4 Bf5 4. Nbd2 e6 5. e3 Be7 6. c4 c6 7. Be2 O-O 8. O-O
+Nbd7 9. Ne5 Nxe5 10. Bxe5 Nd7 11. Bg3 Bf6 12. Qb3 Qb6 13. Rac1 Qxb3 14. Nxb3 b6
+15. cxd5 cxd5 16. Rc7 e5 17. Bb5 Rfd8 18. Bc6 Rac8 19. Rxc8 Rxc8 20. Bxd5 exd4
+21. Nxd4 Bxd4 22. exd4 Rc2 23. Rb1 Rxf2 24. Re1 Rc2 25. Re7 Rc8 26. Rxf7 Kh8
+27. Rxf5 Nf6 28. Bb3 Ne4 29. Be5 Nd2 30. Be6 Rc1+ 31. Kf2 Ne4+ 32. Kf3 Nd2+ 33.
+Ke2 1-0
+
+[Event "5th EU Youth Championship - U14"]
+[Site "Mureck AUT"]
+[Date "2007.08.03"]
+[Round "3.9"]
+[White "Vasques, António"]
+[Black "O`Toole, George E"]
+[Result "0-1"]
+[ECO "C54"]
+[WhiteElo "1839"]
+[BlackElo "1974"]
+[PlyCount "160"]
+[EventDate "2007.??.??"]
+[WhiteCountry "POR"]
+[BlackCountry "ENG"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Nf6 5. d3 d6 6. Bb3 a6 7. O-O O-O 8. Nbd2
+Ne7 9. h3 Ng6 10. Re1 Nh5 11. Nf1 Ngf4 12. d4 exd4 13. cxd4 Bb4 14. Bd2 Bxd2
+15. Qxd2 Qf6 16. e5 Nxh3+ 17. Kh1 Qf4 18. Qxf4 N3xf4 19. exd6 cxd6 20. Re7 Nf6
+21. Ne3 h6 22. Nh4 Ne6 23. Nhf5 Ne4 24. f3 Nf2+ 25. Kg1 Nd3 26. Nxd6 Nxb2 27.
+Nec4 Nxc4 28. Bxc4 Nxd4 29. Nxf7 Kh7 30. Bd3+ Bf5 31. Bxf5+ Nxf5 32. Rxb7 Rae8
+33. Rd1 Re2 34. Rdd7 Rc8 35. Nd6 Nxd6 36. Rxd6 Rcc2 37. Rxa6 Rxg2+ 38. Kh1 Rgd2
+39. Rb1 Rxa2 40. Rxa2 Rxa2 41. Kg1 Kg6 42. Rb5 Kf6 43. Rh5 Re2 44. Kf1 Re5 45.
+Rh4 h5 46. Kf2 g6 47. Kg3 Ra5 48. Rb4 Kg5 49. Rc4 Rf5 50. f4+ Kf6 51. Rc6+ Kg7
+52. Rc7+ Rf7 53. Rc5 Re7 54. f5 g5 55. Rc6 Kh7 56. Rg6 Rg7 57. Re6 Rf7 58. Re5
+Kg7 59. Ra5 Kf6 60. Kf3 Re7 61. Ra8 Kxf5 62. Rf8+ Kg6 63. Rg8+ Rg7 64. Rh8 Rf7+
+65. Kg3 h4+ 66. Kg4 Rf4+ 67. Kh3 Rf3+ 68. Kg2 Rg3+ 69. Kh2 Kf5 70. Rf8+ Kg4 71.
+Rg8 Ra3 72. Rf8 Rf3 73. Ra8 Rf2+ 74. Kg1 Kg3 75. Ra3+ Rf3 76. Ra2 h3 77. Rg2+
+Kf4 78. Ra2 g4 79. Ra4+ Kg3 80. Ra2 h2+ 0-1
+
+[Event "5th EU Youth Championship - U14"]
+[Site "Mureck AUT"]
+[Date "2007.08.03"]
+[Round "3.18"]
+[White "Meireles, Ana"]
+[Black "Virag, Kinga"]
+[Result "0-1"]
+[ECO "C89"]
+[WhiteElo "1578"]
+[PlyCount "38"]
+[EventDate "2007.??.??"]
+[WhiteCountry "POR"]
+[BlackCountry "HUN"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. c3
+d5 9. exd5 Nxd5 10. Nxe5 Nxe5 11. Rxe5 c6 12. d4 Bd6 13. Re1 Qh4 14. g3 Qh3 15.
+Qf3 Bg4 16. Qh1 Rfe8 17. Rxe8+ Rxe8 18. Bd2 Nf4 19. gxf4 Bf3 0-1
+
+[Event "5th EU Youth Championship - U10"]
+[Site "Mureck AUT"]
+[Date "2007.08.04"]
+[Round "4.16"]
+[White "Damas, Edi"]
+[Black "Raith, Andreas"]
+[Result "1-0"]
+[ECO "C04"]
+[PlyCount "74"]
+[EventDate "2007.??.??"]
+[WhiteCountry "POR"]
+[BlackCountry "AUT"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nc6 4. Ngf3 b6 5. Qe2 Bb7 6. exd5 Nb4 7. Qb5+ Qd7 8.
+Qxd7+ Kxd7 9. dxe6+ fxe6 10. Ne5+ Ke8 11. Kd1 Bd6 12. Ndf3 c5 13. c3 Nc6 14.
+Bb5 Rc8 15. Bf4 Bxe5 16. Nxe5 cxd4 17. Re1 dxc3 18. Nxc6 Bxc6 19. Rxe6+ Ne7 20.
+Bxc6+ Rxc6 21. Rxc6 Nxc6 22. bxc3 Kf7 23. Kc2 Re8 24. Be3 Kg8 25. Re1 Na5 26.
+Bd2 Rf8 27. f3 Nc4 28. Re4 Nxd2 29. Kxd2 Rd8+ 30. Ke2 Kf7 31. Rc4 Rd7 32. Rd4
+Rxd4 33. cxd4 Ke6 34. Ke3 Kd5 35. Kd3 b5 36. a3 a6 37. Kc3 g6 1-0
+
+[Event "5th EU Youth Championship - U10"]
+[Site "Mureck AUT"]
+[Date "2007.08.04"]
+[Round "4.17"]
+[White "Santos, Carolina Inácio"]
+[Black "Hristov, Kaloyan Vihrenov"]
+[Result "0-1"]
+[ECO "D53"]
+[PlyCount "78"]
+[EventDate "2007.??.??"]
+[WhiteCountry "POR"]
+[BlackCountry "BUL"]
+
+1. d4 d5 2. c4 c6 3. Nc3 Nf6 4. Bg5 e6 5. Nf3 Be7 6. e3 Nbd7 7. Bd3 b6 8. O-O
+Ba6 9. Qa4 Bb7 10. e4 dxe4 11. Bxe4 Nxe4 12. Nxe4 Bxg5 13. Nexg5 h6 14. Ne4 O-O
+15. Nd6 Qc7 16. Ne4 c5 17. Nc3 Bxf3 18. gxf3 Nf6 19. dxc5 Qxc5 20. Rfd1 Qg5+
+21. Kf1 Qh4 22. Kg2 Nh5 23. Ne2 Nf4+ 24. Nxf4 Qxf4 25. Rd7 Qb8 26. Rad1 a6 27.
+Re7 Qf4 28. Qb3 Qg5+ 29. Kf1 Qxe7 30. Qxb6 Qh4 31. b3 Qxh2 32. a4 Qh3+ 33. Ke2
+Qf5 34. Rd7 Qe5+ 35. Kf1 Rfb8 36. Qc6 Rd8 37. Re7 Rd1+ 38. Kg2 Qg5+ 39. Kh3
+Rh1# 0-1
+
+[Event "5th EU Youth Championship - U12"]
+[Site "Mureck AUT"]
+[Date "2007.08.04"]
+[Round "4.13"]
+[White "Pereira, Susana"]
+[Black "Penz, Florian"]
+[Result "1-0"]
+[ECO "B30"]
+[WhiteElo "1432"]
+[PlyCount "91"]
+[EventDate "2007.??.??"]
+[WhiteCountry "POR"]
+[BlackCountry "AUT"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 e6 4. O-O d5 5. Qe2 Be7 6. c3 Bd7 7. d3 Nf6 8. Bg5
+O-O 9. Re1 Re8 10. Nbd2 a6 11. Bxc6 Bxc6 12. Ne5 Qc7 13. Ng4 Nxg4 14. Qxg4 Bxg5
+15. Qxg5 dxe4 16. Nxe4 Bxe4 17. Rxe4 Qe7 18. Qh5 Rad8 19. Rh4 h6 20. f4 Qf6 21.
+Rf1 Rd5 22. Qg4 Qg6 23. Qxg6 fxg6 24. Rh3 Red8 25. Rd1 b5 26. Re3 Kf7 27. Kf2
+a5 28. Ke2 b4 29. Re5 Rxe5+ 30. fxe5 g5 31. d4 cxd4 32. Rxd4 Rxd4 33. cxd4 Ke7
+34. Kd3 Kd7 35. Kc4 Kc6 36. g4 g6 37. b3 h5 38. h3 h4 39. d5+ exd5+ 40. Kd4 Kc7
+41. Kxd5 Kd7 42. e6+ Ke7 43. Ke5 Kf8 44. Kf6 Ke8 45. e7 a4 46. bxa4 1-0
+
+[Event "5th EU Youth Championship - U14"]
+[Site "Mureck AUT"]
+[Date "2007.08.04"]
+[Round "4.12"]
+[White "Seegert, Kristian"]
+[Black "Vasques, António"]
+[Result "1-0"]
+[ECO "B01"]
+[BlackElo "1839"]
+[PlyCount "41"]
+[EventDate "2007.??.??"]
+[WhiteCountry "DEN"]
+[BlackCountry "POR"]
+
+1. e4 d5 2. exd5 Nf6 3. d4 Nxd5 4. Bc4 Bf5 5. Nf3 e6 6. O-O Be7 7. c3 O-O 8.
+Re1 Nc6 9. Nbd2 Na5 10. Bf1 c5 11. Ne4 Bxe4 12. Rxe4 Qb6 13. Bd3 Nf6 14. Rh4
+cxd4 15. Nxd4 Rfd8 16. Bg5 g6 17. Qf3 Nd5 18. Bxe7 Nxe7 19. Rxh7 Nf5 20. Qh3
+Nxd4 21. Qh6 1-0
+
+[Event "5th EU Youth Championship - U14"]
+[Site "Mureck AUT"]
+[Date "2007.08.04"]
+[Round "4.20"]
+[White "Juknaite, Aneta"]
+[Black "Meireles, Ana"]
+[Result "0-1"]
+[ECO "B24"]
+[BlackElo "1578"]
+[PlyCount "60"]
+[EventDate "2007.??.??"]
+[WhiteCountry "LTU"]
+[BlackCountry "POR"]
+
+1. e4 c5 2. Nc3 Nc6 3. g3 Nf6 4. d3 d5 5. Bg2 d4 6. Nd5 Nxd5 7. exd5 Nb4 8. Be4
+Nxd5 9. Qf3 Nb4 10. Bxb7 Bxb7 11. Qxb7 Rb8 12. Qxa7 Nxc2+ 13. Kd1 Nxa1 14. Bf4
+Rc8 15. Qa4+ Qd7 16. Qa6 Qc6 17. Qxc6+ Rxc6 18. Kc1 c4 19. Kb1 cxd3 20. Kxa1 e5
+21. Bd2 Rc2 22. Nf3 e4 23. Nxd4 Rxd2 24. Rf1 Bc5 25. Nb3 Rxf2 26. Re1 Be7 27.
+Kb1 f5 28. Nd4 O-O 29. Nb3 Rc2 30. h4 Bf6 0-1
+
+[Event "5th EU Youth Championship - U10"]
+[Site "Mureck AUT"]
+[Date "2007.08.05"]
+[Round "5.12"]
+[White "Urbanc, Peter"]
+[Black "Damas, Edi"]
+[Result "1-0"]
+[ECO "B34"]
+[PlyCount "121"]
+[EventDate "2007.??.??"]
+[WhiteCountry "SLO"]
+[BlackCountry "POR"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 g6 5. Nc3 Bg7 6. Be3 Nf6 7. Qd2 O-O 8.
+O-O-O d6 9. f4 Ng4 10. Nxc6 bxc6 11. e5 Nxe3 12. Qxe3 d5 13. Bc4 Qc7 14. Bb3
+Rd8 15. h4 h5 16. Qc5 Qd7 17. Ba4 Bb7 18. Nxd5 Qe6 19. Nxe7+ Kh7 20. Bb3 Qg4
+21. Qf2 Bh6 22. g3 Re8 23. Nxg6 Kxg6 24. Rd6+ Kg7 25. Bxf7 Kxf7 26. Rxh6 Re6
+27. Rxe6 Kxe6 28. Rd1 Re8 29. Rd3 Kf7 30. Qxa7 Re7 31. Qe3 Rd7 32. Qe4 Rxd3 33.
+Qxd3 Bc8 34. Kd2 Qf5 35. Qxf5+ Bxf5 36. b4 Be6 37. a4 Kg6 38. b5 Bd5 39. b6 c5
+40. a5 Bb7 41. e6 Bc8 42. Kc3 Ba6 43. f5+ Kf6 44. Kd2 Bc8 45. Ke3 Ba6 46. Kf4
+Bb7 47. g4 hxg4 48. Kxg4 c4 49. h5 c3 50. Kf4 Ba6 51. h6 Bb7 52. h7 Kg7 53. e7
+Bc6 54. a6 Ba4 55. b7 Bxc2 56. h8=Q+ Kxh8 57. e8=Q+ Kg7 58. Qg6+ Kf8 59. Qh7
+Bxf5 60. b8=Q+ Bc8 61. Qxc8# 1-0
+
+[Event "5th EU Youth Championship - U10"]
+[Site "Mureck AUT"]
+[Date "2007.08.05"]
+[Round "5.20"]
+[White "Jakob, Tobias"]
+[Black "Santos, Carolina Inácio"]
+[Result "0-1"]
+[ECO "B70"]
+[PlyCount "102"]
+[EventDate "2007.??.??"]
+[WhiteCountry "AUT"]
+[BlackCountry "POR"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 g6 5. Be3 Bg7 6. Nc3 Nf6 7. Bc4 O-O 8.
+O-O d6 9. Bb3 Ng4 10. Qd2 Bd7 11. h3 Nxe3 12. fxe3 a6 13. Qf2 e6 14. Rad1 Qe7
+15. Qe2 Rac8 16. Rf3 Ne5 17. Rf2 Bh6 18. Rdf1 f5 19. exf5 gxf5 20. Nxf5 Qg5 21.
+Nxh6+ Qxh6 22. Rxf8+ Rxf8 23. a4 Rxf1+ 24. Qxf1 Qxe3+ 25. Kh1 Nf7 26. Qd3 Qc1+
+27. Nd1 Qf4 28. Qf3 Qxf3 29. gxf3 Ng5 30. Kg2 Bc6 31. h4 Nxf3 32. Bxe6+ Kg7 33.
+Kg3 Nd4 34. c3 Nxe6 35. b3 Nc5 36. b4 Nxa4 37. Kg4 h6 38. c4 Nb6 39. c5 dxc5
+40. bxc5 Na4 41. Ne3 Nxc5 42. Nc4 b5 43. Na5 b4 44. Nc4 Bb5 45. Nb2 Nd3 46. Nd1
+a5 47. Kf3 a4 48. Ke3 a3 49. Ke2 a2 50. h5 a1=Q 51. Nf2 Nxf2+ 0-1
+
+[Event "5th EU Youth Championship - U12"]
+[Site "Mureck AUT"]
+[Date "2007.08.05"]
+[Round "5.9"]
+[White "Sedonja, Dominik"]
+[Black "Pereira, Susana"]
+[Result "1-0"]
+[ECO "B46"]
+[BlackElo "1432"]
+[PlyCount "93"]
+[EventDate "2007.??.??"]
+[WhiteCountry "SLO"]
+[BlackCountry "POR"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 a6 6. a3 Qc7 7. Bd3 Nxd4 8.
+Bxa6 Rxa6 9. Qxd4 Qc5 10. Qd3 Nf6 11. Be3 Qd6 12. Qe2 Qc6 13. Bd2 d5 14. b4 Qc4
+15. Qxc4 dxc4 16. O-O Bd6 17. Rfd1 O-O 18. Bg5 Be5 19. b5 Ra8 20. Bd2 b6 21. a4
+Bb7 22. f3 Rfd8 23. h3 Rd7 24. Kf1 Rad8 25. Ke2 Bxc3 26. Bxc3 Rxd1 27. Rxd1
+Rxd1 28. Kxd1 Nd7 29. Bd4 e5 30. Be3 Kf8 31. Kd2 Ke7 32. Kc3 Kd6 33. Kxc4 Nf6
+34. Bxb6 Nd7 35. Be3 Kc7 36. Kb4 g6 37. c4 f5 38. c5 Bc6 39. bxc6 Kxc6 40. exf5
+gxf5 41. Kc4 Nb8 42. Bg5 Nd7 43. Be7 Nb8 44. Bd6 Na6 45. g4 fxg4 46. hxg4 h6
+47. a5 1-0
+
+[Event "5th EU Youth Championship - U14"]
+[Site "Mureck AUT"]
+[Date "2007.08.05"]
+[Round "5.14"]
+[White "Vasques, António"]
+[Black "Stevens, Patrick"]
+[Result "1-0"]
+[ECO "B73"]
+[WhiteElo "1839"]
+[PlyCount "81"]
+[EventDate "2007.??.??"]
+[WhiteCountry "POR"]
+[BlackCountry "ENG"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be2 Bg7 7. Be3 Nc6 8.
+O-O O-O 9. Kh1 d5 10. Nxc6 bxc6 11. e5 Nd7 12. f4 Nb6 13. Bf3 Nc4 14. Bc1 Qa5
+15. Qe1 Qc7 16. b3 Nb6 17. g4 f6 18. e6 f5 19. gxf5 Rxf5 20. Bg4 Rf8 21. Qg3 g5
+22. Qh3 Bxc3 23. Qxc3 Qd6 24. Be3 Bxe6 25. Bc5 Qd7 26. Bxe6+ Qxe6 27. Rae1 Qg6
+28. Rxe7 Rfe8 29. f5 Qh6 30. f6 Rxe7 31. Bxe7 Kf7 32. Re1 Qh5 33. Qe3 Qg4 34.
+Bc5 Kxf6 35. Qe7+ Kg6 36. Re6+ Qxe6 37. Qxe6+ Kh5 38. Qf7+ Kg4 39. h3+ Kxh3 40.
+Qf3+ Kh4 41. Bf2# 1-0
+
+[Event "5th EU Youth Championship - U14"]
+[Site "Mureck AUT"]
+[Date "2007.08.05"]
+[Round "5.18"]
+[White "Meireles, Ana"]
+[Black "Edes, Zsofia"]
+[Result "0-1"]
+[ECO "C78"]
+[WhiteElo "1578"]
+[BlackElo "1831"]
+[PlyCount "62"]
+[EventDate "2007.??.??"]
+[WhiteCountry "POR"]
+[BlackCountry "SVK"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Bc5 5. O-O b5 6. Bb3 d6 7. c3 Nf6 8. Re1
+O-O 9. h3 h6 10. d3 Bb7 11. Nbd2 Ba7 12. Nf1 Ne7 13. Ng3 Ng6 14. h4 Ng4 15. d4
+Nxh4 16. Nxe5 Nxe5 17. dxe5 dxe5 18. Qg4 Bc8 19. Qh5 Qf6 20. Re2 Kh7 21. Be3
+Ng6 22. Nf5 Bxe3 23. Rxe3 Nf4 24. Qf3 Rb8 25. Ng3 Rb6 26. Rd1 Qg5 27. Nf1 Bg4
+28. Qg3 Bxd1 29. Qxg5 hxg5 30. Bxd1 Rh6 31. Bb3 c5 0-1
+
+[Event "5th EU Youth Championship - U10"]
+[Site "Mureck AUT"]
+[Date "2007.08.06"]
+[Round "6.13"]
+[White "Damas, Edi"]
+[Black "Skuhala, Jernej"]
+[Result "1-0"]
+[ECO "C55"]
+[PlyCount "91"]
+[EventDate "2007.??.??"]
+[WhiteCountry "POR"]
+[BlackCountry "SLO"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Be7 4. d3 h6 5. c3 Nf6 6. O-O O-O 7. Bb3 d6 8. Nbd2
+Be6 9. Bxe6 fxe6 10. Qb3 d5 11. Qxb7 Qd7 12. Qb3 Rab8 13. Qc2 d4 14. Rd1 Nh5
+15. Nc4 Bd6 16. Qe2 Nf4 17. Bxf4 Rxf4 18. Qd2 dxc3 19. bxc3 Qf7 20. Qe2 Rf8 21.
+Rd2 Qg6 22. Kh1 Nd8 23. Rf1 Qh5 24. Nfxe5 Qxe2 25. Rxe2 Kh7 26. g3 Bxe5 27.
+Nxe5 R4f6 28. Nd7 Nb7 29. Nxf6+ gxf6 30. f4 Nc5 31. d4 Na4 32. c4 Re8 33. e5 f5
+34. d5 exd5 35. cxd5 Kg7 36. Rd2 Nb6 37. Rff2 Kf7 38. Rfe2 Ke7 39. d6+ Kd7 40.
+dxc7+ Kxc7 41. e6 Kc6 42. e7 Nc8 43. Rd8 Nd6 44. Rxe8 Nxe8 45. Rd2 Kb5 46. Rd8
+1-0
+
+[Event "5th EU Youth Championship - U10"]
+[Site "Mureck AUT"]
+[Date "2007.08.06"]
+[Round "6.16"]
+[White "Skuhala, Luka"]
+[Black "Santos, Carolina Inácio"]
+[Result "1-0"]
+[ECO "B34"]
+[PlyCount "75"]
+[EventDate "2007.??.??"]
+[WhiteCountry "SLO"]
+[BlackCountry "POR"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 g6 5. Be3 Bg7 6. c3 Nf6 7. Be2 Nxe4 8.
+O-O O-O 9. Nf3 d6 10. Bd3 Nf6 11. Nbd2 Bd7 12. h3 Rc8 13. Bb5 a6 14. Bd3 Re8
+15. Nc4 Rb8 16. Bb6 Qc8 17. b4 Nd5 18. Bd4 Nxd4 19. cxd4 Nxb4 20. Qb3 Nc6 21.
+Rae1 Qd8 22. d5 Nd4 23. Nxd4 Bxd4 24. Rd1 e6 25. Bxg6 fxg6 26. Rxd4 exd5 27.
+Rxd5 Be6 28. Rxd6 Qg5 29. Re1 Bxc4 30. Qxc4+ Kg7 31. Qd4+ Kh6 32. Rf1 Re2 33.
+Rd7 Rxa2 34. Qg7+ Kh5 35. Qxh7+ Qh6 36. Rd5+ g5 37. g4+ Kh4 38. Qxh6# 1-0
+
+[Event "5th EU Youth Championship - U12"]
+[Site "Mureck AUT"]
+[Date "2007.08.06"]
+[Round "6.12"]
+[White "Pereira, Susana"]
+[Black "Sauer, Jakob"]
+[Result "1/2-1/2"]
+[ECO "C06"]
+[WhiteElo "1432"]
+[PlyCount "82"]
+[EventDate "2007.??.??"]
+[WhiteCountry "SLO"]
+[BlackCountry "AUT"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. Bd3 c5 6. c3 Nc6 7. Ne2 Qb6 8. Nf3
+Be7 9. O-O cxd4 10. cxd4 O-O 11. a3 a5 12. Bc2 Qa6 13. Nc3 Na7 14. Be3 f6 15.
+Bd3 Qb6 16. Na4 Qd8 17. exf6 Nxf6 18. Ne5 Bd7 19. Nxd7 Qxd7 20. Nb6 Qd6 21.
+Nxa8 Rxa8 22. Bg5 Rf8 23. Bxf6 Rxf6 24. Qg4 Bd8 25. Rfe1 Bc7 26. Qg3 Qb6 27.
+Qe3 Bf4 28. Qe2 Qxd4 29. Rad1 Qb6 30. g3 Bd6 31. Qh5 g6 32. Qe2 Nc6 33. Qc2 Bc5
+34. Rf1 Nd4 35. Qc3 Rf3 36. Qd2 Nb3 37. Qe2 Nd4 38. Qd2 Nb3 39. Qe2 Nd4 40. Qd2
+Nb3 41. Qe2 Nd4 1/2-1/2
+
+[Event "5th EU Youth Championship - U14"]
+[Site "Mureck AUT"]
+[Date "2007.08.06"]
+[Round "6.13"]
+[White "Anker, Christin"]
+[Black "Vasques, António"]
+[Result "1/2-1/2"]
+[ECO "B01"]
+[BlackElo "1839"]
+[PlyCount "50"]
+[EventDate "2007.??.??"]
+[WhiteCountry "DEN"]
+[BlackCountry "POR"]
+
+1. e4 d5 2. exd5 Nf6 3. d4 Nxd5 4. c4 Nf6 5. Nc3 Bf5 6. Be3 e6 7. h3 Be7 8. Nf3
+O-O 9. Be2 Nbd7 10. O-O c5 11. d5 exd5 12. Nxd5 Nxd5 13. Qxd5 Be6 14. Qxb7 Rb8
+15. Qxa7 Rxb2 16. Rfe1 Qa8 17. Qxa8 Rxa8 18. a3 Bf6 19. Rab1 g6 20. Rxb2 Bxb2
+21. Ng5 Rxa3 22. Nxe6 fxe6 23. Bg4 Ra6 24. Rd1 Ne5 25. Be2 Bc3 1/2-1/2
+
+[Event "5th EU Youth Championship - U14"]
+[Site "Mureck AUT"]
+[Date "2007.08.06"]
+[Round "6.19"]
+[White "Stevens, Patrick"]
+[Black "Meireles, Ana"]
+[Result "1-0"]
+[ECO "B33"]
+[BlackElo "1578"]
+[PlyCount "61"]
+[EventDate "2007.??.??"]
+[WhiteCountry "ENG"]
+[BlackCountry "POR"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Qb6 5. Nb3 Nf6 6. Nc3 e6 7. Be3 Qc7 8.
+Bd3 d5 9. exd5 exd5 10. O-O Be7 11. Qf3 Be6 12. Bf4 Qd8 13. Nb5 O-O 14. Nc7 Rc8
+15. Nxe6 fxe6 16. Qh3 Qd7 17. Rfe1 Nd8 18. Nd4 Ne4 19. Bxe4 dxe4 20. Rxe4 Qd5
+21. Rae1 Rc4 22. c3 Bc5 23. b3 Rxd4 24. cxd4 Bxd4 25. Qg4 Qc5 26. Rf1 e5 27.
+Be3 Nc6 28. Qe6+ Kh8 29. Bxd4 exd4 30. Qd7 Qc2 31. Re8 1-0
+
+[Event "5th EU Youth Championship - U10"]
+[Site "Mureck AUT"]
+[Date "2007.08.07"]
+[Round "7.10"]
+[White "Damas, Edi"]
+[Black "Lachowicz, Judyta"]
+[Result "0-1"]
+[ECO "C65"]
+[PlyCount "33"]
+[EventDate "2007.??.??"]
+[WhiteCountry "POR"]
+[BlackCountry "POL"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Bc5 4. O-O Nf6 5. d3 d6 6. a4 O-O 7. c3 Bg4 8. h3
+Bh5 9. Nbd2 Ne7 10. d4 exd4 11. cxd4 Bb4 12. a5 Bxd2 13. Bxd2 Nxe4 14. Bb4 c5
+15. Re1 Bxf3 16. Qxf3 cxb4 17. Qxe4 0-1
+
+[Event "5th EU Youth Championship - U10"]
+[Site "Mureck AUT"]
+[Date "2007.08.07"]
+[Round "7.19"]
+[White "Santos, Carolina Inácio"]
+[Black "Balogh, Attila"]
+[Result "1-0"]
+[ECO "E61"]
+[PlyCount "105"]
+[EventDate "2007.??.??"]
+[WhiteCountry "POR"]
+[BlackCountry "HUN"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. Nf3 O-O 5. Bg5 d6 6. e3 Nbd7 7. Bd3 c5 8. O-O
+Re8 9. Re1 Qc7 10. Qd2 h6 11. Bh4 a5 12. Rac1 Kh7 13. h3 a4 14. a3 e5 15. Ne2
+exd4 16. exd4 b6 17. Nc3 Bb7 18. Nb5 Rxe1+ 19. Rxe1 Qb8 20. Bg3 Ne8 21. Re7
+Bxf3 22. gxf3 Ndf6 23. Rxf7 Kg8 24. Re7 Bf8 25. Re1 Qb7 26. Be4 d5 27. Bxg6 Qd7
+28. Kh2 dxc4 29. Nc3 cxd4 30. Ne2 Bd6 31. Rg1 d3 32. Nf4 Ng7 33. Qc3 Bxf4 34.
+Qxc4+ Kh8 35. Qxf4 Qe6 36. Bxd3 Nd5 37. Qg4 Qe7 38. Qg6 Kg8 39. Qxh6 Ra7 40.
+Bg6 Nf6 41. Rc1 Ra8 42. Bh4 Kf8 43. Bxf6 Qxf6 44. Qh8+ Ke7 45. Qxa8 Qxb2 46.
+Rc7+ Kf6 47. Kg2 Kxg6 48. Qe4+ Kh6 49. Qe3+ Kg6 50. Rc6+ Kh7 51. Qh6+ Kg8 52.
+Qg6 b5 53. Rc8# 1-0
+
+[Event "5th EU Youth Championship - U12"]
+[Site "Mureck AUT"]
+[Date "2007.08.07"]
+[Round "7.14"]
+[White "Galliano, George"]
+[Black "Pereira, Susana"]
+[Result "1-0"]
+[ECO "B45"]
+[BlackElo "1432"]
+[PlyCount "55"]
+[EventDate "2007.??.??"]
+[WhiteCountry "ENG"]
+[BlackCountry "POR"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 Nf6 6. Be3 Be7 7. f3 O-O 8.
+Qd2 a6 9. O-O-O b5 10. g4 b4 11. Nce2 a5 12. g5 Nh5 13. Ng3 Nxg3 14. hxg3 Nxd4
+15. Qxd4 Bxg5 16. f4 Be7 17. Bd3 Ba6 18. e5 Bxd3 19. Qxd3 g6 20. g4 a4 21. f5
+exf5 22. gxf5 Bg5 23. f6 Bxf6 24. exf6 Qxf6 25. Qd4 Qxd4 26. Bxd4 Rac8 27. Rxh7
+f5 28. Rg7+ 1-0
+
+[Event "5th EU Youth Championship - U14"]
+[Site "Mureck AUT"]
+[Date "2007.08.07"]
+[Round "7.14"]
+[White "Vasques, António"]
+[Black "Dimitriadis, Philipp"]
+[Result "1-0"]
+[ECO "C54"]
+[WhiteElo "1839"]
+[PlyCount "95"]
+[EventDate "2007.??.??"]
+[WhiteCountry "POR"]
+[BlackCountry "AUT"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Nf6 5. d3 d6 6. Bb3 h6 7. O-O O-O 8. Nbd2
+a6 9. h3 Ne7 10. d4 exd4 11. cxd4 Ba7 12. Re1 Ng6 13. Nf1 Re8 14. Ng3 b5 15.
+Qd3 Bb7 16. Bc2 c5 17. d5 c4 18. Qd1 Nd7 19. Be3 Bxe3 20. Rxe3 Nc5 21. b4 Nd7
+22. Qd2 Nde5 23. Nxe5 Rxe5 24. Ne2 Qc7 25. f4 Re7 26. Rg3 Nf8 27. f5 Kh7 28. f6
+gxf6 29. Rf1 Ng6 30. Rf5 Re5 31. Rxf6 Qe7 32. Rgf3 Rf8 33. R3f5 Bc8 34. Rxe5
+Qxe5 35. Rf1 Qg5 36. Qxg5 hxg5 37. Rf6 Rd8 38. Rxf7+ Kg8 39. Ra7 Ne5 40. Nd4
+Nd3 41. Bxd3 cxd3 42. Kf2 Re8 43. Ke3 Rxe4+ 44. Kxd3 Re8 45. Nc6 Kf8 46. g4 Re1
+47. Rh7 Kg8 48. Rc7 1-0
+
+[Event "5th EU Youth Championship - U14"]
+[Site "Mureck AUT"]
+[Date "2007.08.07"]
+[Round "7.19"]
+[White "Meireles, Ana"]
+[Black "Vasileva, Aleksandra Valeriev"]
+[Result "0-1"]
+[ECO "B40"]
+[WhiteElo "1578"]
+[PlyCount "70"]
+[EventDate "2007.??.??"]
+[WhiteCountry "POR"]
+[BlackCountry "BUL"]
+
+1. e4 c5 2. Nf3 e6 3. Be2 d6 4. O-O a6 5. c3 b5 6. d4 c4 7. e5 d5 8. a4 bxa4 9.
+Rxa4 Bd7 10. Ra1 a5 11. b3 cxb3 12. Qxb3 Na6 13. Ba3 Bxa3 14. Nxa3 Nc7 15. Rfb1
+Ne7 16. Nb5 Nxb5 17. Bxb5 O-O 18. Qa4 Bxb5 19. Rxb5 Qc8 20. Rc5 Qa6 21. Rxa5
+Qxa5 22. Qxa5 Rxa5 23. Rxa5 h6 24. Kf1 Rc8 25. Ra3 Kf8 26. Ke2 Ke8 27. Kd3 Kd7
+28. Ra7+ Ke8 29. Nd2 Nc6 30. Rb7 Na5 31. Ra7 Nc6 32. Ra6 Ne7 33. c4 Kd7 34. c5
+Nc6 35. Ra7+ Nxa7 0-1
+
+[Event "5th EU Youth Championship - U10"]
+[Site "Mureck AUT"]
+[Date "2007.08.08"]
+[Round "8.13"]
+[White "Messina, Salvatore"]
+[Black "Damas, Edi"]
+[Result "1-0"]
+[ECO "D08"]
+[PlyCount "35"]
+[EventDate "2007.??.??"]
+[WhiteCountry "ITA"]
+[BlackCountry "POR"]
+
+1. d4 d5 2. c4 e5 3. dxe5 Be6 4. Nf3 Nc6 5. e3 dxc4 6. Qxd8+ Rxd8 7. Be2 Nb4 8.
+Na3 Nd3+ 9. Bxd3 cxd3 10. Bd2 Bxa3 11. bxa3 Ne7 12. O-O O-O 13. Bb4 Kh8 14.
+Bxe7 Rfe8 15. Bxd8 Rxd8 16. Rfd1 Bc4 17. Nd4 c5 18. Nb3 1-0
+
+[Event "5th EU Youth Championship - U10"]
+[Site "Mureck AUT"]
+[Date "2007.08.08"]
+[Round "8.17"]
+[White "Santos, Carolina Inácio"]
+[Black "Skuhala, Jernej"]
+[Result "0-1"]
+[ECO "D50"]
+[PlyCount "64"]
+[EventDate "2007.??.??"]
+[WhiteCountry "POR"]
+[BlackCountry "SLO"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Nf3 c5 5. Bg5 Nbd7 6. e3 h6 7. Bh4 Qa5 8. Nd2
+cxd4 9. exd4 Bb4 10. Qc2 Bxc3 11. bxc3 Ne4 12. Bd3 Qxc3 13. Qxc3 Nxc3 14. O-O
+f5 15. Rfe1 Nb6 16. Bxf5 Kf7 17. cxd5 exf5 18. Re7+ Kf8 19. Rae1 Bd7 20. Nf3
+Ncxd5 21. Ne5 Nxe7 22. Bxe7+ Kxe7 23. Ng6+ Kf6 24. Nxh8 Rxh8 25. Rc1 Re8 26. f3
+Be6 27. Rc7 Re7 28. Rc2 Rd7 29. Rd2 Nc4 30. Rc2 Rxd4 31. Kf1 Ne3+ 32. Kf2 Nxc2
+0-1
+
+[Event "5th EU Youth Championship - U12"]
+[Site "Mureck AUT"]
+[Date "2007.08.08"]
+[Round "8.16"]
+[White "Pereira, Susana"]
+[Black "Ganev, Nikola Rosenov"]
+[Result "0-1"]
+[ECO "C79"]
+[WhiteElo "1432"]
+[PlyCount "98"]
+[EventDate "2007.??.??"]
+[WhiteCountry "POR"]
+[BlackCountry "BUL"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 d6 5. c3 Bd7 6. O-O Nf6 7. d3 Be7 8. Nbd2
+O-O 9. h3 Nh5 10. Re1 Nf4 11. Nf1 Bg5 12. Nxg5 Qxg5 13. Ng3 h5 14. Bxf4 exf4
+15. Qxh5 Qg6 16. Qxg6 fxg6 17. Ne2 Kh7 18. Kh2 f3 19. Ng3 Rf6 20. Bd1 fxg2 21.
+Kxg2 Raf8 22. Rf1 Ne5 23. Be2 Nf3 24. Bxf3 Rxf3 25. Rad1 Be6 26. c4 b5 27. b3
+c6 28. cxb5 axb5 29. d4 Rc3 30. Rc1 Rd3 31. Rxc6 Rxd4 32. e5 Bd5+ 33. Kg1 Bxc6
+34. e6 Re8 35. Re1 Rd5 36. f4 b4 37. Kf1 Bb5+ 38. Kf2 Rd2+ 39. Ke3 Rd3+ 40. Kf2
+Bc6 41. Ne4 Bxe4 42. Rxe4 Rxh3 43. e7 Rh2+ 44. Ke3 Rxa2 45. Kd4 Ra7 46. Kc4
+Rexe7 47. Rxe7 Rxe7 48. Kxb4 Kg8 49. Ka5 d5 0-1
+
+[Event "5th EU Youth Championship - U14"]
+[Site "Mureck AUT"]
+[Date "2007.08.08"]
+[Round "8.10"]
+[White "Hansen, Mads"]
+[Black "Vasques, António"]
+[Result "1/2-1/2"]
+[ECO "B37"]
+[WhiteElo "1870"]
+[BlackElo "1839"]
+[PlyCount "63"]
+[EventDate "2007.??.??"]
+[WhiteCountry "DEN"]
+[BlackCountry "POR"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 g6 5. c4 Bg7 6. Nc2 Nf6 7. Nc3 O-O 8.
+Be2 d6 9. O-O Be6 10. f4 Na5 11. Ne3 Rc8 12. Qa4 Qc7 13. Ncd5 Bxd5 14. exd5 Ne4
+15. Qc2 f5 16. Rb1 b5 17. Bd3 Nxc4 18. Nxc4 bxc4 19. Bxe4 fxe4 20. Qxe4 c3 21.
+bxc3 Qxc3 22. Be3 Rc4 23. Qe6+ Kh8 24. Qxe7 Qxe3+ 25. Qxe3 Bd4 26. Qxd4+ Rxd4
+27. Rb7 Rdxf4 28. Rxf4 Rxf4 29. Rxa7 Rd4 30. Ra5 Kg7 31. Ra7+ Kf6 32. Rxh7
+1/2-1/2
+
+[Event "5th EU Youth Championship - U14"]
+[Site "Mureck AUT"]
+[Date "2007.08.08"]
+[Round "8.20"]
+[White "Grah, Matej"]
+[Black "Meireles, Ana"]
+[Result "1/2-1/2"]
+[ECO "B33"]
+[BlackElo "1578"]
+[PlyCount "58"]
+[EventDate "2007.??.??"]
+[WhiteCountry "SLO"]
+[BlackCountry "POR"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Qb6 5. Nb3 Nf6 6. Nc3 e6 7. Be3 Qc7 8.
+Nb5 Qb8 9. Bd3 Be7 10. Qd2 d5 11. exd5 Nxd5 12. Bg5 O-O 13. O-O-O Ndb4 14. Bxe7
+Nxd3+ 15. Qxd3 Nxe7 16. Nd6 Nd5 17. Nxc8 Rxc8 18. a3 Qf4+ 19. Qd2 Qa4 20. Kb1
+Rc6 21. Nd4 Rb6 22. Nb3 Rc8 23. Rc1 Qe4 24. Ka1 Ra6 25. f3 Qe3 26. Rhd1 Rac6
+27. Nd4 Rc5 28. c3 Rd8 29. Nb3 Rcc8 1/2-1/2
+
+[Event "5th EU Youth Championship - U10"]
+[Site "Mureck AUT"]
+[Date "2007.08.09"]
+[Round "9.18"]
+[White "Damas, Edi"]
+[Black "Misiuk, Patrik"]
+[Result "0-1"]
+[ECO "B28"]
+[PlyCount "52"]
+[EventDate "2007.??.??"]
+[WhiteCountry "POR"]
+[BlackCountry "LTU"]
+
+1. e4 c5 2. Nf3 a6 3. c3 e6 4. d4 cxd4 5. cxd4 d5 6. Nbd2 dxe4 7. Nxe4 Nf6 8.
+Bg5 Be7 9. Bxf6 Bxf6 10. Be2 O-O 11. O-O Nc6 12. Qa4 Bd7 13. Qb3 Nxd4 14. Nxd4
+Bxd4 15. Qxb7 Rb8 16. Qxa6 Rxb2 17. Rad1 Rb6 18. Qa7 e5 19. Kh1 Bc8 20. f4 Qh4
+21. Rxd4 Rh6 22. h3 exd4 23. Qxd4 Bxh3 24. Rf3 Bg4+ 25. Kg1 Bxf3 26. Bxf3 Qe1#
+0-1
+
+[Event "5th EU Youth Championship - U10"]
+[Site "Mureck AUT"]
+[Date "2007.08.09"]
+[Round "9.19"]
+[White "Janzelj, Lara"]
+[Black "Santos, Carolina Inácio"]
+[Result "1-0"]
+[ECO "D02"]
+[PlyCount "91"]
+[EventDate "2007.??.??"]
+[WhiteCountry "SLO"]
+[BlackCountry "POR"]
+
+1. Nf3 d5 2. d4 c5 3. c3 Nc6 4. Bf4 Bf5 5. e3 e6 6. Bb5 Nf6 7. Ne5 Rc8 8. Qa4
+Qb6 9. Bxc6+ bxc6 10. Qb3 Be7 11. O-O O-O 12. Nd2 Rfd8 13. Rfe1 h6 14. f3 cxd4
+15. exd4 c5 16. Be3 Bd6 17. f4 Bxe5 18. dxe5 Ng4 19. Kh1 Nxe3 20. Rxe3 Qc6 21.
+Qd1 d4 22. cxd4 cxd4 23. Rg3 Qc2 24. b3 Qxd1+ 25. Rxd1 Rc2 26. a4 Rdc8 27. h3
+Rb2 28. Nc4 Rxb3 29. Rxb3 Rxc4 30. Rb8+ Kh7 31. Rb7 Rxa4 32. Rxf7 Bc2 33. Rd2
+Ra1+ 34. Kh2 Kg8 35. Re7 Bf5 36. g4 Be4 37. Rxd4 Rb1 38. Kg3 Rg1+ 39. Kh4 Bg2
+40. Rdd7 Rh1 41. Rxg7+ Kh8 42. Rh7+ Kg8 43. Rxh6 Rxh3+ 44. Kg5 Rg3 45. Kf6 a5
+46. Rd8# 1-0
+
+[Event "5th EU Youth Championship - U12"]
+[Site "Mureck AUT"]
+[Date "2007.08.09"]
+[Round "9.18"]
+[White "Huber, Elke Carola"]
+[Black "Pereira, Susana"]
+[Result "1/2-1/2"]
+[ECO "D61"]
+[BlackElo "1432"]
+[PlyCount "49"]
+[EventDate "2007.??.??"]
+[WhiteCountry "AUT"]
+[BlackCountry "POR"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5 Be7 5. Nf3 O-O 6. e3 Nbd7 7. Qc2 b6 8. cxd5
+exd5 9. Bd3 h6 10. Bxf6 Nxf6 11. O-O Bb7 12. Nb5 c6 13. Nc3 Rc8 14. Rac1 Qd6
+15. Bf5 Rb8 16. Ne5 Bc8 17. Bxc8 Rbxc8 18. Ne2 c5 19. Qd1 Ne4 20. b3 f5 21. Nf3
+Bf6 22. dxc5 Rxc5 23. Rxc5 bxc5 24. Qd3 Rd8 25. Rd1 1/2-1/2
+
+[Event "5th EU Youth Championship - U14"]
+[Site "Mureck AUT"]
+[Date "2007.08.09"]
+[Round "9.12"]
+[White "Vasques, António"]
+[Black "Rozic, Samo"]
+[Result "1/2-1/2"]
+[ECO "C00"]
+[WhiteElo "1839"]
+[BlackElo "1852"]
+[PlyCount "49"]
+[EventDate "2007.??.??"]
+[WhiteCountry "POR"]
+[BlackCountry "SLO"]
+
+1. e4 e6 2. Qe2 e5 3. d3 d6 4. g3 g6 5. Bg2 Bg7 6. Nf3 Ne7 7. O-O O-O 8. c3
+Nbc6 9. Nfd2 f5 10. f4 exf4 11. gxf4 Be6 12. Nf3 fxe4 13. dxe4 Qd7 14. Be3 h6
+15. Nbd2 Rae8 16. Nd4 Bg4 17. Bf3 Bxf3 18. N2xf3 d5 19. e5 Nf5 20. Nxf5 Qxf5
+21. Nd4 Nxd4 22. cxd4 c6 23. Rac1 Qe4 24. Rcd1 Qf5 25. Qg2 1/2-1/2
+
+[Event "5th EU Youth Championship - U14"]
+[Site "Mureck AUT"]
+[Date "2007.08.09"]
+[Round "9.19"]
+[White "Navickaite, Sandra"]
+[Black "Meireles, Ana"]
+[Result "1-0"]
+[ECO "C01"]
+[WhiteElo "1726"]
+[BlackElo "1578"]
+[PlyCount "43"]
+[EventDate "2007.??.??"]
+[WhiteCountry "LTU"]
+[BlackCountry "POR"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. exd5 exd5 5. Bd2 Ne7 6. Nf3 O-O 7. Bd3 Bg4 8.
+Bxh7+ Kh8 9. Bd3 Nbc6 10. Ne2 Bd6 11. c3 Qd7 12. Qc2 Rae8 13. O-O-O Bf5 14. Ng3
+Bg6 15. Bxg6 Nxg6 16. h4 Rg8 17. h5 Nf8 18. h6 g6 19. Rh3 Nh7 20. Ng5 Be7 21.
+Nh5 Qf5 22. Qxf5 1-0
+

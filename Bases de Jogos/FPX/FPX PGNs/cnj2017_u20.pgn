@@ -1,0 +1,1105 @@
+[Event "CN Jovens 2017 - U20"]
+[Site "Luso POR"]
+[Date "2017.04.08"]
+[Round "1.1"]
+[White "Marques, Ricardo T T"]
+[Black "Leão, Tiago"]
+[Result "0-1"]
+[ECO "B76"]
+[WhiteElo "1686"]
+[BlackElo "2079"]
+[WhiteFideId "1949438"]
+[BlackFideId "1925563"]
+[PlyCount "106"]
+[EventDate "2017.??.??"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 O-O 8. Qd2
+Nc6 9. O-O-O d5 10. Qe1 e5 11. Nxc6 bxc6 12. exd5 Nxd5 13. Bc4 Be6 14. Bc5 Qg5+
+15. Kb1 Nxc3+ 16. Qxc3 e4 17. Bd4 Bxd4 18. Qxd4 Bxc4 19. Qxc4 exf3 20. gxf3 Qf6
+21. f4 Rad8 22. a3 Rfe8 23. Rhg1 Re6 24. Rxd8+ Qxd8 25. f5 Rd6 26. fxg6 hxg6
+27. Rg4 Rd1+ 28. Ka2 Qd5 29. Qxd5 Rxd5 30. Ra4 Rd7 31. c4 f5 32. c5 g5 33. Rc4
+Rh7 34. Rc2 f4 35. b4 f3 36. a4 Re7 37. Rc1 Re2+ 38. Kb3 Rxh2 39. b5 Rh7 40. b6
+a6 41. Rf1 g4 42. Kb4 Rf7 43. Ka5 g3 44. b7 Rxb7 45. Rxf3 g2 46. Rg3+ Rg7 47.
+Rxg2 Rxg2 48. Kxa6 Rb2 49. a5 Rb5 50. Ka7 Rxc5 51. a6 Rc1 52. Kb7 Ra1 53. Kb6
+c5 0-1
+
+[Event "CN Jovens 2017 - U20"]
+[Site "Luso POR"]
+[Date "2017.04.08"]
+[Round "1.2"]
+[White "Bernardo, Daniel"]
+[Black "Santos, Ruben"]
+[Result "1-0"]
+[ECO "C07"]
+[WhiteElo "2035"]
+[BlackElo "1571"]
+[WhiteFideId "1925075"]
+[BlackFideId "1952838"]
+[PlyCount "55"]
+[EventDate "2017.??.??"]
+
+1. e4 e6 2. d4 d5 3. Nd2 c5 4. Ngf3 dxe4 5. Nxe4 cxd4 6. Qxd4 Qxd4 7. Nxd4 Bd7
+8. Be3 f5 9. Ng5 e5 10. Nde6 Bd6 11. O-O-O Ke7 12. Nd8 f4 13. Nxb7 fxe3 14.
+Nxd6 Nh6 15. fxe3 Ng4 16. Nge4 Nxe3 17. Re1 Ng4 18. Nc4 Bc6 19. Bd3 Nd7 20. h3
+Bxe4 21. Bxe4 Nf2 22. Rhf1 Nxe4 23. Rxe4 Ke6 24. Rfe1 Kd5 25. Nxe5 Rhe8 26. c4+
+Ke6 27. Nxd7+ Kxd7 28. Rxe8 1-0
+
+[Event "CN Jovens 2017 - U20"]
+[Site "Luso POR"]
+[Date "2017.04.08"]
+[Round "1.3"]
+[White "Mendes, Inês"]
+[Black "Fernandes, Miguel"]
+[Result "0-1"]
+[ECO "B43"]
+[WhiteElo "1543"]
+[BlackElo "2021"]
+[WhiteFideId "1925598"]
+[BlackFideId "1920456"]
+[PlyCount "57"]
+[EventDate "2017.??.??"]
+
+1. e4 e6 2. d4 c5 3. Nf3 cxd4 4. Nxd4 a6 5. Nc3 Qc7 6. a3 Nf6 7. Bd3 Bc5 8. Nb3
+Be7 9. Qe2 d6 10. O-O O-O 11. Be3 Nc6 12. f4 b5 13. Nd4 Na5 14. Bc1 Bb7 15. Kh1
+Rad8 16. Qe1 Nc4 17. Qg3 d5 18. exd5 Nxd5 19. Qh3 Nf6 20. Nf3 Nd6 21. Ng5 g6
+22. Ne2 Nf5 23. Nc3 h5 24. Re1 Ng4 25. Kg1 Qc5+ 26. Be3 Nfxe3 27. Rxe3 Qxe3+
+28. Qxe3 Nxe3 29. Re1 0-1
+
+[Event "CN Jovens 2017 - U20"]
+[Site "Luso POR"]
+[Date "2017.04.08"]
+[Round "1.4"]
+[White "Silva, Mariana"]
+[Black "Corte-Real, Carlos Alberto"]
+[Result "1-0"]
+[ECO "B83"]
+[WhiteElo "1925"]
+[BlackElo "1466"]
+[WhiteFideId "1911899"]
+[BlackFideId "1945777"]
+[WhiteTitle "WCM"]
+[PlyCount "107"]
+[EventDate "2017.??.??"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e6 6. Be2 Be7 7. O-O O-O 8.
+Be3 a6 9. Kh1 b5 10. a3 Bb7 11. Bd3 Nbd7 12. f4 Qc7 13. Nb3 Nc5 14. Nxc5 dxc5
+15. e5 Nd5 16. Bd2 Nxc3 17. Bxc3 Rfd8 18. Qe1 Qc6 19. Qg3 c4 20. Be2 Bf8 21. f5
+exf5 22. Rxf5 Qg6 23. Rg5 Qh6 24. Rf1 Bc8 25. Rf6 g6 26. e6 Bxe6 27. Qf4 Bg7
+28. Kg1 Rd5 29. h4 Rf5 30. Rfxf5 Bxf5 31. Bd2 Re8 32. Kf1 Be5 33. Qxf5 Qxh4 34.
+Qh3 Qxh3 35. gxh3 Bxb2 36. Bb4 f5 37. Rg3 Re6 38. a4 f4 39. Rg5 Re5 40. Rxe5
+Bxe5 41. axb5 axb5 42. Bf3 Kf7 43. c3 h5 44. Ke2 Ke6 45. Bc6 g5 46. Kf3 Bf6 47.
+Bxb5 Kd5 48. Be8 h4 49. Bf7+ Ke5 50. Bxc4 Bd8 51. Bg8 Kf5 52. Bd6 Kf6 53. c4
+Kg7 54. Bd5 1-0
+
+[Event "CN Jovens 2017 - U20"]
+[Site "Luso POR"]
+[Date "2017.04.08"]
+[Round "1.5"]
+[White "Moreira, Rafael"]
+[Black "Santos, Ricardo"]
+[Result "0-1"]
+[ECO "B08"]
+[WhiteElo "1456"]
+[BlackElo "1901"]
+[WhiteFideId "1934643"]
+[BlackFideId "1916424"]
+[PlyCount "78"]
+[EventDate "2017.??.??"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Nf3 Bg7 5. Be3 O-O 6. Bc4 c6 7. Bb3 Nbd7 8. O-O
+e5 9. d5 c5 10. Nd2 Nh5 11. Nb5 Nb6 12. c4 a6 13. Nc3 Qe8 14. h3 f5 15. exf5
+gxf5 16. Bg5 Qg6 17. Bh4 e4 18. Bc2 Bd4 19. Kh2 Kh8 20. Rg1 Qh6 21. Nb3 Be5+
+22. Kh1 Nxc4 23. Rb1 Nf4 24. Ne2 Qxh4 25. Nxf4 Qxf4 26. g3 Qxf2 27. Rg2 Qxg2+
+28. Kxg2 Ne3+ 29. Kh2 Nxd1 30. Bxd1 Rg8 31. Be2 Rxg3 32. Bf1 Rxb3+ 33. Kh1 Rxb2
+34. Re1 Be6 35. dxe6 Rh2+ 36. Kg1 Rg8+ 37. Bg2 Rgxg2+ 38. Kf1 Bd4 39. e7 Rg1#
+0-1
+
+[Event "CN Jovens 2017 - U20"]
+[Site "Luso POR"]
+[Date "2017.04.08"]
+[Round "1.6"]
+[White "Valente, João"]
+[Black "Antunes, Paulo"]
+[Result "1-0"]
+[ECO "A00"]
+[WhiteElo "1855"]
+[BlackElo "1374"]
+[WhiteFideId "1908987"]
+[BlackFideId "1945750"]
+[PlyCount "53"]
+[EventDate "2017.??.??"]
+
+1. e4 c5 2. Nf3 e6 3. c3 d5 4. exd5 exd5 5. d4 Nc6 6. Bb5 Bd7 7. O-O Bd6 8.
+dxc5 Bxc5 9. Qxd5 Qb6 10. Bc4 Be6 11. Qe4 Nf6 12. Qe2 Nd8 13. Nbd2 O-O 14. Nb3
+Bxc4 15. Qxc4 Rc8 16. Be3 Ne6 17. Nxc5 Nxc5 18. b4 Ne6 19. Qxc8 Rxc8 20. Bxb6
+axb6 21. Rac1 Ne4 22. Rfe1 N6g5 23. Nxg5 Nxg5 24. Re7 Rb8 25. Rd1 Ne6 26. g3 f6
+27. Rxe6 1-0
+
+[Event "CN Jovens 2017 - U20"]
+[Site "Luso POR"]
+[Date "2017.04.08"]
+[Round "1.7"]
+[White "Jorge, Diogo"]
+[Black "Ribeiro, Bruno Rafael"]
+[Result "0-1"]
+[ECO "A00"]
+[BlackElo "1817"]
+[WhiteFideId "1956906"]
+[BlackFideId "1908081"]
+[PlyCount "40"]
+[EventDate "2017.??.??"]
+
+1. e4 Nc6 2. Nf3 f5 3. Nc3 fxe4 4. Nxe4 d5 5. Ng3 Nf6 6. d4 Bg4 7. Be2 e6 8. h3
+Bxf3 9. Bxf3 Qd7 10. O-O O-O-O 11. Re1 Kb8 12. c3 Bd6 13. Nf1 Rhe8 14. Qe2 e5
+15. dxe5 Nxe5 16. Bf4 Nxf3+ 17. Qxf3 Ne4 18. g3 g5 19. Qd3 gxf4 20. c4 Qxh3 0-1
+
+[Event "CN Jovens 2017 - U20"]
+[Site "Luso POR"]
+[Date "2017.04.09"]
+[Round "2.1"]
+[White "Leão, Tiago"]
+[Black "Valente, João"]
+[Result "1/2-1/2"]
+[ECO "A00"]
+[WhiteElo "2079"]
+[BlackElo "1855"]
+[WhiteFideId "1925563"]
+[BlackFideId "1908987"]
+[PlyCount "65"]
+[EventDate "2017.??.??"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 g6 5. Nc3 Bg7 6. Be3 Nf6 7. Bc4 O-O 8.
+Bb3 a5 9. O-O d6 10. f3 Nxd4 11. Bxd4 Bd7 12. a4 Bc6 13. Qe2 Nd7 14. Qf2 Bxd4
+15. Qxd4 Qb6 16. Qxb6 Nxb6 17. Rad1 Rac8 18. Rd4 Kg7 19. Re1 Nd7 20. f4 Nc5 21.
+Bd5 Bd7 22. e5 e6 23. Bf3 d5 24. g4 Na6 25. f5 Nb4 26. f6+ Kg8 27. Bd1 h6 28.
+g5 h5 29. Rh4 Kh7 30. Re3 Rc5 31. Re2 Rfc8 32. Rd2 Be8 33. Kf2 1/2-1/2
+
+[Event "CN Jovens 2017 - U20"]
+[Site "Luso POR"]
+[Date "2017.04.09"]
+[Round "2.2"]
+[White "Santos, Ricardo"]
+[Black "Bernardo, Daniel"]
+[Result "1-0"]
+[ECO "A00"]
+[WhiteElo "1901"]
+[BlackElo "2035"]
+[WhiteFideId "1916424"]
+[BlackFideId "1925075"]
+[PlyCount "103"]
+[EventDate "2017.??.??"]
+
+1. e4 c6 2. d4 d5 3. e5 c5 4. c3 cxd4 5. cxd4 Nc6 6. Nc3 e6 7. Nf3 g6 8. Bd3 a6
+9. O-O Nge7 10. Bg5 Bg7 11. Qd2 h6 12. Bxe7 Nxe7 13. b4 Bd7 14. Rfb1 O-O 15. b5
+axb5 16. Nxb5 Bxb5 17. Rxb5 Qc7 18. Rab1 Ra7 19. Qb2 Rc8 20. Rxb7 Rxb7 21. Qxb7
+Qxb7 22. Rxb7 Rc1+ 23. Bf1 Bf8 24. g3 Ra1 25. Ra7 Nc6 26. Ra8 Kg7 27. Kg2 Nb4
+28. a4 Nc2 29. Bd3 Ne1+ 30. Nxe1 Rxe1 31. Bb5 Bb4 32. Be8 Kf8 33. a5 Ra1 34. a6
+Ra5 35. a7 Rxa7 36. Rxa7 Kxe8 37. Kf3 Kf8 38. g4 g5 39. Ke3 Kg7 40. Kd3 Kg6 41.
+Rb7 Be1 42. f3 Ba5 43. Kc2 Bd8 44. Kb3 f6 45. Kb4 h5 46. Kb5 hxg4 47. fxg4 fxe5
+48. dxe5 Bf6 49. exf6 Kxf6 50. Kc5 Ke5 51. Re7 d4 52. Rd7 1-0
+
+[Event "CN Jovens 2017 - U20"]
+[Site "Luso POR"]
+[Date "2017.04.09"]
+[Round "2.3"]
+[White "Fernandes, Miguel"]
+[Black "Martins, Hugo Afonso"]
+[Result "1-0"]
+[ECO "A00"]
+[WhiteElo "2021"]
+[WhiteFideId "1920456"]
+[BlackFideId "1923994"]
+[PlyCount "36"]
+[EventDate "2017.??.??"]
+
+1. d4 d6 2. c4 g6 3. Nc3 Bg7 4. e4 Nf6 5. h3 O-O 6. Nf3 b6 7. Be3 Bb7 8. Qc2
+Nc6 9. a3 e6 10. g4 Nd7 11. Be2 a6 12. h4 Nf6 13. Rg1 h5 14. gxh5 Nxh5 15.
+O-O-O Qf6 16. Bg5 Bh6 17. Bxh6 Ng7 18. Bg5 Qd8 1-0
+
+[Event "CN Jovens 2017 - U20"]
+[Site "Luso POR"]
+[Date "2017.04.09"]
+[Round "2.4"]
+[White "Ribeiro, Bruno Rafael"]
+[Black "Silva, Mariana"]
+[Result "1/2-1/2"]
+[ECO "A00"]
+[WhiteElo "1817"]
+[BlackElo "1925"]
+[WhiteFideId "1908081"]
+[BlackFideId "1911899"]
+[BlackTitle "WCM"]
+[PlyCount "101"]
+[EventDate "2017.??.??"]
+
+1. e4 c5 2. d3 Nc6 3. Nd2 g6 4. Ngf3 Bg7 5. g3 e6 6. Bg2 Nge7 7. O-O O-O 8. Re1
+d6 9. Nf1 Rb8 10. h4 h5 11. N1h2 Nd4 12. Ng5 e5 13. g4 hxg4 14. c3 Ne6 15. Nxe6
+Bxe6 16. Nxg4 Nc6 17. Bg5 f6 18. Bd2 Qd7 19. Nh2 Qf7 20. f4 f5 21. Rf1 Qe7 22.
+h5 gxh5 23. Qxh5 Qf7 24. Qxf7+ Rxf7 25. exf5 Rxf5 26. Be4 Rff8 27. f5 Bd7 28.
+Rf3 Ne7 29. Raf1 d5 30. f6 Bxf6 31. Rg3+ Kh8 32. Bg2 Bg7 33. Bg5 Rxf1+ 34. Nxf1
+Re8 35. Bxe7 Rxe7 36. Bxd5 Be6 37. Bxe6 Rxe6 38. Ne3 e4 39. dxe4 Rxe4 40. Kf2
+Be5 41. Rg4 Rxg4 42. Nxg4 Bg7 43. Ke2 Kg8 44. Kd3 b5 45. b3 Kf7 46. c4 a6 47.
+cxb5 axb5 48. a4 c4+ 49. Kc2 cxb3+ 50. Kxb3 bxa4+ 51. Kxa4 1/2-1/2
+
+[Event "CN Jovens 2017 - U20"]
+[Site "Luso POR"]
+[Date "2017.04.09"]
+[Round "2.5"]
+[White "Corte-Real, Carlos Alberto"]
+[Black "Marques, Ricardo T T"]
+[Result "1/2-1/2"]
+[ECO "A00"]
+[WhiteElo "1466"]
+[BlackElo "1686"]
+[WhiteFideId "1945777"]
+[BlackFideId "1949438"]
+[PlyCount "134"]
+[EventDate "2017.??.??"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. c3
+d5 9. exd5 Nxd5 10. Nxe5 Nxe5 11. Rxe5 c6 12. Bxd5 cxd5 13. d4 Bd6 14. Re1 Qh4
+15. g3 Qh3 16. Qf3 Bf5 17. Qg2 Qg4 18. f3 Qg6 19. Be3 Rae8 20. Nd2 h5 21. Bf2
+Be6 22. Nb3 Qf5 23. Nc5 Bc8 24. Rxe8 Rxe8 25. Re1 Rxe1+ 26. Bxe1 Qb1 27. Qe2
+Bf5 28. Nxa6 Qxa2 29. Qxb5 Qb1 30. Qe8+ Kh7 31. Nc5 Kg6 32. Qe2 Kf6 33. Kg2 g5
+34. Bd2 g4 35. fxg4 hxg4 36. Qe3 Bxc5 37. dxc5 Be4+ 38. Kf2 Bf3 39. Bc1 Qc2+
+40. Qd2 Qb3 41. Qf4+ Ke6 42. Qd6+ Kf5 43. Qf4+ Ke6 44. Qd6+ Kf5 45. Qd7+ Kg6
+46. Qd6+ f6 47. Qf4 Qd1 48. Qh6+ Kf7 49. Qh7+ Ke6 50. Qg8+ Kf5 51. Qh7+ Ke6 52.
+Qg8+ Kf5 53. Qh7+ Ke6 54. Qg8+ Ke7 55. Qg7+ Ke8 56. Qg6+ Kd7 57. Qf7+ Kc6 58.
+Qxf6+ Kxc5 59. Be3+ Kb5 60. Qb6+ Kc4 61. Qb4+ Kd3 62. Qd4+ Kc2 63. Qxd1+ Bxd1
+64. b4 Kxc3 65. b5 d4 66. Bf4 Kc4 67. b6 Bf3 1/2-1/2
+
+[Event "CN Jovens 2017 - U20"]
+[Site "Luso POR"]
+[Date "2017.04.09"]
+[Round "2.6"]
+[White "Santos, Ruben"]
+[Black "Moreira, Rafael"]
+[Result "1-0"]
+[ECO "A00"]
+[WhiteElo "1571"]
+[BlackElo "1456"]
+[WhiteFideId "1952838"]
+[BlackFideId "1934643"]
+[PlyCount "69"]
+[EventDate "2017.??.??"]
+
+1. Nf3 Nf6 2. b3 d5 3. Bb2 Bf5 4. e3 Nbd7 5. c4 e6 6. Nc3 c6 7. Be2 Be7 8. Nh4
+Bg6 9. Nxg6 hxg6 10. cxd5 exd5 11. Qc2 Ne5 12. h3 Nfd7 13. O-O-O Nb6 14. f4
+Ned7 15. Rdf1 Bd6 16. f5 g5 17. Kb1 f6 18. Qd1 Qe7 19. Bh5+ Kd8 20. Qe2 Ba3 21.
+Bf3 Qb4 22. Rc1 Nc4 23. Bxa3 Nxa3+ 24. Ka1 Nb6 25. Qd3 Qe7 26. e4 Qe5 27. exd5
+Nxd5 28. Rhe1 Qd6 29. Re6 Qd7 30. Bxd5 cxd5 31. Qxd5 Qxd5 32. Nxd5 Rc8 33. Rd6+
+Ke8 34. Rxc8+ Kf7 35. Rd7# 1-0
+
+[Event "CN Jovens 2017 - U20"]
+[Site "Luso POR"]
+[Date "2017.04.09"]
+[Round "2.7"]
+[White "Antunes, Paulo"]
+[Black "Mendes, Inês"]
+[Result "0-1"]
+[ECO "A00"]
+[WhiteElo "1374"]
+[BlackElo "1543"]
+[WhiteFideId "1945750"]
+[BlackFideId "1925598"]
+[EventDate "2017.??.??"]
+[Termination "forfeit"]
+
+0-1
+
+[Event "CN Jovens 2017 - U20"]
+[Site "Luso POR"]
+[Date "2017.04.09"]
+[Round "3.1"]
+[White "Santos, Ricardo"]
+[Black "Fernandes, Miguel"]
+[Result "1/2-1/2"]
+[ECO "A00"]
+[WhiteElo "1901"]
+[BlackElo "2021"]
+[WhiteFideId "1916424"]
+[BlackFideId "1920456"]
+[PlyCount "51"]
+[EventDate "2017.??.??"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. d4 Nf6 5. Nf3 g6 6. g3 Bg7 7. Bf4 Qb6 8. a3
+Bf5 9. Bd3 Bxd3 10. Qxd3 c6 11. O-O O-O 12. Ne4 Rd8 13. Rfd1 Nbd7 14. Nxf6+
+Bxf6 15. c4 e5 16. Be3 exd4 17. Bxd4 c5 18. Bxf6 Qxf6 19. Qe4 Qxb2 20. Rab1 Nf6
+21. Rxd8+ Rxd8 22. Rxb2 Nxe4 23. Rxb7 Rd3 24. Ne5 Rxa3 25. Nxf7 Nd2 26. Nh6+
+1/2-1/2
+
+[Event "CN Jovens 2017 - U20"]
+[Site "Luso POR"]
+[Date "2017.04.09"]
+[Round "3.2"]
+[White "Silva, Mariana"]
+[Black "Leão, Tiago"]
+[Result "0-1"]
+[ECO "A00"]
+[WhiteElo "1925"]
+[BlackElo "2079"]
+[WhiteFideId "1911899"]
+[BlackFideId "1925563"]
+[WhiteTitle "WCM"]
+[PlyCount "138"]
+[EventDate "2017.??.??"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. f3 Bg7 7. Be3 O-O 8. Qd2
+Nc6 9. O-O-O d5 10. Kb1 Rb8 11. Nxc6 bxc6 12. Bc4 Qc7 13. Bb3 dxe4 14. fxe4 c5
+15. Nd5 Nxd5 16. Qxd5 c4 17. Qxc4 Qxc4 18. Bxc4 Rxb2+ 19. Kc1 Rb4 20. Bb3 Bg4
+21. Rdf1 a5 22. Bd2 Rb5 23. h3 Bd7 24. Rf3 Rc5 25. Rhf1 e6 26. Be3 Rc3 27. a4
+Rxe3 28. Rxe3 Bh6 29. Kd2 Rb8 30. Rd1 Bc6 31. Ke2 Bxe3 32. Kxe3 Kf8 33. Rd6 Rc8
+34. g4 Ke7 35. e5 g5 36. c4 Bg2 37. Kf2 Bxh3 38. Rd4 Rc5 39. Re4 f5 40. exf6+
+Kxf6 41. Kg3 Bf1 42. Kf2 Bd3 43. Rd4 Bg6 44. Rd7 Rc6 45. Ra7 Rb6 46. Bd1 Rb4
+47. c5 Rd4 48. Be2 Rxa4 49. c6 Ra2 50. c7 Rc2 51. Ke3 Be8 52. Bd3 Rc1 53. Kd4
+Bd7 54. Bc4 e5+ 55. Kd3 Bxg4 56. Bb5 Bf5+ 57. Ke3 Bc8 58. Ba6 Bxa6 59. Rxa6+
+Kf5 60. Ra7 h5 61. Kd2 Rc5 62. Rxa5 Rxc7 63. Ra8 h4 64. Rh8 Kg4 65. Re8 Rc5 66.
+Ra8 Rc4 67. Kd3 Rf4 68. Ke2 h3 69. Ra3 h2 0-1
+
+[Event "CN Jovens 2017 - U20"]
+[Site "Luso POR"]
+[Date "2017.04.09"]
+[Round "3.3"]
+[White "Valente, João"]
+[Black "Ribeiro, Bruno Rafael"]
+[Result "1-0"]
+[ECO "A00"]
+[WhiteElo "1855"]
+[BlackElo "1817"]
+[WhiteFideId "1908987"]
+[BlackFideId "1908081"]
+[PlyCount "117"]
+[EventDate "2017.??.??"]
+
+1. e4 Nc6 2. Nf3 f5 3. exf5 d5 4. d4 Bxf5 5. Bb5 Nf6 6. O-O Qd6 7. Ne5 Nd7 8.
+Nc3 Ncxe5 9. dxe5 Qxe5 10. Re1 Qd6 11. Qf3 Qg6 12. Nxd5 O-O-O 13. Bf4 e5 14.
+Bxd7+ Bxd7 15. Bxe5 Bc6 16. Qh3+ Bd7 17. Qg3 Qxg3 18. Bxg3 c6 19. Ne7+ Bxe7 20.
+Rxe7 g6 21. Rae1 Rde8 22. f3 g5 23. Kf2 Kd8 24. Bd6 h5 25. R1e5 g4 26. fxg4
+hxg4 27. Kg3 Rhg8 28. Rxe8+ Rxe8 29. Rxe8+ Kxe8 30. h4 gxh3 31. gxh3 a5 32. Bc7
+a4 33. Bb6 Be6 34. a3 Bf5 35. c3 Kf7 36. h4 c5 37. Kf4 Bc2 38. Bxc5 b5 39. h5
+Kg7 40. Kg5 Kh7 41. Be3 Bd1 42. h6 Be2 43. Kf6 Bf1 44. Ke5 Be2 45. Bc1 Bf1 46.
+Kd4 Kg6 47. Kc5 Be2 48. Kb4 Bf1 49. b3 axb3 50. Kxb3 Be2 51. a4 bxa4+ 52. Kxa4
+Bd3 53. Kb4 Kf6 54. Kc5 Ke6 55. Bf4 Be4 56. c4 Kd7 57. Kd4 Bc2 58. Ke5 Kc6 59.
+Be3 1-0
+
+[Event "CN Jovens 2017 - U20"]
+[Site "Luso POR"]
+[Date "2017.04.09"]
+[Round "3.4"]
+[White "Bernardo, Daniel"]
+[Black "Jorge, Diogo"]
+[Result "1-0"]
+[ECO "A00"]
+[WhiteElo "2035"]
+[WhiteFideId "1925075"]
+[BlackFideId "1956906"]
+[PlyCount "53"]
+[EventDate "2017.??.??"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. O-O d6 5. c3 Be6 6. Bxe6 fxe6 7. d4 exd4 8.
+cxd4 Bb6 9. d5 exd5 10. exd5 Nce7 11. Ng5 Nf6 12. Nc3 h6 13. Ne6 Qd7 14. Nxg7+
+Kd8 15. Qf3 Neg8 16. Ne6+ Kc8 17. a4 a6 18. Ne4 Qe7 19. Nxf6 Nxf6 20. a5 Ba7
+21. Qf5 Nd7 22. b4 Qf6 23. Qxf6 Nxf6 24. Bb2 Nxd5 25. Bxh8 Kd7 26. Nxc7 Nxc7
+27. Bg7 1-0
+
+[Event "CN Jovens 2017 - U20"]
+[Site "Luso POR"]
+[Date "2017.04.09"]
+[Round "3.5"]
+[White "Martins, Hugo Afonso"]
+[Black "Mendes, Inês"]
+[Result "0-1"]
+[ECO "A00"]
+[BlackElo "1543"]
+[WhiteFideId "1923994"]
+[BlackFideId "1925598"]
+[PlyCount "91"]
+[EventDate "2017.??.??"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. d3 d6 5. O-O Bg4 6. Bxf7+ Kxf7 7. Ng5+ Qxg5
+8. Bxg5 Bxd1 9. Rxd1 h6 10. Bh4 g5 11. Bg3 Nf6 12. Nc3 a6 13. h3 Raf8 14. a3
+Ke6 15. Ne2 Nh5 16. Rf1 Nd4 17. Nxd4+ Bxd4 18. Bh2 Rf7 19. c3 Bb6 20. Rad1 Nf6
+21. Kh1 h5 22. g3 Rhf8 23. Bg1 Nd7 24. Kg2 Rf3 25. d4 c6 26. Rfe1 g4 27. h4 c5
+28. d5+ Ke7 29. c4 Ba7 30. Re2 b5 31. Rc2 Nb6 32. cxb5 axb5 33. b4 c4 34. Ra1
+Na4 35. Kf1 Bd4 36. Raa2 Kd7 37. Kg2 Rd3 38. Kf1 Rff3 39. Rc1 Rxa3 40. Rxa3
+Rxa3 41. Rb1 Rb3 42. Rc1 Rxb4 43. Kg2 Rb3 44. Rc2 Nb2 45. Kf1 Rd3 46. Ke2 0-1
+
+[Event "CN Jovens 2017 - U20"]
+[Site "Luso POR"]
+[Date "2017.04.09"]
+[Round "3.6"]
+[White "Marques, Ricardo T T"]
+[Black "Santos, Ruben"]
+[Result "1-0"]
+[ECO "A00"]
+[WhiteElo "1686"]
+[BlackElo "1571"]
+[WhiteFideId "1949438"]
+[BlackFideId "1952838"]
+[PlyCount "87"]
+[EventDate "2017.??.??"]
+
+1. d4 e6 2. c4 Nf6 3. Nc3 Bb4 4. e3 b6 5. Nf3 Bb7 6. Bd3 c5 7. O-O Bxc3 8. bxc3
+O-O 9. Qe2 cxd4 10. cxd4 d5 11. Ba3 dxc4 12. Bxc4 Re8 13. Rac1 Nbd7 14. Rfd1
+Rc8 15. Bb5 Nd5 16. Rxc8 Qxc8 17. Rc1 Qd8 18. Ne5 N5f6 19. f3 a6 20. Nxd7 Nxd7
+21. Bxa6 Qa8 22. Bxb7 Qxa3 23. Rc7 Nf6 24. Kf2 h6 25. Qc2 Nd5 26. Bxd5 exd5 27.
+Qb3 Qd6 28. Qc2 Qxh2 29. Rc8 Qh4+ 30. Ke2 Qe7 31. e4 dxe4 32. fxe4 Kf8 33.
+Rxe8+ Qxe8 34. Kd3 Qb8 35. d5 Ke7 36. Kd4 f6 37. Qc6 Qd6 38. Qb7+ Kf8 39. Qc8+
+Ke7 40. Kc4 Qf4 41. Qe6+ Kd8 42. d6 Qc1+ 43. Kb5 Qb1+ 44. Kc6 1-0
+
+[Event "CN Jovens 2017 - U20"]
+[Site "Luso POR"]
+[Date "2017.04.09"]
+[Round "3.7"]
+[White "Moreira, Rafael"]
+[Black "Corte-Real, Carlos Alberto"]
+[Result "1/2-1/2"]
+[ECO "A00"]
+[WhiteElo "1456"]
+[BlackElo "1466"]
+[WhiteFideId "1934643"]
+[BlackFideId "1945777"]
+[PlyCount "124"]
+[EventDate "2017.??.??"]
+
+1. e4 c5 2. Nf3 d6 3. Nc3 Nf6 4. d4 cxd4 5. Nxd4 e6 6. Bc4 Qc7 7. Bb3 a6 8. Be3
+Be7 9. O-O O-O 10. Qf3 Nc6 11. Qg3 Rd8 12. Bh6 Ne8 13. Nde2 Bd7 14. Nf4 Kh8 15.
+Bg5 f6 16. Bh4 g5 17. Nxe6 Bxe6 18. Bxe6 Ng7 19. Nd5 Qb8 20. Nxe7 Nxe7 21. Bxg5
+fxg5 22. Qxg5 Qc7 23. Bb3 Nc6 24. Kh1 Re8 25. Rae1 Re5 26. Qg3 Qe7 27. Qd3 Re8
+28. f3 Nf5 29. Qc3 Nfd4 30. Bd5 Nb5 31. Qd2 Nc7 32. Bxc6 bxc6 33. Qd4 Nb5 34.
+Qb6 Rh5 35. Qxc6 Rg8 36. g4 Rh3 37. Qxa6 Qh4 38. Re2 Nd4 39. Rd2 Nxf3 40. Qxd6
+Qxg4 41. Qf6+ Qg7 42. Qxg7+ Rxg7 43. Rd8+ Rg8 44. Rxg8+ Kxg8 45. Kg2 Ng5 46.
+Rf5 Rh5 47. h4 Ne6 48. Rxh5 Nf4+ 49. Kf3 Nxh5 50. e5 Kf7 51. a4 Ke6 52. Ke4
+Ng3+ 53. Kf3 Nf5 54. Kf4 Nxh4 55. a5 Ng6+ 56. Kg5 Nxe5 57. Kh6 Kd6 58. a6 Kc6
+59. b4 Kb6 60. b5 Nc4 61. Kxh7 Kxb5 62. a7 Nb6 1/2-1/2
+
+[Event "CN Jovens 2017 - U20"]
+[Site "Luso POR"]
+[Date "2017.04.10"]
+[Round "4.1"]
+[White "Leão, Tiago"]
+[Black "Santos, Ricardo"]
+[Result "0-1"]
+[ECO "A00"]
+[WhiteElo "2079"]
+[BlackElo "1901"]
+[WhiteFideId "1925563"]
+[BlackFideId "1916424"]
+[PlyCount "86"]
+[EventDate "2017.??.??"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. f4 Bg7 5. Nf3 O-O 6. Bd3 Na6 7. O-O c5 8. d5
+Bg4 9. a3 Nc7 10. h3 Bxf3 11. Qxf3 b5 12. Nxb5 c4 13. Nxc7 Qxc7 14. Be2 Rab8
+15. Rb1 e6 16. c3 exd5 17. exd5 Rfe8 18. Rd1 Qc5+ 19. Kh2 Re4 20. Qf1 Rbe8 21.
+Bf3 R4e7 22. Bd2 Nxd5 23. Qg1 Ne3 24. Bxe3 Rxe3 25. Re1 Qf5 26. Rxe3 Qxf4+ 27.
+g3 Qxe3 28. Qxe3 Rxe3 29. Bd5 Be5 30. Rg1 h5 31. h4 Kg7 32. Rg2 f5 33. Bxc4 Re4
+34. Bd5 Rxh4+ 35. Kg1 Rg4 36. Kf2 f4 37. gxf4 Rxg2+ 38. Kxg2 Bxf4 39. b3 Bc1
+40. a4 Bd2 41. c4 g5 42. Bc6 g4 43. Be8 Kh6 0-1
+
+[Event "CN Jovens 2017 - U20"]
+[Site "Luso POR"]
+[Date "2017.04.10"]
+[Round "4.2"]
+[White "Fernandes, Miguel"]
+[Black "Valente, João"]
+[Result "0-1"]
+[ECO "A00"]
+[WhiteElo "2021"]
+[BlackElo "1855"]
+[WhiteFideId "1920456"]
+[BlackFideId "1908987"]
+[PlyCount "128"]
+[EventDate "2017.??.??"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. h3 O-O 6. Nf3 e5 7. d5 a5 8. Be3 Na6
+9. g4 Nd7 10. a3 Nac5 11. b4 axb4 12. axb4 Rxa1 13. Qxa1 Na6 14. Qb2 f5 15.
+gxf5 gxf5 16. Bg5 Nf6 17. Bd3 Qe8 18. Rg1 Kh8 19. Nh4 f4 20. Bf1 Ng8 21. Ne2
+Qa4 22. Bxf4 Qxb4+ 23. Qxb4 Nxb4 24. Be3 Nd3+ 25. Kd2 Nxf2 26. Ng3 Bf6 27. Bxf2
+Bxh4 28. Ke2 Nf6 29. Bg2 Nh5 30. Nxh5 Rxf2+ 31. Ke3 Rf8 32. Rf1 Rxf1 33. Bxf1
+Bd7 34. Kf3 Kg8 35. Kg2 Ba4 36. Be2 Bc2 37. Kf3 Be1 38. Nf6+ Kf7 39. Ng4 Kg6
+40. Ne3 Bb1 41. Nf5 Kg5 42. Ke3 Ba5 43. h4+ Kf6 44. Bd3 Ba2 45. Kf3 Bb3 46. Kg3
+Bb6 47. Kf3 Bd1+ 48. Be2 Bc2 49. Bf1 Bc5 50. Ne3 Bxe3 51. Kxe3 Bd1 52. Bh3 Kg6
+53. Bf5+ Kh5 54. Bxh7 Kxh4 55. Bf5 Kg3 56. Bc8 b6 57. Ba6 Ba4 58. Bc8 Kg2 59.
+Ba6 Bb3 60. Bb5 Ba2 61. Ba6 Bb1 62. Bc8 Kf1 63. Bg4 Ke1 64. Be2 Bxe4 0-1
+
+[Event "CN Jovens 2017 - U20"]
+[Site "Luso POR"]
+[Date "2017.04.10"]
+[Round "4.3"]
+[White "Mendes, Inês"]
+[Black "Bernardo, Daniel"]
+[Result "0-1"]
+[ECO "A00"]
+[WhiteElo "1543"]
+[BlackElo "2035"]
+[WhiteFideId "1925598"]
+[BlackFideId "1925075"]
+[PlyCount "89"]
+[EventDate "2017.??.??"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 g6 6. Nf3 Bg7 7. Be2 O-O 8. c5
+b6 9. b4 a5 10. Na4 bxc5 11. bxc5 Nc6 12. O-O Bf5 13. a3 Nd7 14. Bb5 Na7 15.
+Bxd7 Bxd7 16. Nb6 Rb8 17. Bf4 Rb7 18. Nxd5 Bb5 19. Qb3 a4 20. Qa2 Bxf1 21. Kxf1
+Rb3 22. Nb6 Qe8 23. Rd1 Qb5+ 24. Kg1 e6 25. Bd6 Rd8 26. h3 Rxd6 27. cxd6 Qxb6
+28. d7 Qd6 29. Rd2 Qxd7 30. Ne5 Qc7 31. Rc2 Rc3 32. Re2 Bxe5 33. Rxe5 Rc1+ 34.
+Kh2 Re1 35. f4 Rxe5 36. dxe5 h5 37. Qd2 Nc8 38. Qb4 Qd7 39. Qb8 Kg7 40. Qb4 Ne7
+41. Qc3 h4 42. Qe1 Nf5 43. Kg1 Qd4+ 44. Qf2 Qd3 45. Qf3 0-1
+
+[Event "CN Jovens 2017 - U20"]
+[Site "Luso POR"]
+[Date "2017.04.10"]
+[Round "4.4"]
+[White "Ribeiro, Bruno Rafael"]
+[Black "Marques, Ricardo T T"]
+[Result "1/2-1/2"]
+[ECO "A00"]
+[WhiteElo "1817"]
+[BlackElo "1686"]
+[WhiteFideId "1908081"]
+[BlackFideId "1949438"]
+[PlyCount "91"]
+[EventDate "2017.??.??"]
+
+1. Nf3 d5 2. b3 e6 3. Bb2 f5 4. g3 Nf6 5. Bg2 Bd6 6. d3 O-O 7. O-O Bd7 8. Nbd2
+Be8 9. e4 Be7 10. exf5 exf5 11. Nd4 Bd7 12. c4 c6 13. N2f3 Na6 14. Ne5 Nc7 15.
+Re1 Bd6 16. Qc2 f4 17. c5 Bxe5 18. Rxe5 Ng4 19. Re2 fxg3 20. hxg3 Qg5 21. Nf3
+Qh6 22. Re7 Rf7 23. Rxf7 Kxf7 24. Re1 Re8 25. Rxe8 Kxe8 26. Qc3 Ne6 27. Qb4 Nd8
+28. Qd4 Nf6 29. Qe5+ Kf8 30. Qd6+ Ke8 31. Qb8 Ng4 32. Qxa7 Qg6 33. Qa5 Qxd3 34.
+Bxg7 Ne6 35. Qe1 Kd8 36. Bc3 Nxc5 37. Nd4 Ne4 38. Bxe4 dxe4 39. Qd2 Qxd2 40.
+Bxd2 Ne5 41. Bg5+ Ke8 42. Kf1 c5 43. Nc2 Be6 44. Ke2 Kd7 45. Ke3 Nd3 46. Kxe4
+1/2-1/2
+
+[Event "CN Jovens 2017 - U20"]
+[Site "Luso POR"]
+[Date "2017.04.10"]
+[Round "4.5"]
+[White "Santos, Ruben"]
+[Black "Silva, Mariana"]
+[Result "0-1"]
+[ECO "A00"]
+[WhiteElo "1571"]
+[BlackElo "1925"]
+[WhiteFideId "1952838"]
+[BlackFideId "1911899"]
+[BlackTitle "WCM"]
+[PlyCount "28"]
+[EventDate "2017.??.??"]
+
+1. a3 d5 2. d4 Nf6 3. Bf4 Bf5 4. e3 e6 5. Bd3 Bg6 6. Nc3 a6 7. Bxg6 hxg6 8. Nf3
+Nbd7 9. Qe2 c5 10. Bg5 Be7 11. h4 Qb6 12. Rb1 Ne4 13. Nxe4 dxe4 14. Bxe7 exf3 0-1
+
+[Event "CN Jovens 2017 - U20"]
+[Site "Luso POR"]
+[Date "2017.04.10"]
+[Round "4.6"]
+[White "Corte-Real, Carlos Alberto"]
+[Black "Jorge, Diogo"]
+[Result "1-0"]
+[ECO "A00"]
+[WhiteElo "1466"]
+[WhiteFideId "1945777"]
+[BlackFideId "1956906"]
+[PlyCount "45"]
+[EventDate "2017.??.??"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. d4 d5 6. Bd3 Be7 7. O-O Nc6 8.
+Re1 Bf5 9. Nc3 Nxc3 10. bxc3 Be6 11. Bf4 O-O 12. Rb1 b6 13. Qd2 Bf6 14. Ng5
+Bxg5 15. Bxg5 Qd7 16. Qe3 Bf5 17. Qg3 Kh8 18. Bb5 Bxc2 19. Rbc1 Bf5 20. Re7 Qd6
+21. Qxd6 cxd6 22. Bxc6 Be6 23. Bxa8 1-0
+
+[Event "CN Jovens 2017 - U20"]
+[Site "Luso POR"]
+[Date "2017.04.10"]
+[Round "4.7"]
+[White "Antunes, Paulo"]
+[Black "Martins, Hugo Afonso"]
+[Result "1-0"]
+[ECO "A00"]
+[WhiteElo "1374"]
+[WhiteFideId "1945750"]
+[BlackFideId "1923994"]
+[PlyCount "71"]
+[EventDate "2017.??.??"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Bd7 4. Bxd7+ Nxd7 5. c3 g6 6. d4 cxd4 7. cxd4 Bg7 8.
+O-O Ngf6 9. Nc3 O-O 10. Bf4 Nh5 11. Qd2 Nb6 12. b3 Rc8 13. Rac1 f5 14. Bh6 f4
+15. Bxg7 Kxg7 16. Ng5 Qd7 17. d5 Kg8 18. Ne6 Rf7 19. Ne2 Nf6 20. Rxc8+ Nxc8 21.
+Rc1 Nxe4 22. Qc2 Nc5 23. N2xf4 b6 24. b4 Rf5 25. bxc5 bxc5 26. Qc3 Rf7 27. Qd3
+Nb6 28. Nxg6 Nxd5 29. Qxd5 hxg6 30. Ng5 Qf5 31. Qxf7+ Qxf7 32. Nxf7 Kxf7 33.
+Kf1 Kf6 34. Ke2 Ke5 35. Rc3 d5 36. Rxc5 1-0
+
+[Event "CN Jovens 2017 - U20"]
+[Site "Luso POR"]
+[Date "2017.04.11"]
+[Round "5.1"]
+[White "Valente, João"]
+[Black "Santos, Ricardo"]
+[Result "1/2-1/2"]
+[ECO "B90"]
+[WhiteElo "1855"]
+[BlackElo "1901"]
+[WhiteFideId "1908987"]
+[BlackFideId "1916424"]
+[PlyCount "19"]
+[EventDate "2017.??.??"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 Ng4 7. Bc1 Nf6 8.
+Be3 Ng4 9. Bc1 Nf6 10. Be3 1/2-1/2
+
+[Event "CN Jovens 2017 - U20"]
+[Site "Luso POR"]
+[Date "2017.04.11"]
+[Round "5.2"]
+[White "Bernardo, Daniel"]
+[Black "Leão, Tiago"]
+[Result "0-1"]
+[ECO "B20"]
+[WhiteElo "2035"]
+[BlackElo "2079"]
+[WhiteFideId "1925075"]
+[BlackFideId "1925563"]
+[PlyCount "158"]
+[EventDate "2017.??.??"]
+
+1. e4 c5 2. b3 d6 3. Bb2 Nf6 4. Nc3 g6 5. Nd5 Bg7 6. Nxf6+ exf6 7. Bb5+ Nc6 8.
+Nf3 O-O 9. O-O a6 10. Bc4 Be6 11. Bd5 Bxd5 12. exd5 Nb4 13. c4 Nd3 14. Qc2 Nxb2
+15. Qxb2 f5 16. d4 g5 17. Qc2 g4 18. Nd2 Qg5 19. Rae1 Bxd4 20. Re2 Rae8 21.
+Rfe1 Re5 22. Nf1 f4 23. Rxe5 dxe5 24. Qd2 Qg6 25. g3 fxg3 26. hxg3 f5 27. d6
+Qxd6 28. Ne3 Qh6 29. Qd1 Qh3 30. Qd3 e4 31. Qf1 Qxf1+ 32. Kxf1 Bxe3 33. fxe3
+Rd8 34. Ke2 Kg7 35. Rb1 Rd6 36. b4 cxb4 37. Rxb4 b6 38. a4 Kg6 39. a5 bxa5 40.
+Ra4 Rc6 41. Rxa5 Rxc4 42. Rxa6+ Kg5 43. Ra7 Rc2+ 44. Kf1 h5 45. Ra8 Rc6 46.
+Rg8+ Rg6 47. Rh8 Rh6 48. Rg8+ Kf6 49. Rf8+ Kg6 50. Rg8+ Kf7 51. Ra8 h4 52. Kg2
+h3+ 53. Kh2 Rb6 54. Ra2 Rb3 55. Re2 Ke6 56. Kh1 Rb1+ 57. Kh2 Rd1 58. Ra2 Rd3
+59. Ra6+ Ke5 60. Ra5+ Kf6 61. Ra6+ Kg5 62. Ra8 Rxe3 63. Rg8+ Kf6 64. Rf8+ Ke5
+65. Re8+ Kd4 66. Rd8+ Kc3 67. Rc8+ Kd2 68. Ra8 Rf3 69. Ra2+ Kc3 70. Ra1 e3 71.
+Rb1 e2 72. Ra1 Kd2 73. Ra2+ Ke3 74. Ra1 Rf2+ 75. Kh1 Rf3 76. Kh2 Kf2 77. Rg1 f4
+78. gxf4 g3+ 79. Kh1 e1=Q 0-1
+
+[Event "CN Jovens 2017 - U20"]
+[Site "Luso POR"]
+[Date "2017.04.11"]
+[Round "5.3"]
+[White "Silva, Mariana"]
+[Black "Fernandes, Miguel"]
+[Result "0-1"]
+[ECO "B23"]
+[WhiteElo "1925"]
+[BlackElo "2021"]
+[WhiteFideId "1911899"]
+[BlackFideId "1920456"]
+[WhiteTitle "WCM"]
+[PlyCount "100"]
+[EventDate "2017.??.??"]
+
+1. e4 c5 2. Nc3 e6 3. f4 g6 4. Nf3 Bg7 5. e5 d5 6. Nb5 Bf8 7. c4 d4 8. Ng5 a6
+9. Qa4 Bd7 10. Ne4 Bc6 11. b3 axb5 12. Qxa8 Bxe4 13. d3 Bc6 14. cxb5 Bd5 15.
+Rg1 Nh6 16. Bd2 Bg7 17. O-O-O O-O 18. Qa3 Qb6 19. Qa5 Qxa5 20. Bxa5 Nd7 21. Kb1
+Ng4 22. Bd2 Nxh2 23. Be2 f5 24. Rc1 Ra8 25. Be1 Ng4 26. Bf3 Ne3 27. Bd2 Bxf3
+28. gxf3 Bh6 29. b4 b6 30. Bxe3 dxe3 31. Rc4 Ra4 32. Rh1 e2 33. Re1 Rxb4+ 34.
+Rxb4 cxb4 35. Rxe2 Bxf4 36. d4 Kf7 37. Kc2 h5 38. Kb3 h4 39. Re1 h3 40. Kc4 h2
+41. Kd3 g5 42. Ke2 Nf8 43. Kf2 Ng6 44. Kg2 Nh4+ 45. Kh1 Nxf3 46. Rd1 Nd2 47.
+Re1 Ne4 48. Kg2 g4 49. Rb1 g3 50. Kf3 Nd2+ 0-1
+
+[Event "CN Jovens 2017 - U20"]
+[Site "Luso POR"]
+[Date "2017.04.11"]
+[Round "5.4"]
+[White "Corte-Real, Carlos Alberto"]
+[Black "Ribeiro, Bruno Rafael"]
+[Result "1/2-1/2"]
+[ECO "B23"]
+[WhiteElo "1466"]
+[BlackElo "1817"]
+[WhiteFideId "1945777"]
+[BlackFideId "1908081"]
+[PlyCount "66"]
+[EventDate "2017.??.??"]
+
+1. e4 c5 2. Nc3 e6 3. g3 a6 4. Bg2 Nc6 5. d3 Be7 6. f4 d6 7. Nge2 Nf6 8. d4
+cxd4 9. Nxd4 Qc7 10. h3 O-O 11. Be3 Bd7 12. Qd2 b5 13. O-O Nxd4 14. Bxd4 Bc6
+15. a3 Rad8 16. Qf2 Qb7 17. Rfe1 Rc8 18. e5 dxe5 19. Bxe5 Bc5 20. Qxc5 Bxg2 21.
+Qf2 Bxh3 22. Bxf6 gxf6 23. Ne4 Kg7 24. Nd6 Qd5 25. Nxc8 Rxc8 26. Rad1 Qf5 27.
+c3 a5 28. Rd2 Bg4 29. Qe3 Qg6 30. Rh2 Rc4 31. Rd2 Qh5 32. Rh2 Qg6 33. Rd2 Qh5
+1/2-1/2
+
+[Event "CN Jovens 2017 - U20"]
+[Site "Luso POR"]
+[Date "2017.04.11"]
+[Round "5.5"]
+[White "Marques, Ricardo T T"]
+[Black "Antunes, Paulo"]
+[Result "1-0"]
+[ECO "A52"]
+[WhiteElo "1686"]
+[BlackElo "1374"]
+[WhiteFideId "1949438"]
+[BlackFideId "1945750"]
+[PlyCount "87"]
+[EventDate "2017.??.??"]
+
+1. d4 Nf6 2. c4 e5 3. dxe5 Ng4 4. Bf4 g5 5. Bg3 Bg7 6. Nf3 Nc6 7. e3 Ngxe5 8.
+Nxe5 Nxe5 9. Nc3 h5 10. h4 g4 11. Be2 d6 12. Qc2 Be6 13. O-O-O Nxc4 14. Bxc4
+Bxc4 15. Qa4+ b5 16. Nxb5 Bxb5 17. Qxb5+ Kf8 18. Rd2 Rb8 19. Qc4 a5 20. Rc2 Rb4
+21. Qxc7 Qxc7 22. Rxc7 Bxb2+ 23. Kc2 Be5 24. Bxe5 dxe5 25. Rc5 Ra4 26. Kb3 Rb4+
+27. Ka3 g3 28. f3 e4 29. Rxa5 Rc4 30. Kb3 Rc8 31. fxe4 Rh6 32. a4 Re8 33. e5
+Rb6+ 34. Rb5 Rxb5+ 35. axb5 Rxe5 36. Kc4 Rxe3 37. b6 Re2 38. Rb1 Re4+ 39. Kd5
+Re2 40. b7 Rd2+ 41. Ke4 f5+ 42. Kxf5 Rf2+ 43. Kg6 Ke7 44. Re1+ 1-0
+
+[Event "CN Jovens 2017 - U20"]
+[Site "Luso POR"]
+[Date "2017.04.11"]
+[Round "5.6"]
+[White "Moreira, Rafael"]
+[Black "Mendes, Inês"]
+[Result "1-0"]
+[ECO "A00"]
+[WhiteElo "1456"]
+[BlackElo "1543"]
+[WhiteFideId "1934643"]
+[BlackFideId "1925598"]
+[PlyCount "107"]
+[EventDate "2017.??.??"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. d3 h6 5. Be3 Bb6 6. Nc3 d6 7. O-O Bg4 8. Bb3
+Nf6 9. Nd5 O-O 10. Bxb6 axb6 11. Ne3 Bh5 12. Nf5 Ne7 13. Ng3 Bg4 14. h3 Be6 15.
+Nh4 Qd7 16. Kh2 Nh7 17. f4 exf4 18. Rxf4 g5 19. Bxe6 Qxe6 20. Rg4 Nf6 21. Nhf5
+Nxg4+ 22. Qxg4 Kh7 23. Qh5 Ng8 24. a3 Qg6 25. Qg4 Nf6 26. Qf3 Nd7 27. Nh5 Ne5
+28. Qe2 g4 29. Nf4 Qg5 30. Qe3 Rg8 31. h4 g3+ 32. Kg1 Qg4 33. Nd5 Rg6 34. Nde7
+Re6 35. Rf1 Re8 36. d4 R8xe7 37. dxe5 Rd7 38. exd6 cxd6 39. Rf3 Qxe4 40. Qxb6
+Qe1+ 41. Rf1 d5 42. Qd4 Qe5 43. Qd3 Qe4 44. Qxg3 Rg6 45. Qh3 Rc7 46. c3 Qc2 47.
+Qh2 Qxb2 48. Nd6 Qb6+ 49. Kh1 Kg8 50. Nf5 Qc5 51. Qe5 Qc4 52. Re1 Qg4 53. Qxd5
+Rxc3 54. Ne7+ 1-0
+
+[Event "CN Jovens 2017 - U20"]
+[Site "Luso POR"]
+[Date "2017.04.11"]
+[Round "5.7"]
+[White "Jorge, Diogo"]
+[Black "Martins, Hugo Afonso"]
+[Result "1-0"]
+[ECO "A00"]
+[WhiteFideId "1956906"]
+[BlackFideId "1923994"]
+[PlyCount "87"]
+[EventDate "2017.??.??"]
+
+1. c4 e5 2. Nc3 Nf6 3. Nf3 d6 4. g3 Be7 5. Bg2 O-O 6. O-O Be6 7. b3 c6 8. Bb2
+Nbd7 9. e3 d5 10. cxd5 cxd5 11. d3 Rc8 12. Ng5 Bg4 13. f3 Bh5 14. Qd2 h6 15.
+Nh3 Bg6 16. f4 Bb4 17. a3 Bd6 18. Nxd5 Nxd5 19. Bxd5 Nc5 20. f5 Bxf5 21. Rxf5
+Qd7 22. Rh5 g6 23. Rxh6 Be7 24. Rxg6+ Kh7 25. Rg5 Qxh3 26. Rxe5 Bf6 27. Be4+
+Kg8 28. Rxc5 Bxb2 29. Rxc8 Qxc8 30. Qxb2 f5 31. Bd5+ Kh7 32. Rf1 Qc5 33. Qd4
+Qe7 34. Rxf5 Rxf5 35. Be4 Kg6 36. Bxf5+ Kxf5 37. Qf4+ Kg6 38. Qe4+ Qxe4 39.
+dxe4 Kf6 40. Kf2 Ke5 41. Kf3 b5 42. h4 Kf6 43. Kf4 a5 44. h5 1-0
+
+[Event "CN Jovens 2017 - U20"]
+[Site "Luso POR"]
+[Date "2017.04.11"]
+[Round "6.1"]
+[White "Santos, Ricardo"]
+[Black "Marques, Ricardo T T"]
+[Result "0-1"]
+[ECO "B33"]
+[WhiteElo "1901"]
+[BlackElo "1686"]
+[WhiteFideId "1916424"]
+[BlackFideId "1949438"]
+[PlyCount "76"]
+[EventDate "2017.??.??"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. Bg5 a6 8.
+Na3 b5 9. Nd5 Be7 10. Bxf6 Bxf6 11. c3 O-O 12. Nc2 Bg5 13. h4 Bh6 14. a4 bxa4
+15. Rxa4 a5 16. Nce3 Bxe3 17. Nxe3 Rb8 18. b3 Be6 19. Nd5 Bxd5 20. exd5 Ne7 21.
+Bc4 f5 22. O-O e4 23. Qe2 Ng6 24. g3 Ne5 25. Bb5 g5 26. h5 f4 27. c4 fxg3 28.
+fxg3 Qb6+ 29. Kg2 Rxf1 30. Qxf1 Rf8 31. Qg1 e3 32. Ra2 Qd4 33. Re2 Qe4+ 34. Kh3
+Qg4+ 35. Kg2 Qxe2+ 36. Kh3 Rf1 37. c5 Qg4+ 38. Kg2 Rxg1+ 0-1
+
+[Event "CN Jovens 2017 - U20"]
+[Site "Luso POR"]
+[Date "2017.04.11"]
+[Round "6.2"]
+[White "Bernardo, Daniel"]
+[Black "Valente, João"]
+[Result "0-1"]
+[ECO "B34"]
+[WhiteElo "2035"]
+[BlackElo "1855"]
+[WhiteFideId "1925075"]
+[BlackFideId "1908987"]
+[PlyCount "116"]
+[EventDate "2017.??.??"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 g6 5. Nxc6 bxc6 6. Bc4 Bg7 7. O-O Nf6 8.
+Re1 O-O 9. Bb3 d5 10. exd5 cxd5 11. c3 Ba6 12. Nd2 e6 13. Nf1 Ne4 14. f3 Nc5
+15. Bc2 Qd6 16. Be3 Rfc8 17. f4 Rab8 18. Rb1 Bc4 19. b4 Na6 20. Bxa7 Bxc3 21.
+Bxb8 Qb6+ 22. Kh1 Bxe1 23. Qxe1 Qxb8 24. b5 Nc5 25. Qf2 Bxa2 26. Rb2 Bc4 27.
+Ne3 Nd3 28. Bxd3 Bxd3 29. h4 Qb6 30. Qd2 Bxb5 31. Ng4 Qc5 32. Kh2 h5 33. Ne3
+Bc6 34. Rc2 Qb6 35. g4 d4 36. Nc4 Be4 37. Nxb6 Rxc2 38. Nc4 hxg4 39. Kg3 Rxd2
+40. Nxd2 Bf5 41. Kf2 Kf8 42. Ke2 Ke7 43. Nc4 f6 44. Kd2 Kd7 45. Ke2 Kc6 46. Nd2
+Kd5 47. Kf2 e5 48. fxe5 fxe5 49. Nf1 e4 50. Ng3 Ke5 51. h5 gxh5 52. Nxh5 Kd5
+53. Ke2 Kc4 54. Ng3 Bg6 55. Nf1 Kc3 56. Ng3 Kc2 57. Nf1 Bf7 58. Ng3 d3+ 0-1
+
+[Event "CN Jovens 2017 - U20"]
+[Site "Luso POR"]
+[Date "2017.04.11"]
+[Round "6.3"]
+[White "Leão, Tiago"]
+[Black "Fernandes, Miguel"]
+[Result "1/2-1/2"]
+[ECO "B28"]
+[WhiteElo "2079"]
+[BlackElo "2021"]
+[WhiteFideId "1925563"]
+[BlackFideId "1920456"]
+[PlyCount "82"]
+[EventDate "2017.??.??"]
+
+1. e4 c5 2. Nf3 a6 3. d4 cxd4 4. Nxd4 e5 5. Nb3 Nf6 6. Bd3 Bb4+ 7. c3 Be7 8.
+O-O O-O 9. Qe2 Nc6 10. Rd1 d6 11. h3 Be6 12. N1d2 Qc7 13. Nf1 Rad8 14. Ng3 g6
+15. Be3 d5 16. Bc5 dxe4 17. Bxe7 Nxe7 18. Nxe4 Nxe4 19. Bxe4 f5 20. Bc2 Bc4 21.
+Qe3 b6 22. Nd2 Nd5 23. Qe1 Bb5 24. c4 Nb4 25. Bb3 Be8 26. c5+ Bf7 27. cxb6 Qxb6
+28. Nc4 Qb8 29. Qxe5 Qxe5 30. Nxe5 Bxb3 31. axb3 Rfe8 32. Rxd8 Rxd8 33. Ra4
+Rd1+ 34. Kh2 Nd3 35. Nxd3 Rxd3 36. Rxa6 Rxb3 37. Ra2 Kg7 38. Kg1 Kf6 39. Kf1 f4
+40. Ke1 Rb5 41. Kd2 f3 1/2-1/2
+
+[Event "CN Jovens 2017 - U20"]
+[Site "Luso POR"]
+[Date "2017.04.11"]
+[Round "6.4"]
+[White "Ribeiro, Bruno Rafael"]
+[Black "Moreira, Rafael"]
+[Result "0-1"]
+[ECO "A05"]
+[WhiteElo "1817"]
+[BlackElo "1456"]
+[WhiteFideId "1908081"]
+[BlackFideId "1934643"]
+[PlyCount "48"]
+[EventDate "2017.??.??"]
+
+1. Nf3 Nf6 2. b3 d5 3. Bb2 Bf5 4. e3 e6 5. Be2 Bd6 6. O-O O-O 7. d4 Nbd7 8.
+Nbd2 Ne4 9. c4 c6 10. a3 Ndf6 11. b4 Nxd2 12. Nxd2 Ne4 13. Nf3 Qf6 14. Ne5 Qh6
+15. c5 Bc7 16. f4 f6 17. Nd3 g5 18. Bg4 gxf4 19. exf4 Kh8 20. Bc1 Rg8 21. Bf3
+Rg7 22. Qb3 Rag8 23. Ra2 Qh3 24. Nf2 Rxg2+ 0-1
+
+[Event "CN Jovens 2017 - U20"]
+[Site "Luso POR"]
+[Date "2017.04.11"]
+[Round "6.5"]
+[White "Mendes, Inês"]
+[Black "Silva, Mariana"]
+[Result "0-1"]
+[ECO "B34"]
+[WhiteElo "1543"]
+[BlackElo "1925"]
+[WhiteFideId "1925598"]
+[BlackFideId "1911899"]
+[BlackTitle "WCM"]
+[PlyCount "52"]
+[EventDate "2017.??.??"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 g6 5. Nc3 Bg7 6. Nxc6 bxc6 7. Qf3 e6 8.
+Ne2 Ne7 9. c3 O-O 10. g3 d5 11. Be3 Ba6 12. Bc5 Re8 13. Nd4 Bxf1 14. Kxf1 Qc7
+15. h4 e5 16. Ne2 Rab8 17. Rb1 Qa5 18. Ba3 Qb5 19. Kg2 Qc4 20. exd5 e4 21. Qe3
+Nxd5 22. Qd2 e3 23. Qd1 exf2 24. Kxf2 Ne3 25. Qe1 Ng4+ 26. Kf1 Qe4 0-1
+
+[Event "CN Jovens 2017 - U20"]
+[Site "Luso POR"]
+[Date "2017.04.11"]
+[Round "6.6"]
+[White "Antunes, Paulo"]
+[Black "Jorge, Diogo"]
+[Result "1/2-1/2"]
+[ECO "A00"]
+[WhiteElo "1374"]
+[WhiteFideId "1945750"]
+[BlackFideId "1956906"]
+[PlyCount "94"]
+[EventDate "2017.??.??"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. d4 d5 6. c4 Bb4+ 7. Nbd2 Bg4 8.
+a3 Nxd2 9. Bxd2 Bxd2+ 10. Qxd2 Bxf3 11. gxf3 O-O 12. Rg1 Kh8 13. Bd3 Re8+ 14.
+Kf1 dxc4 15. Bxc4 Qf6 16. Bb5 c6 17. Re1 Rxe1+ 18. Qxe1 Nd7 19. Bc4 Qxf3 20.
+Qe2 Qxe2+ 21. Kxe2 Re8+ 22. Kd3 Kg8 23. Rg3 Nb6 24. Ba2 Nd5 25. Rg5 Rd8 26. Re5
+Kf8 27. Ke4 Nf6+ 28. Kd3 Ng4 29. Rf5 Rd7 30. Be6 Re7 31. d5 cxd5 32. Bxd5 b6
+33. Rf4 Nf6 34. Be4 Nxe4 35. Rxe4 Rxe4 36. Kxe4 Ke7 37. Kd5 Kd7 38. f4 f6 39.
+b4 g5 40. fxg5 fxg5 41. Ke5 Ke7 42. Kf5 h6 43. Kg6 Ke6 44. Kh5 Kf5 45. Kxh6 Kf4
+46. h3 g4 47. hxg4 Kxg4 1/2-1/2
+
+[Event "CN Jovens 2017 - U20"]
+[Site "Luso POR"]
+[Date "2017.04.11"]
+[Round "6.7"]
+[White "Martins, Hugo Afonso"]
+[Black "Santos, Ruben"]
+[Result "1-0"]
+[ECO "A00"]
+[BlackElo "1571"]
+[WhiteFideId "1923994"]
+[BlackFideId "1952838"]
+[PlyCount "141"]
+[EventDate "2017.??.??"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 Ne7 5. Bd3 c5 6. Nf3 Nbc6 7. Bb5 a6 8. Bxc6+
+Nxc6 9. a3 Qa5 10. Bd2 cxd4 11. axb4 Qxb4 12. Na4 Qb5 13. b3 Bd7 14. Nb2 Rc8
+15. Nd3 O-O 16. O-O f6 17. Re1 f5 18. Ra4 Qb6 19. Ra2 Be8 20. Ng5 Bf7 21. Nf4
+Ne7 22. Ba5 Qc6 23. Bb4 Rce8 24. Qxd4 h6 25. Nf3 g5 26. Nd3 Bh5 27. Nd2 Rf7 28.
+Qc5 f4 29. Qd6 Qb5 30. Ra5 Qc6 31. Rc5 Qxd6 32. exd6 Nc6 33. Rxc6 bxc6 34. Ne5
+Rb7 35. d7 Rxb4 36. dxe8=Q+ Bxe8 37. Nd3 Rb8 38. Rxe6 Bd7 39. Rd6 Bf5 40. Rxc6
+Re8 41. h3 Re2 42. Nf3 Kg7 43. Nd4 Bxd3 44. cxd3 Rd2 45. Rc3 Rd1+ 46. Kh2 h5
+47. g3 fxg3+ 48. fxg3 Rd2+ 49. Kg1 Rd1+ 50. Kf2 Rd2+ 51. Kf3 Kf6 52. g4 h4 53.
+Ne2 Ke5 54. d4+ Kd6 55. Ke3 Rb2 56. Kd3 a5 57. Ng1 Rg2 58. Rc1 Rg3+ 59. Kc2
+Rg2+ 60. Kc3 Rg3+ 61. Kb2 Rd3 62. Rc3 Rxd4 63. Nf3 Rb4 64. Nxg5 d4 65. Rd3 Ke5
+66. Nf3+ Ke4 67. Rxd4+ Rxd4 68. Nxd4 Kxd4 69. Ka3 Ke4 70. Ka4 Kf3 71. g5 1-0
+
+[Event "CN Jovens 2017 - U20"]
+[Site "Luso POR"]
+[Date "2017.04.12"]
+[Round "7.1"]
+[White "Valente, João"]
+[Black "Marques, Ricardo T T"]
+[Result "1/2-1/2"]
+[ECO "C65"]
+[WhiteElo "1855"]
+[BlackElo "1686"]
+[WhiteFideId "1908987"]
+[BlackFideId "1949438"]
+[PlyCount "49"]
+[EventDate "2017.??.??"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. d3 Bc5 5. O-O Nd4 6. Nxd4 Bxd4 7. c3 Bb6 8.
+Nd2 c6 9. Ba4 O-O 10. Qe2 d6 11. Bb3 Bg4 12. Nf3 Re8 13. Be3 d5 14. Bxb6 axb6
+15. h3 Bh5 16. Qe3 Qc7 17. Rfe1 dxe4 18. dxe4 Nd7 19. Nh4 Nc5 20. Qg5 Bg6 21.
+Nxg6 hxg6 22. Bc2 Ne6 23. Qe3 Nf4 24. g3 Ne6 25. h4 1/2-1/2
+
+[Event "CN Jovens 2017 - U20"]
+[Site "Luso POR"]
+[Date "2017.04.12"]
+[Round "7.2"]
+[White "Leão, Tiago"]
+[Black "Corte-Real, Carlos Alberto"]
+[Result "1-0"]
+[ECO "B81"]
+[WhiteElo "2079"]
+[BlackElo "1466"]
+[WhiteFideId "1925563"]
+[BlackFideId "1945777"]
+[PlyCount "55"]
+[EventDate "2017.??.??"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e6 6. g4 h6 7. Be2 Nc6 8. Be3
+d5 9. exd5 Nxd5 10. Nxd5 exd5 11. Qd2 Be7 12. O-O-O Bd7 13. Nf5 Bxf5 14. gxf5
+Rc8 15. Qxd5 Qxd5 16. Rxd5 Nb4 17. Bb5+ Kf8 18. Rd2 Nxa2+ 19. Kb1 Nb4 20. Bxa7
+Kg8 21. c3 Nc6 22. Bxc6 bxc6 23. Rd7 Bg5 24. Rhd1 Bf4 25. Rb7 Rc7 26. Rb8+ Kh7
+27. Rxh8+ Kxh8 28. Bb8 1-0
+
+[Event "CN Jovens 2017 - U20"]
+[Site "Luso POR"]
+[Date "2017.04.12"]
+[Round "7.3"]
+[White "Fernandes, Miguel"]
+[Black "Moreira, Rafael"]
+[Result "1-0"]
+[ECO "A40"]
+[WhiteElo "2021"]
+[BlackElo "1456"]
+[WhiteFideId "1920456"]
+[BlackFideId "1934643"]
+[PlyCount "1"]
+[Termination "forfeit"]
+
+1. d4 1-0
+
+[Event "CN Jovens 2017 - U20"]
+[Site "Luso POR"]
+[Date "2017.04.12"]
+[Round "7.4"]
+[White "Silva, Mariana"]
+[Black "Santos, Ricardo"]
+[Result "0-1"]
+[ECO "B07"]
+[WhiteElo "1925"]
+[BlackElo "1901"]
+[WhiteFideId "1911899"]
+[BlackFideId "1916424"]
+[WhiteTitle "WCM"]
+[PlyCount "96"]
+[EventDate "2017.??.??"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Bg5 Bg7 5. Qd2 O-O 6. Bh6 c6 7. h4 Qa5 8. Bxg7
+Kxg7 9. h5 Nxh5 10. Be2 Rh8 11. Bxh5 gxh5 12. Nf3 Bg4 13. Ng5 h6 14. Nh3 Nd7
+15. f3 Bxh3 16. gxh3 Qg5 17. Qf2 Kh7 18. f4 Qf6 19. O-O-O Rhg8 20. Kb1 Rg7 21.
+f5 e5 22. d5 c5 23. Rhg1 Rag8 24. Ne2 Rxg1 25. Rxg1 Rxg1+ 26. Nxg1 Qg5 27. Ne2
+Nf6 28. Nc3 h4 29. a4 Qg3 30. Qf1 a6 31. a5 Nh5 32. Ne2 Qe3 33. Qg2 Ng3 34. Nc3
+Qe1+ 35. Ka2 Qh1 36. Qxh1 Nxh1 37. Nd1 h5 38. Kb3 Kh6 39. Kc3 Kg5 40. Kd3 Kf4
+41. f6 Kf3 42. Nc3 Nf2+ 43. Kc4 Nxe4 44. Na4 Nxf6 45. Nb6 e4 46. Nc8 Ne8 47.
+Ne7 e3 48. Nf5 e2 0-1
+
+[Event "CN Jovens 2017 - U20"]
+[Site "Luso POR"]
+[Date "2017.04.12"]
+[Round "7.5"]
+[White "Martins, Hugo Afonso"]
+[Black "Bernardo, Daniel"]
+[Result "0-1"]
+[ECO "B15"]
+[BlackElo "2035"]
+[WhiteFideId "1923994"]
+[BlackFideId "1925075"]
+[PlyCount "94"]
+[EventDate "2017.??.??"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Nc3 Bf5 6. Nf3 e6 7. a3 Bd6 8. Bd3
+Bg4 9. O-O Nbd7 10. h3 Bh5 11. Be3 Rc8 12. Be2 Bb8 13. Qd2 Qc7 14. g3 Bg6 15.
+Kg2 Nh5 16. Qe1 Bxc2 17. Bd1 Bxd1 18. Rxd1 O-O 19. Ne2 e5 20. Qd2 exd4 21. Qxd4
+Ne5 22. Qe4 Rfe8 23. Ng5 Nf6 24. Qc2 h6 25. Ne4 Nxe4 26. Qxe4 Ng6 27. Qg4 Rcd8
+28. h4 Ne5 29. Qe4 Qc8 30. Rxd8 Qxd8 31. Bd4 Ng6 32. Qg4 Qd5+ 33. Kg1 h5 34.
+Nc3 hxg4 35. Nxd5 cxd5 36. Rd1 Ne5 37. Bc3 d4 38. Bb4 d3 39. Kf1 Rd8 40. Ke1
+Nf3+ 41. Kf1 d2 42. Ke2 Re8+ 43. Kd3 Re1 44. Rxe1 dxe1=Q 45. Bxe1 Nxe1+ 46. Ke4
+g6 47. b3 f6 0-1
+
+[Event "CN Jovens 2017 - U20"]
+[Site "Luso POR"]
+[Date "2017.04.12"]
+[Round "7.6"]
+[White "Santos, Ruben"]
+[Black "Antunes, Paulo"]
+[Result "1/2-1/2"]
+[ECO "A00"]
+[WhiteElo "1571"]
+[BlackElo "1374"]
+[WhiteFideId "1952838"]
+[BlackFideId "1945750"]
+[PlyCount "113"]
+[EventDate "2017.??.??"]
+
+1. a3 e6 2. d4 Nf6 3. c4 d5 4. Nc3 c5 5. dxc5 Bxc5 6. b4 Be7 7. Bg5 d4 8. Bxf6
+Bxf6 9. Ne4 Nc6 10. Nf3 e5 11. e3 Bf5 12. Nxf6+ gxf6 13. exd4 Nxd4 14. Nxd4
+exd4 15. Ra2 d3 16. Rd2 Qe7+ 17. Be2 dxe2 18. Rxe2 Be6 19. Qd4 Rg8 20. f4 Rd8
+21. Qxa7 Rxg2 22. Qa4+ Kf8 23. Rxg2 Bd7+ 24. Re2 Bxa4 25. Rxe7 Kxe7 26. Ke2 Rd4
+27. Rc1 Rxf4 28. Kd3 Rf3+ 29. Kd4 Rxa3 30. b5 Rh3 31. Re1+ Kd7 32. Re2 Rh4+ 33.
+Kc3 Kc7 34. Rd2 Kb6 35. Rd6+ Kc5 36. Rd5+ Kb6 37. Rd6+ Kc7 38. Rxf6 Rxh2 39.
+b6+ Kd8 40. Rxf7 Bc6 41. c5 h5 42. Kd4 h4 43. Ke5 h3 44. Rh7 Re2+ 45. Kd6 h2
+46. Rh8+ Be8 47. Rh7 Rd2+ 48. Ke5 Rc2 49. Kd6 Rd2+ 50. Ke5 Rd5+ 51. Kxd5 Bc6+
+52. Kd6 h1=Q 53. Rxh1 Bxh1 54. Ke6 Bf3 55. Kd6 Kc8 56. Ke7 Bg4 57. Kd6 1/2-1/2
+
+[Event "CN Jovens 2017 - U20"]
+[Site "Luso POR"]
+[Date "2017.04.12"]
+[Round "7.7"]
+[White "Jorge, Diogo"]
+[Black "Mendes, Inês"]
+[Result "0-1"]
+[ECO "A00"]
+[BlackElo "1543"]
+[WhiteFideId "1956906"]
+[BlackFideId "1925598"]
+[PlyCount "70"]
+[EventDate "2017.??.??"]
+
+1. c4 e5 2. Nc3 Nf6 3. Nf3 d6 4. g3 Nc6 5. Bg2 Be7 6. O-O O-O 7. d3 h6 8. e4
+Bg4 9. h3 Bd7 10. Kh2 Qc8 11. d4 exd4 12. Nxd4 Ne5 13. b3 Nh7 14. f4 Ng6 15.
+Nf3 Bf6 16. Bb2 Re8 17. Nd4 a6 18. Nd5 Rb8 19. Nxf6+ Nxf6 20. Qd3 Nh5 21. Rac1
+b6 22. b4 a5 23. bxa5 bxa5 24. Qc3 Nf6 25. Rb1 a4 26. Rfe1 c5 27. Nf3 Bc6 28.
+e5 dxe5 29. Nxe5 Bxg2 30. Kxg2 h5 31. Rbd1 Qb7+ 32. Kh2 Qxb2+ 33. Qxb2 Rxb2+
+34. Kh1 Rxa2 35. Nd7 Rxe1+ 0-1
+

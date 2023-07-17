@@ -1,0 +1,1416 @@
+[Event "Taça de Portugal 2013"]
+[Site "Torres Vedras POR"]
+[Date "2013.04.20"]
+[Round "3.1.1"]
+[White "Taboas Rodriguez, Daniel"]
+[Black "Alho, Diogo"]
+[Result "1-0"]
+[WhiteElo "2404"]
+[BlackElo "2283"]
+[ECO "D20"]
+[WhiteFideId "2208466"]
+[BlackFideId "1901559"]
+[EventDate "2013.??.??"]
+[WhiteTeam "AA Coimbra"]
+[BlackTeam "CC Torres Novas 'A'"]
+[PlyCount "105"]
+
+1. d4 d5 2. c4 dxc4 3. e3 Nf6 4. Bxc4 a6 5. a4 e6 6. Nc3 c5 7. Nf3 Nc6 8. O-O
+cxd4 9. exd4 Be7 10. Be3 O-O 11. Qe2 Nb4 12. Ne5 Nbd5 13. Bg5 Nb6 14. Rfd1 Nbd5
+15. Rf1 Nb6 16. Rfd1 Nxc4 17. Qxc4 Qb6 18. a5 Qxb2 19. Na4 Qb4 20. Qxb4 Bxb4
+21. Nb6 Rb8 22. Bxf6 gxf6 23. Ned7 Bxd7 24. Nxd7 Rbd8 25. Nxf8 Kxf8 26. Kf1 Bc3
+27. Rab1 Rd7 28. d5 exd5 29. Rb3 Bxa5 30. Rbd3 Ke7 31. Rxd5 Rxd5 32. Rxd5 b5
+33. Ke2 Bc3 34. Kd3 Be5 35. g3 Ke6 36. Rd8 a5 37. f4 Bc7 38. Rc8 Bd6 39. Ra8 Bc7
+40. Ra6+ Ke7 41. Kd4 b4 42. Kc5 b3 43. Ra7 Kd7 44. Kc4 b2 45. Rb7 a4 46. Rxb2 a3
+47. Rb7 h5 48. Ra7 h4 49. gxh4 a2 50. f5 a1=Q 51. Rxa1 Bxh2 52. Kd5 Ke7 53. Ra8
+1-0
+
+[Event "Taça de Portugal 2013"]
+[Site "Torres Vedras POR"]
+[Date "2013.04.20"]
+[Round "3.1.2"]
+[White "Ribeiro, Hugo"]
+[Black "Maltez, Nuno"]
+[Result "1/2-1/2"]
+[WhiteElo "1900"]
+[BlackElo "1999"]
+[ECO "D47"]
+[WhiteFideId "1923420"]
+[BlackFideId "1903152"]
+[EventDate "2013.??.??"]
+[WhiteTeam "CC Torres Novas 'A'"]
+[BlackTeam "AA Coimbra"]
+[PlyCount "81"]
+
+1. d4 d5 2. Nf3 Nf6 3. c4 c6 4. Nc3 e6 5. e3 Nbd7 6. Bd3 dxc4 7. Bxc4 b5 8. Bd3
+Bb7 9. O-O a6 10. a3 c5 11. dxc5 Nxc5 12. Be2 Bd6 13. b4 Nce4 14. Nxe4 Bxe4
+15. Bb2 Be7 16. Rc1 O-O 17. Bd4 Rc8 18. Qb3 Qd5 19. Qb2 Rfd8 20. Rfd1 Qb7
+21. Ne1 Rxc1 22. Rxc1 Rc8 23. Rxc8+ Qxc8 24. f3 Bb7 25. e4 Qc6 26. Nd3 Ne8
+27. Nc5 Bc8 28. Qc3 f6 29. Bd1 Nc7 30. Bb3 Kh8 31. Ba2 Bxc5 32. Qxc5 Qxc5
+33. Bxc5 e5 34. Kf2 Be6 35. Bxe6 Nxe6 36. Ke3 Kg8 37. Ba7 Kf7 38. g3 Nd8 39. Kd3
+Ke6 40. Be3 Nb7 41. Kc3 1/2-1/2
+
+[Event "Taça de Portugal 2013"]
+[Site "Torres Vedras POR"]
+[Date "2013.04.20"]
+[Round "3.1.3"]
+[White "Drezzadore, Dario"]
+[Black "Cruz, Francisco"]
+[Result "1-0"]
+[WhiteElo "2079"]
+[BlackElo "1819"]
+[ECO "B08"]
+[WhiteFideId "819662"]
+[BlackFideId "1923153"]
+[EventDate "2013.??.??"]
+[WhiteTeam "AA Coimbra"]
+[BlackTeam "CC Torres Novas 'A'"]
+[PlyCount "61"]
+
+1. e4 d6 2. Nf3 Nf6 3. Nc3 g6 4. d4 Bg7 5. Bg5 c6 6. Qd2 Qa5 7. O-O-O Nbd7
+8. h4 h5 9. Kb1 Ng4 10. Bxe7 Nxf2 11. Bxd6 Nxd1 12. Qxd1 Bf8 13. Bxf8 Rxf8
+14. Ng5 Nb6 15. Nh7 Be6 16. d5 cxd5 17. Bb5+ Ke7 18. Qd4 Rac8 19. Qf6+ Kd6
+20. Nxf8 Rxc3 21. Qxc3 Qxb5 22. Nxe6 fxe6 23. Qg3+ Kd7 24. Qxg6 Nc4 25. Qg7+ Kc6
+26. Qc3 Kd6 27. b3 e5 28. exd5 Nb6 29. Qf3 Nc4 30. Qf8+ Kc7 31. Rd1 1-0
+
+[Event "Taça de Portugal 2013"]
+[Site "Torres Vedras POR"]
+[Date "2013.04.20"]
+[Round "3.1.4"]
+[White "Carvalho, João Alexandre"]
+[Black "Cross, Dominic"]
+[Result "0-1"]
+[WhiteElo "1794"]
+[BlackElo "1963"]
+[ECO "C54"]
+[WhiteFideId "1904418"]
+[BlackFideId "1904205"]
+[EventDate "2013.??.??"]
+[WhiteTeam "CC Torres Novas 'A'"]
+[BlackTeam "AA Coimbra"]
+[PlyCount "86"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Nf6 5. d3 O-O 6. O-O d6 7. h3 Be6 8. Bb5
+a6 9. Ba4 Ne7 10. Bg5 Ng6 11. d4 Ba7 12. Nbd2 h6 13. Be3 c5 14. dxe5 dxe5
+15. Bb3 Re8 16. Qc2 Qc7 17. Bxe6 Rxe6 18. Rfd1 c4 19. Bxa7 Rxa7 20. g3 b5 21. b3
+cxb3 22. axb3 Rc6 23. c4 Qc8 24. Kg2 Rac7 25. Qb2 Nd7 26. h4 f6 27. h5 Ne7
+28. Qa3 Kh7 29. Ne1 Nb6 30. Qxa6 Qxa6 31. Rxa6 bxc4 32. bxc4 Nxc4 33. Rxc6 Rxc6
+34. Rc1 Ne3+ 35. fxe3 Rxc1 36. Ndf3 Nc8 37. Nd3 Rc2+ 38. Nf2 Nd6 39. Ne1 Ra2
+40. Kf3 Nc4 41. Ned3 Nd2+ 42. Kg4 Ra3 43. Kh3 Nxe4 0-1
+
+[Event "Taça de Portugal 2013"]
+[Site "Torres Vedras POR"]
+[Date "2013.04.20"]
+[Round "3.2.1"]
+[White "Soares, Luís"]
+[Black "Babo, Miguel"]
+[Result "1/2-1/2"]
+[WhiteElo "1990"]
+[BlackElo "1874"]
+[ECO "E11"]
+[WhiteFideId "1904124"]
+[BlackFideId "1901567"]
+[EventDate "2013.??.??"]
+[WhiteTeam "AA Univ. Açores"]
+[BlackTeam "Assembleia Figueirense"]
+[PlyCount "205"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 Bb4+ 4. Bd2 c5 5. e3 O-O 6. Bd3 d5 7. O-O Nc6 8. a3
+Bxd2 9. Nbxd2 cxd4 10. exd4 dxc4 11. Nxc4 Qd5 12. Nce5 Ne7 13. Rc1 Ng6 14. Rc5
+Qd8 15. Nxg6 hxg6 16. Re1 b6 17. Rc2 Bb7 18. Bb5 Bxf3 19. Qxf3 Qxd4 20. Rd1 Qg4
+21. Qxg4 Nxg4 22. h3 Nf6 23. Ba6 Rad8 24. Rdc1 Nd5 25. g3 Rd6 26. Kf1 Rfd8
+27. Bb7 Nf6 28. Ke1 Nd7 29. b4 Ne5 30. Be4 Rd4 31. Re2 Rxe4 32. Rxe4 Nd3+
+33. Kd2 Nxf2+ 34. Ke3 Nxe4 35. Kxe4 Kf8 36. Rc7 a5 37. Rb7 Rd6 38. bxa5 bxa5
+39. Rb5 f5+ 40. Ke5 Rd5+ 41. Rxd5 exd5 42. h4 Ke7 43. a4 d4 44. Kxd4 Kd6 45. Kc4
+Kc6 46. Kd4 Kd6 47. Kc4 Ke5 48. Kb5 Ke4 49. Kxa5 Kf3 50. Kb6 Kxg3 51. a5 f4
+52. a6 f3 53. a7 f2 54. a8=Q f1=Q 55. Qe4 Qf6+ 56. Ka7 Qxh4 57. Qxg6+ Qg4
+58. Qd3+ Kg2 59. Qd5+ Kf1 60. Qd3+ Qe2 61. Qh3+ Qg2 62. Qd3+ Kg1 63. Qd1+ Kh2
+64. Qh5+ Kg1 65. Qd1+ Kf2 66. Qd2+ Kf3 67. Qd5+ Kg3 68. Qg5+ Kh2 69. Qh5+ Qh3
+70. Qe5+ Qg3 71. Qh5+ Kg2 72. Qd5+ Kh3 73. Qh5+ Qh4 74. Qf3+ Qg3 75. Qh5+ Kg2
+76. Qd5+ Kf2 77. Qd2+ Kf3 78. Qd5+ Kg4 79. Qe4+ Qf4 80. Qg2+ Qg3 81. Qe4+ Kh3
+82. Qh1+ Kg4 83. Qe4+ Kg5 84. Qd5+ Kg6 85. Qe4+ Kf7 86. Qf5+ Kg8 87. Qd5+ Kf8
+88. Qd8+ Kf7 89. Qd7+ Kg6 90. Qe8+ Kf6 91. Qf8+ Ke6 92. Qe8+ Kd5 93. Qb5+ Ke4
+94. Qc4+ Kf5 95. Qf7+ Ke4 96. Qc4+ Kf3 97. Qd3+ Kg2 98. Qe4+ Kg1 99. Qb1+ Kg2
+100. Qe4+ Kf2 101. Qc2+ Kf3 102. Qd3+ Kg4 103. Qg6+ 1/2-1/2
+
+[Event "Taça de Portugal 2013"]
+[Site "Torres Vedras POR"]
+[Date "2013.04.20"]
+[Round "3.2.2"]
+[White "Mourato, Mário"]
+[Black "Silva, Rui Jorge"]
+[Result "0-1"]
+[WhiteElo "1833"]
+[BlackElo "2014"]
+[ECO "C96"]
+[WhiteFideId "1930567"]
+[BlackFideId "1908227"]
+[EventDate "2013.??.??"]
+[WhiteTeam "Assembleia Figueirense"]
+[BlackTeam "AA Univ. Açores"]
+[PlyCount "56"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3
+O-O 9. h3 Na5 10. Bc2 c5 11. d4 Nd7 12. Nbd2 exd4 13. cxd4 Nc6 14. Nf1 Nxd4
+15. Nxd4 cxd4 16. Qxd4 Ne5 17. Rd1 Qc7 18. Bb3 Bxh3 19. f4 Nc6 20. Qc3 Bg4
+21. Re1 Rac8 22. Ne3 Qb6 23. Kh1 Be6 24. Bd5 Bh4 25. g3 Nd4 26. gxh4 Rxc3
+27. bxc3 Qd8 28. Kg2 Qxh4 0-1
+
+[Event "Taça de Portugal 2013"]
+[Site "Torres Vedras POR"]
+[Date "2013.04.20"]
+[Round "3.7.3"]
+[White "Rego, Rui"]
+[Black "Marques, João"]
+[Result "1/2-1/2"]
+[BlackElo "1738"]
+[ECO "C00"]
+[WhiteFideId "1937600"]
+[BlackFideId "1930540"]
+[EventDate "2013.??.??"]
+[WhiteTeam "AA Univ. Açores"]
+[BlackTeam "Assembleia Figueirense"]
+[PlyCount "58"]
+
+1. e4 e6 2. c4 d5 3. exd5 exd5 4. d4 Nf6 5. Nf3 Be7 6. Be2 O-O 7. O-O dxc4
+8. Bxc4 Nbd7 9. Nc3 Nb6 10. Bb3 c6 11. Qd3 Nbd5 12. Re1 Re8 13. Bd2 Bg4 14. Nxd5
+cxd5 15. Ba4 Rf8 16. Bf4 Bd6 17. Ne5 Be6 18. Bc2 Rc8 19. Bg5 g6 20. Ba4 Kh8
+21. Qf3 Be7 22. Bh6 Rg8 23. Re3 a6 24. Rae1 Bb4 25. Rd1 b5 26. Bb3 a5 27. a4
+bxa4 28. Bxa4 Rc7 29. Bg5 Be7 1/2-1/2
+
+[Event "Taça de Portugal 2013"]
+[Site "Torres Vedras POR"]
+[Date "2013.04.20"]
+[Round "3.2.4"]
+[White "NN"]
+[Black "Sá, Nuno"]
+[Result "0-1"]
+[BlackElo "1962"]
+[ECO "A40"]
+[WhiteFideId "0"]
+[BlackFideId "1908219"]
+[EventDate "2013.??.??"]
+[WhiteTeam "Assembleia Figueirense"]
+[BlackTeam "AA Univ. Açores"]
+[Termination "forfeit"]
+
+0-1
+
+[Event "Taça de Portugal 2013"]
+[Site "Torres Vedras POR"]
+[Date "2013.04.20"]
+[Round "3.3.1"]
+[White "Guerra, Vítor"]
+[Black "Diogo, Vasco"]
+[Result "0-1"]
+[WhiteElo "2196"]
+[BlackElo "2274"]
+[ECO "D02"]
+[WhiteFideId "1901095"]
+[BlackFideId "1902628"]
+[EventDate "2013.??.??"]
+[WhiteTeam "CeCSSAC"]
+[BlackTeam "Clube TAP"]
+[PlyCount "132"]
+
+1. d4 d5 2. Nf3 c6 3. g3 Nf6 4. Bg2 Bf5 5. O-O e6 6. c4 Be7 7. Nc3 O-O 8. b3
+Ne4 9. Bb2 Nd7 10. Nxe4 Bxe4 11. a4 Bf6 12. cxd5 exd5 13. Ba3 Re8 14. Rc1 a5
+15. e3 Be7 16. Bxe7 Qxe7 17. Qd2 Qa3 18. Qc3 Re7 19. Ne1 Nf6 20. Nd3 Bxd3
+21. Qxd3 h5 22. h4 Qd6 23. Rc2 g6 24. Rfc1 Nd7 25. Qd2 f5 26. Rb1 Qb4 27. Bf1
+Kg7 28. Ra2 Nf6 29. Qxb4 axb4 30. Bd3 Ra5 31. Rc2 Nd7 32. Kg2 Kf6 33. Rbc1 Re8
+34. Re2 Nf8 35. Kf1 Ne6 36. Kg2 Rc8 37. Rec2 Rc7 38. f3 Re7 39. Kf2 Kg7 40. Bf1
+Ra8 41. Ra2 Ra5 42. Rac2 Rc7 43. Bh3 Ra8 44. g4 hxg4 45. fxg4 f4 46. g5 fxe3+
+47. Kxe3 Re8 48. Bxe6 Rxe6+ 49. Kd3 Rf7 50. Rd2 Rf3+ 51. Kc2 Ree3 52. Rg1 Rc3+
+53. Kd1 Rxb3 54. Rgg2 Ra3 55. Rde2 Rxa4 56. Re7+ Rf7 57. Rxf7+ Kxf7 58. Rf2+ Kg7
+59. Rb2 b3 60. Rxb3 Rxd4+ 61. Ke2 b5 62. Ra3 Rxh4 63. Ra7+ Kf8 64. Kf3 b4
+65. Rd7 b3 66. Kg3 Rb4 0-1
+
+[Event "Taça de Portugal 2013"]
+[Site "Torres Vedras POR"]
+[Date "2013.04.20"]
+[Round "3.3.2"]
+[White "Rego, Pedro"]
+[Black "Ribeiro, Bruno Rafael"]
+[Result "1-0"]
+[WhiteElo "2271"]
+[BlackElo "2197"]
+[ECO "A16"]
+[WhiteFideId "1904310"]
+[BlackFideId "1908081"]
+[EventDate "2013.??.??"]
+[WhiteTeam "Clube TAP"]
+[BlackTeam "CeCSSAC"]
+[PlyCount "121"]
+
+1. c4 Nf6 2. Nc3 d5 3. cxd5 Nxd5 4. g3 e5 5. Bg2 Nb6 6. Nf3 Nc6 7. O-O Be7
+8. d3 O-O 9. Nd2 Be6 10. b3 Nd5 11. Bb2 Qd7 12. Nc4 f6 13. Nxd5 Bxd5 14. Bxd5+
+Qxd5 15. Ne3 Qe6 16. Qc2 Nd4 17. Bxd4 exd4 18. Ng2 Bd6 19. Qc4 Rfe8 20. e4 dxe3
+21. fxe3 c6 22. Rfe1 Rad8 23. Rad1 a5 24. d4 Bb4 25. Re2 Qxc4 26. bxc4 Re4
+27. Rc2 b6 28. Rb1 c5 29. d5 a4 30. Kf2 g5 31. h3 a3 32. Ne1 Rde8 33. Ng2 Kf7
+34. Rd1 Ke7 35. Ke2 Kd6 36. Rf1 Rf8 37. Kd3 f5 38. g4 Ke5 39. gxf5 b5 40. cxb5
+Kxd5 41. f6 c4+ 42. Ke2 Re6 43. Rf5+ Re5 44. Rxe5+ Kxe5 45. Rxc4 Bd6 46. Rc6
+Rxf6 47. Ne1 Kd5 48. Nd3 Re6 49. Rc8 Re7 50. Rg8 h6 51. Rh8 Rb7 52. Rxh6 Rxb5
+53. Rg6 Kc6 54. Kd2 Kd7 55. Kc3 Rf5 56. Rh6 Rf3 57. Kd4 Rg3 58. Kd5 Be7 59. Ne5+
+Kc7 60. Rh7 Kd8 61. Nc6+ 1-0
+
+[Event "Taça de Portugal 2013"]
+[Site "Torres Vedras POR"]
+[Date "2013.04.20"]
+[Round "3.3.3"]
+[White "Gaspar, Artur"]
+[Black "Andrade, Bruno"]
+[Result "0-1"]
+[WhiteElo "2149"]
+[BlackElo "2103"]
+[ECO "A17"]
+[WhiteFideId "1900781"]
+[BlackFideId "1902768"]
+[EventDate "2013.??.??"]
+[WhiteTeam "CeCSSAC"]
+[BlackTeam "Clube TAP"]
+[PlyCount "124"]
+
+1. Nf3 Nf6 2. c4 e6 3. Nc3 b6 4. g3 Bb7 5. Bg2 Bb4 6. Qc2 O-O 7. O-O Bxc3
+8. Qxc3 c5 9. b3 d6 10. Bb2 Nbd7 11. Rad1 Qe7 12. d4 Ne4 13. Qd3 f5 14. Nd2 Ndf6
+15. f3 Nxd2 16. Rxd2 d5 17. dxc5 bxc5 18. Bxf6 Rxf6 19. f4 d4 20. e3 Bxg2
+21. Kxg2 Rd8 22. Rfd1 e5 23. fxe5 Qxe5 24. exd4 Rxd4 25. Qf3 Rfd6 26. Re2 Re4
+27. Rde1 Rdd4 28. Kf2 g6 29. Rxe4 fxe4 30. Qf4 Qxf4+ 31. gxf4 Kf7 32. Ke3 a5
+33. Rg1 h6 34. Rg2 Kf6 35. Rf2 Kf5 36. Rf1 Rd3+ 37. Ke2 Rh3 38. Rf2 Rc3 39. Rf1
+Rc2+ 40. Ke3 Rxh2 41. Rd1 Rh3+ 42. Ke2 Rd3 43. Rh1 h5 44. Rg1 Kxf4 45. Rxg6 Rg3
+46. Rf6+ Ke5 47. Rh6 Rh3 48. Rh8 h4 49. Rh5+ Kd4 50. Rd5+ Kc3 51. Rxc5 Rh2+
+52. Ke3 Rxa2 53. Rb5 h3 54. Kxe4 h2 55. Rh5 Kxb3 56. Kd5 Rd2+ 57. Kc5 a4
+58. Rh3+ Kb2 59. Kb4 a3 60. Rb3+ Kc2 61. Rc3+ Kb1 62. Rb3+ Rb2 0-1
+
+[Event "Taça de Portugal 2013"]
+[Site "Torres Vedras POR"]
+[Date "2013.04.20"]
+[Round "3.3.4"]
+[White "Santos, João"]
+[Black "Prata, José"]
+[Result "1-0"]
+[WhiteElo "1972"]
+[BlackElo "2036"]
+[ECO "C07"]
+[WhiteFideId "1905910"]
+[BlackFideId "1901303"]
+[EventDate "2013.??.??"]
+[WhiteTeam "Clube TAP"]
+[BlackTeam "CeCSSAC"]
+[PlyCount "99"]
+
+1. e4 e6 2. d4 d5 3. Nd2 c5 4. exd5 Qxd5 5. Ngf3 cxd4 6. Bc4 Qd6 7. O-O Nf6
+8. Nb3 Nc6 9. Nbxd4 Nxd4 10. Qxd4 Bd7 11. Rd1 Qxd4 12. Nxd4 Rc8 13. Bb3 Bc5
+14. c3 h6 15. h3 O-O 16. Be3 Rfd8 17. Nc2 Bxe3 18. Nxe3 Bc6 19. f3 Kf8 20. Kf2
+Ke7 21. Rxd8 Rxd8 22. Rd1 Rxd1 23. Bxd1 b6 24. Bb3 Nd7 25. Bc2 f5 26. c4 g5
+27. Bd3 Ne5 28. Be2 Bb7 29. Nc2 Nc6 30. Bd3 Kf6 31. a3 e5 32. Ne3 Nd4 33. Nc2
+Nc6 34. Ne3 Ne7 35. b4 h5 36. c5 bxc5 37. bxc5 f4 38. Nc4 Ke6 39. Na5 Bd5
+40. Bb5 e4 41. fxe4 Bxe4 42. Be2 h4 43. Nc4 Kd5 44. Nd6 Bg6 45. Nb7 Kd4 46. Bf3
+Be4 47. Nd6 Bxf3 48. Kxf3 Ke5 49. Kg4 Kf6 50. Ne4+ 1-0
+
+[Event "Taça de Portugal 2013"]
+[Site "Torres Vedras POR"]
+[Date "2013.04.20"]
+[Round "3.4.1"]
+[White "Silva, Luís M"]
+[Black "Moura, António"]
+[Result "1-0"]
+[WhiteElo "2176"]
+[BlackElo "1932"]
+[ECO "A13"]
+[WhiteFideId "1919121"]
+[BlackFideId "1903853"]
+[EventDate "2013.??.??"]
+[WhiteTeam "NXVSC Didáxis 'A'"]
+[BlackTeam "Sporting CP"]
+[PlyCount "91"]
+
+1. Nf3 Nf6 2. c4 e6 3. g3 d5 4. Bg2 c5 5. cxd5 exd5 6. d4 Nc6 7. Nc3 h6 8. O-O
+Be7 9. dxc5 Bxc5 10. Na4 Be7 11. Be3 O-O 12. Rc1 Re8 13. a3 Ng4 14. Bc5 Be6
+15. Bxe7 Qxe7 16. Nc5 Rad8 17. Qa4 Nf6 18. b4 Bc8 19. e3 Ne4 20. Nb3 a6 21. Nbd4
+Nxd4 22. Nxd4 Qe5 23. Qc2 Nd6 24. Qd3 Ne4 25. Rfd1 Bd7 26. Nf3 Qf6 27. Qd4 Ba4
+28. Qxf6 Nxf6 29. Re1 Rc8 30. Nd4 Kf8 31. Bh3 Bd7 32. Bg2 Ba4 33. h3 g6 34. Bf3
+Ne4 35. Bxe4 dxe4 36. h4 Ke7 37. Kf1 Bb5+ 38. Kg2 Ba4 39. h5 gxh5 40. Nf5+ Kf6
+41. Nd6 Rxc1 42. Nxe8+ Bxe8 43. Rxc1 Bc6 44. Kh3 Kg5 45. Rc5+ Kg6 46. Kh4 1-0
+
+[Event "Taça de Portugal 2013"]
+[Site "Torres Vedras POR"]
+[Date "2013.04.20"]
+[Round "3.4.2"]
+[White "Bento, Rudolfo"]
+[Black "Gomes, Bruno"]
+[Result "0-1"]
+[WhiteElo "1867"]
+[BlackElo "2061"]
+[ECO "B10"]
+[WhiteFideId "1910450"]
+[BlackFideId "1908154"]
+[EventDate "2013.??.??"]
+[WhiteTeam "Sporting CP"]
+[BlackTeam "NXVSC Didáxis 'A'"]
+[PlyCount "73"]
+
+1. e4 c6 2. d3 d5 3. Nd2 g6 4. Ngf3 Bg7 5. g3 e5 6. Bg2 Ne7 7. O-O O-O 8. Re1
+Qc7 9. b3 Na6 10. Bb2 d4 11. c3 c5 12. cxd4 exd4 13. Qe2 Rd8 14. Rac1 Nc6 15. a3
+Qe7 16. Nh4 Bf6 17. Nhf3 Be6 18. Nc4 Nc7 19. Nfd2 Bg7 20. e5 Bd5 21. Bh3 b5
+22. Nd6 Nxe5 23. Nxb5 Nxb5 24. f4 Nf3+ 25. Qxf3 Qxe1+ 26. Rxe1 Bxf3 27. Nxf3 Nc3
+28. a4 Rab8 29. Ba3 Rxb3 30. Bxc5 Nxa4 31. Be7 Ra8 32. Nd2 Rxd3 33. Bg2 Re3
+34. Rxe3 dxe3 35. Bxa8 exd2 36. Bf3 Nc3 37. Bg2 0-1
+
+[Event "Taça de Portugal 2013"]
+[Site "Torres Vedras POR"]
+[Date "2013.04.20"]
+[Round "3.4.3"]
+[White "Oliveira, Inês"]
+[Black "Soares, Pedro Pita"]
+[Result "1-0"]
+[WhiteElo "1962"]
+[ECO "B90"]
+[WhiteFideId "1909436"]
+[BlackFideId "1931725"]
+[EventDate "2013.??.??"]
+[WhiteTeam "NXVSC Didáxis 'A'"]
+[BlackTeam "Sporting CP"]
+[PlyCount "139"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. h3 e6 7. g4 Be7 8. Be3
+Nfd7 9. Bg2 Ne5 10. Qe2 Qc7 11. Rd1 Bd7 12. O-O Nc4 13. Bc1 b5 14. b3 Nb6
+15. Qe3 b4 16. Nce2 Nc6 17. Bb2 e5 18. Nf5 Bxf5 19. exf5 Rc8 20. Rd2 Nd7 21. Ng3
+Na7 22. Ne4 Nb5 23. Rfd1 Nf6 24. Nxf6+ gxf6 25. Bd5 h5 26. Kg2 Qb8 27. Qe4 Nc3
+28. Bc6+ Kf8 29. Bxc3 bxc3 30. Rd3 hxg4 31. hxg4 Kg7 32. Bd5 Rh4 33. Rh1 Rch8
+34. Rdh3 Rxh3 35. Rxh3 Rxh3 36. Kxh3 Qh8+ 37. Kg3 Qh6 38. Qe3 Qxe3+ 39. fxe3 Bd8
+40. Kf3 a5 41. Ke4 Bb6 42. Kd3 Bc5 43. e4 Bb4 44. Kc4 Kh6 45. Bxf7 Kg5 46. Bh5
+Kf4 47. Kd5 Kg5 48. Ke6 Bc5 49. Be8 Bb4 50. Bb5 Bc5 51. Be2 Bb4 52. Bd3 Bc5
+53. Kd5 Kxg4 54. Kc4 Bb4 55. a3 Bxa3 56. Kxc3 Kf3 57. Kc4 Kf4 58. c3 Ke3 59. Bb1
+Kd2 60. b4 axb4 61. cxb4 Kc1 62. Ba2 Bb2 63. b5 Bd4 64. Kd5 Kb2 65. Bc4 Bc5
+66. Ke6 Kc3 67. Bd5 Bf2 68. Kxf6 Bh4+ 69. Kg7 Kb4 70. b6 1-0
+
+[Event "Taça de Portugal 2013"]
+[Site "Torres Vedras POR"]
+[Date "2013.04.20"]
+[Round "3.4.4"]
+[White "Ferreira, João F"]
+[Black "Oliveira, Mário"]
+[Result "0-1"]
+[WhiteElo "1384"]
+[BlackElo "1903"]
+[ECO "D52"]
+[WhiteFideId "1929976"]
+[BlackFideId "1911325"]
+[EventDate "2013.??.??"]
+[WhiteTeam "Sporting CP"]
+[BlackTeam "NXVSC Didáxis 'A'"]
+[PlyCount "110"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5 Nbd7 5. e3 c6 6. Nf3 Qa5 7. Bd3 dxc4
+8. Bxc4 Ne4 9. Qa4 Qxa4 10. Nxa4 b5 11. Bxe6 fxe6 12. Nc3 Nxc3 13. bxc3 Bd6
+14. e4 Bb7 15. O-O h6 16. Be3 c5 17. Nd2 O-O 18. f3 cxd4 19. cxd4 Nb6 20. Rfc1
+Rfc8 21. Rab1 Rxc1+ 22. Rxc1 Rc8 23. Rxc8+ Bxc8 24. e5 Bb4 25. Nb3 Nd5 26. Bd2
+Bxd2 27. Nxd2 Nc3 28. a3 Ne2+ 29. Kf2 Nxd4 30. Nb1 Bb7 31. Nc3 a6 32. f4 Kf7
+33. g3 Ke7 34. Nb1 Kd7 35. Ke3 Nc6 36. Kd3 Na5 37. Kc3 Be4 38. Nd2 Bd5 39. Kd4
+Nb3+ 40. Nxb3 Bxb3 41. Kc5 Kc7 42. Kb4 Bd5 43. Kc5 Ba2 44. Kb4 Kb6 45. a4 Bd5
+46. a5+ Kc6 47. g4 Be4 48. Kb3 Kc5 49. Kc3 b4+ 50. Kb3 Kb5 51. h4 Bf3 52. f5
+exf5 53. gxf5 Bg4 54. f6 gxf6 55. exf6 Be6+ 0-1
+
+[Event "Taça de Portugal 2013"]
+[Site "Torres Vedras POR"]
+[Date "2013.04.20"]
+[Round "3.5.1"]
+[White "Carneiro, Carlos"]
+[Black "Rocha, Sérgio"]
+[Result "0-1"]
+[WhiteElo "2264"]
+[BlackElo "2410"]
+[ECO "E11"]
+[WhiteFideId "1900170"]
+[BlackFideId "1900404"]
+[EventDate "2013.??.??"]
+[WhiteTeam "Profigaia Chess"]
+[BlackTeam "FC Barreirense 'A'"]
+[PlyCount "70"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 Bb4+ 4. Bd2 a5 5. Qc2 O-O 6. e4 d5 7. e5 Ne4 8. Bd3
+Nxd2 9. Nbxd2 h6 10. c5 b6 11. cxb6 cxb6 12. O-O Ba6 13. Rfc1 Qd7 14. Nf1 Rc8
+15. Qe2 Bxd3 16. Qxd3 Nc6 17. Ne3 a4 18. g4 Be7 19. h4 Qd8 20. h5 Nb4 21. Qd1 a3
+22. b3 Rxc1 23. Qxc1 Rc8 24. Qd2 Qc7 25. Qe2 Nc2 26. Rd1 Nxe3 27. Qxe3 Qc2
+28. Rd2 Qb1+ 29. Kg2 Rc1 30. Qe2 Bb4 31. Rd3 Rc2 32. Qe3 Qc1 33. g5 Qxe3
+34. Rxe3 Rxa2 35. g6 Rxf2+ 0-1
+
+[Event "Taça de Portugal 2013"]
+[Site "Torres Vedras POR"]
+[Date "2013.04.20"]
+[Round "3.5.2"]
+[White "Dâmaso, Rui"]
+[Black "Mateus, Francisco"]
+[Result "1-0"]
+[WhiteElo "2371"]
+[BlackElo "2050"]
+[ECO "B23"]
+[WhiteFideId "1900030"]
+[BlackFideId "1905538"]
+[EventDate "2013.??.??"]
+[WhiteTeam "FC Barreirense 'A'"]
+[BlackTeam "Profigaia Chess"]
+[PlyCount "103"]
+
+1. e4 c5 2. Nc3 g6 3. d4 cxd4 4. Qxd4 Nf6 5. Bb5 Nc6 6. Bxc6 dxc6 7. Qxd8+ Kxd8
+8. Nf3 Bg7 9. Bf4 Be6 10. O-O-O+ Ke8 11. Nd4 Rd8 12. Nxe6 fxe6 13. f3 Nh5
+14. Be3 b6 15. Ne2 Rf8 16. a4 Rxd1+ 17. Rxd1 Be5 18. Nd4 Bxd4 19. Rxd4 Nf4
+20. Bxf4 Rxf4 21. a5 g5 22. h3 h5 23. Kd2 g4 24. hxg4 hxg4 25. Ke3 e5 26. Rb4
+gxf3 27. gxf3 b5 28. a6 Rf6 29. c4 Rd6 30. cxb5 cxb5 31. Rxb5 Rxa6 32. Rxe5 Rb6
+33. Ra5 Rxb2 34. Rxa7 Kf7 35. Kf4 Rb3 36. Ra6 Rb1 37. Kf5 Rh1 38. Rg6 Rh5+
+39. Rg5 Rh6 40. e5 e6+ 41. Kg4 Rh1 42. Rh5 Rg1+ 43. Kf4 Ra1 44. Rh8 Kg6 45. Rf8
+Ra4+ 46. Kg3 Kg5 47. Rf6 Ra6 48. f4+ Kh5 49. Kf3 Ra3+ 50. Ke4 Ra4+ 51. Ke3 Kg4
+52. Rg6+ 1-0
+
+[Event "Taça de Portugal 2013"]
+[Site "Torres Vedras POR"]
+[Date "2013.04.20"]
+[Round "3.5.3"]
+[White "Margarido, José"]
+[Black "Ulyanovskyy, Viktor"]
+[Result "1/2-1/2"]
+[WhiteElo "1948"]
+[BlackElo "2277"]
+[ECO "C42"]
+[WhiteFideId "1914227"]
+[BlackFideId "14113350"]
+[EventDate "2013.??.??"]
+[WhiteTeam "Profigaia Chess"]
+[BlackTeam "FC Barreirense 'A'"]
+[PlyCount "145"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. Nc3 Nxc3 6. dxc3 Be7 7. Bf4 O-O
+8. Qd2 Nc6 9. O-O-O Bg4 10. Be2 Bf6 11. h3 Bxf3 12. Bxf3 Re8 13. Kb1 h6 14. Be2
+Bg5 15. Rhe1 Qf6 16. Bxg5 Qxg5 17. Qxg5 hxg5 18. Bf3 Rab8 19. Bxc6 bxc6 20. c4
+f5 21. c3 Kf7 22. Kc2 Kf6 23. b4 Re4 24. Kd3 Rbe8 25. Rxe4 Rxe4 26. a4 d5
+27. cxd5 cxd5 28. Rb1 a6 29. Rb2 g4 30. hxg4 Rxg4 31. f3 Rc4 32. a5 c6 33. g3
+Ke5 34. Re2+ Kd6 35. Re8 c5 36. Ra8 cxb4 37. Rxa6+ Kc5 38. cxb4+ Rxb4 39. Rg6
+Rb3+ 40. Ke2 Kd4 41. Rxg7 Rb2+ 42. Kd1 Ra2 43. Rf7 Ke5 44. f4+ Ke4 45. Re7+ Kd3
+46. Kc1 Rxa5 47. Re5 Kc3 48. Re3+ Kc4 49. Re5 Ra3 50. Rxf5 Rxg3 51. Rg5 Rf3
+52. Kd2 Rxf4 53. Rg3 Rf2+ 54. Kd1 d4 55. Rh3 Rg2 56. Rf3 Rh2 57. Rg3 Kd5 58. Ra3
+Rh8 59. Kd2 Ke4 60. Kd1 Rg8 61. Kd2 Rb8 62. Rh3 Rb2+ 63. Kd1 Rg2 64. Ra3 Rh2
+65. Rb3 Rh7 66. Ra3 Rh5 67. Kd2 Rh2+ 68. Kd1 d3 69. Ra8 Rh1+ 70. Kd2 Kd4
+71. Rd8+ Kc4 72. Rc8+ Kd4 73. Rd8+ 1/2-1/2
+
+[Event "Taça de Portugal 2013"]
+[Site "Torres Vedras POR"]
+[Date "2013.04.20"]
+[Round "3.5.4"]
+[White "Ulyanovskyy, Vladimir"]
+[Black "Ferreira, Miguel"]
+[Result "1-0"]
+[WhiteElo "2073"]
+[BlackElo "1974"]
+[ECO "B13"]
+[WhiteFideId "14120771"]
+[BlackFideId "1912674"]
+[EventDate "2013.??.??"]
+[WhiteTeam "FC Barreirense 'A'"]
+[BlackTeam "Profigaia Chess"]
+[PlyCount "85"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. Bd3 Nf6 5. Nf3 Bg4 6. O-O e6 7. Bg5 Be7
+8. Nbd2 O-O 9. c3 Nbd7 10. Qc2 Bh5 11. Ne5 Bg6 12. Ndf3 Bxd3 13. Qxd3 Ne4
+14. Nxd7 Qxd7 15. Ne5 Qd8 16. Bxe7 Qxe7 17. c4 f6 18. Ng4 f5 19. cxd5 exd5
+20. Ne5 Qb4 21. f3 Nd6 22. a3 Qb5 23. Rfc1 Rac8 24. b4 Qxd3 25. Nxd3 Nb5
+26. Rxc8 Rxc8 27. Nf4 Nxd4 28. Rd1 Nc2 29. Rxd5 Nxa3 30. Rd7 Rc4 31. Nd3 Nc2
+32. Rxb7 Rd4 33. Ne5 g6 34. b5 Rd5 35. Nc6 Rd1+ 36. Kf2 Rd2+ 37. Kg3 Ne3 38. Kf4
+Nxg2+ 39. Ke5 Nh4 40. Nd4 Ra2 41. Kf6 h6 42. Ne6 Rd2 43. Rb8+ 1-0
+
+[Event "Taça de Portugal 2013"]
+[Site "Torres Vedras POR"]
+[Date "2013.04.20"]
+[Round "3.6.1"]
+[White "Andrade, José"]
+[Black "Silva, Stéphane"]
+[Result "1/2-1/2"]
+[WhiteElo "2261"]
+[BlackElo "2179"]
+[ECO "B00"]
+[WhiteFideId "1900986"]
+[BlackFideId "1900846"]
+[EventDate "2013.??.??"]
+[WhiteTeam "ADRC Mata de Benfica 'A'"]
+[BlackTeam "AEJ São João da Madeira"]
+[PlyCount "79"]
+
+1. e4 d6 2. d4 c6 3. c4 e5 4. Nf3 Nd7 5. Nc3 Be7 6. Be2 Ngf6 7. O-O O-O 8. Qc2
+Re8 9. d5 c5 10. h3 Nf8 11. Be3 h6 12. a3 g5 13. Nh2 Ng6 14. Ng4 Kg7 15. Nxf6
+Bxf6 16. b4 b6 17. Bg4 Rh8 18. Bxc8 Qxc8 19. Ne2 h5 20. Kh2 h4 21. f3 Bd8
+22. Rfb1 Rf8 23. bxc5 bxc5 24. Qb2 f6 25. Qb7+ Qxb7 26. Rxb7+ Rf7 27. Rab1 Bb6
+28. Rxf7+ Kxf7 29. Kg1 Rb8 30. Bd2 Bc7 31. Rxb8 Bxb8 32. Kf1 Bc7 33. Ke1 Ne7
+34. Kd1 Nc8 35. Kc2 Nb6 36. Kb3 Ke7 37. Nc3 a6 38. Nd1 Kd7 39. Ne3 Kc8 40. Nf5
+1/2-1/2
+
+[Event "Taça de Portugal 2013"]
+[Site "Torres Vedras POR"]
+[Date "2013.04.20"]
+[Round "3.6.2"]
+[White "Carvalho, Vítor"]
+[Black "Guerreiro, Nuno"]
+[Result "0-1"]
+[WhiteElo "1760"]
+[BlackElo "2085"]
+[ECO "A06"]
+[WhiteFideId "1908766"]
+[BlackFideId "1903012"]
+[EventDate "2013.??.??"]
+[WhiteTeam "AEJ São João da Madeira"]
+[BlackTeam "ADRC Mata de Benfica 'A'"]
+[PlyCount "75"]
+
+1. Nf3 d5 2. g3 Nf6 3. Bg2 e6 4. O-O Be7 5. d3 O-O 6. Nbd2 b6 7. e4 dxe4
+8. dxe4 Bb7 9. e5 Nfd7 10. Re1 Nc6 11. h4 Nc5 12. Qe2 Nb4 13. Nc4 Qc8 14. a3 Nd5
+15. Ncd2 c6 16. Ng5 Bxg5 17. hxg5 Ne7 18. b4 Ba6 19. Qh5 g6 20. Qh3 Nd7 21. Ne4
+Nf5 22. g4 Nd4 23. Rd1 Ne2+ 24. Kh1 f5 25. exf6 Ne5 26. Be3 Nc4 27. Nd6 Qc7
+28. Nxc4 Bxc4 29. Qf3 Nc3 30. Bf4 Be2 31. Bxc7 Bxf3 32. Bxf3 Nxd1 33. Rxd1 Rf7
+34. Bd8 Rc8 35. Be7 h6 36. gxh6 g5 37. Be4 c5 38. c3 0-1
+
+[Event "Taça de Portugal 2013"]
+[Site "Torres Vedras POR"]
+[Date "2013.04.20"]
+[Round "3.6.3"]
+[White "Francisco, Luís"]
+[Black "Batista, Sandro"]
+[Result "1-0"]
+[WhiteElo "1958"]
+[BlackElo "1740"]
+[ECO "B33"]
+[WhiteFideId "1902679"]
+[BlackFideId "1908561"]
+[EventDate "2013.??.??"]
+[WhiteTeam "ADRC Mata de Benfica 'A'"]
+[BlackTeam "AEJ São João da Madeira"]
+[PlyCount "56"]
+
+1. e4 c5 2. Nc3 Nc6 3. Nge2 Nf6 4. d4 cxd4 5. Nxd4 e5 6. Ndb5 d6 7. Bg5 a6
+8. Na3 b5 9. Nd5 Be7 10. Bxf6 Bxf6 11. c4 Nd4 12. cxb5 Bg5 13. b6 O-O 14. Be2 f5
+15. O-O fxe4 16. Bg4 Bb7 17. Nc7 Rb8 18. Nc2 Rf6 19. Nxd4 exd4 20. Qxd4 Bf4
+21. Ne6 Be5 22. Qxe5 dxe5 23. Nxd8 Rxd8 24. Rad1 Rxd1 25. Rxd1 Rxb6 26. Rd8+ Kf7
+27. Rd7+ Kf6 28. b3 Bc8 1-0
+
+[Event "Taça de Portugal 2013"]
+[Site "Torres Vedras POR"]
+[Date "2013.04.20"]
+[Round "3.6.4"]
+[White "Catarino, Márcio"]
+[Black "Sá, Cláudio"]
+[Result "0-1"]
+[WhiteElo "1873"]
+[BlackElo "1671"]
+[ECO "C18"]
+[WhiteFideId "1904574"]
+[BlackFideId "1902903"]
+[EventDate "2013.??.??"]
+[WhiteTeam "AEJ São João da Madeira"]
+[BlackTeam "ADRC Mata de Benfica 'A'"]
+[PlyCount "114"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Qa5 7. Bd2 c4 8. Qg4
+g6 9. h4 h5 10. Qf4 Bd7 11. Nf3 Ne7 12. Qf6 Rf8 13. Be2 Nbc6 14. Ng5 O-O-O
+15. Rh3 Kb8 16. g4 Ng8 17. Qg7 hxg4 18. Bxg4 f5 19. exf6 Nxf6 20. Rf3 Nh5
+21. Bxh5 Rg8 22. Qf7 gxh5 23. Qxh5 Rdf8 24. Rxf8+ Rxf8 25. f4 Qb6 26. Qh6 Re8
+27. Qf6 Qb2 28. Rc1 Qxa3 29. h5 Qe7 30. Qxe7 Nxe7 31. Kf2 Nf5 32. Kf3 Rh8
+33. Rh1 a5 34. Nf7 Rh7 35. h6 Be8 36. Ng5 Rxh6 37. Rxh6 Nxh6 38. Nxe6 Bh5+
+39. Kg3 Nf5+ 40. Kf2 Bd1 41. Bc1 Bxc2 42. Ba3 Kc8 43. Kf3 Bd1+ 44. Kf2 Kd7
+45. Nc5+ Kc6 46. Ke1 Bg4 47. Na4 Ne3 48. Kf2 Nd1+ 49. Kg3 Bc8 50. Kh4 b5 51. Nc5
+Nxc3 52. Kg5 b4 53. Bc1 Ne2 54. Be3 b3 55. Na4 Kb5 56. Nb2 c3 57. Nd3 b2 0-1
+
+[Event "Taça de Portugal 2013"]
+[Site "Torres Vedras POR"]
+[Date "2013.04.20"]
+[Round "3.7.1"]
+[White "Dias, Ivo"]
+[Black "Pereira, Rúben"]
+[Result "0-1"]
+[WhiteElo "1853"]
+[BlackElo "2413"]
+[ECO "A05"]
+[WhiteFideId "1901680"]
+[BlackFideId "1903063"]
+[EventDate "2013.??.??"]
+[WhiteTeam "NXVSC Didáxis 'B'"]
+[BlackTeam "AX Gaia 'A'"]
+[PlyCount "56"]
+
+1. Nf3 Nf6 2. c4 c5 3. g3 Nc6 4. Bg2 e6 5. O-O Be7 6. d4 cxd4 7. Nxd4 O-O
+8. Nc3 d5 9. e4 Nxd4 10. Qxd4 dxe4 11. Qe3 Qc7 12. b3 Bc5 13. Qe2 Qe5 14. Na4
+Bd4 15. Rb1 Bd7 16. Bf4 Qf5 17. Bd6 Rfe8 18. Rbd1 e5 19. Nc5 Bc6 20. b4 Rad8
+21. Bc7 Rc8 22. Bd6 b6 23. Nb3 Ba4 24. Nxd4 Bxd1 25. Rxd1 exd4 26. Rxd4 e3
+27. f4 Qg4 28. Bf3 Qxf3 0-1
+
+[Event "Taça de Portugal 2013"]
+[Site "Torres Vedras POR"]
+[Date "2013.04.20"]
+[Round "3.7.2"]
+[White "Pena Gomez, Manuel"]
+[Black "Romano, Luís"]
+[Result "1-0"]
+[WhiteElo "2412"]
+[BlackElo "1821"]
+[ECO "A22"]
+[WhiteFideId "2252813"]
+[BlackFideId "1920235"]
+[EventDate "2013.??.??"]
+[WhiteTeam "AX Gaia 'A'"]
+[BlackTeam "NXVSC Didáxis 'B'"]
+[PlyCount "59"]
+
+1. c4 e5 2. Nc3 Nf6 3. g3 d5 4. cxd5 Nxd5 5. Bg2 Nb6 6. Nf3 Nc6 7. O-O Be7
+8. a3 O-O 9. b4 Be6 10. d3 f6 11. Bb2 Qd7 12. Ne4 Rfd8 13. Rc1 Nd4 14. Nxd4 exd4
+15. Nc5 Bxc5 16. bxc5 Nd5 17. Bxd4 Nf4 18. Bxf6 Nxg2 19. Bxd8 Bh3 20. Bg5 Qd5
+21. e4 Qxg5 22. f4 Qg6 23. Qb3+ Kh8 24. Qxb7 Re8 25. Qxc7 h5 26. Rf2 Ne3 27. f5
+Qg5 28. Qf4 Qxf4 29. gxf4 Rc8 30. Rf3 1-0
+
+[Event "Taça de Portugal 2013"]
+[Site "Torres Vedras POR"]
+[Date "2013.04.20"]
+[Round "3.7.3"]
+[White "Oliveira, Alice"]
+[Black "Fróis, António"]
+[Result "0-1"]
+[WhiteElo "1419"]
+[BlackElo "2318"]
+[ECO "B35"]
+[WhiteFideId "1929518"]
+[BlackFideId "1900080"]
+[EventDate "2013.??.??"]
+[WhiteTeam "NXVSC Didáxis 'B'"]
+[BlackTeam "AX Gaia 'A'"]
+[PlyCount "90"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 g6 5. Nc3 Bg7 6. Be3 Nf6 7. Bc4 O-O
+8. Bb3 a5 9. O-O d6 10. f3 Bd7 11. a3 a4 12. Ba2 Qa5 13. Nde2 Rac8 14. Nf4 Rfe8
+15. Rb1 Ne5 16. Nfd5 Nxd5 17. Nxd5 Be6 18. Qe2 b5 19. Bg5 Bxd5 20. Bxd5 e6
+21. Ba2 Nc4 22. Bxc4 bxc4 23. c3 Qxg5 24. f4 Qc5+ 25. Kh1 d5 26. Rbd1 dxe4
+27. Qxe4 Rcd8 28. h3 Qb5 29. Qe2 Rd3 30. Rfe1 Red8 31. Kh2 Qb8 32. g3 Rxd1
+33. Rxd1 Rxd1 34. Qxd1 Qxb2+ 35. Kh1 Qxa3 36. g4 Bxc3 37. f5 Qa1 38. Qxa1 Bxa1
+39. fxe6 fxe6 40. h4 c3 41. h5 c2 42. h6 c1=Q+ 43. Kg2 Qf4 44. g5 Be5 45. Kh1
+Qh2# 0-1
+
+[Event "Taça de Portugal 2013"]
+[Site "Torres Vedras POR"]
+[Date "2013.04.20"]
+[Round "3.7.4"]
+[White "Paramos, Roberto"]
+[Black "Oliveira, Elisa"]
+[Result "1-0"]
+[WhiteElo "2407"]
+[BlackElo "1230"]
+[ECO "C92"]
+[WhiteFideId "2202565"]
+[BlackFideId "1930826"]
+[EventDate "2013.??.??"]
+[WhiteTeam "AX Gaia 'A'"]
+[BlackTeam "NXVSC Didáxis 'B'"]
+[PlyCount "63"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O d6 6. Re1 b5 7. Bb3 Be7 8. c3
+O-O 9. h3 Be6 10. d4 Qd7 11. d5 Na5 12. dxe6 fxe6 13. Nxe5 Qc8 14. Nf3 Nh5
+15. Nd4 Nf6 16. Bxe6+ Kh8 17. Bxc8 Raxc8 18. a4 Nb7 19. axb5 axb5 20. Nc6 Rce8
+21. Ra7 Nc5 22. Rxc7 Nfxe4 23. Nxe7 Rxf2 24. Qd4 Ne6 25. Qxe4 Nxc7 26. Kxf2 Rf8+
+27. Kg1 Rf7 28. Qc6 g6 29. Bh6 Rf6 30. Qxc7 g5 31. Qd8+ Rf8 32. Qxf8# 1-0
+
+[Event "Taça de Portugal 2013"]
+[Site "Torres Vedras POR"]
+[Date "2013.04.21"]
+[Round "4.1.1"]
+[White "Diogo, Vasco"]
+[Black "Soares, Luís"]
+[Result "1-0"]
+[WhiteElo "2274"]
+[BlackElo "1990"]
+[ECO "A05"]
+[WhiteFideId "1902628"]
+[BlackFideId "1904124"]
+[EventDate "2013.??.??"]
+[WhiteTeam "Clube TAP"]
+[BlackTeam "AA Univ. Açores"]
+[PlyCount "73"]
+
+1. Nf3 Nf6 2. g3 g6 3. Bg2 Bg7 4. d3 d6 5. O-O O-O 6. e4 c5 7. c3 Nc6 8. Re1
+Qc7 9. a4 Rb8 10. Na3 a6 11. d4 cxd4 12. cxd4 Bg4 13. h3 Bxf3 14. Bxf3 e5 15. d5
+Nd4 16. Bg2 Rbc8 17. Bf1 Nd7 18. Bd2 Nc5 19. Rc1 Qe7 20. b4 Nd7 21. Be3 Rxc1
+22. Bxc1 f5 23. exf5 Nxf5 24. Nc4 Qf6 25. Bg2 b5 26. axb5 axb5 27. Nd2 Nd4
+28. Ne4 Qe7 29. Be3 Nb6 30. h4 Qd7 31. Ng5 Re8 32. Bh3 Qd8 33. Bxd4 exd4
+34. Be6+ Rxe6 35. dxe6 Bf6 36. Qf3 Qe7 37. Qxf6 1-0
+
+[Event "Taça de Portugal 2013"]
+[Site "Torres Vedras POR"]
+[Date "2013.04.21"]
+[Round "4.1.2"]
+[White "Silva, Rui Jorge"]
+[Black "Rego, Pedro"]
+[Result "1/2-1/2"]
+[WhiteElo "2014"]
+[BlackElo "2271"]
+[ECO "D35"]
+[WhiteFideId "1908227"]
+[BlackFideId "1904310"]
+[EventDate "2013.??.??"]
+[WhiteTeam "AA Univ. Açores"]
+[BlackTeam "Clube TAP"]
+[PlyCount "114"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 d5 4. cxd5 exd5 5. Bg5 Be7 6. Qc2 O-O 7. e3 h6 8. Bh4
+b6 9. Bd3 c5 10. Bxf6 Bxf6 11. Nxd5 Bb7 12. Nxf6+ Qxf6 13. Be4 Bxe4 14. Qxe4 Na6
+15. Nf3 Rfe8 16. Qb7 Nb4 17. O-O Nd3 18. b3 cxd4 19. Nxd4 Nc5 20. Qf3 Qe5
+21. Rac1 Rac8 22. Rfd1 a5 23. Qg4 g6 24. Qh4 h5 25. Qg3 Qf6 26. Qh3 Rcd8 27. Qf3
+Qxf3 28. Nxf3 Nd3 29. Rb1 Nb4 30. a4 Kg7 31. Kf1 Rc8 32. Rbc1 Red8 33. Nd4 Kf6
+34. Ke2 Na2 35. Rxc8 Rxc8 36. Nb5 Nc1+ 37. Kf3 Nxb3 38. Rd6+ Ke5 39. Rxb6 Rc2
+40. Nd6 Nd2+ 41. Kg3 Nf1+ 42. Kh3 Rxf2 43. Nc4+ Kd5 44. Nxa5 Nxe3 45. Rb5+ Kd6
+46. Rb6+ Kc5 47. Rb5+ Kd6 48. Rb6+ Kc7 49. Rb7+ Kd6 50. Kg3 Ra2 51. Rxf7 Rxa4
+52. Nb7+ Kd5 53. Rf3 Rg4+ 54. Kf2 Nxg2 55. Rg3 Rxg3 56. hxg3 h4 57. Kxg2 Ke5
+1/2-1/2
+
+[Event "Taça de Portugal 2013"]
+[Site "Torres Vedras POR"]
+[Date "2013.04.21"]
+[Round "4.1.3"]
+[White "Santos, João"]
+[Black "Rego, Rui"]
+[Result "1-0"]
+[WhiteElo "1971"]
+[BlackElo "0"]
+[ECO "C34"]
+[WhiteFideId "1905910"]
+[BlackFideId "1937600"]
+[EventDate "2013.??.??"]
+[WhiteTeam "Clube TAP"]
+[BlackTeam "AA Univ. Açores"]
+[PlyCount "25"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 d6 4. Bc4 Bg4 5. d4 Nf6 6. Bxf4 Nxe4 7. Bd5 Qe7
+8. O-O Nd7 9. Bxe4 O-O-O 10. Nc3 c6 11. Qd2 h5 12. Rae1 Nb6 13. Bf5+ 1-0
+
+[Event "Taça de Portugal 2013"]
+[Site "Torres Vedras POR"]
+[Date "2013.04.21"]
+[Round "4.1.4"]
+[White "Sá, Nuno"]
+[Black "Cadeirinhas, David"]
+[Result "0-1"]
+[WhiteElo "1862"]
+[BlackElo "1905"]
+[ECO "B23"]
+[WhiteFideId "1908219"]
+[BlackFideId "1905899"]
+[EventDate "2013.??.??"]
+[WhiteTeam "AA Univ. Açores"]
+[BlackTeam "Clube TAP"]
+[PlyCount "96"]
+
+1. e4 c5 2. Nc3 Nc6 3. f4 g6 4. Nf3 Bg7 5. Bb5 a6 6. Bxc6 bxc6 7. O-O Nf6 8. d3
+O-O 9. Qe1 d6 10. Qh4 Rb8 11. f5 Qc7 12. Bh6 Rxb2 13. fxg6 hxg6 14. Ng5 Nh5
+15. Bxg7 Kxg7 16. g4 Bxg4 17. Qxg4 Qa5 18. Nd1 Rxc2 19. Ne3 Nf6 20. Rxf6 Qd2
+21. Nxc2 exf6 22. Qg2 Qxg5 23. Qxg5 fxg5 24. Rb1 Kf6 25. Rb6 Ke5 26. a4 a5
+27. Kf2 Rh8 28. Kg3 g4 29. Ne3 Rh3+ 30. Kf2 Rxh2+ 31. Kg3 Rh3+ 32. Kf2 Rf3+
+33. Ke2 Kf4 34. Ng2+ Kg3 35. Ne1 Rf2+ 36. Ke3 f5 37. d4 cxd4+ 38. Kxd4 Rf4
+39. Rb3+ Kh2 40. Rb2+ Kh3 41. Ke3 Rxe4+ 42. Kf2 g3+ 43. Kf1 f4 44. Rb8 Kg4
+45. Rb6 f3 46. Rb2 Rxa4 47. Rc2 Ra1 48. Rc4+ Kh3 0-1
+
+[Event "Taça de Portugal 2013"]
+[Site "Torres Vedras POR"]
+[Date "2013.04.21"]
+[Round "4.2.1"]
+[White "Taboas Rodriguez, Daniel"]
+[Black "Silva, Luís M"]
+[Result "1-0"]
+[WhiteElo "2404"]
+[BlackElo "2176"]
+[ECO "D85"]
+[WhiteFideId "2208466"]
+[BlackFideId "1919121"]
+[EventDate "2013.??.??"]
+[WhiteTeam "AA Coimbra"]
+[BlackTeam "NXVSC Didáxis 'A'"]
+[PlyCount "155"]
+
+1. d4 Nf6 2. Nf3 g6 3. c4 Bg7 4. Nc3 d5 5. cxd5 Nxd5 6. e4 Nxc3 7. bxc3 c5
+8. Rb1 O-O 9. Be2 cxd4 10. cxd4 Qa5+ 11. Qd2 Qxd2+ 12. Bxd2 b6 13. O-O Bb7
+14. d5 Na6 15. Be3 Rfc8 16. Rfc1 Rxc1+ 17. Rxc1 Rc8 18. Rxc8+ Bxc8 19. Nd4 Bxd4
+20. Bxd4 Nc5 21. Bxc5 bxc5 22. f4 Bb7 23. Bc4 Kf8 24. e5 Ke8 25. Kf2 f6 26. g3
+Kd8 27. Ke3 Kc7 28. h4 Bc8 29. Kd3 Bf5+ 30. Ke3 Bc8 31. Be2 Kb6 32. g4 fxe5
+33. fxe5 c4 34. Kd4 c3 35. Kxc3 Kc5 36. Bf3 Ba6 37. a3 Bc4 38. d6 exd6 39. exd6
+Be6 40. g5 Bf5 41. Be4 Be6 42. Bd3 Kxd6 43. Kd4 Bf7 44. Be2 Be6 45. Bb5 Bf7
+46. Ba4 Bg8 47. Be8 Ke7 48. Bc6 Kd6 49. Bf3 Bf7 50. Bg4 Be8 51. Bd1 Bf7 52. Be2
+Be6 53. Ke4 Bf7 54. Bd1 Be6 55. Kf4 Bf7 56. Bc2 Bg8 57. Bb1 a5 58. Ke4 Be6
+59. Kd4 Bf7 60. Bd3 Be6 61. Bc4 Bd7 62. Bg8 Ke7 63. Ke5 Kf8 64. Kd6 Bf5 65. Bb3
+Kg7 66. Kc5 h6 67. Kb5 hxg5 68. hxg5 Kf8 69. Kxa5 Ke7 70. Kb6 Bd7 71. Kc5 Be8
+72. Bd5 Ba4 73. Bc6 Bc2 74. Kd5 Kd8 75. Kd6 Kc8 76. Be8 Kb7 77. Ke5 Kb6 78. Kf6
+1-0
+
+[Event "Taça de Portugal 2013"]
+[Site "Torres Vedras POR"]
+[Date "2013.04.21"]
+[Round "4.2.2"]
+[White "Gomes, Bruno"]
+[Black "Maltez, Nuno"]
+[Result "1-0"]
+[WhiteElo "2061"]
+[BlackElo "1999"]
+[ECO "C77"]
+[WhiteFideId "1908154"]
+[BlackFideId "1903152"]
+[EventDate "2013.??.??"]
+[WhiteTeam "NXVSC Didáxis 'A'"]
+[BlackTeam "AA Coimbra"]
+[PlyCount "89"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. Qe2 b5 6. Bb3 Bc5 7. a4 Rb8 8. axb5
+axb5 9. Nc3 b4 10. Qc4 Qe7 11. Nd5 Nxd5 12. Qxd5 O-O 13. d3 Bb7 14. Bg5 Qd6
+15. Qxd6 Bxd6 16. Be3 Ra8 17. O-O Na5 18. Ba4 Nc6 19. Nd2 Rfd8 20. Nc4 Bf8
+21. Bxc6 Bxc6 22. Nxe5 Bb5 23. Nf3 Ba4 24. b3 Bc6 25. Bf4 d6 26. Bg5 Rdb8
+27. Bd2 f6 28. Rxa8 Bxa8 29. Ra1 c5 30. Ra7 d5 31. e5 fxe5 32. Nxe5 Re8 33. f4
+c4 34. Be3 cxb3 35. cxb3 Bd6 36. d4 h6 37. Bd2 Rd8 38. Nf7 Bb8 39. Nxh6+ gxh6
+40. Rxa8 Kg7 41. Bxb4 Rc8 42. Kf2 Rc2+ 43. Kf3 Bc7 44. Rc8 Rc1 45. Bd2 1-0
+
+[Event "Taça de Portugal 2013"]
+[Site "Torres Vedras POR"]
+[Date "2013.04.21"]
+[Round "4.2.3"]
+[White "Drezzadore, Dario"]
+[Black "Oliveira, Inês"]
+[Result "0-1"]
+[WhiteElo "2059"]
+[BlackElo "1962"]
+[ECO "B44"]
+[WhiteFideId "819662"]
+[BlackFideId "1909436"]
+[EventDate "2013.??.??"]
+[WhiteTeam "AA Coimbra"]
+[BlackTeam "NXVSC Didáxis 'A'"]
+[PlyCount "68"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Be3 Nf6 6. f3 Qc7 7. Nd2 a6
+8. N2b3 d5 9. Nxc6 bxc6 10. exd5 Nxd5 11. Qd2 Nxe3 12. Qxe3 Bd6 13. g3 O-O
+14. Bd3 Bd7 15. O-O-O g6 16. Bc4 Rfd8 17. Kb1 c5 18. h4 a5 19. h5 a4 20. hxg6
+hxg6 21. Qh6 Be5 22. Nc1 Rab8 23. Nd3 Qb6 24. b3 axb3 25. cxb3 Bg7 26. Qg5 Qa5
+27. Ne5 Ra8 28. Rh2 Qc3 29. f4 Rdb8 30. Rc2 Qe3 31. Rxd7 Qe1+ 32. Rc1 Qf2
+33. Rc2 Qe1+ 34. Kb2 Rxa2+ 0-1
+
+[Event "Taça de Portugal 2013"]
+[Site "Torres Vedras POR"]
+[Date "2013.04.21"]
+[Round "4.2.4"]
+[White "Oliveira, Mário"]
+[Black "Cross, Dominic"]
+[Result "1-0"]
+[WhiteElo "1903"]
+[BlackElo "1946"]
+[ECO "E11"]
+[WhiteFideId "1911325"]
+[BlackFideId "1904205"]
+[EventDate "2013.??.??"]
+[WhiteTeam "NXVSC Didáxis 'A'"]
+[BlackTeam "AA Coimbra"]
+[PlyCount "115"]
+
+1. d4 Nf6 2. Nf3 e6 3. c4 Bb4+ 4. Bd2 c5 5. Bxb4 cxb4 6. Nbd2 O-O 7. e4 d6
+8. Bd3 Re8 9. O-O e5 10. d5 a5 11. a3 bxa3 12. bxa3 b6 13. Bc2 Na6 14. Ba4 Bd7
+15. Bxd7 Qxd7 16. Rb1 Rab8 17. Ne1 Nc5 18. f3 Rec8 19. Rf2 Rc7 20. Nb3 Qa4
+21. Nxc5 Qxd1 22. Rxd1 bxc5 23. Nd3 Rcb7 24. Rdd2 Rb1+ 25. Rf1 R1b3 26. Ra1 Nd7
+27. Raa2 Kf8 28. Nc1 Rb1 29. Rdc2 Ke7 30. Kf2 g6 31. h3 f5 32. exf5 gxf5 33. Nd3
+R8b3 34. Nc1 Rb8 35. Nd3 R1b3 36. Nc1 a4 37. Ke2 f4 38. Nd3 Rg8 39. Ne1 Re3+
+40. Kd2 Kd8 41. Rc3 Rxc3 42. Kxc3 Kc7 43. Nd3 Nb6 44. Re2 Nc8 45. Nb2 Nb6
+46. Nd3 Rb8 47. Rb2 Rg8 48. Re2 Kd7 49. Nb2 Ke7 50. Kd3 Rb8 51. Kc3 Kf6 52. Nd3
+Kf5 53. Nf2 Kf6 54. Ne4+ Ke7 55. Rb2 Nxd5+ 56. cxd5 Rd8 57. Rb7+ Kf8 58. Rxh7
+1-0
+
+[Event "Taça de Portugal 2013"]
+[Site "Torres Vedras POR"]
+[Date "2013.04.21"]
+[Round "4.3.1"]
+[White "Pires, Gustavo"]
+[Black "Andrade, José"]
+[Result "1-0"]
+[WhiteElo "2143"]
+[BlackElo "2261"]
+[ECO "B33"]
+[WhiteFideId "1903250"]
+[BlackFideId "1900986"]
+[EventDate "2013.??.??"]
+[WhiteTeam "Clube dos Galitos"]
+[BlackTeam "ADRC Mata de Benfica 'A'"]
+[PlyCount "59"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. Bg5 a6
+8. Na3 b5 9. Nd5 Be7 10. Bxf6 Bxf6 11. Bd3 Be6 12. c3 Bg5 13. Nc2 O-O 14. h4 Bh6
+15. g4 Bf4 16. Nce3 Re8 17. Bc2 a5 18. g5 Ne7 19. Nxe7+ Rxe7 20. Nd5 Bxd5
+21. Qxd5 Rc8 22. Rd1 Rd7 23. Qxb5 Rb8 24. Qd5 Rxb2 25. Ba4 Rc7 26. Rh3 h6 27. g6
+Kf8 28. Rhd3 Rxf2 29. Qxd6+ Qxd6 30. Rxd6 1-0
+
+[Event "Taça de Portugal 2013"]
+[Site "Torres Vedras POR"]
+[Date "2013.04.21"]
+[Round "4.3.2"]
+[White "Guerreiro, Nuno"]
+[Black "Aguiar, Henrique"]
+[Result "1-0"]
+[WhiteElo "2085"]
+[BlackElo "2104"]
+[ECO "A05"]
+[WhiteFideId "1903012"]
+[BlackFideId "1908545"]
+[EventDate "2013.??.??"]
+[WhiteTeam "ADRC Mata de Benfica 'A'"]
+[BlackTeam "Clube dos Galitos"]
+[PlyCount "77"]
+
+1. Nf3 Nf6 2. g3 g6 3. Bg2 Bg7 4. O-O O-O 5. d3 d6 6. e4 Nc6 7. c3 e5 8. b4 a6
+9. a4 Re8 10. Qb3 h6 11. c4 Be6 12. Nc3 a5 13. b5 Ne7 14. h3 Kh7 15. Be3 c5
+16. bxc6 bxc6 17. Rab1 Nd7 18. Qa3 Bf8 19. Qc1 Bg7 20. Nd2 f5 21. f4 Qc7 22. Ne2
+Rf8 23. Qa3 Ng8 24. Rfc1 Rf7 25. d4 exd4 26. Nxd4 Re8 27. Nxe6 Rxe6 28. c5 Bf8
+29. Qb3 Ree7 30. cxd6 Qxd6 31. e5 Qe6 32. Qxe6 Rxe6 33. Rxc6 Rxc6 34. Bxc6 Rg7
+35. Rb5 Bb4 36. Nc4 Nf8 37. Nxa5 Bxa5 38. Rxa5 Rc7 39. Ra7 1-0
+
+[Event "Taça de Portugal 2013"]
+[Site "Torres Vedras POR"]
+[Date "2013.04.21"]
+[Round "4.3.3"]
+[White "Andias, João"]
+[Black "Catarino, Márcio"]
+[Result "1-0"]
+[WhiteElo "1995"]
+[BlackElo "1873"]
+[ECO "C62"]
+[WhiteFideId "1900862"]
+[BlackFideId "1904574"]
+[EventDate "2013.??.??"]
+[WhiteTeam "Clube dos Galitos"]
+[BlackTeam "ADRC Mata de Benfica 'A'"]
+[PlyCount "53"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 d6 4. d4 exd4 5. Nxd4 Bd7 6. Nxc6 bxc6 7. Bc4 Nf6
+8. Nc3 Be7 9. O-O O-O 10. Bf4 Re8 11. h3 Bf8 12. Qf3 h6 13. Rfe1 g5 14. Bg3 Bg7
+15. e5 dxe5 16. Bxe5 Re7 17. Bd4 Qe8 18. Rf1 Nh7 19. Rad1 Bxd4 20. Rxd4 Be6
+21. Bd3 Rb8 22. Bxh7+ Kxh7 23. Ne4 Qh8 24. Rfd1 Qe5 25. Nf6+ Kg6 26. Qh5+ Kxf6
+27. Qxh6+ 1-0
+
+[Event "Taça de Portugal 2013"]
+[Site "Torres Vedras POR"]
+[Date "2013.04.21"]
+[Round "4.3.4"]
+[White "Henriques, Henrique"]
+[Black "Valente, João"]
+[Result "1/2-1/2"]
+[BlackElo "1686"]
+[ECO "C10"]
+[WhiteFideId "1902229"]
+[BlackFideId "1908987"]
+[EventDate "2013.??.??"]
+[WhiteTeam "ADRC Mata de Benfica 'A'"]
+[BlackTeam "Clube dos Galitos"]
+[PlyCount "50"]
+
+1. e4 e6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bd7 5. Bd3 Bc6 6. Nf3 Nf6 7. Qe2 Be7
+8. Nxf6+ Bxf6 9. c3 O-O 10. Bf4 Nd7 11. Rd1 Bxf3 12. Qxf3 c6 13. O-O Qa5 14. Bb1
+Qd5 15. Qg3 Nb6 16. b3 Qh5 17. Rde1 Qh4 18. Qd3 Rad8 19. Re4 Qh5 20. Rfe1 Rd5
+21. R1e3 Bg5 22. Rh3 Qg6 23. Rg3 Qh6 24. Rh3 Qg6 25. Rg3 Qh6 1/2-1/2
+
+[Event "Taça de Portugal 2013"]
+[Site "Torres Vedras POR"]
+[Date "2013.04.21"]
+[Round "4.4.1"]
+[White "Pereira, Rúben"]
+[Black "Rocha, Sérgio"]
+[Result "1/2-1/2"]
+[WhiteElo "2413"]
+[BlackElo "2410"]
+[ECO "E05"]
+[WhiteFideId "1903063"]
+[BlackFideId "1900404"]
+[EventDate "2013.??.??"]
+[WhiteTeam "AX Gaia 'A'"]
+[BlackTeam "FC Barreirense 'A'"]
+[PlyCount "30"]
+
+1. Nf3 Nf6 2. c4 e6 3. g3 d5 4. Bg2 Be7 5. O-O O-O 6. d4 dxc4 7. Qa4 a6 8. Qxc4
+b5 9. Qc2 Bb7 10. Bd2 Be4 11. Qc1 Nbd7 12. Ba5 Ra7 13. Nbd2 Bd5 14. a3 Qa8
+15. b4 Ne4 1/2-1/2
+
+[Event "Taça de Portugal 2013"]
+[Site "Torres Vedras POR"]
+[Date "2013.04.21"]
+[Round "4.4.2"]
+[White "Dâmaso, Rui"]
+[Black "Pena Gomez, Manuel"]
+[Result "1/2-1/2"]
+[WhiteElo "2371"]
+[BlackElo "2412"]
+[ECO "B23"]
+[WhiteFideId "1900030"]
+[BlackFideId "2252813"]
+[EventDate "2013.??.??"]
+[WhiteTeam "FC Barreirense 'A'"]
+[BlackTeam "AX Gaia 'A'"]
+[PlyCount "35"]
+
+1. e4 c5 2. Nc3 Nc6 3. Bb5 Nd4 4. Nf3 e6 5. Bd3 Ne7 6. Nxd4 cxd4 7. Nb5 Nc6
+8. c3 dxc3 9. Nxc3 Be7 10. O-O d5 11. exd5 exd5 12. Qh5 Be6 13. Re1 g6 14. Qh6
+Bg5 15. Qg7 Bf6 16. Qh6 Bg5 17. Qg7 Bf6 18. Qh6 1/2-1/2
+
+[Event "Taça de Portugal 2013"]
+[Site "Torres Vedras POR"]
+[Date "2013.04.21"]
+[Round "4.4.3"]
+[White "Fróis, António"]
+[Black "Ulyanovskyy, Viktor"]
+[Result "1-0"]
+[WhiteElo "2320"]
+[BlackElo "2277"]
+[ECO "C53"]
+[WhiteFideId "1900080"]
+[BlackFideId "14113350"]
+[EventDate "2013.??.??"]
+[WhiteTeam "AX Gaia 'A'"]
+[BlackTeam "FC Barreirense 'A'"]
+[PlyCount "71"]
+
+1. e4 e5 2. Bc4 Nc6 3. Nf3 Bc5 4. c3 Nf6 5. d3 a6 6. Bb3 O-O 7. O-O d5 8. exd5
+Nxd5 9. h3 Ba7 10. Re1 Re8 11. d4 e4 12. Ng5 Bf5 13. Nxf7 Kxf7 14. Qh5+ Ke6
+15. c4 Nxd4 16. cxd5+ Kd7 17. Bg5 Bg6 18. Qg4+ Bf5 19. Qg3 Qc8 20. Nc3 h6
+21. Be3 g5 22. Rad1 Nxb3 23. axb3 Bxe3 24. Rxe3 Qd8 25. d6 c6 26. Na4 Qa5
+27. Rc3 b6 28. Qe3 Rab8 29. Qd4 Re5 30. Qc4 Rd5 31. Qxc6+ Ke6 32. d7+ Ke5
+33. Qc7+ Kf6 34. Rxd5 Qxd5 35. Qxb8 Qxd7 36. Qxb6+ 1-0
+
+[Event "Taça de Portugal 2013"]
+[Site "Torres Vedras POR"]
+[Date "2013.04.21"]
+[Round "4.4.4"]
+[White "Ulyanovskyy, Vladimir"]
+[Black "Paramos, Roberto"]
+[Result "0-1"]
+[WhiteElo "2073"]
+[BlackElo "2407"]
+[ECO "B20"]
+[WhiteFideId "14120771"]
+[BlackFideId "2202565"]
+[EventDate "2013.??.??"]
+[WhiteTeam "FC Barreirense 'A'"]
+[BlackTeam "AX Gaia 'A'"]
+[PlyCount "102"]
+
+1. e4 c5 2. c4 d6 3. Ne2 e5 4. d3 Nc6 5. h3 Be7 6. g3 Bg5 7. Bg2 Bxc1 8. Qxc1
+Nge7 9. O-O O-O 10. Nbc3 a6 11. Kh2 Rb8 12. f4 b5 13. b3 b4 14. Nd5 f6 15. f5 a5
+16. g4 Nd4 17. Nxd4 exd4 18. Nxe7+ Qxe7 19. a4 bxa3 20. Rxa3 Qc7 21. Qf4 Rb4
+22. g5 Kh8 23. gxf6 gxf6 24. Qh6 Qe7 25. Rg1 Rg8 26. Bf3 a4 27. Rxg8+ Kxg8
+28. Bd1 Qe5+ 29. Kg2 Bd7 30. Qh4 Kh8 31. Kf3 Rb8 32. Qf4 Qe7 33. Qh6 Bc6
+34. bxa4 Rg8 35. Kf2 Qe5 36. Bg4 Rb8 37. Kf3 Kg8 38. Qf4 Qe7 39. a5 Rb1 40. Kg3
+Re1 41. Kh4 Re3 42. Rb3 Kg7 43. Bh5 Bxe4 44. Qg4+ Kh6 45. Bg6 Bf3 46. Qf4+ Kg7
+47. Bh5 Bxh5 48. Kxh5 Rxh3+ 49. Kg4 Rh1 50. Qf3 h5+ 51. Kg3 Qe1+ 0-1
+
+[Event "Taça de Portugal 2013"]
+[Site "Famalicão POR"]
+[Date "2013.05.18"]
+[Round "5.1.1"]
+[White "Silva, Luís M"]
+[Black "Diogo, Vasco"]
+[Result "1/2-1/2"]
+[WhiteElo "2176"]
+[BlackElo "2274"]
+[ECO "D10"]
+[WhiteFideId "1919121"]
+[BlackFideId "1902628"]
+[EventDate "2013.??.??"]
+[WhiteTeam "NXVSC Didáxis 'A'"]
+[BlackTeam "Clube TAP"]
+[PlyCount "92"]
+
+1. d4 d5 2. c4 c6 3. cxd5 cxd5 4. Bf4 Nc6 5. Nc3 Nf6 6. e3 a6 7. Bd3 e6 8. Nf3
+Be7 9. h3 O-O 10. O-O Bd7 11. Rc1 Nh5 12. Bh2 f5 13. Ne5 Nxe5 14. Bxe5 Nf6
+15. f4 Rc8 16. g4 g6 17. Kh2 Ne4 18. gxf5 Nxc3 19. Rxc3 exf5 20. Qb3 Bc6
+21. Rfc1 Qd7 22. Be2 Bf6 23. Bf3 Rcd8 24. Qd1 Qe6 25. Qg1 Bxe5 26. fxe5 Qe7
+27. Rf1 Kh8 28. Be2 Rc8 29. a3 Bd7 30. Rxc8 Rxc8 31. Rc1 Rxc1 32. Qxc1 Qh4
+33. Bf1 f4 34. exf4 Qf2+ 35. Bg2 Bf5 36. Qc5 Qxf4+ 37. Kg1 Be4 38. Qc8+ Kg7
+39. Qd7+ Kh6 40. Qg4 Qc1+ 41. Kh2 Qxb2 42. Qh4+ Kg7 43. Qf6+ Kg8 44. Qd8+ Kg7
+45. Qf6+ Kg8 46. Qd8+ Kg7 1/2-1/2
+
+[Event "Taça de Portugal 2013"]
+[Site "Famalicão POR"]
+[Date "2013.05.18"]
+[Round "5.1.2"]
+[White "Rego, Pedro"]
+[Black "Gomes, Bruno"]
+[Result "1/2-1/2"]
+[WhiteElo "2271"]
+[BlackElo "2061"]
+[ECO "D70"]
+[WhiteFideId "1904310"]
+[BlackFideId "1908154"]
+[EventDate "2013.??.??"]
+[WhiteTeam "Clube TAP"]
+[BlackTeam "NXVSC Didáxis 'A'"]
+[PlyCount "94"]
+
+1. d4 Nf6 2. c4 g6 3. f3 d5 4. cxd5 Nxd5 5. e4 Nb6 6. Nc3 Bg7 7. Be3 c6 8. Qd2
+O-O 9. h4 Be6 10. h5 Qd6 11. e5 Qb4 12. a3 Qb3 13. Bh6 Bxh6 14. Qxh6 Qxb2
+15. Rc1 g5 16. Qxg5+ Kh8 17. Bd3 Rg8 18. Qh6 Rg7 19. Nge2 N8d7 20. O-O c5
+21. Nb5 Bc4 22. Rb1 Qxb1 23. Rxb1 Bxd3 24. Rb2 Na4 25. Qd2 Nxb2 26. Qxb2 Bxe2
+27. Qxe2 Rag8 28. g4 a6 29. Nc7 cxd4 30. e6 fxe6 31. Nxe6 Rf7 32. Qe4 Rf6
+33. Qxd4 Nb8 34. g5 Nc6 35. Qc3 h6 36. f4 Kh7 37. Qd3+ Kh8 38. Qc3 Kh7 39. Qc2+
+Kh8 40. Qb2 hxg5 41. fxg5 Kh7 42. Qc2+ Kh8 43. Qc3 Kh7 44. Qc2+ Kh8 45. Qb2 Kh7
+46. Qe2 Rxe6 47. Qxe6 Rxg5+ 1/2-1/2
+
+[Event "Taça de Portugal 2013"]
+[Site "Famalicão POR"]
+[Date "2013.05.18"]
+[Round "5.1.3"]
+[White "Oliveira, Inês"]
+[Black "Andrade, Bruno"]
+[Result "0-1"]
+[WhiteElo "1962"]
+[BlackElo "2103"]
+[ECO "B90"]
+[WhiteFideId "1909436"]
+[BlackFideId "1902768"]
+[EventDate "2013.??.??"]
+[WhiteTeam "NXVSC Didáxis 'A'"]
+[BlackTeam "Clube TAP"]
+[PlyCount "136"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. h3 b5 7. a3 e6 8. g4 Bb7
+9. Bg2 h6 10. Qe2 Qc7 11. O-O Be7 12. Be3 Nbd7 13. Rad1 Nb6 14. Bc1 Nc4 15. Rd3
+Qc5 16. Re1 O-O 17. Nb3 Qb6 18. h4 Nh7 19. g5 g6 20. Rg3 h5 21. Kh1 Rfc8 22. f4
+Bf8 23. Nd2 Bg7 24. Nxc4 Rxc4 25. Rg1 Nf8 26. Bf3 e5 27. f5 gxf5 28. exf5 Rxh4+
+29. Kg2 Rc8 30. Nd5 Bxd5 31. Bxd5 Qc5 32. Bb3 Qc6+ 33. Kf1 d5 34. f6 Bh8
+35. Qxe5 Ng6 36. Qxd5 Qxd5 37. Bxd5 Rxc2 38. Rc3 Rxc3 39. bxc3 Rh3 40. Bb2 Ne5
+41. Ke2 Nd3 42. Bc1 Nxc1+ 43. Rxc1 Rg3 44. Rf1 Rxg5 45. Bb7 a5 46. Bc6 Rc5
+47. Bd7 Kh7 48. Rf3 Kg6 49. a4 bxa4 50. Bxa4 Bxf6 51. Bc2+ Kg7 52. Kd2 h4
+53. Bb3 Bg5+ 54. Kd3 Bf6 55. c4 Be5 56. Ke4 f6 57. Kf5 Rc7 58. Ke6 Kg6 59. Bc2+
+Kg5 60. Rf5+ Kg4 61. Bd1+ Kg3 62. Rf3+ Kg2 63. Ra3 h3 64. Kf5 Rxc4 65. Bf3+ Kf2
+66. Be4 Rxe4 67. Kxe4 h2 68. Rf3+ Kg2 0-1
+
+[Event "Taça de Portugal 2013"]
+[Site "Famalicão POR"]
+[Date "2013.05.18"]
+[Round "5.1.4"]
+[White "Martins, Pedro"]
+[Black "Silva, António Araújo"]
+[Result "0-1"]
+[WhiteElo "2027"]
+[BlackElo "1929"]
+[ECO "E08"]
+[WhiteFideId "1904353"]
+[BlackFideId "1932551"]
+[EventDate "2013.??.??"]
+[WhiteTeam "Clube TAP"]
+[BlackTeam "NXVSC Didáxis 'A'"]
+[PlyCount "120"]
+
+1. Nf3 Nf6 2. c4 e6 3. g3 Be7 4. Bg2 d5 5. O-O O-O 6. d4 Nbd7 7. Qc2 Ne4
+8. Nbd2 f5 9. b3 c6 10. a4 Bf6 11. Bb2 Qc7 12. Rac1 Qd6 13. Rfd1 g5 14. Ne1 g4
+15. Nd3 Bg5 16. e3 h5 17. cxd5 exd5 18. b4 h4 19. Nf1 Nb6 20. Ne5 Qxb4 21. Ra1
+Nc4 22. Nxc4 Qxc4 23. Qxc4 dxc4 24. Rac1 Be6 25. Nd2 Nxd2 26. Rxd2 Bd5 27. Ba3
+Rfd8 28. Rb1 Rd7 29. Rdb2 Rb8 30. Bb4 hxg3 31. hxg3 Kg7 32. Bc3 Kg6 33. a5 Rh7
+34. Bxd5 cxd5 35. Kf1 Rh1+ 36. Ke2 Rxb1 37. Rxb1 b5 38. axb6 Rxb6 39. Ra1 Rb7
+40. Ra5 Rd7 41. Bb4 Bd8 42. Ra6+ Kf7 43. Bc5 Be7 44. Rxa7 Rxa7 45. Bxa7 Ke6
+46. Kd2 Bb4+ 47. Ke2 Kd7 48. Bb8 Bd6 49. Bxd6 Kxd6 50. f3 Kc6 51. fxg4 fxg4
+52. Kd2 Kb6 53. Kc2 Ka5 54. Kc3 Kb5 55. Kb2 Kb4 56. Kc2 c3 57. Kc1 Kb3 58. Kb1
+c2+ 59. Kc1 Kc3 60. e4 dxe4 0-1
+
+[Event "Taça de Portugal 2013"]
+[Site "Famalicão POR"]
+[Date "2013.05.18"]
+[Round "5.2.1"]
+[White "Pereira, Rúben"]
+[Black "Pires, Gustavo"]
+[Result "1-0"]
+[WhiteElo "2413"]
+[BlackElo "2133"]
+[ECO "D78"]
+[WhiteFideId "1903063"]
+[BlackFideId "1903250"]
+[EventDate "2013.??.??"]
+[WhiteTeam "AX Gaia"]
+[BlackTeam "Clube dos Galitos"]
+[PlyCount "77"]
+
+1. Nf3 d5 2. c4 c6 3. g3 Nf6 4. Bg2 g6 5. O-O Bg7 6. d4 O-O 7. Nc3 Ne4 8. Qb3
+dxc4 9. Qxc4 Be6 10. Qd3 Nd6 11. Bf4 Na6 12. Rfd1 Bf5 13. e4 Bg4 14. h3 Bxf3
+15. Qxf3 Qb6 16. Na4 Qb4 17. b3 Nb5 18. a3 Qa5 19. e5 Nbc7 20. Nc3 Ne6 21. b4
+Qc7 22. Be3 f6 23. exf6 Bxf6 24. Qg4 Qc8 25. Rac1 Ng7 26. b5 Nc7 27. bxc6 bxc6
+28. Bxc6 Qa6 29. Bxa8 Rxa8 30. Ne4 Nd5 31. Qd7 Nxe3 32. Nxf6+ Qxf6 33. fxe3 Qg5
+34. Rc8+ Rxc8 35. Qxc8+ Kf7 36. Qc4+ e6 37. Qc7+ Ke8 38. Qe5 Nf5 39. Rb1 1-0
+
+[Event "Taça de Portugal 2013"]
+[Site "Famalicão POR"]
+[Date "2013.05.18"]
+[Round "5.2.2"]
+[White "Aguiar, Henrique"]
+[Black "Pena Gomez, Manuel"]
+[Result "0-1"]
+[WhiteElo "2094"]
+[BlackElo "2412"]
+[ECO "B52"]
+[WhiteFideId "1908545"]
+[BlackFideId "2252813"]
+[EventDate "2013.??.??"]
+[WhiteTeam "Clube dos Galitos"]
+[BlackTeam "AX Gaia"]
+[PlyCount "88"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Bd7 4. Bxd7+ Qxd7 5. c4 Nc6 6. Nc3 Nf6 7. d4 cxd4
+8. Nxd4 e6 9. O-O Be7 10. Be3 O-O 11. Qe2 b6 12. Rfd1 Rfd8 13. Rac1 Rac8 14. b3
+Qb7 15. f3 a6 16. Kh1 Nd7 17. Qf2 Nxd4 18. Bxd4 b5 19. cxb5 axb5 20. Qe2 Bg5
+21. Be3 Bxe3 22. Qxe3 b4 23. Na4 Qa6 24. h3 h5 25. Rxc8 Rxc8 26. Qd3 Qxd3
+27. Rxd3 Rc1+ 28. Kh2 Rc2 29. f4 Nf6 30. Rxd6 Nxe4 31. Rd4 Nd2 32. Kg1 Rxa2
+33. Rxb4 Nxb3 34. Rxb3 Rxa4 35. Rf3 h4 36. g3 Ra1+ 37. Kg2 Ra2+ 38. Kg1 hxg3
+39. Rxg3 g6 40. Rb3 Kg7 41. Rb4 Kf6 42. Rc4 Kf5 43. Rb4 f6 44. Rc4 Re2 0-1
+
+[Event "Taça de Portugal 2013"]
+[Site "Famalicão POR"]
+[Date "2013.05.18"]
+[Round "5.2.3"]
+[White "Fróis, António"]
+[Black "Andias, João"]
+[Result "1-0"]
+[WhiteElo "2318"]
+[BlackElo "1969"]
+[ECO "E63"]
+[WhiteFideId "1900080"]
+[BlackFideId "1900862"]
+[EventDate "2013.??.??"]
+[WhiteTeam "AX Gaia"]
+[BlackTeam "Clube dos Galitos"]
+[PlyCount "54"]
+
+1. Nf3 Nf6 2. c4 g6 3. g3 Bg7 4. Bg2 O-O 5. O-O d6 6. d4 Nc6 7. Nc3 a6 8. h3 e5
+9. Be3 exd4 10. Nxd4 Ne5 11. b3 Rb8 12. a4 Bd7 13. Qd2 Re8 14. Rac1 Qc8 15. Kh2
+h5 16. Bg5 Nc6 17. Nf3 Bf5 18. Bh6 Bxh6 19. Qxh6 Ne5 20. Qf4 Nxf3+ 21. Bxf3 Kg7
+22. Bg2 Re5 23. e4 Bd7 24. Qd2 h4 25. g4 Bxg4 26. f4 Rh5 27. hxg4 Qxg4 1-0
+
+[Event "Taça de Portugal 2013"]
+[Site "Famalicão POR"]
+[Date "2013.05.18"]
+[Round "5.2.4"]
+[White "Valente, João"]
+[Black "Paramos, Roberto"]
+[Result "0-1"]
+[WhiteElo "1669"]
+[BlackElo "2407"]
+[ECO "B90"]
+[WhiteFideId "1908987"]
+[BlackFideId "2202565"]
+[EventDate "2013.??.??"]
+[WhiteTeam "Clube dos Galitos"]
+[BlackTeam "AX Gaia"]
+[PlyCount "67"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 e6 7. f3 b5 8. Qd2
+Nbd7 9. g4 h6 10. O-O-O b4 11. Nce2 Qc7 12. Kb1 Bb7 13. Rg1 d5 14. exd5 Nxd5
+15. Bf2 Rc8 16. f4 N7f6 17. Qd3 g5 18. fxg5 hxg5 19. Bg3 Nf4 20. Bxf4 gxf4
+21. Bg2 Nd5 22. Bxd5 Bxd5 23. Qxa6 Bc5 24. Rge1 O-O 25. Qd3 Rfd8 26. Qh3 Bf8
+27. Rc1 Bg7 28. Qf1 f3 29. Nxf3 Bxa2+ 30. Kxa2 Qa5+ 31. Kb3 Qd5+ 32. c4 bxc3+
+33. Kc2 Qd3+ 34. Kb3 0-1
+
+[Event "Taça de Portugal 2013"]
+[Site "Famalicão POR"]
+[Date "2013.05.19"]
+[Round "6.1.1"]
+[White "Diogo, Vasco"]
+[Black "Pereira, Rúben"]
+[Result "1/2-1/2"]
+[WhiteElo "2274"]
+[BlackElo "2413"]
+[ECO "B30"]
+[WhiteFideId "1902628"]
+[BlackFideId "1903063"]
+[EventDate "2013.??.??"]
+[WhiteTeam "Clube TAP"]
+[BlackTeam "AX Gaia"]
+[PlyCount "100"]
+
+1. e4 c5 2. Nf3 Nc6 3. d3 g6 4. g3 Bg7 5. Bg2 e5 6. O-O Nge7 7. c3 d5 8. Nbd2
+O-O 9. Re1 Re8 10. Nf1 h6 11. Ne3 Be6 12. c4 dxc4 13. dxc4 Qxd1 14. Rxd1 Nd4
+15. Nxd4 cxd4 16. Nd5 Rac8 17. b3 f5 18. Ba3 Nc6 19. Rac1 Bf8 20. Bxf8 Kxf8
+21. f4 Kg7 22. fxe5 fxe4 23. Bxe4 Bg4 24. Rd2 Rxe5 25. Bg2 Rce8 26. Nf4 g5
+27. Bxc6 bxc6 28. Nd3 Re2 29. Rcc2 R2e3 30. Rc1 Bh3 31. b4 Re2 32. Rxe2 Rxe2
+33. Nf2 Be6 34. a4 Ra2 35. a5 Ra3 36. Ne4 Re3 37. Nc5 Bg4 38. Rc2 Re1+ 39. Kf2
+Rd1 40. Nb3 Kf6 41. Rd2 Rxd2+ 42. Nxd2 Ke5 43. h4 gxh4 44. gxh4 Kf4 45. b5 cxb5
+46. cxb5 Bc8 47. Nb3 Ke5 48. b6 axb6 49. axb6 h5 50. Na5 Kf4 1/2-1/2
+
+[Event "Taça de Portugal 2013"]
+[Site "Famalicão POR"]
+[Date "2013.05.19"]
+[Round "6.1.2"]
+[White "Pena Gomez, Manuel"]
+[Black "Rego, Pedro"]
+[Result "1/2-1/2"]
+[WhiteElo "2412"]
+[BlackElo "2271"]
+[ECO "A00"]
+[WhiteFideId "2252813"]
+[BlackFideId "1904310"]
+[EventDate "2013.??.??"]
+[WhiteTeam "AX Gaia"]
+[BlackTeam "Clube TAP"]
+[PlyCount "111"]
+
+1. g3 e5 2. Bg2 Nc6 3. c4 f5 4. e3 Nf6 5. Nc3 Bb4 6. Nge2 Bxc3 7. Nxc3 d6
+8. O-O O-O 9. d3 Be6 10. Nd5 Qd7 11. f4 Nd8 12. b3 Ng4 13. h3 Nh6 14. fxe5 dxe5
+15. e4 Ndf7 16. Qh5 c6 17. Ba3 Rfe8 18. Rad1 cxd5 19. exd5 Rad8 20. Kh2 f4
+21. dxe6 fxg3+ 22. Kxg3 Qxe6 23. Bxb7 g6 24. Qf3 Ng5 25. Qd5 Nf5+ 26. Rxf5 gxf5
+27. Qxe6+ Rxe6 28. Bd5 Rxd5 29. cxd5 Ra6 30. Be7 Rg6 31. Bxg5 Rxg5+ 32. Kf3 Rh5
+33. d4 e4+ 34. Kf4 Kf7 35. Rc1 Ke7 36. Ke5 e3 37. d6+ Kd7 38. Rc7+ Kd8 39. Re7
+Rxh3 40. Kxf5 a5 41. Kf4 Rh2 42. Rxe3 Kd7 43. Ke5 Rh5+ 44. Kf6 Rh6+ 45. Kf7 Rh2
+46. a4 Kxd6 47. Re5 Rh3 48. Rb5 Rd3 49. Kg7 h5 50. Kf6 h4 51. Kf5 Rxd4 52. Rxa5
+Rb4 53. Ra6+ Kc7 54. Ra7+ Kb6 55. Rh7 Rxb3 56. Rxh4 1/2-1/2
+
+[Event "Taça de Portugal 2013"]
+[Site "Famalicão POR"]
+[Date "2013.05.19"]
+[Round "6.1.3"]
+[White "Andrade, Bruno"]
+[Black "Fróis, António"]
+[Result "0-1"]
+[WhiteElo "2103"]
+[BlackElo "2318"]
+[ECO "A05"]
+[WhiteFideId "1902768"]
+[BlackFideId "1900080"]
+[EventDate "2013.??.??"]
+[WhiteTeam "Clube TAP"]
+[BlackTeam "AX Gaia"]
+[PlyCount "156"]
+
+1. Nf3 Nf6 2. c4 g6 3. Nc3 c5 4. e3 Bg7 5. d4 O-O 6. Be2 d5 7. O-O cxd4 8. exd4
+Nc6 9. h3 dxc4 10. Bxc4 Na5 11. Bd3 Be6 12. Qe2 Rc8 13. Re1 Re8 14. Bf4 Bc4
+15. Rac1 Nd5 16. Be5 Bh6 17. Bxc4 Nxc4 18. Rcd1 Nxc3 19. bxc3 Qa5 20. Qe4 Nxe5
+21. Nxe5 Rc7 22. c4 Bg7 23. c5 Rec8 24. Qd5 e6 25. Qb3 Qa6 26. Nc4 Rd8 27. Ne5
+b6 28. cxb6 Qxb6 29. Qa4 h6 30. Re3 Qd6 31. Red3 Rdc8 32. Nf3 Qd5 33. Nd2 Rc2
+34. a3 R8c7 35. Nf1 Ra2 36. Ne3 Qc6 37. Qb3 Re2 38. d5 exd5 39. Rxd5 Rb7 40. Qd3
+Rbb2 41. Rf1 Qf6 42. Nd1 Ra2 43. Rd8+ Kh7 44. Rd7 Re7 45. Rd6 Qf4 46. g3 Qg5
+47. h4 Qc5 48. Ra6 h5 49. a4 Ra3 50. Qd6 Qxd6 51. Rxd6 Rxa4 52. Ne3 Bd4 53. Nd5
+Rb7 54. Rd1 Kg7 55. Nf4 Be5 56. Rd7 Rxd7 57. Rxd7 Bxf4 58. gxf4 Rxf4 59. Rxa7
+Rxh4 60. Kg2 Rb4 61. Kg3 g5 62. Ra6 f6 63. Ra5 Kg6 64. Rc5 Rb3+ 65. Kg2 g4
+66. Ra5 h4 67. Rc5 f5 68. Rc4 Kg5 69. Ra4 Rb2 70. Kg1 h3 71. Rc4 h2+ 72. Kxh2
+Rxf2+ 73. Kg1 g3 74. Rb4 f4 75. Ra4 Kg4 76. Ra7 Rb2 77. Kf1 Rb1+ 78. Ke2 f3+ 0-1
+
+[Event "Taça de Portugal 2013"]
+[Site "Famalicão POR"]
+[Date "2013.05.19"]
+[Round "6.1.4"]
+[White "Paramos, Roberto"]
+[Black "Martins, Pedro"]
+[Result "1-0"]
+[WhiteElo "2407"]
+[BlackElo "2027"]
+[ECO "E46"]
+[WhiteFideId "2202565"]
+[BlackFideId "1904353"]
+[EventDate "2013.??.??"]
+[WhiteTeam "AX Gaia"]
+[BlackTeam "Clube TAP"]
+[PlyCount "111"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Ne2 d5 6. a3 Bd6 7. c5 Be7 8. b4 b6
+9. Nf4 c6 10. Bd3 Nbd7 11. O-O bxc5 12. bxc5 e5 13. Nfe2 Qc7 14. f3 Re8 15. Bd2
+Nf8 16. Qc2 Rb8 17. Kh1 Be6 18. Rae1 g6 19. Ng3 Rb7 20. Ba6 Rbb8 21. Na2 exd4
+22. exd4 h5 23. Bd3 h4 24. Ne2 Nh5 25. Nb4 Rbc8 26. Qc1 Ng7 27. Bf4 Qd7 28. Ba6
+Nf5 29. Nd3 f6 30. Nf2 g5 31. Bd2 Rb8 32. f4 Nh7 33. Ng4 Ng3+ 34. Nxg3 Bxg4
+35. Ne2 h3 36. gxh3 Bxh3 37. Rf2 g4 38. Ng3 Rb3 39. Rfe2 f5 40. Qc2 Rxg3
+41. hxg3 Nf6 42. Bd3 Ne4 43. Bxe4 dxe4 44. Qb3+ Kg7 45. Rb1 Rh8 46. Bc3 Bf6
+47. Qb7 Qxb7 48. Rxb7+ Kg6 49. Kg1 Rd8 50. Rd2 e3 51. Re2 Bxd4 52. Bxd4 Rxd4
+53. Rxe3 Rd1+ 54. Kf2 Rd2+ 55. Ke1 Rc2 56. Re6+ 1-0
+

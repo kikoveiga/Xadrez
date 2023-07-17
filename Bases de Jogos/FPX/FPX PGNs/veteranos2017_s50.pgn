@@ -1,0 +1,983 @@
+[Event "CN Veteranos 2017 - S50"]
+[Site "Luso POR"]
+[Date "2017.04.09"]
+[Round "1.1"]
+[White "Palhais, Custódio"]
+[Black "Fernandes, António"]
+[Result "0-1"]
+[ECO "B40"]
+[WhiteElo "1751"]
+[BlackElo "2463"]
+[WhiteFideId "1940880"]
+[BlackFideId "1900021"]
+[BlackTitle "GM"]
+[PlyCount "76"]
+[EventDate "2017.??.??"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. f3 d5 6. e5 Nfd7 7. f4 Nc6 8. Nxc6
+bxc6 9. Bd3 Bc5 10. Qf3 O-O 11. Be3 Qb6 12. Bxc5 Nxc5 13. b3 Qb4+ 14. Nd2 Qd4
+15. Rd1 f6 16. Nb1 Nxd3+ 17. Rxd3 Qb2 18. O-O fxe5 19. Rdd1 Rxf4 20. Qc3 Qxc3
+21. Nxc3 Kf7 22. Na4 Ke7 23. Nc5 Kd6 24. Rxf4 exf4 25. b4 a5 26. a3 axb4 27.
+axb4 Ra2 28. c4 Ba6 29. cxd5 cxd5 30. Ne4+ Ke5 31. Nc5 Be2 32. Rb1 Kd6 33. Nb3
+Bd3 34. Re1 Be4 35. Nc5 Rxg2+ 36. Kf1 Rxh2 37. Nxe4+ dxe4 38. Rxe4 e5 0-1
+
+[Event "CN Veteranos 2017 - S50"]
+[Site "Luso POR"]
+[Date "2017.04.09"]
+[Round "1.2"]
+[White "Carneiro, Carlos"]
+[Black "Atalaia, Manuel"]
+[Result "1-0"]
+[ECO "E77"]
+[WhiteElo "2164"]
+[BlackElo "1670"]
+[WhiteFideId "1900170"]
+[BlackFideId "1924257"]
+[WhiteTitle "NM"]
+[PlyCount "57"]
+[EventDate "2017.??.??"]
+
+1. d4 Nf6 2. c4 d6 3. Nc3 g6 4. e4 Bg7 5. Be2 O-O 6. f4 e5 7. fxe5 dxe5 8. d5
+c6 9. Be3 Qa5 10. Qd2 Rd8 11. a3 cxd5 12. cxd5 Nc6 13. Nf3 Bg4 14. O-O Bxf3 15.
+gxf3 Nd4 16. b4 Qc7 17. Nb5 Qc2 18. Ra2 Qxd2 19. Rxd2 Nxb5 20. Bxb5 a6 21. Ba4
+b5 22. Bb3 Rac8 23. Bc5 Bf8 24. d6 Nd7 25. Rc2 Nb8 26. Rd1 Nc6 27. d7 Rc7 28.
+Bxf8 Kxf8 29. Rd6 1-0
+
+[Event "CN Veteranos 2017 - S50"]
+[Site "Luso POR"]
+[Date "2017.04.09"]
+[Round "1.3"]
+[White "Dias, José"]
+[Black "Ferreira, António Luís"]
+[Result "1/2-1/2"]
+[ECO "A05"]
+[WhiteElo "1664"]
+[BlackElo "2092"]
+[WhiteFideId "1923943"]
+[BlackFideId "1903144"]
+[PlyCount "95"]
+[EventDate "2017.??.??"]
+
+1. e4 c5 2. Nf3 d6 3. g3 Nf6 4. d3 g6 5. Bg2 Bg7 6. O-O Nc6 7. c3 O-O 8. Re1
+Rb8 9. a4 b6 10. Nbd2 a6 11. Nf1 Bb7 12. h3 Qc7 13. N1h2 b5 14. Be3 c4 15. axb5
+axb5 16. Bg5 cxd3 17. Qxd3 Ne5 18. Nxe5 dxe5 19. Ra7 Qc4 20. Qe3 b4 21. Ra4 Bc6
+22. Ra5 bxc3 23. bxc3 Rfc8 24. Rc5 Qe6 25. Nf1 Be8 26. Nd2 Qd6 27. Rxc8 Rxc8
+28. Bf1 Nd7 29. c4 f6 30. Bh6 Bxh6 31. Qxh6 Bf7 32. Qe3 Nc5 33. Be2 Qd4 34. Rc1
+Qxe3 35. fxe3 Be6 36. h4 Rd8 37. Rc2 Kf8 38. Kf2 Ke8 39. Bf3 Rb8 40. Ke2 Kd7
+41. Ra2 Kc6 42. Kd1 Rb6 43. Kc2 Ra6 44. Rxa6+ Nxa6 45. Kc3 Nc5 46. Be2 Bh3 47.
+Bf3 Be6 48. Be2 1/2-1/2
+
+[Event "CN Veteranos 2017 - S50"]
+[Site "Luso POR"]
+[Date "2017.04.09"]
+[Round "1.4"]
+[White "Almeida, Manuel"]
+[Black "Oliveira, António Augustos"]
+[Result "1-0"]
+[ECO "C40"]
+[WhiteElo "2044"]
+[BlackElo "1587"]
+[WhiteFideId "1902962"]
+[BlackFideId "1943235"]
+[PlyCount "91"]
+[EventDate "2017.??.??"]
+
+1. e4 e5 2. Nf3 g6 3. c3 Bg7 4. d4 exd4 5. cxd4 Nc6 6. Nc3 d6 7. Be2 a6 8. d5
+Ne5 9. Nxe5 Bxe5 10. Be3 b5 11. O-O Bd7 12. f4 Bg7 13. Bd4 Bxd4+ 14. Qxd4 f6
+15. e5 Rb8 16. exd6 cxd6 17. Rae1 Kf7 18. Kh1 Qb6 19. Qd2 f5 20. Bf3 Nf6 21.
+Ne2 Rhe8 22. Nd4 Rxe1 23. Rxe1 Re8 24. Rxe8 Nxe8 25. h3 Nf6 26. b4 Qc7 27. Nc6
+Ne4 28. Bxe4 fxe4 29. Qc3 Bxc6 30. dxc6 Ke6 31. g3 Kd5 32. Qb3+ Kxc6 33. Qc2+
+Kb6 34. Qxe4 Qc1+ 35. Kg2 Qc6 36. Kf3 Qc4 37. Qxc4 bxc4 38. a4 Kc6 39. Ke4 d5+
+40. Kd4 Kd6 41. g4 Ke6 42. b5 axb5 43. axb5 h6 44. b6 Kd7 45. f5 gxf5 46. gxf5
+1-0
+
+[Event "CN Veteranos 2017 - S50"]
+[Site "Luso POR"]
+[Date "2017.04.09"]
+[Round "1.5"]
+[White "Pinto, António"]
+[Black "Morais, Vítor"]
+[Result "0-1"]
+[ECO "A10"]
+[WhiteElo "1560"]
+[BlackElo "1890"]
+[WhiteFideId "1951173"]
+[BlackFideId "1900552"]
+[BlackTitle "NM"]
+[PlyCount "76"]
+[EventDate "2017.??.??"]
+
+1. f4 f5 2. c4 Nf6 3. Nc3 e6 4. Nf3 Be7 5. e3 O-O 6. Qc2 c6 7. d4 d5 8. c5 b6
+9. b4 a5 10. Qb2 axb4 11. Qxb4 bxc5 12. dxc5 Nbd7 13. Nd4 Bxc5 14. Qb3 Bxd4 15.
+exd4 c5 16. Qd1 Ne4 17. Nxe4 fxe4 18. Be2 Qb6 19. dxc5 Qxc5 20. Qd2 Ba6 21. g3
+Rfc8 22. Bb2 Bxe2 23. Kxe2 Qc4+ 24. Kf2 Nc5 25. Be5 Nd3+ 26. Kg2 Qc2 27. Rhd1
+Qa4 28. Qe3 Rc2+ 29. Rd2 Rxd2+ 30. Qxd2 Rc8 31. Qe3 Rc2+ 32. Kg1 h6 33. Qb6 Kh7
+34. Bd4 Nc1 35. Rxc1 Rxc1+ 36. Kg2 Qd1 37. Kh3 Qh5+ 38. Kg2 Qf3+ 0-1
+
+[Event "CN Veteranos 2017 - S50"]
+[Site "Luso POR"]
+[Date "2017.04.09"]
+[Round "1.6"]
+[White "Elias, Benjamim"]
+[Black "Cavadas, José"]
+[Result "1-0"]
+[ECO "A03"]
+[WhiteElo "1859"]
+[BlackElo "1552"]
+[WhiteFideId "1903578"]
+[BlackFideId "1904990"]
+[PlyCount "57"]
+[EventDate "2017.??.??"]
+
+1. f4 d5 2. c3 g6 3. d3 Bg7 4. Nf3 Bg4 5. e3 Nh6 6. Be2 Nc6 7. O-O O-O 8. d4 e6
+9. h3 Bxf3 10. Bxf3 Qh4 11. e4 dxe4 12. Bxe4 Nf5 13. Bxf5 gxf5 14. Kh2 Qf6 15.
+Qf3 Rab8 16. Na3 a6 17. Nc4 Ne7 18. Ne5 Rfd8 19. g4 Nc8 20. gxf5 exf5 21. Rg1
+Nd6 22. Be3 Ne4 23. Rg2 Kh8 24. Rag1 Bh6 25. c4 b6 26. c5 bxc5 27. dxc5 Rg8 28.
+Nd7 Rxg2+ 29. Rxg2 1-0
+
+[Event "CN Veteranos 2017 - S50"]
+[Site "Luso POR"]
+[Date "2017.04.09"]
+[Round "1.7"]
+[White "Gasalho, Mário"]
+[Black "Martins, Manuel"]
+[Result "0-1"]
+[ECO "A39"]
+[WhiteElo "1389"]
+[BlackElo "1806"]
+[WhiteFideId "1936654"]
+[BlackFideId "1901060"]
+[PlyCount "90"]
+[EventDate "2017.??.??"]
+
+1. Nf3 Nf6 2. c4 c5 3. Nc3 Nc6 4. g3 g6 5. Bg2 Bg7 6. O-O O-O 7. d4 cxd4 8.
+Nxd4 Nxd4 9. Qxd4 d6 10. Rd1 Ng4 11. Qd2 Qb6 12. e3 Ne5 13. Nd5 Qd8 14. Qe2 Bg4
+15. f3 Bd7 16. Rb1 Rc8 17. b3 e6 18. Nf4 Qb6 19. Ba3 Rc6 20. Kh1 Qa6 21. Bb4
+Rd8 22. Nh3 Rb6 23. a3 d5 24. f4 Nc6 25. Bc5 dxc4 26. Bxb6 Qxb6 27. Qxc4 e5 28.
+Ng5 Be8 29. Bd5 Rxd5 30. Qxd5 Qxe3 31. Re1 Qb6 32. fxe5 Nxe5 33. Ne4 Bc6 34.
+Qd1 f5 35. h4 fxe4 36. Qc2 e3+ 37. Kh2 Nf3+ 38. Kh3 Nxe1 39. Rxe1 Bd7+ 40. Kh2
+Kh8 41. Qd3 Bd4 42. Rxe3 Bb5 43. Qe4 Bxe3 44. Qe5+ Kg8 45. Qd5+ Kf8 0-1
+
+[Event "CN Veteranos 2017 - S50"]
+[Site "Luso POR"]
+[Date "2017.04.09"]
+[Round "1.8"]
+[White "Guerreiro, Paulo"]
+[Black "Marvão, Joaquim"]
+[Result "1/2-1/2"]
+[ECO "A23"]
+[WhiteElo "1803"]
+[BlackElo "1331"]
+[WhiteFideId "1902105"]
+[BlackFideId "1902423"]
+[PlyCount "83"]
+[EventDate "2017.??.??"]
+
+1. c4 e5 2. g3 Nf6 3. Bg2 Bc5 4. Nc3 c6 5. e4 O-O 6. Nf3 Re8 7. O-O d6 8. d3 h6
+9. a3 a5 10. Rb1 Bg4 11. Qc2 Qd7 12. Be3 Bxe3 13. fxe3 Bh3 14. Nh4 Qg4 15. Nf5
+Re6 16. Rf3 Nbd7 17. Rbf1 Bxg2 18. Qxg2 Nh7 19. h3 Qg5 20. Nd1 Nc5 21. h4 Qd8
+22. Nf2 d5 23. exd5 cxd5 24. e4 dxc4 25. dxc4 Qd2 26. Ng4 Qxg2+ 27. Kxg2 Nxe4
+28. Re1 Nd2 29. Rc3 e4 30. Nfe3 Nf3 31. Rd1 h5 32. Nf2 Rae8 33. Nh3 Rg6 34. Kf2
+Nf6 35. Nf4 Ng4+ 36. Nxg4 Rxg4 37. Nxh5 Ne5 38. Nf4 Rc8 39. Rd4 e3+ 40. Rxe3
+Rxc4 41. Rxc4 Nxc4 42. Rb3 1/2-1/2
+
+[Event "CN Veteranos 2017 - S50"]
+[Site "Luso POR"]
+[Date "2017.04.10"]
+[Round "2.1"]
+[White "Fernandes, António"]
+[Black "Elias, Benjamim"]
+[Result "1-0"]
+[ECO "C41"]
+[WhiteElo "2463"]
+[BlackElo "1859"]
+[WhiteFideId "1900021"]
+[BlackFideId "1903578"]
+[WhiteTitle "GM"]
+[PlyCount "47"]
+[EventDate "2017.??.??"]
+
+1. e4 d6 2. d4 e5 3. Nf3 Qe7 4. Nc3 c6 5. Bg5 Qc7 6. Bc4 Be7 7. Bxe7 Qxe7 8.
+Qd2 Nf6 9. dxe5 dxe5 10. Qg5 Nbd7 11. Qxg7 Rg8 12. Qh6 Qc5 13. Bb3 Rxg2 14.
+O-O-O Rg6 15. Qd2 Rg2 16. Rhf1 b5 17. Ng5 Rxh2 18. Nxf7 Ba6 19. Kb1 Ke7 20. Nd6
+Rd8 21. Qg5 Rf8 22. Qg7+ Kd8 23. Qxf8+ Nxf8 24. Nb7+ 1-0
+
+[Event "CN Veteranos 2017 - S50"]
+[Site "Luso POR"]
+[Date "2017.04.10"]
+[Round "2.2"]
+[White "Morais, Vítor"]
+[Black "Carneiro, Carlos"]
+[Result "0-1"]
+[ECO "A01"]
+[WhiteElo "1890"]
+[BlackElo "2164"]
+[WhiteFideId "1900552"]
+[BlackFideId "1900170"]
+[WhiteTitle "NM"]
+[BlackTitle "NM"]
+[PlyCount "96"]
+[EventDate "2017.??.??"]
+
+1. b3 e5 2. Bb2 Nc6 3. e3 d6 4. Bb5 Bd7 5. Nf3 Nf6 6. O-O Be7 7. d4 e4 8. Nfd2
+O-O 9. Bxc6 Bxc6 10. c4 d5 11. Nc3 Bb4 12. Qc2 Bxc3 13. Qxc3 Re8 14. Rfc1 Rc8
+15. a4 Re6 16. Nf1 Nd7 17. Rc2 Rg6 18. b4 dxc4 19. Qxc4 Qg5 20. g3 h5 21. Qe2
+h4 22. b5 Bd5 23. Rac1 c6 24. bxc6 bxc6 25. Qa6 Re8 26. Qxa7 Nf6 27. Qa6 hxg3
+28. fxg3 Ng4 29. Qe2 Rf6 30. h4 Qg6 31. Ra1 Rf2 32. Qxf2 Nxf2 33. Rxf2 Bc4 34.
+Kg2 Rb8 35. Bc1 c5 36. dxc5 Qc6 37. Bb2 Qxc5 38. Bd4 Qa5 39. Rc2 Be6 40. Rf2
+Ra8 41. Nd2 Rd8 42. Nf1 Rxd4 43. exd4 Qc3 44. Rd1 Bb3 45. Rb1 Bd5 46. Rb5 Bc6
+47. Rc5 e3+ 48. Kh2 Qe1 0-1
+
+[Event "CN Veteranos 2017 - S50"]
+[Site "Luso POR"]
+[Date "2017.04.10"]
+[Round "2.3"]
+[White "Pedroso, Manuel"]
+[Black "Almeida, Manuel"]
+[Result "0-1"]
+[ECO "E61"]
+[WhiteElo "1324"]
+[BlackElo "2044"]
+[WhiteFideId "1924800"]
+[BlackFideId "1902962"]
+[PlyCount "72"]
+[EventDate "2017.??.??"]
+
+1. d4 Nf6 2. c4 g6 3. Nf3 Bg7 4. Bf4 O-O 5. e3 d6 6. Nc3 Nbd7 7. Be2 c6 8. O-O
+Re8 9. Re1 Nh5 10. Bg3 Nxg3 11. hxg3 e5 12. dxe5 Nxe5 13. Nd2 f5 14. Qc2 Be6
+15. b3 d5 16. Rac1 Rc8 17. Na4 b6 18. Nb2 Qf6 19. Qb1 c5 20. Nd3 Nxd3 21. Bxd3
+d4 22. Nf3 dxe3 23. Rxe3 Bh6 24. Rce1 Bxe3 25. Rxe3 Bd7 26. Qc1 Bc6 27. Bf1
+Rxe3 28. Qxe3 Re8 29. Qf4 Kg7 30. g4 fxg4 31. Qxg4 Bxf3 32. gxf3 Re7 33. Kg2
+Re5 34. f4 Rf5 35. Kf3 g5 36. Bd3 Rxf4+ 0-1
+
+[Event "CN Veteranos 2017 - S50"]
+[Site "Luso POR"]
+[Date "2017.04.10"]
+[Round "2.4"]
+[White "Martins, Manuel"]
+[Black "Guerreiro, Paulo"]
+[Result "1/2-1/2"]
+[ECO "B13"]
+[WhiteElo "1806"]
+[BlackElo "1803"]
+[WhiteFideId "1901060"]
+[BlackFideId "1902105"]
+[PlyCount "55"]
+[EventDate "2017.??.??"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. Bd3 Nc6 5. c3 Nf6 6. Ne2 e6 7. O-O Bd6 8. Bf4
+O-O 9. Bxd6 Qxd6 10. Nd2 b6 11. Ng3 Bb7 12. f4 Ne7 13. Qe2 Ng6 14. Nh5 Nxh5 15.
+Qxh5 f5 16. Qg5 Rf6 17. Rae1 Raf8 18. h4 Nh8 19. Qg3 Nf7 20. h5 Qd8 21. Nf3 Nd6
+22. Ne5 Ne4 23. Bxe4 dxe4 24. Kf2 Qd5 25. b3 b5 26. Qe3 Rd8 27. Rd1 Rc8 28. Rd2
+1/2-1/2
+
+[Event "CN Veteranos 2017 - S50"]
+[Site "Luso POR"]
+[Date "2017.04.10"]
+[Round "2.5"]
+[White "Marvão, Joaquim"]
+[Black "Dias, José"]
+[Result "0-1"]
+[ECO "B13"]
+[WhiteElo "1331"]
+[BlackElo "1664"]
+[WhiteFideId "1902423"]
+[BlackFideId "1923943"]
+[PlyCount "76"]
+[EventDate "2017.??.??"]
+
+1. e4 c6 2. Nf3 d5 3. exd5 cxd5 4. d4 Nf6 5. Bb5+ Bd7 6. Bxd7+ Nbxd7 7. O-O e6
+8. c3 Bd6 9. Bg5 Qb6 10. Qc2 h6 11. Bxf6 gxf6 12. Nbd2 h5 13. Rfe1 h4 14. h3
+O-O-O 15. c4 Qc7 16. c5 Bf4 17. b4 Kb8 18. Rab1 e5 19. b5 e4 20. Nxe4 dxe4 21.
+Rxe4 Nf8 22. c6 Ne6 23. Qc4 Rh5 24. Rd1 Rhd5 25. Nxh4 f5 26. Re2 Rxd4 27. Rxd4
+Rxd4 28. Qc2 Bh2+ 29. Kf1 Rxh4 30. Rd2 Bd6 31. Qxf5 bxc6 32. bxc6 Rb4 33. Qd5
+Rb1+ 34. Rd1 Rxd1+ 35. Qxd1 Qxc6 36. Qb3+ Kc7 37. f3 Qc1+ 38. Ke2 Nd4+ 0-1
+
+[Event "CN Veteranos 2017 - S50"]
+[Site "Luso POR"]
+[Date "2017.04.10"]
+[Round "2.6"]
+[White "Ferreira, António Luís"]
+[Black "Palhais, Custódio"]
+[Result "1-0"]
+[ECO "D06"]
+[WhiteElo "2092"]
+[BlackElo "1751"]
+[WhiteFideId "1903144"]
+[BlackFideId "1940880"]
+[PlyCount "67"]
+[EventDate "2017.??.??"]
+
+1. d4 d5 2. c4 Nf6 3. cxd5 Nxd5 4. Nf3 g6 5. e4 Nf6 6. Nc3 c6 7. Be2 Bg7 8. O-O
+O-O 9. h3 Nbd7 10. a4 b6 11. e5 Nd5 12. Nxd5 cxd5 13. Qb3 e6 14. Bd2 f6 15. Bb4
+Rf7 16. exf6 Bxf6 17. Bb5 a6 18. Bd3 Bb7 19. Rfe1 Bc8 20. Re2 a5 21. Ba3 Nf8
+22. Rc1 Raa7 23. Rec2 Rfc7 24. Rc3 Nd7 25. Qc2 Rxc3 26. Qxc3 Ra8 27. Qc6 Rb8
+28. Qxe6+ Kg7 29. Qd6 Kh6 30. Bb5 Rb7 31. Qc6 Rb8 32. Bd6 Bg5 33. Nxg5 Qxg5 34.
+Bxb8 1-0
+
+[Event "CN Veteranos 2017 - S50"]
+[Site "Luso POR"]
+[Date "2017.04.10"]
+[Round "2.7"]
+[White "Cavadas, José"]
+[Black "Maduro, João"]
+[Result "0-1"]
+[ECO "E39"]
+[WhiteElo "1552"]
+[BlackElo "1745"]
+[WhiteFideId "1904990"]
+[BlackFideId "1906917"]
+[PlyCount "39"]
+[EventDate "2017.??.??"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 c5 5. dxc5 Nc6 6. e3 O-O 7. Nf3 Bxc5 8. a3
+Be7 9. Bd3 h6 10. O-O d5 11. cxd5 exd5 12. b4 a6 13. Bb2 Bg4 14. Nh4 d4 15. Ne2
+Rc8 16. Qd2 dxe3 17. fxe3 Ne4 18. Qd1 Bxh4 19. g3 Bg5 20. Qc2 0-1
+
+[Event "CN Veteranos 2017 - S50"]
+[Site "Luso POR"]
+[Date "2017.04.10"]
+[Round "2.8"]
+[White "Atalaia, Manuel"]
+[Black "Pinto, António"]
+[Result "0-1"]
+[ECO "E07"]
+[WhiteElo "1670"]
+[BlackElo "1560"]
+[WhiteFideId "1924257"]
+[BlackFideId "1951173"]
+[PlyCount "94"]
+[EventDate "2017.??.??"]
+
+1. c4 Nf6 2. Nc3 e6 3. g3 c6 4. Bg2 d5 5. d4 Be7 6. Nf3 O-O 7. O-O Nbd7 8. Re1
+Re8 9. Qc2 dxc4 10. Nd2 Nb6 11. e3 c5 12. dxc5 Bxc5 13. Nce4 Bb4 14. Rd1 Qd3
+15. Nxf6+ gxf6 16. Qxd3 cxd3 17. Ne4 Be7 18. Rxd3 e5 19. Nc3 f5 20. Nb5 e4 21.
+Rd1 Rd8 22. Bd2 Na4 23. Bc3 Rxd1+ 24. Rxd1 Nxc3 25. Nxc3 Be6 26. g4 fxg4 27.
+Bxe4 Bf6 28. Nd5 Be5 29. b3 Re8 30. Bg2 Kg7 31. e4 Rc8 32. Rd2 Rc1+ 33. Bf1 h5
+34. Kg2 Bxh2 35. Kxh2 Rxf1 36. Nf4 Kh6 37. Kg3 Re1 38. Ne2 Kg5 39. Kg2 h4 40.
+Rc2 b6 41. Nc3 h3+ 42. Kg3 Rg1+ 43. Kh2 Rg2+ 44. Kh1 Kf4 45. Ne2+ Kxe4 46. Ng1
+Kd3 47. Rb2 Bd5 0-1
+
+[Event "CN Veteranos 2017 - S50"]
+[Site "Luso POR"]
+[Date "2017.04.10"]
+[Round "2.9"]
+[White "Oliveira, António Augustos"]
+[Black "Gasalho, Mário"]
+[Result "1-0"]
+[ECO "B21"]
+[WhiteElo "1587"]
+[BlackElo "1389"]
+[WhiteFideId "1943235"]
+[BlackFideId "1936654"]
+[PlyCount "89"]
+[EventDate "2017.??.??"]
+
+1. e4 c5 2. d4 cxd4 3. c3 dxc3 4. Nxc3 Nc6 5. Nf3 a6 6. Bc4 e6 7. O-O Bb4 8.
+Bf4 Bxc3 9. bxc3 Nf6 10. Bg5 Qa5 11. Bxf6 gxf6 12. Qd3 b5 13. Bb3 Bb7 14. Rfd1
+Rd8 15. Rac1 h5 16. Qd6 Nb8 17. e5 Bxf3 18. gxf3 Nc6 19. exf6 Qb6 20. Bd5 Qb8
+21. Bxc6 Qxd6 22. Rxd6 dxc6 23. Rxc6 Ra8 24. c4 bxc4 25. R1xc4 O-O 26. R6c5 Kh7
+27. Rg5 Rg8 28. f4 Rg6 29. Rc7 Rxf6 30. Rxh5+ Kg7 31. Rg5+ Kh6 32. Rg4 Rg6 33.
+h3 Kg7 34. Rc6 Kf6 35. Kg2 a5 36. a4 Rd8 37. Rc5 Rd5 38. Rxg6+ Kxg6 39. Rxd5
+exd5 40. Kf3 Kf5 41. Ke3 f6 42. f3 d4+ 43. Kxd4 Kxf4 44. h4 f5 45. h5 1-0
+
+[Event "CN Veteranos 2017 - S50"]
+[Site "Luso POR"]
+[Date "2017.04.10"]
+[Round "3.1"]
+[White "Carneiro, Carlos"]
+[Black "Fernandes, António"]
+[Result "0-1"]
+[ECO "D93"]
+[WhiteElo "2164"]
+[BlackElo "2463"]
+[WhiteFideId "1900170"]
+[BlackFideId "1900021"]
+[WhiteTitle "NM"]
+[BlackTitle "GM"]
+[PlyCount "66"]
+[EventDate "2017.??.??"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. Bf4 O-O 6. e3 c5 7. dxc5 Ne4 8. Rc1
+Nxc3 9. bxc3 dxc4 10. Qxd8 Rxd8 11. Bxc4 Nc6 12. O-O Bd7 13. Rb1 Rac8 14. Ng5
+Be8 15. Ne4 h6 16. g4 Kf8 17. g5 hxg5 18. Bxg5 Ne5 19. Bb5 Nf3+ 20. Kh1 Nxg5
+21. Nxg5 Rxc5 22. Bxe8 Kxe8 23. Ne4 Rc4 24. Rb4 Rxb4 25. cxb4 Rc8 26. Nc5 b6
+27. Na6 Rc2 28. Rd1 Be5 29. Rd5 Bd6 30. e4 Rxa2 31. b5 Re2 32. f3 Rxh2+ 33. Kg1
+Rh5 0-1
+
+[Event "CN Veteranos 2017 - S50"]
+[Site "Luso POR"]
+[Date "2017.04.10"]
+[Round "3.2"]
+[White "Almeida, Manuel"]
+[Black "Ferreira, António Luís"]
+[Result "1/2-1/2"]
+[ECO "B92"]
+[WhiteElo "2044"]
+[BlackElo "2092"]
+[WhiteFideId "1902962"]
+[BlackFideId "1903144"]
+[PlyCount "53"]
+[EventDate "2017.??.??"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e5 7. Nb3 Be7 8. Be3
+Nc6 9. O-O O-O 10. f3 b5 11. Qd2 Bb7 12. Rfd1 Rc8 13. Rac1 Nb8 14. Bf1 Nbd7 15.
+Qf2 Qc7 16. a3 Rfe8 17. g3 Nc5 18. Bh3 Rcd8 19. Nxc5 dxc5 20. Rxd8 Rxd8 21. Qe2
+Bc6 22. Rd1 Rxd1+ 23. Nxd1 c4 24. Bf1 Bd7 25. Qd2 Qd6 26. Qxd6 Bxd6 27. Kf2
+1/2-1/2
+
+[Event "CN Veteranos 2017 - S50"]
+[Site "Luso POR"]
+[Date "2017.04.10"]
+[Round "3.3"]
+[White "Dias, José"]
+[Black "Martins, Manuel"]
+[Result "1/2-1/2"]
+[ECO "E61"]
+[WhiteElo "1664"]
+[BlackElo "1806"]
+[WhiteFideId "1923943"]
+[BlackFideId "1901060"]
+[PlyCount "59"]
+[EventDate "2017.??.??"]
+
+1. c4 Nf6 2. g3 g6 3. Bg2 Bg7 4. Nc3 c5 5. e3 O-O 6. Nge2 d6 7. O-O Nc6 8. d4
+cxd4 9. exd4 Bg4 10. h3 Bf5 11. Be3 h5 12. a3 Rc8 13. Rc1 Qd7 14. Kh2 Na5 15.
+b3 b6 16. Re1 Rfd8 17. Nf4 Rb8 18. Bd2 Nb7 19. Ncd5 Nxd5 20. Nxd5 Re8 21. Bc3
+Qd8 22. Ne3 Bd7 23. Rc2 e6 24. f4 Bh6 25. Qf3 f5 26. Rce2 Bg7 27. g4 hxg4 28.
+hxg4 Qh4+ 29. Qh3 Qxh3+ 30. Bxh3 1/2-1/2
+
+[Event "CN Veteranos 2017 - S50"]
+[Site "Luso POR"]
+[Date "2017.04.10"]
+[Round "3.4"]
+[White "Maduro, João"]
+[Black "Morais, Vítor"]
+[Result "1/2-1/2"]
+[ECO "A30"]
+[WhiteElo "1745"]
+[BlackElo "1890"]
+[WhiteFideId "1906917"]
+[BlackFideId "1900552"]
+[BlackTitle "NM"]
+[PlyCount "99"]
+[EventDate "2017.??.??"]
+
+1. Nf3 b6 2. g3 Bb7 3. Bg2 c5 4. c4 g6 5. Nc3 Bg7 6. O-O Nh6 7. d4 cxd4 8. Nxd4
+Bxg2 9. Kxg2 O-O 10. h3 Nc6 11. Be3 Rc8 12. Nxc6 Rxc6 13. Qd3 Nf5 14. Bf4 e5
+15. Bd2 Qc8 16. e4 Nd4 17. Nd5 Re8 18. Rac1 Rce6 19. b4 d6 20. b5 f5 21. f3 Qd7
+22. g4 Rf8 23. g5 Ree8 24. Bb4 Ne6 25. Bd2 f4 26. h4 h6 27. gxh6 Bxh6 28. Kf2
+Nc5 29. Qc2 Qh3 30. Rg1 Qxh4+ 31. Kf1 Kh7 32. Bb4 Qh3+ 33. Kf2 Qh4+ 34. Kf1
+Qh3+ 35. Kf2 Qh4+ 36. Kf1 Qh3+ 37. Kf2 Qh2+ 38. Rg2 Qh4+ 39. Kg1 Kg7 40. Bxc5
+dxc5 41. Qe2 Rf7 42. Rg4 Qh3 43. Qf2 Rh8 44. Qg2 Qxg2+ 45. Kxg2 Rd8 46. Rc3 Rd6
+47. Ra3 g5 48. Kh3 Kg6 49. Rg1 Bf8 50. Rg4 1/2-1/2
+
+[Event "CN Veteranos 2017 - S50"]
+[Site "Luso POR"]
+[Date "2017.04.10"]
+[Round "3.5"]
+[White "Elias, Benjamim"]
+[Black "Oliveira, António Augustos"]
+[Result "1/2-1/2"]
+[ECO "B01"]
+[WhiteElo "1859"]
+[BlackElo "1587"]
+[WhiteFideId "1903578"]
+[BlackFideId "1943235"]
+[PlyCount "42"]
+[EventDate "2017.??.??"]
+
+1. e4 d5 2. exd5 Nf6 3. d4 Nxd5 4. c4 Nb4 5. Be3 Bf5 6. Na3 e6 7. Nf3 Nd7 8.
+Be2 c5 9. O-O Be7 10. dxc5 Bxc5 11. Nd4 Be4 12. f3 Bg6 13. Bf2 O-O 14. Nb3
+Bxf2+ 15. Rxf2 Ne5 16. Qxd8 Rfxd8 17. f4 Ned3 18. Rff1 Rac8 19. Bf3 Nxb2 20.
+Bxb7 Rc7 21. Na5 Rc5 1/2-1/2
+
+[Event "CN Veteranos 2017 - S50"]
+[Site "Luso POR"]
+[Date "2017.04.10"]
+[Round "3.6"]
+[White "Guerreiro, Paulo"]
+[Black "Pedroso, Manuel"]
+[Result "1-0"]
+[ECO "E81"]
+[WhiteElo "1803"]
+[BlackElo "1324"]
+[WhiteFideId "1902105"]
+[BlackFideId "1924800"]
+[PlyCount "93"]
+[EventDate "2017.??.??"]
+
+1. c4 Nf6 2. Nc3 g6 3. d4 Bg7 4. e4 d6 5. f3 O-O 6. Be3 Nbd7 7. Qd2 Re8 8. Bd3
+e5 9. d5 c6 10. Nge2 cxd5 11. cxd5 Nb6 12. O-O Bd7 13. Rfc1 Rc8 14. Nb5 Bxb5
+15. Bxb5 Re7 16. Qa5 Rxc1+ 17. Rxc1 Rc7 18. Rc3 Rxc3 19. Nxc3 Qc8 20. Bxb6 axb6
+21. Qxb6 Qc5+ 22. Qxc5 dxc5 23. Na4 Bf8 24. Kf2 h5 25. h4 Kg7 26. Nb6 Kh6 27.
+Nc4 Nh7 28. Nxe5 f5 29. Nf7+ Kg7 30. Nd8 b6 31. Ne6+ Kf6 32. Nxf8 Nxf8 33. Ke3
+Nh7 34. Kf4 fxe4 35. fxe4 Nf8 36. e5+ Ke7 37. Kg5 Kf7 38. Bd3 Nd7 39. e6+ Ke7
+40. exd7 Kxd7 41. a4 Kc7 42. Kxg6 Kd6 43. Bc4 Ke5 44. Kxh5 Kd4 45. b3 Ke5 46.
+g4 Kf6 47. Kh6 1-0
+
+[Event "CN Veteranos 2017 - S50"]
+[Site "Luso POR"]
+[Date "2017.04.10"]
+[Round "3.7"]
+[White "Pinto, António"]
+[Black "Marvão, Joaquim"]
+[Result "1-0"]
+[ECO "A02"]
+[WhiteElo "1560"]
+[BlackElo "1331"]
+[WhiteFideId "1951173"]
+[BlackFideId "1902423"]
+[PlyCount "120"]
+[EventDate "2017.??.??"]
+
+1. f4 e6 2. Nf3 Be7 3. e4 d5 4. e5 Bh4+ 5. g3 Be7 6. d4 c5 7. c3 Nc6 8. Nbd2
+Nh6 9. Bb5 Bd7 10. O-O Qb6 11. Bxc6 Bxc6 12. Qb3 Nf5 13. Qxb6 axb6 14. Re1 h5
+15. Nf1 h4 16. g4 Nh6 17. h3 Bb5 18. Ne3 Bd3 19. Ng2 Ng8 20. Re3 Be4 21. Nd2
+Bg6 22. Nf3 Be4 23. Kf2 Kd7 24. Nd2 Bc2 25. Ne1 Bg6 26. Ng2 Rf8 27. Rf3 b5 28.
+Ke2 b6 29. Ne3 c4 30. f5 Bh7 31. b4 Nh6 32. Bb2 Bg5 33. Raf1 f6 34. R1f2 Bxe3
+35. fxe6+ Kxe6 36. Rxe3 Bd3+ 37. Ke1 f5 38. gxf5+ Rxf5 39. Rxf5 Nxf5 40. Rf3
+Rf8 41. Rf2 Rf7 42. Nf3 Ke7 43. Bc1 Be4 44. Ng5 Rf8 45. Nxe4 dxe4 46. d5 Kd7
+47. Bg5 g6 48. Rf4 e3 49. Rf3 Re8 50. Bf4 Kd8 51. e6 Kc8 52. Bxe3 Nxe3 53. Rxe3
+Re7 54. d6 Rg7 55. e7 Rg8 56. e8=Q+ Rxe8 57. Rxe8+ Kd7 58. Rg8 Kxd6 59. Rxg6+
+Ke5 60. Rg4 Kf5 1-0
+
+[Event "CN Veteranos 2017 - S50"]
+[Site "Luso POR"]
+[Date "2017.04.10"]
+[Round "3.8"]
+[White "Palhais, Custódio"]
+[Black "Cavadas, José"]
+[Result "1-0"]
+[ECO "B84"]
+[WhiteElo "1751"]
+[BlackElo "1552"]
+[WhiteFideId "1940880"]
+[BlackFideId "1904990"]
+[PlyCount "62"]
+[EventDate "2017.??.??"]
+[Annotator "inc 33"]
+
+1. e4 c5 2. Nf3 a6 3. d4 cxd4 4. Nxd4 d6 5. Nc3 Nf6 6. Be2 b5 7. a3 Bb7 8. f3
+e6 9. Be3 Nbd7 10. Qd2 Be7 11. O-O-O Rc8 12. g4 Ne5 13. h4 Nfd7 14. h5 Nc4 15.
+Bxc4 Rxc4 16. Nb3 Ne5 17. Rdf1 Rxc3 18. Qxc3 Nc4 19. Nd2 Bf6 20. Bd4 Bg5 21. f4
+Nxd2 22. Qxd2 Be7 23. Re1 e5 24. Bc3 exf4 25. h6 Bg5 26. hxg7 Rg8 27. Qd4 f6
+28. Kb1 a5 29. Rxh7 Kf7 30. Qf2 Rxg7 31. Rxg7+ Kxg7 1-0
+
+[Event "CN Veteranos 2017 - S50"]
+[Site "Luso POR"]
+[Date "2017.04.10"]
+[Round "3.9"]
+[White "Gasalho, Mário"]
+[Black "Atalaia, Manuel"]
+[Result "0-1"]
+[ECO "A07"]
+[WhiteElo "1389"]
+[BlackElo "1670"]
+[WhiteFideId "1936654"]
+[BlackFideId "1924257"]
+[PlyCount "48"]
+[EventDate "2017.??.??"]
+
+1. Nf3 d5 2. g3 Nf6 3. Bg2 c6 4. O-O e6 5. d3 Be7 6. Bf4 Qb6 7. b3 Nbd7 8. Nbd2
+O-O 9. Be3 c5 10. c3 Ng4 11. h3 Nxe3 12. fxe3 Qc7 13. Qe1 Bd6 14. Kh2 Nf6 15.
+Rg1 Nh5 16. Nf1 f5 17. d4 Rf6 18. Nh4 Rh6 19. Nf3 Bd7 20. h4 Rf8 21. Kh3 Rff6
+22. Bh1 Rfg6 23. Ng5 Rxg5 24. hxg5 Nf4# 0-1
+
+[Event "CN Veteranos 2017 - S50"]
+[Site "Luso POR"]
+[Date "2017.04.11"]
+[Round "4.1"]
+[White "Fernandes, António"]
+[Black "Almeida, Manuel"]
+[Result "1-0"]
+[ECO "A90"]
+[WhiteElo "2463"]
+[BlackElo "2044"]
+[WhiteFideId "1900021"]
+[BlackFideId "1902962"]
+[WhiteTitle "GM"]
+[PlyCount "63"]
+[EventDate "2017.??.??"]
+
+1. d4 f5 2. g3 Nf6 3. Bg2 e6 4. c4 Bb4+ 5. Bd2 Bxd2+ 6. Nxd2 O-O 7. Qb3 d5 8.
+Nh3 c6 9. O-O Nbd7 10. Nf4 Qe7 11. Nf3 Ne4 12. Rad1 Kh8 13. Nd3 dxc4 14. Qxc4
+Nb6 15. Qc2 Bd7 16. Nfe5 Nf6 17. Qb3 Rae8 18. Nc5 Bc8 19. f3 g5 20. e4 Qg7 21.
+Qa3 Na8 22. Qxa7 Nc7 23. Qb6 Re7 24. Qb3 Nce8 25. Nc4 Nd7 26. Nxd7 Bxd7 27.
+Qxb7 fxe4 28. Qb8 exf3 29. Rxf3 Rxf3 30. Bxf3 g4 31. Bg2 h5 32. Ne5 1-0
+
+[Event "CN Veteranos 2017 - S50"]
+[Site "Luso POR"]
+[Date "2017.04.11"]
+[Round "4.2"]
+[White "Dias, José"]
+[Black "Carneiro, Carlos"]
+[Result "0-1"]
+[ECO "B27"]
+[WhiteElo "1664"]
+[BlackElo "2164"]
+[WhiteFideId "1923943"]
+[BlackFideId "1900170"]
+[BlackTitle "NM"]
+[PlyCount "68"]
+[EventDate "2017.??.??"]
+
+1. e4 c5 2. Nf3 g6 3. c3 Bg7 4. d4 cxd4 5. cxd4 d5 6. Nc3 dxe4 7. Nxe4 Nh6 8.
+Bb5+ Bd7 9. Qa4 O-O 10. O-O Nf5 11. Rd1 a6 12. Bxd7 Qxd7 13. Qxd7 Nxd7 14. g4
+Nh6 15. h3 f5 16. Bxh6 Bxh6 17. gxf5 Rxf5 18. Nh2 Nb6 19. Ng4 Bf4 20. Rd3 Nd5
+21. Ne3 Bxe3 22. fxe3 Rf3 23. Re1 Raf8 24. h4 Rh3 25. Nc5 Rxh4 26. Nxb7 Rg4+
+27. Kh1 Rf3 28. Re2 Nf4 29. exf4 Rxd3 30. Rf2 Rh3+ 31. Rh2 Rxh2+ 32. Kxh2 Rxf4
+33. Nc5 Rxd4 34. Nxa6 Ra4 0-1
+
+[Event "CN Veteranos 2017 - S50"]
+[Site "Luso POR"]
+[Date "2017.04.11"]
+[Round "4.3"]
+[White "Ferreira, António Luís"]
+[Black "Guerreiro, Paulo"]
+[Result "1-0"]
+[ECO "D12"]
+[WhiteElo "2092"]
+[BlackElo "1803"]
+[WhiteFideId "1903144"]
+[BlackFideId "1902105"]
+[PlyCount "75"]
+[EventDate "2017.??.??"]
+
+1. d4 d5 2. c4 c6 3. Nc3 Nf6 4. e3 Bf5 5. Nf3 e6 6. Be2 Bd6 7. Nh4 Bg6 8. Nxg6
+hxg6 9. h3 Nbd7 10. Bd2 O-O 11. O-O dxc4 12. Bxc4 Nb6 13. Bb3 e5 14. dxe5 Bxe5
+15. Qc2 Qe7 16. Qxg6 Rad8 17. Rad1 Nfd5 18. Nxd5 Nxd5 19. Qc2 Qf6 20. Ba5 b6
+21. Bxd5 cxd5 22. Bc3 d4 23. exd4 Bxd4 24. Bxd4 Rxd4 25. Rxd4 Qxd4 26. Rd1 Qf4
+27. Qd2 Qc4 28. b3 Qc5 29. Rc1 Qe7 30. Qf4 Qa3 31. Rc2 Qa5 32. Kh2 Qe1 33. Rc7
+Qa5 34. a4 Qd5 35. Rxa7 Qxb3 36. Rb7 Qe6 37. Qd4 Qc6 38. Rxb6 1-0
+
+[Event "CN Veteranos 2017 - S50"]
+[Site "Luso POR"]
+[Date "2017.04.11"]
+[Round "4.4"]
+[White "Martins, Manuel"]
+[Black "Pinto, António"]
+[Result "1-0"]
+[ECO "B96"]
+[WhiteElo "1806"]
+[BlackElo "1560"]
+[WhiteFideId "1901060"]
+[BlackFideId "1951173"]
+[PlyCount "25"]
+[EventDate "2017.??.??"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 Nbd7 7. f4 e6 8. Be2
+Be7 9. Qd2 h6 10. Bh4 Nxe4 11. Bxe7 Nxd2 12. Bxd8 Kxd8 13. Kxd2 1-0
+
+[Event "CN Veteranos 2017 - S50"]
+[Site "Luso POR"]
+[Date "2017.04.11"]
+[Round "4.5"]
+[White "Morais, Vítor"]
+[Black "Elias, Benjamim"]
+[Result "1/2-1/2"]
+[ECO "A36"]
+[WhiteElo "1890"]
+[BlackElo "1859"]
+[WhiteFideId "1900552"]
+[BlackFideId "1903578"]
+[WhiteTitle "NM"]
+[PlyCount "137"]
+[EventDate "2017.??.??"]
+
+1. c4 g6 2. Nc3 Bg7 3. g3 c5 4. Bg2 Nc6 5. a3 d6 6. e3 e6 7. Nge2 Nge7 8. O-O
+O-O 9. Rb1 Rb8 10. b4 b6 11. d4 cxd4 12. exd4 Bb7 13. d5 Ne5 14. dxe6 fxe6 15.
+Bxb7 Rxb7 16. Nf4 Qd7 17. c5 bxc5 18. Ne4 Nf5 19. Be3 cxb4 20. axb4 Re8 21. Qb3
+Nf3+ 22. Kg2 N3d4 23. Qd3 Qb5 24. Rfd1 e5 25. Bxd4 Qxd3 26. Nxd3 exd4 27. Ng5
+h6 28. Nf3 Rc8 29. g4 Ne7 30. Nf4 Rc4 31. Ne6 Rbxb4 32. Rxb4 Rxb4 33. Nxg7 Kxg7
+34. Nxd4 Kf6 35. h3 g5 36. Kf3 Ng6 37. Ne2 Ke7 38. Ra1 Rb7 39. Nd4 Nh4+ 40. Kg3
+Kf6 41. f4 Ng6 42. fxg5+ hxg5 43. Nc6 Ne5 44. Nxa7 Ke6 45. h4 gxh4+ 46. Kxh4
+Rg7 47. Ra4 Nxg4 48. Nb5 Ne5 49. Ra6 Nf7 50. Nxd6 Nxd6 51. Kh3 Ke5 52. Kh2 Ne4
+53. Ra8 Kd4 54. Rf8 Ke3 55. Rf1 Nf2 56. Ra1 Rh7+ 57. Kg2 Rg7+ 58. Kh2 Nd3 59.
+Ra3 Rg6 60. Rc3 Kd2 61. Ra3 Nf4 62. Ra2+ Ke3 63. Ra3+ Kf2 64. Ra2+ Ne2 65. Kh3
+Ke3 66. Ra3+ Ke4 67. Ra4+ Nd4 68. Kh4 Rg1 69. Kh3 1/2-1/2
+
+[Event "CN Veteranos 2017 - S50"]
+[Site "Luso POR"]
+[Date "2017.04.11"]
+[Round "4.6"]
+[White "Oliveira, António Augustos"]
+[Black "Maduro, João"]
+[Result "0-1"]
+[ECO "B40"]
+[WhiteElo "1587"]
+[BlackElo "1745"]
+[WhiteFideId "1943235"]
+[BlackFideId "1906917"]
+[PlyCount "54"]
+[EventDate "2017.??.??"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Bb4 6. Bd3 e5 7. Nf5 O-O 8.
+O-O Bxc3 9. bxc3 d5 10. exd5 e4 11. Bxe4 Nxe4 12. Qg4 Bxf5 13. Qxf5 Nd6 14. Qg4
+Re8 15. Bg5 Qd7 16. Qb4 Na6 17. Qd4 Re4 18. Qd3 Nc5 19. Qf3 Rae8 20. Be3 b6 21.
+h3 Qf5 22. Qg3 Qg6 23. Qxg6 hxg6 24. Rab1 Rc4 25. Bd4 Re2 26. Rb4 Rxc2 27. Bxc5
+Rxc5 0-1
+
+[Event "CN Veteranos 2017 - S50"]
+[Site "Luso POR"]
+[Date "2017.04.11"]
+[Round "4.7"]
+[White "Atalaia, Manuel"]
+[Black "Palhais, Custódio"]
+[Result "0-1"]
+[ECO "A29"]
+[WhiteElo "1670"]
+[BlackElo "1751"]
+[WhiteFideId "1924257"]
+[BlackFideId "1940880"]
+[PlyCount "50"]
+[EventDate "2017.??.??"]
+
+1. c4 e5 2. Nc3 Nf6 3. Nf3 Nc6 4. g3 Bc5 5. Bg2 O-O 6. O-O a6 7. b3 Re8 8. Bb2
+d6 9. Qc2 Bg4 10. e3 Nb4 11. Qb1 Qd7 12. a3 Nc6 13. Ne4 Nxe4 14. Qxe4 Bf5 15.
+Qh4 Ne7 16. e4 Ng6 17. Qh5 Bg4 18. Bh3 Bxh5 19. Bxd7 Bxf3 20. Bxe8 Rxe8 21.
+Rfe1 a5 22. Bc3 Bd4 23. Rac1 b6 24. Bxd4 exd4 25. d3 Ne5 0-1
+
+[Event "CN Veteranos 2017 - S50"]
+[Site "Luso POR"]
+[Date "2017.04.11"]
+[Round "4.8"]
+[White "Marvão, Joaquim"]
+[Black "Pedroso, Manuel"]
+[Result "1-0"]
+[ECO "B50"]
+[WhiteElo "1331"]
+[BlackElo "1324"]
+[WhiteFideId "1902423"]
+[BlackFideId "1924800"]
+[PlyCount "97"]
+[EventDate "2017.??.??"]
+
+1. e4 c5 2. Nf3 e6 3. b3 Nc6 4. Bb2 d6 5. Bb5 a6 6. Be2 Nf6 7. d3 Be7 8. Nbd2
+Qc7 9. O-O O-O 10. Re1 b5 11. Nf1 Bb7 12. Ng3 d5 13. exd5 Nxd5 14. Qd2 Bf6 15.
+Bxf6 Nxf6 16. Qg5 Ne7 17. Nh5 Nxh5 18. Qxh5 Qc6 19. Rad1 Rad8 20. d4 cxd4 21.
+Bd3 Ng6 22. Be4 Qb6 23. Ng5 h6 24. Bxb7 Qxb7 25. Nxe6 fxe6 26. Qxg6 Rf6 27. Qg4
+Qd5 28. Rd3 h5 29. Qg3 Kh7 30. Re5 Qc6 31. Rxh5+ Kg8 32. Rd2 Qe4 33. Re5 Qc6
+34. c3 b4 35. c4 Rd5 36. Rxd5 exd5 37. Rxd4 dxc4 38. Rxc4 Qd7 39. Rc1 Qd2 40.
+Qe3 Qxa2 41. Rc8+ Kh7 42. Qd3+ Rg6 43. g3 Qa1+ 44. Kg2 Qf6 45. Rc4 Qb6 46. Rh4+
+Kg8 47. Qc4+ Kf8 48. Qxb4+ Qxb4 49. Rxb4 1-0
+
+[Event "CN Veteranos 2017 - S50"]
+[Site "Luso POR"]
+[Date "2017.04.11"]
+[Round "4.9"]
+[White "Cavadas, José"]
+[Black "Gasalho, Mário"]
+[Result "1/2-1/2"]
+[ECO "E61"]
+[WhiteElo "1552"]
+[BlackElo "1389"]
+[WhiteFideId "1904990"]
+[BlackFideId "1936654"]
+[PlyCount "39"]
+[EventDate "2017.??.??"]
+
+1. d4 Nf6 2. Nf3 e6 3. c4 g6 4. Nc3 Bg7 5. Bg5 h6 6. Bh4 g5 7. Bg3 b6 8. d5 Bb7
+9. dxe6 fxe6 10. Nb5 d6 11. Bxd6 cxd6 12. Nxd6+ Ke7 13. Nxb7 Qc7 14. Qd3 Qxb7
+15. O-O-O Ne4 16. Rg1 Na6 17. Nd4 Rad8 18. Qa3+ Kf7 19. Qf3+ Ke7 20. Qa3+
+1/2-1/2
+
+[Event "CN Veteranos 2017 - S50"]
+[Site "Luso POR"]
+[Date "2017.04.12"]
+[Round "5.1"]
+[White "Martins, Manuel"]
+[Black "Fernandes, António"]
+[Result "0-1"]
+[ECO "B43"]
+[WhiteElo "1806"]
+[BlackElo "2463"]
+[WhiteFideId "1901060"]
+[BlackFideId "1900021"]
+[BlackTitle "GM"]
+[PlyCount "58"]
+[EventDate "2017.??.??"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Nc3 Qc7 6. a3 Nf6 7. Be2 b5 8. f4
+d6 9. O-O Bb7 10. Bf3 Nc6 11. Nxc6 Bxc6 12. Qe2 Rc8 13. Bd2 Be7 14. Be1 O-O 15.
+Bg3 a5 16. e5 dxe5 17. fxe5 Nd7 18. Bxc6 Qxc6 19. Rad1 Nb6 20. Ne4 Qxc2 21. Rd2
+Qc4 22. Qg4 Nd5 23. Bf2 f5 24. exf6 Nxf6 25. Nxf6+ Bxf6 26. Qh3 Bg5 27. Rd4 Qe2
+28. g4 Rc1 29. Rd3 Qxf2+ 0-1
+
+[Event "CN Veteranos 2017 - S50"]
+[Site "Luso POR"]
+[Date "2017.04.12"]
+[Round "5.2"]
+[White "Carneiro, Carlos"]
+[Black "Ferreira, António Luís"]
+[Result "1/2-1/2"]
+[ECO "A64"]
+[WhiteElo "2164"]
+[BlackElo "2092"]
+[WhiteFideId "1900170"]
+[BlackFideId "1903144"]
+[WhiteTitle "NM"]
+[PlyCount "38"]
+[EventDate "2017.??.??"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 c5 4. d5 exd5 5. cxd5 d6 6. Nc3 g6 7. g3 Bg7 8. Bg2
+O-O 9. O-O Re8 10. Nd2 a6 11. a4 Nbd7 12. h3 Rb8 13. Kh2 b5 14. axb5 axb5 15.
+Nb3 Ne5 16. Na5 Bd7 17. f4 Nc4 18. Nxc4 bxc4 19. e4 Bc8 1/2-1/2
+
+[Event "CN Veteranos 2017 - S50"]
+[Site "Luso POR"]
+[Date "2017.04.12"]
+[Round "5.3"]
+[White "Maduro, João"]
+[Black "Almeida, Manuel"]
+[Result "1/2-1/2"]
+[ECO "A14"]
+[WhiteElo "1745"]
+[BlackElo "2044"]
+[WhiteFideId "1906917"]
+[BlackFideId "1902962"]
+[PlyCount "60"]
+[EventDate "2017.??.??"]
+
+1. Nf3 Nf6 2. c4 e6 3. g3 Be7 4. Bg2 O-O 5. O-O d5 6. d4 c6 7. Qc2 Nbd7 8. b3
+Re8 9. Bb2 b6 10. Nbd2 Bb7 11. e4 dxe4 12. Nxe4 Nxe4 13. Qxe4 Rb8 14. Qc2 Qc7
+15. Rfe1 Bf6 16. Rad1 Red8 17. h4 Rbc8 18. Ng5 h6 19. Ne4 Be7 20. Bc1 Nf6 21.
+Bf4 Qd7 22. Nc3 Bd6 23. Bxd6 Qxd6 24. Ne4 Nxe4 25. Qxe4 Rc7 26. Qe5 Rcd7 27.
+Bf3 Qxe5 28. dxe5 Rxd1 29. Rxd1 Rxd1+ 30. Bxd1 c5 1/2-1/2
+
+[Event "CN Veteranos 2017 - S50"]
+[Site "Luso POR"]
+[Date "2017.04.12"]
+[Round "5.4"]
+[White "Palhais, Custódio"]
+[Black "Morais, Vítor"]
+[Result "0-1"]
+[ECO "B33"]
+[WhiteElo "1751"]
+[BlackElo "1890"]
+[WhiteFideId "1940880"]
+[BlackFideId "1900552"]
+[BlackTitle "NM"]
+[PlyCount "57"]
+[EventDate "2017.??.??"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Nb3 Bb4 7. Qd3 O-O 8.
+f3 d5 9. Bd2 d4 10. Ne2 Be6 11. a3 Bxd2+ 12. Qxd2 Qb6 13. Nec1 a5 14. a4 Rac8
+15. Bd3 Nb4 16. Ra3 Rfd8 17. O-O Nxc2 18. Bxc2 d3+ 19. Kh1 Rxc2 20. Qxa5 Qxa5
+21. Nxa5 d2 22. Rd3 Rdc8 23. Ncb3 b6 24. Rd1 bxa5 25. Nxd2 h5 26. Nb3 Rxb2 27.
+Nxa5 Rcc2 28. Rg1 h4 29. f4 0-1
+
+[Event "CN Veteranos 2017 - S50"]
+[Site "Luso POR"]
+[Date "2017.04.12"]
+[Round "5.5"]
+[White "Elias, Benjamim"]
+[Black "Dias, José"]
+[Result "1-0"]
+[ECO "A03"]
+[WhiteElo "1859"]
+[BlackElo "1664"]
+[WhiteFideId "1903578"]
+[BlackFideId "1923943"]
+[PlyCount "147"]
+[EventDate "2017.??.??"]
+
+1. f4 d5 2. c3 Nc6 3. d3 Nf6 4. Nf3 Qd6 5. g3 e5 6. fxe5 Nxe5 7. Bg2 Nxf3+ 8.
+Bxf3 Bh3 9. Bf4 Qb6 10. Qb3 Qxb3 11. axb3 c6 12. b4 h6 13. Nd2 Be7 14. Kf2 O-O
+15. Rhc1 Rfe8 16. Nb3 g5 17. Be3 b6 18. Bd4 Bf5 19. Bxf6 Bxf6 20. g4 Bg6 21.
+Ra3 Be5 22. Kg2 Re7 23. Re1 Rae8 24. Raa1 f5 25. h3 fxg4 26. hxg4 Bb8 27. Rh1
+Kg7 28. Nd4 Rc8 29. Nf5+ Bxf5 30. gxf5 Rf8 31. Bg4 Re3 32. Rh3 Rxh3 33. Kxh3
+Re8 34. Bf3 Kf6 35. Kg4 Re5 36. e4 dxe4 37. Bxe4 c5 38. bxc5 Rxc5 39. Rh1 Kg7
+40. c4 Be5 41. b4 Rc7 42. b5 Bd4 43. Bd5 Be5 44. Re1 Re7 45. Be6 Kf6 46. Re4
+Bb8 47. Rd4 Be5 48. Rd8 h5+ 49. Kxh5 Rh7+ 50. Kg4 Rh4+ 51. Kf3 g4+ 52. Kg2 Rh2+
+53. Kg1 Ra2 54. d4 Bh2+ 55. Kf1 g3 56. Rf8+ Kg5 57. Bd5 Ra1+ 58. Ke2 Kf4 59. f6
+Ra2+ 60. Kd3 Ra3+ 61. Kc2 g2 62. Bxg2 Ra2+ 63. Kb3 Rxg2 64. f7 Rf2 65. Rg8 Rf3+
+66. Kc2 Rf2+ 67. Kd3 Rf3+ 68. Ke2 Re3+ 69. Kf2 Rf3+ 70. Kg2 Ke4 71. Re8+ Be5
+72. Rxe5+ Kxd4 73. Kxf3 Kxe5 74. f8=Q 1-0
+
+[Event "CN Veteranos 2017 - S50"]
+[Site "Luso POR"]
+[Date "2017.04.12"]
+[Round "5.6"]
+[White "Guerreiro, Paulo"]
+[Black "Pinto, António"]
+[Result "1-0"]
+[ECO "A25"]
+[WhiteElo "1803"]
+[BlackElo "1560"]
+[WhiteFideId "1902105"]
+[BlackFideId "1951173"]
+[PlyCount "73"]
+[EventDate "2017.??.??"]
+
+1. c4 e5 2. g3 g6 3. Bg2 Bg7 4. Nc3 Nc6 5. d3 d6 6. e3 Be6 7. Nge2 Nge7 8. O-O
+Qd7 9. Rb1 Bh3 10. b4 Bxg2 11. Kxg2 O-O 12. Nd5 Rfe8 13. b5 Nd8 14. e4 Nxd5 15.
+cxd5 c6 16. bxc6 bxc6 17. Nc3 c5 18. Qa4 Qxa4 19. Nxa4 f5 20. f3 Rc8 21. Nb2
+Nf7 22. Nc4 Rb8 23. Bd2 Bf8 24. Na5 Rb6 25. Nc6 Ra6 26. Ba5 c4 27. dxc4 fxe4
+28. fxe4 Rc8 29. Rb5 h5 30. a3 Nh6 31. h3 Nf7 32. h4 g5 33. Rc1 g4 34. Nb4 Bh6
+35. Rc2 Rxa5 36. Rxa5 Be3 37. Nc6 1-0
+
+[Event "CN Veteranos 2017 - S50"]
+[Site "Luso POR"]
+[Date "2017.04.12"]
+[Round "5.7"]
+[White "Marvão, Joaquim"]
+[Black "Oliveira, António Augustos"]
+[Result "0-1"]
+[ECO "B01"]
+[WhiteElo "1331"]
+[BlackElo "1587"]
+[WhiteFideId "1902423"]
+[BlackFideId "1943235"]
+[PlyCount "64"]
+[EventDate "2017.??.??"]
+
+1. e4 d5 2. exd5 Nf6 3. Nf3 Nxd5 4. Bc4 Bg4 5. O-O e6 6. d3 Nc6 7. c3 Nb6 8.
+Bb5 Qd5 9. Bxc6+ Qxc6 10. Nbd2 O-O-O 11. Ne5 Bxd1 12. Nxc6 bxc6 13. Rxd1 Rxd3
+14. Re1 Be7 15. Nf3 Rhd8 16. Ne5 Rd1 17. Kf1 Rxe1+ 18. Kxe1 Rd5 19. Nxc6 Bf6
+20. Be3 a5 21. Bd4 e5 22. Be3 Kb7 23. Nxa5+ Rxa5 24. b4 Rd5 25. a4 e4 26. Bd2
+Nc4 27. Rd1 Nxd2 28. c4 Rd3 29. Ke2 Nxc4 30. Rc1 Rc3 31. Ra1 Rc2+ 32. Kd1 Rd2+
+0-1
+
+[Event "CN Veteranos 2017 - S50"]
+[Site "Luso POR"]
+[Date "2017.04.12"]
+[Round "5.8"]
+[White "Cavadas, José"]
+[Black "Atalaia, Manuel"]
+[Result "0-1"]
+[ECO "D40"]
+[WhiteElo "1552"]
+[BlackElo "1670"]
+[WhiteFideId "1904990"]
+[BlackFideId "1924257"]
+[PlyCount "56"]
+[EventDate "2017.??.??"]
+
+1. d4 d5 2. Nf3 Nf6 3. c4 e6 4. Nc3 Be7 5. Bg5 O-O 6. e3 Nbd7 7. Bd3 c5 8. O-O
+cxd4 9. exd4 dxc4 10. Bxc4 Nb6 11. Bb3 Bd7 12. Rc1 Rc8 13. Ne5 Bc6 14. f4 Nbd5
+15. Rf3 Qd6 16. Rg3 g6 17. Bh6 Rfd8 18. Bc2 Nb4 19. Bb1 Qxd4+ 20. Qxd4 Rxd4 21.
+Bg5 Rcd8 22. Ng4 Nfd5 23. Nxd5 Nxd5 24. Bxe7 Nxe7 25. Rgc3 Rd1+ 26. Kf2 R1d2+
+27. Ke1 Rxg2 28. h3 Rxb2 0-1
+
+[Event "CN Veteranos 2017 - S50"]
+[Site "Luso POR"]
+[Date "2017.04.12"]
+[Round "5.9"]
+[White "Pedroso, Manuel"]
+[Black "Gasalho, Mário"]
+[Result "0-1"]
+[ECO "D55"]
+[WhiteElo "1324"]
+[BlackElo "1389"]
+[WhiteFideId "1924800"]
+[BlackFideId "1936654"]
+[PlyCount "54"]
+[EventDate "2017.??.??"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. Nc3 Bb7 5. Bg5 Be7 6. e3 O-O 7. Be2 d5 8. cxd5
+Nxd5 9. Bxe7 Qxe7 10. O-O Nf6 11. Qc2 Nbd7 12. Rac1 Rac8 13. Rfd1 c5 14. Qa4
+Ra8 15. Ne5 Nxe5 16. dxe5 Nd5 17. Nb5 Bc6 18. Qg4 f5 19. Qg3 f4 20. exf4 Nxf4
+21. Bf1 Rf5 22. Qe3 Raf8 23. Rd2 Nxg2 24. Bxg2 Rg5 25. Kf1 Bxb5+ 26. Ke1 Rxg2
+27. Qh3 Rg1+ 0-1
+

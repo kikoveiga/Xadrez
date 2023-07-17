@@ -1,0 +1,1336 @@
+[Event "CN Feminino 2014/2015 SR"]
+[Site "Bornes de Aguiar POR"]
+[Date "2015.03.28"]
+[Round "1.1"]
+[White "Coimbra, Margarida"]
+[Black "Cerdeira, Virginia"]
+[Result "1-0"]
+[WhiteElo "2097"]
+[LiveChessVersion "1.4.5"]
+[ECO "C44"]
+
+1. e4 {[%clk 0:15:17]} e5 {[%clk 0:15:19]} 2. Nf3 {[%clk 0:15:24]} Nc6
+{[%clk 0:15:27]} 3. d4 {[%clk 0:15:32]} exd4 {[%clk 0:15:33]} 4. Nxd4
+{[%clk 0:15:39]} Nxd4 {[%clk 0:15:42]} 5. Qxd4 {[%clk 0:15:46]} Bb4+
+{[%clk 0:15:49]} 6. Qxb4 {[%clk 0:15:53]} Nf6 {[%clk 0:15:55]} 7. Nc3
+{[%clk 0:15:52]} 1-0
+
+[Event "CN Feminino 2014/2015 SR"]
+[Site "Bornes de Aguiar POR"]
+[Date "2015.03.28"]
+[Round "1.2"]
+[White "Fernandes, Cristina"]
+[Black "Oliveira, Maria Inês"]
+[Result "0-1"]
+[ECO "A00"]
+[BlackElo "1929"]
+[PlyCount "90"]
+[EventDate "2015.??.??"]
+
+1. e3 g6 2. g3 Bg7 3. Bg2 d5 4. Nf3 c5 5. O-O Nc6 6. Nc3 Nf6 7. b3 O-O 8. Ba3
+b6 9. Re1 Bb7 10. e4 dxe4 11. Nxe4 Nxe4 12. Rxe4 Bxa1 13. Qxa1 Nd4 14. Nxd4
+Bxe4 15. Bxe4 Qxd4 16. Qxd4 cxd4 17. Bxa8 Rxa8 18. Bxe7 Re8 19. Ba3 Re2 20. Bb2
+Rxd2 21. a4 d3 22. cxd3 Rxb2 23. d4 Rxb3 24. d5 Rd3 25. f4 Kf8 26. g4 Rd2 27.
+h4 Ke7 28. f5 Kd6 29. fxg6 fxg6 30. h5 Ke5 31. hxg6 hxg6 32. Kf1 Ke4 33. Ke1
+Ke3 34. Kf1 Rxd5 35. Kg2 Kf4 36. Kh3 g5 37. Kg2 Rd2+ 38. Kf1 Ke3 39. Ke1 Ra2
+40. Kd1 a5 41. Kc1 Kd3 42. Kb1 Rh2 43. Kc1 Rg2 44. Kb1 Kc3 45. Kc1 Rg1# 0-1
+
+[Event "CN Feminino 2014/2015 SR"]
+[Site "Bornes de Aguiar POR"]
+[Date "2015.03.28"]
+[Round "1.3"]
+[White "Meireles, Ana"]
+[Black "Gomes, Sara"]
+[Result "1-0"]
+[ECO "C70"]
+[WhiteElo "1714"]
+[PlyCount "49"]
+[EventDate "2015.??.??"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 b5 5. Bb3 Nf6 6. O-O Nxe4 7. d4 exd4 8.
+Re1 Bb4 9. Rxe4+ Ne7 10. Qxd4 O-O 11. Qxb4 h6 12. Qxe7 Qxe7 13. Rxe7 Bb7 14.
+Nc3 Rad8 15. Bf4 d6 16. Rxc7 Bxf3 17. gxf3 Rde8 18. Bxd6 Re6 19. Bxf8 Rg6+ 20.
+Kh1 Kxf8 21. Rxf7+ Ke8 22. Re1+ Kd8 23. Ree7 h5 24. Ra7 Ke8 25. Ra8# 1-0
+
+[Event "CN Feminino 2014/2015 SR"]
+[Site "Bornes de Aguiar POR"]
+[Date "2015.03.28"]
+[Round "1.4"]
+[White "Jambas, Martina"]
+[Black "Silva, Mariana"]
+[Result "0-1"]
+[ECO "B30"]
+[BlackElo "1579"]
+[PlyCount "44"]
+[EventDate "2015.??.??"]
+
+1. e4 c5 2. Nf3 Nc6 3. Nc3 g6 4. Bc4 Bg7 5. O-O d6 6. b3 Nf6 7. Qe1 O-O 8. d3
+Nb4 9. Nd5 Nxc2 10. Qc3 Nxd5 11. exd5 Bxc3 12. Rb1 a6 13. Bg5 b5 14. Ne1 Nxe1
+15. Rfxe1 Bxe1 16. Rxe1 Re8 17. Bf4 bxc4 18. dxc4 Qa5 19. Kf1 Bf5 20. Bh6 Bd3+
+21. Re2 Qxa2 22. Ke1 Qxe2# 0-1
+
+[Event "CN Feminino 2014/2015 SR"]
+[Site "Bornes de Aguiar POR"]
+[Date "2015.03.28"]
+[Round "1.5"]
+[White "Silva, Madalena"]
+[Black "Monteiro, Lara"]
+[Result "1-0"]
+[ECO "D07"]
+[WhiteElo "1553"]
+[Termination "illegal move"]
+[PlyCount "51"]
+[EventDate "2015.??.??"]
+
+1. d4 d5 2. c4 Nc6 3. Nf3 Nxd4 4. Nxd4 c6 5. e3 Bf5 6. cxd5 cxd5 7. Bb5+ Qd7 8.
+Bxd7+ Kxd7 9. Nxf5 e6 10. Qa4+ Kd8 11. Nd4 Rc8 12. O-O Be7 13. Qxa7 Rb8 14.
+Qxb8+ Kd7 15. Qxb7+ Ke8 16. Nc6 f6 17. Qc8+ Kf7 18. Nd8+ Bxd8 19. Qxd8 e5 20.
+Bd2 d4 21. exd4 exd4 22. Bb4 Nh6 23. Qxh8 Kg6 24. h4 Ng4 25. Qe8+ Kh6 26. Bd2+
+{Kh5} 1-0
+
+[Event "CN Feminino 2014/2015 SR"]
+[Site "Bornes de Aguiar POR"]
+[Date "2015.03.28"]
+[Round "1.6"]
+[White "Oliveira, Ana Júlia"]
+[Black "Oliveira, Maria Alice"]
+[Result "0-1"]
+[ECO "C46"]
+[BlackElo "1528"]
+[PlyCount "38"]
+[EventDate "2015.??.??"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 g6 4. Bc4 Bg7 5. O-O Nf6 6. a3 O-O 7. h3 d6 8. d3
+Be6 9. Be3 Bxc4 10. dxc4 Nh5 11. Nh4 Qxh4 12. f3 Ng3 13. Re1 f5 14. Qb1 f4 15.
+Bd2 Nd4 16. Na4 Nge2+ 17. Kh1 Qf2 18. c3 Ng3+ 19. Kh2 Nxf3# 0-1
+
+[Event "CN Feminino 2014/2015 SR"]
+[Site "Bornes de Aguiar POR"]
+[Date "2015.03.28"]
+[Round "1.7"]
+[White "Nogueira, Diana"]
+[Black "Pimpão, Maria Inês"]
+[Result "1-0"]
+[ECO "C40"]
+[WhiteElo "1507"]
+[PlyCount "31"]
+[EventDate "2015.??.??"]
+
+1. e4 e5 2. Nf3 Bb4 3. c3 Bf8 4. d4 Nf6 5. Bd3 Bd6 6. dxe5 Be7 7. exf6 gxf6 8.
+Bh6 d5 9. Nbd2 d4 10. Nxd4 c5 11. Bb5+ Bd7 12. Bxd7+ Nxd7 13. Nf5 Bd6 14. Nc4
+Be7 15. Qd6 Bxd6 16. Ncxd6# 1-0
+
+[Event "CN Feminino 2014/2015 SR"]
+[Site "Bornes de Aguiar POR"]
+[Date "2015.03.28"]
+[Round "1.8"]
+[White "Pimpão, Maria Leonor"]
+[Black "Silva, Ana Inês"]
+[Result "0-1"]
+[ECO "B02"]
+[BlackElo "1439"]
+[PlyCount "62"]
+[EventDate "2015.??.??"]
+
+1. e4 Nf6 2. Nc3 d5 3. Qh5 Nxh5 4. Nxd5 Nf6 5. Nxf6+ exf6 6. Bb5+ Bd7 7. Bc4
+Nc6 8. Bd5 Bc5 9. d4 Bxd4 10. Nf3 Bb6 11. Bd2 O-O 12. O-O Re8 13. Kh1 Be6 14.
+Bxe6 Rxe6 15. Rfe1 Bxf2 16. Red1 Qe7 17. Rac1 Rxe4 18. Bb4 Nxb4 19. g3 Be3 20.
+Ra1 Nxc2 21. Rab1 Rd8 22. Rxd8+ Qxd8 23. b4 Rxb4 24. Rxb4 Nxb4 25. a3 Qd1+ 26.
+Kg2 Qe2+ 27. Kh3 Qxf3 28. axb4 Qf5+ 29. g4 Qf1+ 30. Kh4 Bf2+ 31. Kh5 Qh3# 0-1
+
+[Event "CN Feminino 2014/2015 SR"]
+[Site "Bornes de Aguiar POR"]
+[Date "2015.03.28"]
+[Round "1.9"]
+[White "Ribeiro, Ana Beatriz"]
+[Black "Rodrigues, Lara"]
+[Result "1-0"]
+[ECO "C55"]
+[WhiteElo "1423"]
+[PlyCount "95"]
+[EventDate "2015.??.??"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d3 h6 5. Bb3 Bb4+ 6. c3 Bc5 7. Nbd2 O-O 8. h3
+d6 9. Nf1 Be6 10. Bc2 Nh5 11. g4 Nf6 12. Ng3 d5 13. Qe2 dxe4 14. dxe4 Ne8 15.
+Nf5 Qd7 16. N3h4 g6 17. Bxh6 Ng7 18. Nxg7 Kh7 19. Nxe6 Qxe6 20. Bxf8 Bxf8 21.
+Nf3 Bh6 22. Bb3 Qe8 23. h4 Ne7 24. Nxe5 Rd8 25. Nxf7 Rd7 26. Nxh6 Kxh6 27. Ba4
+c6 28. Rd1 Rxd1+ 29. Qxd1 b5 30. Bb3 Nc8 31. Qf3 Nd6 32. O-O Nxe4 33. g5+ Kg7
+34. Qe3 Kh7 35. Re1 a5 36. Qxe4 Qh8 37. Qe7+ Qg7 38. Qxg7+ Kxg7 39. Re7+ Kf8
+40. Ra7 a4 41. Bc2 Ke8 42. Kg2 Kd8 43. Kf3 Kc8 44. Ke4 Kb8 45. Rh7 Kc8 46. Ke5
+Kd8 47. Ke6 Ke8 48. Rh8# 1-0
+
+[Event "CN Feminino 2014/2015 SR"]
+[Site "Bornes de Aguiar POR"]
+[Date "2015.03.28"]
+[Round "1.10"]
+[White "Santos, Inês"]
+[Black "Oliveira, Maria Elisa"]
+[Result "0-1"]
+[ECO "C47"]
+[BlackElo "1131"]
+[Termination "illegal move"]
+[PlyCount "72"]
+[EventDate "2015.??.??"]
+
+1. e4 e5 2. Bc4 Nf6 3. Nc3 Nc6 4. Nf3 d6 5. d3 Bg4 6. Bg5 h6 7. O-O hxg5 8. Qe1
+Bxf3 9. Rc1 Bg4 10. Ne2 Bxe2 11. Qxe2 Qd7 12. Bb5 O-O-O 13. Ba4 d5 14. exd5
+Qxd5 15. Bb3 Qd4 16. Rb1 e4 17. dxe4 Nxe4 18. Qd1 Qxd1 19. Rfxd1 Rxd1+ 20. Rxd1
+Bc5 21. Kf1 Nxf2 22. Rd2 Ne4 23. Re2 f5 24. Ba4 Nd4 25. c3 Nxe2 26. Kxe2 Rxh2
+27. Kf1 Rh1+ 28. Ke2 Rh2 29. Kd3 Rxg2 30. Be8 Rd2+ 31. Kc4 Bb6 32. Kb5 Rd5+ 33.
+Kb4 a5+ 34. Kc4 Rc5+ 35. Kd4 g4 36. Ke3 Re5+ {Kf2} 0-1
+
+[Event "CN Feminino 2014/2015 SR"]
+[Site "Bornes de Aguiar POR"]
+[Date "2015.03.28"]
+[Round "1.11"]
+[White "Basto, Joana"]
+[Black "Santos, Patrícia"]
+[Result "1-0"]
+[ECO "C20"]
+[PlyCount "21"]
+[EventDate "2015.??.??"]
+
+1. e4 e5 2. Qf3 Nf6 3. Bc4 Bc5 4. d3 O-O 5. d4 Bb4+ 6. Nd2 Nxe4 7. dxe5 Nxd2 8.
+Bxd2 Bc5 9. Bd3 d6 10. Qh3 dxe5 11. Qxh7# 1-0
+
+[Event "CN Feminino 2014/2015 SR"]
+[Site "Bornes de Aguiar POR"]
+[Date "2015.03.28"]
+[Round "2.1"]
+[White "Silva, Ana Inês"]
+[Black "Coimbra, Margarida"]
+[Result "0-1"]
+[ECO "C45"]
+[WhiteElo "1439"]
+[BlackElo "2097"]
+[PlyCount "106"]
+[EventDate "2015.??.??"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Bc5 5. Be3 Qf6 6. c3 Nge7 7. Bc4 Ne5 8.
+Be2 Qg6 9. O-O d6 10. Nd2 Bh3 11. Bf3 O-O 12. Kh1 Nxf3 13. Qxf3 Bg4 14. Qg3 a6
+15. h3 Bd7 16. Qxg6 Nxg6 17. N2b3 Bb6 18. Rfe1 Rae8 19. Nd2 Ne5 20. Nc2 Nd3 21.
+Bxb6 Nxe1 22. Bxc7 Nxc2 23. Rc1 Rc8 24. Bxd6 Nd4 25. Bxf8 Kxf8 26. Rd1 Ne6 27.
+Nb3 Ba4 28. Rd5 Bxb3 29. axb3 Nc5 30. Rd4 Nxb3 31. Rb4 Nc5 32. Rc4 Rc6 33. Kg1
+Ke7 34. Kf1 Nd3 35. Rxc6 bxc6 36. b4 Nf4 37. h4 Kd6 38. g3 Ne6 39. Ke2 c5 40.
+Kd3 cxb4 41. cxb4 Kc6 42. Kc4 Nc7 43. f4 Nb5 44. e5 Nc7 45. f5 Nd5 46. Kd4 Nxb4
+47. e6 fxe6 48. fxe6 Kd6 49. e7 Kxe7 50. Kc5 a5 51. Kb5 Nc6 52. g4 Kf6 53. Ka4
+Ke5 0-1
+
+[Event "CN Feminino 2014/2015 SR"]
+[Site "Bornes de Aguiar POR"]
+[Date "2015.03.28"]
+[Round "2.2"]
+[White "Oliveira, Maria Inês"]
+[Black "Nogueira, Diana"]
+[Result "1-0"]
+[ECO "C77"]
+[WhiteElo "1929"]
+[BlackElo "1507"]
+[PlyCount "132"]
+[EventDate "2015.??.??"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. d3 b5 6. Bb3 Na5 7. Nxe5 Nxb3 8.
+axb3 d6 9. Nf3 Bg4 10. h3 Bh5 11. Nbd2 c5 12. Nf1 h6 13. Ng3 Bg6 14. O-O Nh5
+15. Nf5 Bxf5 16. exf5 Be7 17. Nh2 Nf6 18. Re1 O-O 19. Ng4 Kh7 20. Bd2 Nxg4 21.
+Qxg4 Bf6 22. c3 Qb6 23. Re2 Rfe8 24. Rae1 Qc6 25. Rxe8 Rxe8 26. Rxe8 Qxe8 27.
+Qe4 Qe5 28. Bf4 Qe7 29. Qxe7 Bxe7 30. Kf1 g5 31. fxg6+ fxg6 32. Ke2 g5 33. Bc1
+Kg6 34. Kf3 Kf5 35. g4+ Ke5 36. Be3 a5 37. d4+ Kd5 38. Ke2 Bf6 39. Kd3 c4+ 40.
+bxc4+ bxc4+ 41. Ke2 Kc6 42. f4 Kb5 43. Kd2 Kc6 44. fxg5 hxg5 45. Bf2 Kd5 46.
+Ke3 a4 47. Bg3 Be7 48. Kf3 Bf6 49. Be1 Be7 50. Bd2 Bf6 51. h4 gxh4 52. g5 Bg7
+53. Bf4 Bf8 54. Be3 Bg7 55. g6 Ke6 56. Kg4 Kf6 57. Kh5 h3 58. Bf4 Bf8 59. Bh2
+Kf5 60. Bg3 Ke4 61. Kg4 Kd3 62. Kxh3 d5 63. Bd6 Bg7 64. Kg4 Kc2 65. Ba3 Kd3 66.
+Kf5 Ke3 1-0
+
+[Event "CN Feminino 2014/2015 SR"]
+[Site "Bornes de Aguiar POR"]
+[Date "2015.03.28"]
+[Round "2.3"]
+[White "Oliveira, Maria Elisa"]
+[Black "Meireles, Ana"]
+[Result "0-1"]
+[ECO "C01"]
+[WhiteElo "1131"]
+[BlackElo "1714"]
+[PlyCount "62"]
+[EventDate "2015.??.??"]
+
+1. e4 e6 2. d4 d5 3. exd5 exd5 4. Nf3 Bd6 5. Bd3 Ne7 6. O-O O-O 7. Nc3 c6 8.
+Be3 Bg4 9. Re1 Nd7 10. h3 Bh5 11. Qe2 Bg6 12. Rad1 Re8 13. Qd2 Nf5 14. Bf4 Qc7
+15. Bg5 h6 16. Be3 Nxe3 17. fxe3 Be4 18. Rf1 Nf6 19. Rde1 Re7 20. Re2 Rae8 21.
+a3 Nh5 22. Nh4 Ng3 23. Rff2 Nxe2+ 24. Rxe2 Qd7 25. b4 Bg3 26. Nf3 Bxf3 27. gxf3
+Qxh3 28. Rg2 Rxe3 29. Ne2 Rxf3 30. a4 Bh2+ 31. Rxh2 Rf1# 0-1
+
+[Event "CN Feminino 2014/2015 SR"]
+[Site "Bornes de Aguiar POR"]
+[Date "2015.03.28"]
+[Round "2.4"]
+[White "Silva, Mariana"]
+[Black "Ribeiro, Ana Beatriz"]
+[Result "1-0"]
+[ECO "C05"]
+[WhiteElo "1579"]
+[BlackElo "1423"]
+[PlyCount "155"]
+[EventDate "2015.??.??"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. Bd3 c5 6. c3 Nc6 7. Ngf3 cxd4 8.
+cxd4 Be7 9. O-O a6 10. a4 b6 11. Re1 a5 12. Bb5 Ncb8 13. Nb1 Ba6 14. Nc3 Bb4
+15. Bxa6 Nxa6 16. Bd2 Nc7 17. Qe2 Be7 18. Rac1 O-O 19. Rc2 Ra7 20. Rec1 Qb8 21.
+Bg5 Bxg5 22. Nxg5 h6 23. Nf3 Rd8 24. Nd2 Nf8 25. Ndb1 Rd7 26. Na3 Ne8 27. Ncb5
+Ra8 28. Rc6 Ng6 29. R1c2 Ne7 30. R6c3 Qd8 31. Qd1 Kf8 32. Qc1 Rb8 33. Nc7 Nxc7
+34. Rxc7 Rxc7 35. Rxc7 Rc8 36. Rxc8 Qxc8 37. Qf4 Nf5 38. Qd2 Qc6 39. Nb5 Qc4
+40. Qc3 Qxc3 41. bxc3 g6 42. Kf1 Ke7 43. Ke2 Kd7 44. Kd3 Ne7 45. Nd6 h5 46.
+Nxf7 Nc8 47. Ng5 Ke7 48. c4 dxc4+ 49. Kxc4 Kd7 50. Kb5 Na7+ 51. Kxb6 Nc6 52.
+Kc5 Nd8 53. Kb6 Nc6 54. Nf3 Nb4 55. Kxa5 Nd5 56. Kb5 Kc7 57. a5 Kd7 58. a6 Ke7
+59. a7 Nc7+ 60. Kb6 Kd7 61. Kb7 Kd8 62. Ng5 Kd7 63. Nxe6 Nxe6 64. a8=Q Nxd4 65.
+Qa4+ Nb5 66. Qxb5+ Ke6 67. Kc7 Kf5 68. e6+ Kxe6 69. Qc5 Kf6 70. Qd5 Ke7 71.
+Qd6+ Kf7 72. Kd8 Kg7 73. Qe6 Kh6 74. h4 Kg7 75. Ke7 Kh7 76. Kf7 Kh8 77. Qf6+
+Kh7 78. Qg7# 1-0
+
+[Event "CN Feminino 2014/2015 SR"]
+[Site "Bornes de Aguiar POR"]
+[Date "2015.03.28"]
+[Round "2.5"]
+[White "Sousa, Marta"]
+[Black "Silva, Madalena"]
+[Result "0-1"]
+[ECO "B20"]
+[BlackElo "1553"]
+[PlyCount "52"]
+[EventDate "2015.??.??"]
+
+1. e4 c5 2. Bc4 e6 3. Nf3 d5 4. Nc3 dxc4 5. O-O Be7 6. h3 Nf6 7. d3 cxd3 8.
+cxd3 O-O 9. Bg5 Nc6 10. Re1 h6 11. Bh4 b6 12. e5 Nd5 13. Nxd5 Qxd5 14. d4 Bxh4
+15. dxc5 Qxd1 16. Rexd1 Be7 17. Rd2 Ba6 18. Rad1 Bxc5 19. b3 Rad8 20. Rxd8 Rxd8
+21. Re1 Nb4 22. a3 Nc2 23. Re2 Bxe2 24. g3 Bxf3 25. h4 Rd1+ 26. Kh2 Rh1# 0-1
+
+[Event "CN Feminino 2014/2015 SR"]
+[Site "Bornes de Aguiar POR"]
+[Date "2015.03.28"]
+[Round "2.6"]
+[White "Oliveira, Maria Alice"]
+[Black "Basto, Joana"]
+[Result "1-0"]
+[ECO "C40"]
+[WhiteElo "1528"]
+[PlyCount "29"]
+[EventDate "2015.??.??"]
+
+1. e4 e5 2. Nf3 Bc5 3. Bc4 Nh6 4. d3 Ng4 5. O-O Qf6 6. h3 Ne3 7. fxe3 Qd6 8. d4
+exd4 9. exd4 Bxd4+ 10. Nxd4 Qxd4+ 11. Qxd4 O-O 12. b3 Nc6 13. Qc3 Ne7 14. Bb2
+Ng6 15. Qxg7# 1-0
+
+[Event "CN Feminino 2014/2015 SR"]
+[Site "Bornes de Aguiar POR"]
+[Date "2015.03.28"]
+[Round "2.7"]
+[White "Cerdeira, Virginia"]
+[Black "Oliveira, Ana Júlia"]
+[Result "0-1"]
+[LiveChessVersion "1.4.5"]
+[ECO "C20"]
+
+1. e4 {[%clk 0:15:19]} e5 {[%clk 0:15:20]} 2. Bb5 {[%clk 0:15:27]} Nc6
+{[%clk 0:15:27]} 3. Qh5 {[%clk 0:15:34]} Nf6 {[%clk 0:15:30]} 4. Bc4
+{[%clk 0:15:42]} Nxh5 {[%clk 0:15:36]} 5. Nf3 {[%clk 0:15:47]} Bc5
+{[%clk 0:15:38]} 6. Nc3 {[%clk 0:15:50]} O-O {[%clk 0:15:46]} 7. Na4
+{[%clk 0:15:49]} a6 {[%clk 0:15:52]} 8. Nxc5 {[%clk 0:15:50]} d6 {[%clk 0:15:58]}
+9. Nxa6 {[%clk 0:15:52]} bxa6 {[%clk 0:16:07]} 10. Nxe5 {[%clk 0:15:52]} dxe5
+{[%clk 0:16:15]} 11. Bb3 {[%clk 0:15:51]} Nd4 {[%clk 0:16:22]} 12. Ba4
+{[%clk 0:15:54]} Bd7 {[%clk 0:16:27]} 13. O-O {[%clk 0:15:51]} Bxa4
+{[%clk 0:16:35]} 14. b3 {[%clk 0:15:58]} Bb5 {[%clk 0:16:44]} 15. Re1
+{[%clk 0:16:05]} f6 {[%clk 0:16:47]} 16. Ba3 {[%clk 0:16:10]} Re8
+{[%clk 0:16:52]} 17. Bc5 {[%clk 0:16:12]} Nf4 {[%clk 0:16:53]} 18. Bxd4
+{[%clk 0:16:19]} Qxd4 {[%clk 0:16:51]} 19. c3 Qd8 {[%clk 0:16:55]} 20. g3
+{[%clk 0:16:30]} Nh5 {[%clk 0:17:03]} 21. g4 {[%clk 0:16:38]} Rb8
+{[%clk 0:17:02]} 22. gxh5 {[%clk 0:16:44]} g6 {[%clk 0:17:07]} 23. hxg6 hxg6 24.
+c4 {[%clk 0:16:40]} Bd7 {[%clk 0:17:14]} 25. Re3 {[%clk 0:16:46]} f5
+{[%clk 0:17:20]} 26. exf5 gxf5 {[%clk 0:17:28]} 27. Rae1 {[%clk 0:16:55]} Qe7
+{[%clk 0:17:26]} 28. Rxe5 {[%clk 0:17:01]} Qd8 {[%clk 0:17:29]} 29. Rxe8+
+{[%clk 0:17:07]} Bxe8 {[%clk 0:17:38]} 30. Re3 {[%clk 0:17:12]} f4
+{[%clk 0:17:44]} 31. Rh3 {[%clk 0:17:19]} Rb6 {[%clk 0:17:47]} 32. c5
+{[%clk 0:17:28]} Rb5 {[%clk 0:17:54]} 33. c6 {[%clk 0:17:37]} Bxc6
+{[%clk 0:17:57]} 34. Rg3+ {[%clk 0:17:44]} fxg3 {[%clk 0:18:04]} 35. fxg3
+{[%clk 0:17:53]} Rd5 {[%clk 0:18:08]} 36. g4 {[%clk 0:17:58]} Rxd2
+{[%clk 0:18:14]} 37. b4 {[%clk 0:18:06]} Rxa2 {[%clk 0:18:22]} 38. g5
+{[%clk 0:18:15]} Ra4 {[%clk 0:18:30]} 39. b5 {[%clk 0:18:22]} Bxb5
+{[%clk 0:18:39]} 40. g6 {[%clk 0:18:30]} Qe8 41. g7 Kxg7 {[%clk 0:18:42]} 42. Kh1
+{[%clk 0:18:37]} c5 {[%clk 0:18:49]} 43. h3 {[%clk 0:18:36]} c4 {[%clk 0:18:55]}
+44. h4 {[%clk 0:18:44]} c3 {[%clk 0:19:03]} 45. h5 {[%clk 0:18:52]} Qxh5+
+{[%clk 0:19:09]} 46. Kg1 c2 47. Kf1 {[%clk 0:18:42]} c1=R+ 48. Kf2 Rf4+
+{[%clk 0:19:02]} 49. Ke3 {[%clk 0:18:47]} Rf6 {[%clk 0:19:09]} 50. Kd2
+{[%clk 0:18:47]} Ra1 {[%clk 0:19:17]} 51. Kc3 {[%clk 0:18:54]} Rf4
+{[%clk 0:19:22]} 52. Kb3 {[%clk 0:19:00]} Qh3+ 53. Kb2 Qh1 54. Kc2 Rf3
+{[%clk 0:19:10]} 55. Kd2 {[%clk 0:19:07]} Ra2# {[%clk 0:15:10]} 0-1
+
+[Event "CN Feminino 2014/2015 SR"]
+[Site "Bornes de Aguiar POR"]
+[Date "2015.03.28"]
+[Round "2.8"]
+[White "Pimpão, Maria Inês"]
+[Black "Fernandes, Cristina"]
+[Result "0-1"]
+[ECO "C00"]
+[Termination "illegal move"]
+[PlyCount "76"]
+[EventDate "2015.??.??"]
+
+1. e4 e6 2. Nf3 Nc6 3. Nc3 Nf6 4. Bb5 g6 5. Ng5 Bh6 6. e5 Ng4 7. Nge4 Ngxe5 8.
+Nf6+ Qxf6 9. Qe2 Qg5 10. f4 Qxf4 11. Rf1 Qg5 12. Qf2 Qf5 13. g4 Nxg4 14. Qe2
+Qe5 15. Ne4 Nd4 16. Nf6+ Nxf6 17. Qxe5 Nxc2+ 18. Kd1 Nxa1 19. Rf5 gxf5 20. Bc4
+d6 21. Qf4 Bxf4 22. Bb5+ c6 23. Bxc6+ bxc6 24. d3 Bxc1 25. Kxc1 Rg8 26. d4 e5
+27. dxe5 dxe5 28. Kd1 Nc2 29. Kxc2 c5 30. a3 c4 31. b3 cxb3+ 32. Kxb3 Be6+ 33.
+Kc2 Rc8+ 34. Kd2 Rg2+ 35. Ke3 f4+ 36. Kf3 Bh3 37. a4 Rg5 38. a5 Rc3+ {Ke4} 0-1
+
+[Event "CN Feminino 2014/2015 SR"]
+[Site "Bornes de Aguiar POR"]
+[Date "2015.03.28"]
+[Round "2.9"]
+[White "Gomes, Sara"]
+[Black "Pimpão, Maria Leonor"]
+[Result "0-1"]
+[LiveChessVersion "1.4.5"]
+[ECO "C60"]
+
+1. e4 {[%clk 0:15:10]} e5 {[%clk 0:15:10]} 2. Nf3 {[%clk 0:15:10]} Nc6
+{[%clk 0:15:10]} 3. Bb5 {[%clk 0:15:10]} Qh4 {[%clk 0:15:10]} 4. g3
+{[%clk 0:15:10]} Qg5 {[%clk 0:15:10]} 5. h4 {[%clk 0:15:10]} Qg4 {[%clk 0:15:10]}
+6. Rh2 {[%clk 0:15:10]} Bb4 {[%clk 0:15:19]} 7. c3 {[%clk 0:15:27]} Ba5
+{[%clk 0:15:27]} 8. b4 {[%clk 0:15:36]} Bb6 {[%clk 0:15:35]} 9. c4
+{[%clk 0:15:42]} Nxb4 {[%clk 0:15:43]} 10. c5 {[%clk 0:15:49]} Bxc5
+{[%clk 0:15:50]} 11. Na3 {[%clk 0:15:53]} Nd3+ {[%clk 0:15:52]} 12. Bxd3
+{[%clk 0:15:56]} Bxa3 {[%clk 0:15:58]} 13. Bxa3 {[%clk 0:16:04]} Nf6
+{[%clk 0:16:04]} 14. Bb5 {[%clk 0:16:05]} O-O {[%clk 0:16:09]} 15. Nxe5
+{[%clk 0:15:54]} Nxe4 {[%clk 0:16:13]} 16. Nxg4 {[%clk 0:16:02]} Nxg3
+{[%clk 0:16:16]} 17. Rh3 {[%clk 0:16:09]} Ne4 {[%clk 0:16:11]} 18. Bd3
+{[%clk 0:16:12]} Nc5 {[%clk 0:16:17]} 19. Bxc5 {[%clk 0:16:19]} Rd8
+{[%clk 0:16:22]} 20. Qf3 {[%clk 0:16:24]} Kh8 {[%clk 0:16:30]} 21. Nf6
+{[%clk 0:16:27]} gxf6 {[%clk 0:16:36]} 22. Be7 {[%clk 0:16:30]} Rg8
+{[%clk 0:16:44]} 23. Bc4 {[%clk 0:16:35]} Rg1+ {[%clk 0:16:51]} 24. Ke2
+{[%clk 0:16:39]} Rxa1 {[%clk 0:16:48]} 25. Bxf7 {[%clk 0:16:39]} b6
+{[%clk 0:17:01]} 26. Qg4 {[%clk 0:16:47]} h6 {[%clk 0:17:07]} 27. Qg7+
+{[%clk 0:16:50]} Kxg7 {[%clk 0:17:03]} 28. Rg3+ {[%clk 0:16:53]} Kh7
+{[%clk 0:17:10]} 29. Bg6+ Kg8 {[%clk 0:17:16]} 30. Bxf6 {[%clk 0:16:56]} Ba6+
+{[%clk 0:17:16]} 31. Ke3 {[%clk 0:16:57]} Rb8 {[%clk 0:17:19]} 32. Bxa1
+{[%clk 0:17:03]} Rb7 {[%clk 0:17:24]} 33. Be4+ {[%clk 0:17:10]} Rb8
+{[%clk 0:17:28]} 34. Bd5+ {[%clk 0:17:17]} Kf8 {[%clk 0:17:32]} 35. a4
+{[%clk 0:17:22]} Re8+ {[%clk 0:17:39]} 36. Kd4 {[%clk 0:17:29]} h5
+{[%clk 0:17:39]} 37. Rf3+ {[%clk 0:17:36]} Ke7 {[%clk 0:17:42]} 38. Re3+
+{[%clk 0:17:35]} Kd8 {[%clk 0:17:47]} 39. f4 {[%clk 0:17:30]} Rh8
+{[%clk 0:17:42]} 40. Ke5 {[%clk 0:17:30]} Re8+ {[%clk 0:17:45]} 41. Be6
+{[%clk 0:17:30]} dxe6 {[%clk 0:17:53]} 42. Kf6 {[%clk 0:17:37]} Rf8+
+{[%clk 0:18:00]} 43. Kxe6 {[%clk 0:17:42]} Ke8 {[%clk 0:18:05]} 44. Kd5+
+{[%clk 0:17:43]} c6+ {[%clk 0:18:13]} 45. Kxc6+ {[%clk 0:17:49]} Kd8
+{[%clk 0:18:15]} 46. Rd3+ {[%clk 0:17:53]} Kc8 {[%clk 0:18:23]} 47. Bg7
+{[%clk 0:17:46]} Re8 {[%clk 0:18:29]} 48. Kd5 {[%clk 0:17:21]} Rd8+
+{[%clk 0:18:40]} 49. Kc4 0-1
+
+[Event "CN Feminino 2014/2015 SR"]
+[Site "Bornes de Aguiar POR"]
+[Date "2015.03.28"]
+[Round "2.10"]
+[White "Rodrigues, Lara"]
+[Black "Jambas, Martina"]
+[Result "1-0"]
+[ECO "C50"]
+[PlyCount "53"]
+[EventDate "2015.??.??"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. Bb5 Nf6 5. Nc3 O-O 6. Bxc6 bxc6 7. O-O Ba6 8.
+Re1 d6 9. d3 Rb8 10. Bg5 d5 11. exd5 cxd5 12. Bxf6 Qxf6 13. Nxe5 Bd6 14. Nxd5
+Bxe5 15. Nxf6+ Bxf6 16. Qd2 Rbd8 17. Qa5 c6 18. Qxa6 Rd6 19. Qxa7 Bxb2 20. Rab1
+Be5 21. Rxe5 Rdd8 22. Qe7 Rfe8 23. Qc5 Ra8 24. Rxe8+ Rxe8 25. Rb6 Ra8 26. Rxc6
+Rxa2 27. Rc8# 1-0
+
+[Event "CN Feminino 2014/2015 SR"]
+[Site "Bornes de Aguiar POR"]
+[Date "2015.03.28"]
+[Round "2.11"]
+[White "Monteiro, Lara"]
+[Black "Santos, Inês"]
+[Result "1-0"]
+[ECO "C23"]
+[Termination "illegal move"]
+[PlyCount "21"]
+[EventDate "2015.??.??"]
+
+1. e4 e5 2. Bc4 Bc5 3. Qh5 g6 4. Qg4 f5 5. Qf3 Nf6 6. Qb3 fxe4 7. Bf7+ Kf8 8.
+d3 e3 9. fxe3 Nc6 10. Bd2 Bb6 11. Bb4+ {d5} 1-0
+
+[Event "CN Feminino 2014/2015 SR"]
+[Site "Bornes de Aguiar POR"]
+[Date "2015.03.28"]
+[Round "3.1"]
+[White "Coimbra, Margarida"]
+[Black "Silva, Mariana"]
+[Result "1/2-1/2"]
+[ECO "B22"]
+[WhiteElo "2097"]
+[BlackElo "1579"]
+[PlyCount "105"]
+[EventDate "2015.??.??"]
+
+1. e4 c5 2. c3 d5 3. exd5 Nf6 4. c4 e6 5. dxe6 Bxe6 6. Nf3 Nc6 7. Nc3 Be7 8.
+Be2 h6 9. O-O O-O 10. d3 Qd7 11. Bf4 a6 12. Ne5 Nxe5 13. Bxe5 Rad8 14. Ne4 Ng4
+15. Bc3 f5 16. Ng3 Nf6 17. Qc2 b5 18. b3 Ne8 19. Rad1 b4 20. Bb2 Bf6 21. Bxf6
+Nxf6 22. Rfe1 Rfe8 23. Bf1 Qd4 24. Ne2 Qg4 25. h3 Qh4 26. Qc1 Bf7 27. Qf4 Qh5
+28. Ng3 Qg6 29. Qxf5 Qxf5 30. Nxf5 Rxe1 31. Rxe1 Kh7 32. Ng3 Bg6 33. Re3 Rd7
+34. f3 a5 35. Ne4 Nxe4 36. fxe4 Re7 37. Be2 Kg8 38. Bg4 Kf8 39. Rf3+ Ke8 40.
+Rf4 Re5 41. Bf5 Bf7 42. h4 g6 43. Bg4 Ke7 44. Kf2 g5 45. hxg5 hxg5 46. Rf5
+Rxf5+ 47. Bxf5 Kd6 48. Ke3 Ke5 49. Bd7 Bh5 50. g4 Bg6 51. Bf5 Bf7 52. Bh7 Be8
+53. Bf5 1/2-1/2
+
+[Event "CN Feminino 2014/2015 SR"]
+[Site "Bornes de Aguiar POR"]
+[Date "2015.03.28"]
+[Round "3.2"]
+[White "Silva, Madalena"]
+[Black "Oliveira, Maria Inês"]
+[Result "0-1"]
+[ECO "E20"]
+[WhiteElo "1553"]
+[BlackElo "1929"]
+[PlyCount "88"]
+[EventDate "2015.??.??"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Bd2 O-O 5. Nf3 b6 6. e3 Bb7 7. Be2 d6 8. O-O
+Bxc3 9. Bxc3 Ne4 10. Qc2 Nd7 11. Rfd1 f5 12. d5 e5 13. Bd3 Nxc3 14. Qxc3 e4 15.
+Nd4 exd3 16. Ne6 Qe7 17. Rxd3 Nc5 18. Nxc5 dxc5 19. Rad1 Rad8 20. a3 a5 21. Rb1
+Qf6 22. Qd2 Ba6 23. b3 Rf7 24. h3 Rfd7 25. Re1 c6 26. Rd1 cxd5 27. Rxd5 Rxd5
+28. cxd5 Rd6 29. b4 axb4 30. axb4 c4 31. Qa2 b5 32. f3 h6 33. g4 fxg4 34. fxg4
+Qf3 35. Rf1 Qg3+ 36. Kh1 Qxh3+ 37. Kg1 Qxe3+ 38. Rf2 Rf6 39. d6 Qxf2+ 40. Qxf2
+Rxf2 41. Kxf2 Bc8 42. Ke3 Kf7 43. Kd4 Ke6 44. Kc5 c3 0-1
+
+[Event "CN Feminino 2014/2015 SR"]
+[Site "Bornes de Aguiar POR"]
+[Date "2015.03.28"]
+[Round "3.3"]
+[White "Meireles, Ana"]
+[Black "Oliveira, Maria Alice"]
+[Result "1-0"]
+[ECO "C90"]
+[WhiteElo "1714"]
+[BlackElo "1528"]
+[PlyCount "117"]
+[EventDate "2015.??.??"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3
+O-O 9. d3 Na5 10. Bc2 c5 11. Nbd2 Nc6 12. Nf1 d5 13. exd5 Qxd5 14. d4 exd4 15.
+cxd4 Bb7 16. Ne3 Qd7 17. d5 Nb4 18. Nf5 Rfe8 19. d6 Bf8 20. Ne5 Rxe5 21. Rxe5
+Nxc2 22. Qxc2 Be4 23. Rxe4 Qxf5 24. Re2 Qxc2 25. Rxc2 Bxd6 26. Bg5 Ne4 27. Be3
+c4 28. Re1 Rd8 29. Bb6 Re8 30. f3 Nf6 31. Rxe8+ Nxe8 32. Re2 Kf8 33. h3 Nc7 34.
+Kf2 f6 35. Rd2 Ke7 36. Bxc7 Bxc7 37. Ke3 Ke6 38. Ke4 Be5 39. f4 Bc7 40. g4 Ba5
+41. Rd1 Bc7 42. Rc1 Bd6 43. a4 Bb4 44. axb5 axb5 45. Ra1 c3 46. Ra6+ Kf7 47.
+bxc3 Bxc3 48. Ra7+ Kg6 49. f5+ Kh6 50. Kd5 g6 51. Ke6 b4 52. Rb7 gxf5 53. Kxf5
+Be5 54. Rxb4 Kg7 55. Rb7+ Kg8 56. g5 Bc3 57. gxf6 Ba1 58. Ke6 Bd4 59. Rb8# 1-0
+
+[Event "CN Feminino 2014/2015 SR"]
+[Site "Bornes de Aguiar POR"]
+[Date "2015.03.28"]
+[Round "3.4"]
+[White "Nogueira, Diana"]
+[Black "Monteiro, Lara"]
+[Result "1-0"]
+[ECO "C47"]
+[WhiteElo "1507"]
+[PlyCount "51"]
+[EventDate "2015.??.??"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Nc3 d6 5. h3 Be6 6. Bb3 Rc8 7. d3 Be7 8. Nd5
+Bxd5 9. exd5 Na5 10. Ba4+ Kf8 11. Be3 b6 12. c4 Nh5 13. Nxe5 dxe5 14. Qxh5 g6
+15. Qh6+ Kg8 16. f4 f6 17. fxe5 fxe5 18. Rf1 Bh4+ 19. Ke2 Bf6 20. Bg5 Bxg5 21.
+Rf8+ Qxf8 22. Qxg5 Rd8 23. Rf1 Qe8 24. Bxe8 Rxe8 25. Qf6 Rd8 26. Qf7# 1-0
+
+[Event "CN Feminino 2014/2015 SR"]
+[Site "Bornes de Aguiar POR"]
+[Date "2015.03.28"]
+[Round "3.5"]
+[White "Oliveira, Ana Júlia"]
+[Black "Silva, Ana Inês"]
+[Result "0-1"]
+[ECO "B02"]
+[BlackElo "1439"]
+[PlyCount "18"]
+[EventDate "2015.??.??"]
+
+1. e4 Nf6 2. Nc3 d5 3. d3 dxe4 4. dxe4 Qxd1+ 5. Kxd1 e5 6. Bb5+ Bd7 7. Bxd7+
+Nbxd7 8. Nb5 O-O-O 9. Bg5 Nc5+ 0-1
+
+[Event "CN Feminino 2014/2015 SR"]
+[Site "Bornes de Aguiar POR"]
+[Date "2015.03.28"]
+[Round "3.6"]
+[White "Ribeiro, Ana Beatriz"]
+[Black "Pimpão, Maria Leonor"]
+[Result "1-0"]
+[ECO "C50"]
+[WhiteElo "1423"]
+[PlyCount "49"]
+[EventDate "2015.??.??"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bb4 4. c3 Ba5 5. a4 Nf6 6. d3 O-O 7. b4 Bb6 8. a5
+Be3 9. Bxe3 Nxb4 10. cxb4 Re8 11. Qb3 Kh8 12. O-O Rg8 13. Nxe5 Qf8 14. Nxf7+
+Qxf7 15. Bxf7 Rf8 16. Nd2 c5 17. Bxc5 Re8 18. Bxe8 Nxe8 19. Qf7 h5 20. Qxh5+
+Kg8 21. Qxe8+ Kh7 22. Qh5+ Kg8 23. Bd4 b5 24. Qg6 Ba6 25. Qxg7# 1-0
+
+[Event "CN Feminino 2014/2015 SR"]
+[Site "Bornes de Aguiar POR"]
+[Date "2015.03.28"]
+[Round "3.7"]
+[White "Santos, Patrícia"]
+[Black "Oliveira, Maria Elisa"]
+[Result "0-1"]
+[ECO "C20"]
+[BlackElo "1131"]
+[Termination "illegal move"]
+[PlyCount "40"]
+[EventDate "2015.??.??"]
+
+1. e4 e5 2. Qh5 Nf6 3. Qf3 Nc6 4. Bc4 Bc5 5. Nc3 Nd4 6. Qd3 O-O 7. Na4 d6 8. b3
+Bg4 9. Qg3 Nxc2+ 10. Kf1 Qd7 11. h3 Nxa1 12. f3 Bh5 13. Bb2 Nc2 14. Bd3 Nd4 15.
+f4 Bd1 16. Ke1 Bc2 17. fxe5 Bxd3 18. Nf3 Nxe4 19. Qh4 Qf5 20. exd6 Nxf3+ {dxc7}
+0-1
+
+[Event "CN Feminino 2014/2015 SR"]
+[Site "Bornes de Aguiar POR"]
+[Date "2015.03.28"]
+[Round "3.8"]
+[White "Basto, Joana"]
+[Black "Rodrigues, Lara"]
+[Result "0-1"]
+[LiveChessVersion "1.4.5"]
+[ECO "C26"]
+
+1. e4 {[%clk 0:15:19]} e5 {[%clk 0:15:19]} 2. Nc3 {[%clk 0:15:25]} Nf6
+{[%clk 0:15:26]} 3. Nd5 {[%clk 0:15:34]} Nxd5 {[%clk 0:15:33]} 4. exd5
+{[%clk 0:15:41]} Qg5 {[%clk 0:15:37]} 5. Qf3 {[%clk 0:15:46]} Bb4
+{[%clk 0:15:42]} 6. Bc4 {[%clk 0:15:52]} Qxd2+ {[%clk 0:15:43]} 7. Bxd2
+{[%clk 0:16:00]} Bxd2+ {[%clk 0:15:51]} 8. Kxd2 {[%clk 0:16:08]} O-O
+{[%clk 0:15:57]} 9. Bd3 {[%clk 0:16:15]} d6 {[%clk 0:15:59]} 10. Qh3
+{[%clk 0:16:23]} Bxh3 {[%clk 0:16:06]} 11. gxh3 {[%clk 0:16:33]} Nd7
+{[%clk 0:16:12]} 12. Nf3 {[%clk 0:16:38]} Nc5 {[%clk 0:16:20]} 13. Bc4
+{[%clk 0:16:45]} e4 {[%clk 0:16:27]} 14. Nh4 {[%clk 0:16:51]} Rae8
+{[%clk 0:16:33]} 15. Rhg1 {[%clk 0:16:56]} Re5 {[%clk 0:16:24]} 16. f3
+{[%clk 0:17:03]} exf3 {[%clk 0:16:22]} 17. Bd3 {[%clk 0:17:12]} Nxd3
+{[%clk 0:16:30]} 18. cxd3 {[%clk 0:17:20]} f2 {[%clk 0:16:34]} 19. Rgf1
+{[%clk 0:17:29]} Re6 {[%clk 0:16:14]} 20. Rac1 {[%clk 0:17:31]} Rf6
+{[%clk 0:16:21]} 21. Rxf2 {[%clk 0:17:31]} c6 {[%clk 0:16:21]} 22. dxc6
+{[%clk 0:17:36]} bxc6 {[%clk 0:16:29]} 23. Rxc6 {[%clk 0:17:42]} Re8
+{[%clk 0:16:30]} 24. Ra6 {[%clk 0:17:42]} h6 {[%clk 0:16:37]} 25. Rxa7
+{[%clk 0:17:46]} Rf8 {[%clk 0:16:33]} 0-1
+
+[Event "CN Feminino 2014/2015 SR"]
+[Site "Bornes de Aguiar POR"]
+[Date "2015.03.28"]
+[Round "3.9"]
+[White "Fernandes, Cristina"]
+[Black "Sousa, Marta"]
+[Result "1-0"]
+[ECO "A00"]
+[Termination "illegal move"]
+[PlyCount "55"]
+[EventDate "2015.??.??"]
+
+1. e3 e5 2. Nf3 Nc6 3. Nc3 Bc5 4. g3 Nf6 5. Bg2 O-O 6. O-O h6 7. h3 d6 8. Qe2
+Bf5 9. Na4 b6 10. Qa6 Nb8 11. Qb7 Be4 12. Qxa8 Bxa8 13. b3 a6 14. d4 Bb4 15.
+dxe5 dxe5 16. Nxe5 b5 17. Nb2 a5 18. Nbd3 a4 19. Nxb4 Nc6 20. Nexc6 Qc8 21. Ba3
+Ne4 22. Bxe4 Re8 23. Bf3 Re6 24. Na7 Qb8 25. Nac6 Rxc6 26. Nxc6 Bxc6 27. Bxc6
+f6 28. Bd5+ {Qc8} 1-0
+
+[Event "CN Feminino 2014/2015 SR"]
+[Site "Bornes de Aguiar POR"]
+[Date "2015.03.28"]
+[Round "3.10"]
+[White "Jambas, Martina"]
+[Black "Cerdeira, Virginia"]
+[Result "1-0"]
+[ECO "C40"]
+[PlyCount "69"]
+[EventDate "2015.??.??"]
+
+1. e4 e5 2. Nf3 Bb4 3. Bc4 Nf6 4. O-O Bc5 5. Nc3 Nh5 6. d3 Nc6 7. Bg5 Qxg5 8.
+Nxg5 f6 9. Nf3 Rb8 10. Na4 Ba3 11. bxa3 g6 12. c3 f5 13. exf5 gxf5 14. d4 exd4
+15. cxd4 Nxd4 16. Nxd4 f4 17. Qxh5+ Kf8 18. Qh6+ Ke8 19. Qf6 Rg8 20. Qe5+ Kd8
+21. Bxg8 d6 22. Qf6+ Ke8 23. Bxh7 Bg4 24. Rae1+ Be6 25. Qxe6+ Kd8 26. Re4 f3
+27. gxf3 Rc8 28. Qg4 Rb8 29. Rf4 Ke7 30. Qg5+ Kd7 31. Rf6 Kc8 32. Bf5+ Kd8 33.
+Qg7 Ke8 34. Rh6 Kd8 35. Rh8# 1-0
+
+[Event "CN Feminino 2014/2015 SR"]
+[Site "Bornes de Aguiar POR"]
+[Date "2015.03.28"]
+[Round "3.11"]
+[White "Santos, Inês"]
+[Black "Gomes, Sara"]
+[Result "0-1"]
+[ECO "C26"]
+[PlyCount "58"]
+[EventDate "2015.??.??"]
+
+1. e4 e5 2. Bc4 Nf6 3. Nc3 d6 4. d3 Nc6 5. Nf3 Be7 6. Nh4 O-O 7. Nf3 h6 8. O-O
+Bg4 9. Be3 Rc8 10. Bc1 Qd7 11. Re1 Nxe4 12. dxe4 Nb4 13. Re3 d5 14. exd5 Nxd5
+15. Rd3 Bh4 16. Bxd5 Bf6 17. Rd4 exd4 18. Nb5 Qxd5 19. Nbxd4 Bxf3 20. Qd3 Be4
+21. Qd2 Qd6 22. Qe3 Qe5 23. Ne2 Bg5 24. Qa3 Rfe8 25. Bxg5 hxg5 26. Rd1 g4 27.
+Ng3 Bc6 28. Qe3 Qd5 29. Qd3 Qxg2# 0-1
+
+[Event "CN Feminino 2014/2015 SR"]
+[Site "Bornes de Aguiar POR"]
+[Date "2015.03.28"]
+[Round "4.1"]
+[White "Oliveira, Maria Inês"]
+[Black "Meireles, Ana"]
+[Result "0-1"]
+[ECO "C02"]
+[WhiteElo "1929"]
+[BlackElo "1714"]
+[PlyCount "124"]
+[EventDate "2015.??.??"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. Nf3 Nc6 5. Bd3 Qb6 6. O-O cxd4 7. Bf4 Bd7 8. Nbd2
+Nge7 9. Bg3 Nb4 10. Nb3 Nxd3 11. cxd3 Nf5 12. Qd2 Be7 13. Qf4 O-O 14. Rac1 Bb5
+15. Qd2 Qa6 16. Rfd1 Qb6 17. Rf1 a5 18. Bf4 a4 19. Na1 a3 20. b3 Rfc8 21. Rc2
+Qa6 22. Rd1 Bd8 23. b4 Ba4 24. Rxc8 Rxc8 25. Rb1 Rc3 26. Ne1 Be7 27. Qe2 Bb5
+28. Rd1 Bxb4 29. Nac2 Be7 30. g4 Nh4 31. Nxd4 Ba4 32. Rb1 Bc5 33. Bg3 Ng6 34.
+Ndf3 Ba7 35. h4 Ne7 36. Bf4 Qc6 37. Bd2 Rc5 38. Nd4 Qc7 39. Bb4 Rc1 40. Rxc1
+Qxc1 41. Nxe6 Nc6 42. Ng5 h6 43. Ngf3 Nxb4 44. e6 Qc7 45. e7 Be8 46. Ng2 Nc6
+47. g5 Qxe7 48. Qd2 hxg5 49. Nxg5 Qe5 50. Qd1 Qf5 51. Qh5 Bxf2+ 52. Kh1 Bg3 53.
+Qe2 Bd7 54. Ne3 Qe5 55. Qf3 Be6 56. Ng2 Nd4 57. Qh5 Kf8 58. Qh8+ Ke7 59. Nh7
+Qf5 60. Qf8+ Kd7 61. Ne3 Qf3+ 62. Kg1 Qf2+ 0-1
+
+[Event "CN Feminino 2014/2015 SR"]
+[Site "Bornes de Aguiar POR"]
+[Date "2015.03.28"]
+[Round "4.2"]
+[White "Oliveira, Maria Alice"]
+[Black "Coimbra, Margarida"]
+[Result "0-1"]
+[ECO "C77"]
+[WhiteElo "1528"]
+[BlackElo "2097"]
+[PlyCount "56"]
+[EventDate "2015.??.??"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. d3 b5 6. Bb3 Bc5 7. c3 d6 8. O-O h6
+9. Re1 O-O 10. Nbd2 Bb6 11. Nf1 Be6 12. Bc2 Ne7 13. Ng3 Ng6 14. d4 c5 15. d5
+Bd7 16. Nf5 Bxf5 17. exf5 Ne7 18. a4 Nexd5 19. h3 c4 20. Kf1 Qc7 21. Be4 Qc5
+22. Be3 Nxe3+ 23. Rxe3 Nxe4 24. Qc2 Nxf2 25. Qxf2 Qxe3 26. Qg3 Qd3+ 27. Ke1
+Qxf5 28. Kf1 Qd3+ 0-1
+
+[Event "CN Feminino 2014/2015 SR"]
+[Site "Bornes de Aguiar POR"]
+[Date "2015.03.28"]
+[Round "4.3"]
+[White "Silva, Mariana"]
+[Black "Silva, Madalena"]
+[Result "1-0"]
+[ECO "B23"]
+[WhiteElo "1579"]
+[BlackElo "1553"]
+[PlyCount "66"]
+[EventDate "2015.??.??"]
+
+1. e4 c5 2. Nc3 d6 3. g3 Nc6 4. Bg2 Nf6 5. d3 g6 6. f4 Bg7 7. Nf3 O-O 8. O-O
+Bd7 9. h3 a6 10. Be3 Rb8 11. Qd2 b5 12. g4 h6 13. f5 Kh7 14. g5 Nh5 15. gxh6
+Bf6 16. fxg6+ fxg6 17. Ng5+ Bxg5 18. Bxg5 Qc8 19. Kh2 Be6 20. Rxf8 Qxf8 21. Rf1
+Qe8 22. Nd5 Bxd5 23. exd5 Ne5 24. Qf2 Rc8 25. Be4 Rc7 26. Qh4 Nf6 27. Bxf6 exf6
+28. Rxf6 Rf7 29. Qg5 Qg8 30. Kg2 Rxf6 31. Qxf6 Kxh6 32. Qxd6 Qg7 33. Qxa6 c4
+1-0
+
+[Event "CN Feminino 2014/2015 SR"]
+[Site "Bornes de Aguiar POR"]
+[Date "2015.03.28"]
+[Round "4.4"]
+[White "Rodrigues, Lara"]
+[Black "Nogueira, Diana"]
+[Result "0-1"]
+[ECO "C50"]
+[BlackElo "1507"]
+[PlyCount "84"]
+[EventDate "2015.??.??"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Be7 4. Nc3 Nf6 5. O-O O-O 6. d3 h6 7. a3 d6 8. Be3
+Ng4 9. Bd2 Nf6 10. Bb5 Bd7 11. Qe2 a6 12. Bc4 Na5 13. Nd5 Nxc4 14. Nxf6+ Bxf6
+15. Bb4 Nb6 16. d4 exd4 17. Qd3 c5 18. Ba5 Bb5 19. Qb3 Bxf1 20. Rxf1 c4 21. Qb4
+Rc8 22. Bxb6 Qd7 23. Qxc4 Rxc4 24. b3 Rxc2 25. Ne1 Rc1 26. Ba5 Qb5 27. h3 Qxf1+
+28. Kxf1 Rxe1+ 29. Bxe1 Rc8 30. b4 Rc2 31. a4 d3 32. a5 d2 33. Bxd2 Rxd2 34. g4
+Bc3 35. Kg2 Bd4 36. Kf3 Rxf2+ 37. Kg3 Rf6 38. Kh4 Bf2+ 39. Kh5 Kh7 40. g5 Rf4
+41. gxh6 f6 42. hxg7 Rh4# 0-1
+
+[Event "CN Feminino 2014/2015 SR"]
+[Site "Bornes de Aguiar POR"]
+[Date "2015.03.28"]
+[Round "4.5"]
+[White "Silva, Ana Inês"]
+[Black "Fernandes, Cristina"]
+[Result "1-0"]
+[ECO "C00"]
+[WhiteElo "1439"]
+[PlyCount "35"]
+[EventDate "2015.??.??"]
+
+1. e4 e6 2. d4 Nc6 3. Nf3 Nf6 4. Nc3 Bb4 5. Bd3 O-O 6. O-O b6 7. e5 Ne8 8.
+Bxh7+ Kxh7 9. Ng5+ Kg8 10. Qh5 Qxg5 11. Qxg5 f6 12. exf6 Nxf6 13. a3 Bxc3 14.
+bxc3 Na5 15. Qg3 d6 16. Re1 Nc4 17. Bh6 e5 18. Qxg7# 1-0
+
+[Event "CN Feminino 2014/2015 SR"]
+[Site "Bornes de Aguiar POR"]
+[Date "2015.03.28"]
+[Round "4.6"]
+[White "Oliveira, Maria Elisa"]
+[Black "Ribeiro, Ana Beatriz"]
+[Result "0-1"]
+[ECO "C01"]
+[WhiteElo "1131"]
+[BlackElo "1423"]
+[PlyCount "50"]
+[EventDate "2015.??.??"]
+
+1. e4 e6 2. d4 d5 3. exd5 exd5 4. Nf3 Bd6 5. Bd3 c6 6. O-O Ne7 7. Nc3 f6 8. Be3
+Be6 9. Re1 Bf7 10. Qd2 O-O 11. Rad1 Nd7 12. a3 Re8 13. Nh4 Ng6 14. Nf5 Bc7 15.
+f4 Re6 16. Rf1 Ndf8 17. Rf3 Qd7 18. Rg3 Ne7 19. Nh6+ Kh8 20. Nxf7+ Kg8 21. Nh6+
+Kh8 22. Nf5 Nfg6 23. Qe2 Nxf4 24. Bxf4 Rxe2 25. Bxe2 Nxf5 0-1
+
+[Event "CN Feminino 2014/2015 SR"]
+[Site "Bornes de Aguiar POR"]
+[Date "2015.03.28"]
+[Round "4.7"]
+[White "Pimpão, Maria Leonor"]
+[Black "Basto, Joana"]
+[Result "1-0"]
+[LiveChessVersion "1.4.5"]
+[ECO "C20"]
+
+1. e4 {[%clk 0:15:18]} e5 {[%clk 0:15:18]} 2. Qh5 {[%clk 0:15:23]} Qf6
+{[%clk 0:15:27]} 3. Bb5 {[%clk 0:15:28]} Bc5 {[%clk 0:15:33]} 4. Nf3
+{[%clk 0:15:35]} Nh6 {[%clk 0:15:35]} 5. Nxe5 Qxf2+ 6. Kd1 Qxg2 7. Re1
+{[%clk 0:15:19]} Ng4 {[%clk 0:15:39]} 8. h3 {[%clk 0:15:26]} Ne3+
+{[%clk 0:15:45]} 9. dxe3 {[%clk 0:15:34]} O-O {[%clk 0:15:38]} 10. Nxf7 d6 11.
+Nxd6 Bxh3 12. Nxb7 {[%clk 0:15:00]} g6 {[%clk 0:15:39]} 13. Qd5+ {[%clk 0:15:00]}
+1-0
+
+[Event "CN Feminino 2014/2015 SR"]
+[Site "Bornes de Aguiar POR"]
+[Date "2015.03.28"]
+[Round "4.8"]
+[White "Gomes, Sara"]
+[Black "Pimpão, Maria Inês"]
+[Result "1-0"]
+[ECO "C42"]
+[Termination "illegal move"]
+[PlyCount "43"]
+[EventDate "2015.??.??"]
+
+1. e4 e5 2. Nf3 Nf6 3. d3 Bb4+ 4. c3 Bc5 5. d4 Bb6 6. dxe5 Ba5 7. b4 Bb6 8.
+exf6 Qxf6 9. Bb5 Qxc3+ 10. Nfd2 Qd4 11. Qg4 Kf8 12. Nf3 Qxe4+ 13. Qxe4 c5 14.
+bxc5 Ba5+ 15. Nfd2 g5 16. O-O Rg8 17. f4 g4 18. h3 gxh3 19. Re1 h2+ 20. Kh1 Rh8
+21. Ba3 h5 22. c6+ {bxc6} 1-0
+
+[Event "CN Feminino 2014/2015 SR"]
+[Site "Bornes de Aguiar POR"]
+[Date "2015.03.28"]
+[Round "4.9"]
+[White "Sousa, Marta"]
+[Black "Jambas, Martina"]
+[Result "1-0"]
+[ECO "C50"]
+[Termination "illegal move"]
+[PlyCount "29"]
+[EventDate "2015.??.??"]
+
+1. e4 e5 2. Bc4 Bc5 3. Nf3 Nc6 4. O-O Nf6 5. h3 O-O 6. Nc3 b6 7. d3 d6 8. Bg5
+d5 9. exd5 Na5 10. Bb5 a6 11. Bc6 Nxc6 12. dxc6 Rb8 13. d4 exd4 14. Nd5 a5 15.
+Nxf6+ {Ba6} 1-0
+
+[Event "CN Feminino 2014/2015 SR"]
+[Site "Bornes de Aguiar POR"]
+[Date "2015.03.28"]
+[Round "4.10"]
+[White "Monteiro, Lara"]
+[Black "Santos, Patrícia"]
+[Result "1-0"]
+[LiveChessVersion "1.4.5"]
+[ECO "C23"]
+
+1. e4 {[%clk 0:15:19]} e5 {[%clk 0:15:20]} 2. Bc4 {[%clk 0:15:26]} Bc5
+{[%clk 0:15:26]} 3. Qh5 {[%clk 0:15:33]} Qe7 {[%clk 0:15:32]} 4. Nf3
+{[%clk 0:15:41]} Nf6 {[%clk 0:15:34]} 5. Qf5 {[%clk 0:15:45]} g6 {[%clk 0:15:40]}
+6. Qh3 {[%clk 0:15:53]} Nh5 {[%clk 0:15:41]} 7. Nh4 {[%clk 0:15:59]} Qd6
+{[%clk 0:15:45]} 8. O-O {[%clk 0:16:04]} Nf4 {[%clk 0:15:45]} 9. Qf3 Nh5
+{[%clk 0:15:50]} 10. d3 {[%clk 0:16:06]} O-O {[%clk 0:15:43]} 11. Bh6
+{[%clk 0:15:59]} Re8 {[%clk 0:15:35]} 12. Re1 {[%clk 0:15:54]} Re6
+{[%clk 0:15:37]} 13. Re2 {[%clk 0:15:35]} g5 {[%clk 0:15:42]} 14. Bxg5
+{[%clk 0:15:41]} Re8 {[%clk 0:15:40]} 15. Bxf7+ {[%clk 0:15:38]} 1-0
+
+[Event "CN Feminino 2014/2015 SR"]
+[Site "Bornes de Aguiar POR"]
+[Date "2015.03.28"]
+[Round "5.1"]
+[White "Meireles, Ana"]
+[Black "Silva, Mariana"]
+[Result "1-0"]
+[ECO "B31"]
+[WhiteElo "1714"]
+[BlackElo "1579"]
+[PlyCount "153"]
+[EventDate "2015.??.??"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 g6 4. O-O Bg7 5. c3 d5 6. Bxc6+ bxc6 7. d3 Nf6 8.
+Qe2 e6 9. Be3 Nd7 10. Bg5 Qb6 11. Na3 O-O 12. Rab1 Ba6 13. c4 h6 14. Be7 Rfe8
+15. Bd6 dxe4 16. dxe4 e5 17. Rfd1 Rad8 18. Qe3 Kh7 19. Rd2 Bf8 20. Rbd1 Bxd6
+21. Rxd6 Bc8 22. Qc3 a5 23. h3 Qc7 24. Nc2 Kg7 25. Ne3 a4 26. Nxe5 Rxe5 27. f4
+Rde8 28. fxe5 Nxe5 29. b3 axb3 30. Qxb3 Ba6 31. Qc3 Kh7 32. R6d2 Rb8 33. Qa3
+Qb6 34. Qc3 Re8 35. Rb2 Qc7 36. a4 Nd7 37. Ng4 Re6 38. Qf3 Ne5 39. Nxe5 Rxe5
+40. Qd3 Qe7 41. Rb8 Rxe4 42. Qc3 Qe5 43. Qxe5 Rxe5 44. Rd7 Bxc4 45. a5 Re1+ 46.
+Kf2 Ra1 47. Ra8 Kg7 48. Rc7 Bb5 49. Raa7 Bc4 50. Rxc6 Ra2+ 51. Ke3 Rxg2 52.
+Rxc5 Be6 53. Kf3 Ra2 54. Kg3 Ra3+ 55. Kf4 Bxh3 56. Re5 Ra4+ 57. Kg3 Bf1 58.
+Ree7 Bc4 59. Re4 Ra3+ 60. Kf4 Bf1 61. Ke5 h5 62. Rf4 Re3+ 63. Kd4 Rd3+ 64. Kc5
+Rc3+ 65. Kb4 Rc1 66. Raxf7+ Kh6 67. Rxf1 Rc6 68. R1f6 Rc1 69. a6 Rb1+ 70. Kc3
+h4 71. a7 Ra1 72. Rf2 Kh5 73. Kb3 Ra6 74. Ra2 Rb6+ 75. Kc4 h3 76. a8=Q Kh4 77.
+Qe4+ 1-0
+
+[Event "CN Feminino 2014/2015 SR"]
+[Site "Bornes de Aguiar POR"]
+[Date "2015.03.28"]
+[Round "5.2"]
+[White "Coimbra, Margarida"]
+[Black "Oliveira, Maria Inês"]
+[Result "1/2-1/2"]
+[ECO "B22"]
+[WhiteElo "2097"]
+[BlackElo "1929"]
+[PlyCount "71"]
+[EventDate "2015.??.??"]
+
+1. e4 c5 2. c3 Nf6 3. e5 Nd5 4. d4 cxd4 5. Nf3 e6 6. cxd4 d6 7. Bc4 Nc6 8. O-O
+Be7 9. Bd2 O-O 10. Nc3 dxe5 11. dxe5 Nxc3 12. Bxc3 b6 13. Qe2 Bb7 14. Rfd1 Qe8
+15. Bd3 Rd8 16. Qe4 g6 17. Qe2 Bb4 18. Bxb4 Nxb4 19. Be4 Bxe4 20. Qxe4 Qe7 21.
+a3 Nd5 22. Nd4 Rc8 23. Rac1 Qg5 24. Rxc8 Rxc8 25. Nf3 Rc1 26. Qe1 Rxd1 27. Qxd1
+Qg4 28. h3 Qc4 29. Qd4 Qc1+ 30. Kh2 Kg7 31. g3 h6 32. Kg2 Qc2 33. Qd2 Qc4 34.
+Qd4 Qc2 35. Qd2 Qc4 36. Qd4 1/2-1/2
+
+[Event "CN Feminino 2014/2015 SR"]
+[Site "Bornes de Aguiar POR"]
+[Date "2015.03.28"]
+[Round "5.3"]
+[White "Nogueira, Diana"]
+[Black "Silva, Ana Inês"]
+[Result "0-1"]
+[ECO "B03"]
+[WhiteElo "1507"]
+[BlackElo "1439"]
+[PlyCount "112"]
+[EventDate "2015.??.??"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. c4 Nb6 5. exd6 exd6 6. Nf3 Bg4 7. Bd3 Nc6 8.
+Be3 Be7 9. O-O O-O 10. h3 Bh5 11. Be2 Bxf3 12. Bxf3 Nxc4 13. Qb3 Nxe3 14. fxe3
+Rb8 15. Qa4 d5 16. Qb5 Bg5 17. Re1 Ne7 18. Nc3 c6 19. Qd3 Qc7 20. Rac1 Bh4 21.
+Re2 Ng6 22. Nxd5 Qg3 23. Nc3 Rfe8 24. Ne4 Qc7 25. Rf1 Rbd8 26. Qc4 Rd7 27. Bg4
+Rxe4 28. Bxd7 Qxd7 29. Rf3 Bg5 30. Qc5 Qe7 31. Qxa7 Bxe3+ 32. Kh1 Bxd4 33. Qb8+
+Nf8 34. Rxe4 Qxe4 35. Qf4 Qxf4 36. Rxf4 Ne6 37. Re4 Kf8 38. g3 b6 39. b3 Ke7
+40. Kg2 Kd6 41. h4 f5 42. Re2 f4 43. Kf3 fxg3 44. Kxg3 Be5+ 45. Kg4 Nd4 46. Rd2
+Ke6 47. b4 Nb5 48. Rc2 Kd5 49. a4 Nc3 50. a5 bxa5 51. bxa5 Kc5 52. Kf5 Bf6 53.
+Rb2 Nb5 54. Rb1 Bxh4 55. a6 Kb6 56. Rxb5+ cxb5 0-1
+
+[Event "CN Feminino 2014/2015 SR"]
+[Site "Bornes de Aguiar POR"]
+[Date "2015.03.28"]
+[Round "5.4"]
+[White "Ribeiro, Ana Beatriz"]
+[Black "Gomes, Sara"]
+[Result "1-0"]
+[ECO "C50"]
+[WhiteElo "1423"]
+[PlyCount "93"]
+[EventDate "2015.??.??"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. Bb3 d6 5. c3 Bg4 6. h3 Bh5 7. d3 Nf6 8. Nbd2
+O-O 9. Nf1 h6 10. g4 Bg6 11. Ng3 Rc8 12. Nh4 Bb6 13. Nhf5 Bxf5 14. gxf5 g6 15.
+Bxh6 Kh8 16. Bxf8 Qxf8 17. fxg6 fxg6 18. Qd2 Na5 19. Bc2 c6 20. O-O-O d5 21.
+exd5 cxd5 22. f4 exf4 23. Qxf4 Qg8 24. Qxf6+ Qg7 25. Qxg7+ Kxg7 26. Rde1 Bc7
+27. Ne2 Re8 28. Nd4 Rf8 29. Ne6+ Kf7 30. Rhf1+ Ke8 31. Nxc7+ Kd7 32. Rxf8 Kxc7
+33. Re7+ Kd6 34. Re1 g5 35. Rg8 Kc5 36. Rxg5 Kd6 37. h4 Nc6 38. Rg6+ Kc5 39.
+Rxc6+ Kxc6 40. h5 d4 41. c4 Kc5 42. h6 b5 43. cxb5 Kxb5 44. h7 a5 45. h8=Q a4
+46. Re5+ Kb4 47. Qb8# 1-0
+
+[Event "CN Feminino 2014/2015 SR"]
+[Site "Bornes de Aguiar POR"]
+[Date "2015.03.28"]
+[Round "5.5"]
+[White "Silva, Madalena"]
+[Black "Pimpão, Maria Leonor"]
+[Result "1-0"]
+[ECO "E00"]
+[WhiteElo "1553"]
+[PlyCount "25"]
+[EventDate "2015.??.??"]
+
+1. d4 e6 2. c4 Bb4+ 3. Bd2 Bd6 4. Nf3 e5 5. dxe5 Bxe5 6. Nxe5 Qh4 7. Nf3 Nc6 8.
+Nxh4 Nf6 9. e3 Nb4 10. Bxb4 Ne4 11. Qd4 Ng3 12. Qe5+ Kd8 13. Qe7# 1-0
+
+[Event "CN Feminino 2014/2015 SR"]
+[Site "Bornes de Aguiar POR"]
+[Date "2015.03.28"]
+[Round "5.6"]
+[White "Monteiro, Lara"]
+[Black "Oliveira, Maria Alice"]
+[Result "0-1"]
+[ECO "C23"]
+[BlackElo "1528"]
+[PlyCount "38"]
+[EventDate "2015.??.??"]
+
+1. e4 e5 2. Bc4 Nc6 3. Qh5 g6 4. Qf3 Nf6 5. Nh3 Bg7 6. Nc3 O-O 7. O-O d6 8. g3
+Bxh3 9. Re1 Nd4 10. Qd3 Ng4 11. Kh1 Nxf2+ 12. Kg1 Nxd3 13. cxd3 Nf3+ 14. Kf2
+Nxe1 15. Kxe1 Qf6 16. Nb5 c6 17. Nc7 Rac8 18. Nd5 cxd5 19. Bxd5 Qf1# 0-1
+
+[Event "CN Feminino 2014/2015 SR"]
+[Site "Bornes de Aguiar POR"]
+[Date "2015.03.28"]
+[Round "5.7"]
+[White "Oliveira, Maria Elisa"]
+[Black "Sousa, Marta"]
+[Result "1-0"]
+[WhiteElo "1131"]
+[LiveChessVersion "1.4.5"]
+[ECO "C50"]
+
+1. e4 {[%clk 0:15:19]} e5 {[%clk 0:15:18]} 2. Nf3 {[%clk 0:15:27]} Nc6
+{[%clk 0:15:26]} 3. Bc4 {[%clk 0:15:35]} Nf6 {[%clk 0:15:35]} 4. d3
+{[%clk 0:15:39]} Bc5 {[%clk 0:15:44]} 5. O-O {[%clk 0:15:47]} O-O
+{[%clk 0:15:52]} 6. Bd2 {[%clk 0:15:51]} h6 {[%clk 0:16:00]} 7. c3
+{[%clk 0:15:59]} d6 {[%clk 0:16:07]} 8. Bc1 {[%clk 0:16:07]} Bg4 {[%clk 0:16:15]}
+9. Nbd2 {[%clk 0:16:15]} Nd4 {[%clk 0:16:20]} 10. cxd4 {[%clk 0:16:19]} Bxd4
+{[%clk 0:16:27]} 11. h3 {[%clk 0:16:24]} Bh5 {[%clk 0:16:35]} 12. Re1
+{[%clk 0:16:29]} c6 {[%clk 0:16:42]} 13. Nf1 {[%clk 0:16:36]} d5 {[%clk 0:16:51]}
+14. exd5 {[%clk 0:16:41]} cxd5 {[%clk 0:16:59]} 15. Bb3 {[%clk 0:16:46]} Rc8
+{[%clk 0:17:04]} 16. Be3 {[%clk 0:16:49]} Bxe3 {[%clk 0:17:10]} 17. Rxe3
+{[%clk 0:16:57]} d4 {[%clk 0:17:19]} 18. Rxe5 {[%clk 0:17:04]} Re8
+{[%clk 0:17:24]} 19. Rxe8+ {[%clk 0:17:08]} Nxe8 {[%clk 0:17:32]} 20. Ng3
+{[%clk 0:17:15]} a6 {[%clk 0:17:19]} 21. Nxh5 {[%clk 0:17:13]} a5
+{[%clk 0:17:21]} 22. Qe2 {[%clk 0:17:19]} b6 {[%clk 0:17:29]} 23. Qe5
+{[%clk 0:17:24]} 1-0
+
+[Event "CN Feminino 2014/2015 SR"]
+[Site "Bornes de Aguiar POR"]
+[Date "2015.03.28"]
+[Round "5.8"]
+[White "Fernandes, Cristina"]
+[Black "Rodrigues, Lara"]
+[Result "1-0"]
+[LiveChessVersion "1.4.5"]
+[ECO "A00"]
+
+1. e3 {[%clk 0:15:19]} e5 {[%clk 0:15:18]} 2. Nf3 {[%clk 0:15:28]} Nc6
+{[%clk 0:15:26]} 3. Nc3 {[%clk 0:15:37]} Bc5 {[%clk 0:15:32]} 4. g3
+{[%clk 0:15:46]} Nf6 {[%clk 0:15:40]} 5. Bg2 {[%clk 0:15:51]} O-O
+{[%clk 0:15:47]} 6. O-O {[%clk 0:15:58]} d6 {[%clk 0:15:53]} 7. Ng5
+{[%clk 0:15:47]} Bg4 {[%clk 0:16:01]} 8. Qe1 {[%clk 0:15:49]} Nh5
+{[%clk 0:16:04]} 9. Bd5 {[%clk 0:15:43]} h6 {[%clk 0:16:05]} 10. Nxf7
+{[%clk 0:15:50]} Qe7 {[%clk 0:16:09]} 11. Nd8+ 1-0
+
+[Event "CN Feminino 2014/2015 SR"]
+[Site "Bornes de Aguiar POR"]
+[Date "2015.03.28"]
+[Round "5.9"]
+[White "Pimpão, Maria Inês"]
+[Black "Basto, Joana"]
+[Result "1-0"]
+[LiveChessVersion "1.4.5"]
+[ECO "C20"]
+
+1. e4 {[%clk 0:15:16]} e5 {[%clk 0:15:19]} 2. Bb5 Qf6 {[%clk 0:15:25]} 3. Qe2
+{[%clk 0:15:25]} Bc5 {[%clk 0:15:32]} 4. Qd3 {[%clk 0:15:30]} Qxf2+
+{[%clk 0:15:36]} 5. Kd1 {[%clk 0:15:38]} 1-0
+
+[Event "CN Feminino 2014/2015 SR"]
+[Site "Bornes de Aguiar POR"]
+[Date "2015.03.28"]
+[Round "5.10"]
+[White "Cerdeira, Virginia"]
+[Black "Santos, Inês"]
+[Result "1-0"]
+[ECO "A40"]
+[Termination "illegal move"]
+[PlyCount "19"]
+[EventDate "2015.??.??"]
+
+1. d4 Nc6 2. Bg5 Nf6 3. e3 Na5 4. Nc3 Nc6 5. Bb5 e6 6. Nf3 g6 7. Bxf6 Qxf6 8.
+Ne5 Nxe5 9. dxe5 Qxe5 10. O-O {d6} 1-0
+
+[Event "CN Feminino 2014/2015 SR"]
+[Site "Bornes de Aguiar POR"]
+[Date "2015.03.28"]
+[Round "5.11"]
+[White "Santos, Patrícia"]
+[Black "Oliveira, Ana Júlia"]
+[Result "0-1"]
+[LiveChessVersion "1.4.5"]
+[ECO "C23"]
+
+1. e4 e5 2. Bc4 {[%clk 0:15:23]} f6 {[%clk 0:15:23]} 3. Qh5+ {[%clk 0:15:28]} Ke7
+{[%clk 0:15:24]} 4. d3 {[%clk 0:15:33]} g6 {[%clk 0:15:28]} 5. Qf3 Ke8 6. b3
+{[%clk 0:15:27]} Nc6 {[%clk 0:15:35]} 7. Nc3 {[%clk 0:15:32]} Na5
+{[%clk 0:15:42]} 8. Nd5 {[%clk 0:15:37]} Nxc4 {[%clk 0:15:47]} 9. bxc4
+{[%clk 0:15:45]} c6 {[%clk 0:15:52]} 10. Nxf6+ {[%clk 0:15:13]} Nxf6
+{[%clk 0:15:56]} 11. Qe2 {[%clk 0:15:13]} d6 {[%clk 0:15:56]} 12. f3
+{[%clk 0:15:20]} b5 {[%clk 0:15:58]} 13. cxb5 {[%clk 0:15:25]} cxb5 14. a3
+{[%clk 0:15:27]} Qa5+ {[%clk 0:16:15]} 15. Bd2 {[%clk 0:15:34]} Qd8
+{[%clk 0:16:23]} 16. Bb4 {[%clk 0:15:35]} h6 {[%clk 0:16:26]} 17. Qd2
+{[%clk 0:15:40]} h5 {[%clk 0:16:31]} 18. Ba5 {[%clk 0:15:45]} Qd7
+{[%clk 0:16:36]} 19. Rb1 {[%clk 0:15:34]} Rb8 {[%clk 0:16:43]} 20. Rxb5
+{[%clk 0:15:42]} Rxb5 {[%clk 0:16:51]} 21. Bc3 {[%clk 0:15:43]} Rb1+
+{[%clk 0:16:53]} 22. Ke2 {[%clk 0:15:51]} Rb6 {[%clk 0:17:00]} 23. Qe3
+{[%clk 0:15:31]} d5 24. Qd2 {[%clk 0:15:29]} dxe4 {[%clk 0:17:05]} 25. dxe4
+{[%clk 0:15:36]} Bh6 {[%clk 0:17:14]} 26. Nh3 {[%clk 0:15:43]} Bxd2
+{[%clk 0:17:20]} 27. Bxd2 {[%clk 0:15:51]} O-O {[%clk 0:17:20]} 28. Bh6 Re8 29.
+Rg1 {[%clk 0:15:37]} Qb7 {[%clk 0:17:25]} 30. g4 {[%clk 0:15:37]} hxg4
+{[%clk 0:17:31]} 31. fxg4 {[%clk 0:15:45]} Nxg4 {[%clk 0:17:40]} 32. Bg5
+{[%clk 0:15:51]} Rb1 {[%clk 0:17:38]} 33. Rxb1 {[%clk 0:15:58]} Qxb1
+{[%clk 0:17:46]} 34. Kd2 {[%clk 0:16:03]} Rd8+ {[%clk 0:17:49]} 35. Ke2 0-1
+
+[Event "CN Feminino 2014/2015 SR"]
+[Site "Bornes de Aguiar POR"]
+[Date "2015.03.28"]
+[Round "6.1"]
+[White "Coimbra, Margarida"]
+[Black "Meireles, Ana"]
+[Result "1/2-1/2"]
+[ECO "C10"]
+[WhiteElo "2097"]
+[BlackElo "1714"]
+[PlyCount "147"]
+[EventDate "2015.??.??"]
+
+1. e4 e6 2. d4 d5 3. Nd2 dxe4 4. Nxe4 Bd7 5. Nf3 Bc6 6. Bd3 Nd7 7. O-O Ngf6 8.
+Ng3 Bxf3 9. Qxf3 c6 10. Re1 Be7 11. c4 O-O 12. Bd2 Qb6 13. Bc3 Rfd8 14. a3 a5
+15. Rad1 a4 16. h4 Qc7 17. h5 h6 18. Bb1 Nf8 19. Ne4 Nxe4 20. Qxe4 Bf6 21. Bb4
+Be7 22. Bxe7 Qxe7 23. d5 Qf6 24. dxe6 Qxe6 25. Qh4 Rxd1 26. Rxd1 Qe2 27. Qd4
+Qxh5 28. Re1 Qg5 29. Qe4 Rd8 30. Ba2 Qd2 31. Qe2 Qxe2 32. Rxe2 Rd1+ 33. Kh2 Ra1
+34. b4 axb3 35. Bxb3 Rxa3 36. Rb2 Ne6 37. Bd1 Nc5 38. Re2 Kf8 39. Re5 Nd7 40.
+Re4 Nf6 41. Re5 Rc3 42. c5 Nd7 43. Re4 Nxc5 44. Rd4 Ke7 45. Bg4 Ne6 46. Re4 Kd6
+47. Rb4 b5 48. Bf3 Kc5 49. Re4 Rc4 50. Re5+ Kb4 51. Bh5 Ng5 52. Be2 Re4 53.
+Rxe4+ Nxe4 54. Bf3 Nxf2 55. Bxc6 Kc5 56. Be8 f6 57. Kg3 Ne4+ 58. Kf4 Nd6 59.
+Bg6 b4 60. Bc2 Kc4 61. Kg4 b3 62. Bb1 Kc3 63. Kh5 Kb2 64. Bd3 Kc3 65. Bb1 Kd2
+66. Kg6 Kc1 67. Bd3 f5 68. Kxg7 h5 69. Kg6 h4 70. Kg5 b2 71. Kxh4 b1=Q 72. Bxb1
+Kxb1 73. Kg5 Kc2 74. g4 1/2-1/2
+
+[Event "CN Feminino 2014/2015 SR"]
+[Site "Bornes de Aguiar POR"]
+[Date "2015.03.28"]
+[Round "6.2"]
+[White "Silva, Ana Inês"]
+[Black "Ribeiro, Ana Beatriz"]
+[Result "1-0"]
+[ECO "C05"]
+[WhiteElo "1439"]
+[BlackElo "1423"]
+[PlyCount "73"]
+[EventDate "2015.??.??"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. Bd3 c5 6. c3 Nc6 7. Ngf3 cxd4 8.
+cxd4 a6 9. O-O b5 10. Nb3 Be7 11. Nfd2 Qb6 12. Qg4 O-O 13. Nf3 f6 14. Qxe6+ Kh8
+15. Qh3 g6 16. Bxg6 Rf7 17. Bxf7 Ndxe5 18. Qg3 Nxf7 19. Nh4 Bd6 20. Qf3 Qd8 21.
+Qh5 Qg8 22. Qxd5 Qg4 23. Qxc6 Qxh4 24. g3 Qh3 25. Qxa8 Ng5 26. Bxg5 fxg5 27.
+Rac1 h5 28. Rxc8+ Kg7 29. Rg8+ Kf6 30. Re1 h4 31. Qf3+ Bf4 32. Qc6+ Kf5 33.
+Qd7+ Kf6 34. Qxh3 hxg3 35. Qh6+ Kf5 36. Qh3+ Kf6 37. Qe6# 1-0
+
+[Event "CN Feminino 2014/2015 SR"]
+[Site "Bornes de Aguiar POR"]
+[Date "2015.03.28"]
+[Round "6.3"]
+[White "Oliveira, Maria Inês"]
+[Black "Silva, Mariana"]
+[Result "1-0"]
+[ECO "B34"]
+[WhiteElo "1929"]
+[BlackElo "1579"]
+[PlyCount "69"]
+[EventDate "2015.??.??"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 g6 5. Nc3 Bg7 6. Nb3 Bxc3+ 7. bxc3 Nf6
+8. Bd3 d6 9. O-O O-O 10. h3 Bd7 11. Nd4 Rc8 12. Rb1 Na5 13. Qe1 a6 14. f4 Qc7
+15. Bd2 b5 16. f5 Nc4 17. Bxc4 Qxc4 18. Qh4 Bc6 19. Rbe1 b4 20. Bh6 Rfe8 21.
+Bg5 bxc3 22. Bxf6 exf6 23. Qxf6 Rxe4 24. Nxc6 Qxc6 25. fxg6 fxg6 26. Qf7+ Kh8
+27. Rb1 Qc5+ 28. Kh1 Qc4 29. Qf6+ Kg8 30. Rb7 Qxf1+ 31. Qxf1 Rf8 32. Qxa6 Ref4
+33. Qxd6 R4f6 34. Qd5+ Kh8 35. Qd7 1-0
+
+[Event "CN Feminino 2014/2015 SR"]
+[Site "Bornes de Aguiar POR"]
+[Date "2015.03.28"]
+[Round "6.4"]
+[White "Nogueira, Diana"]
+[Black "Silva, Madalena"]
+[Result "1/2-1/2"]
+[ECO "B23"]
+[WhiteElo "1507"]
+[BlackElo "1553"]
+[PlyCount "125"]
+[EventDate "2015.??.??"]
+
+1. e4 c5 2. Nc3 d6 3. f4 Nc6 4. Nf3 Nf6 5. g3 Bg4 6. Bg2 Nd4 7. O-O Qd7 8. d3
+g6 9. Ne2 Nxf3+ 10. Bxf3 Bg7 11. Nc3 O-O 12. e5 dxe5 13. fxe5 Qd4+ 14. Kh1
+Bxf3+ 15. Qxf3 Qxe5 16. Qxb7 e6 17. Bf4 Qd4 18. Be5 Qd7 19. Qf3 Nd5 20. Bxg7
+Kxg7 21. Ne4 f5 22. Nxc5 Qc6 23. Qf2 Ne3+ 24. Kg1 Nxf1 25. Rxf1 Rac8 26. Qd4+
+e5 27. Qxe5+ Kg8 28. Ne6 Rf7 29. Nd4 Qb6 30. b3 Rxc2 31. Qe8+ Kg7 32. Qe5+ Kg8
+33. Qe8+ Rf8 34. Qe5 Rxa2 35. b4 Rd2 36. Qd5+ Rf7 37. Rc1 Qb7 38. Qd8+ Rf8 39.
+Qxf8+ Kxf8 40. Ne6+ Kf7 41. Nd8+ Kf6 42. Nxb7 Rxd3 43. Rc6+ Kg5 44. Ra6 Kg4 45.
+Nc5 Rd1+ 46. Kf2 Rd2+ 47. Ke3 Rxh2 48. Rxa7 Kxg3 49. Ne6 Kg4 50. b5 h5 51. Ra4+
+Kh3 52. Ng5+ Kg3 53. b6 Rb2 54. Ra6 f4+ 55. Ke4 h4 56. Ra3+ Kg4 57. Nf7 Rxb6
+58. Ne5+ Kg5 59. Nf3+ Kg4 60. Ne5+ Kg5 61. Nf3+ Kg4 62. Ne5+ Kg5 63. Nf3+
+1/2-1/2
+
+[Event "CN Feminino 2014/2015 SR"]
+[Site "Bornes de Aguiar POR"]
+[Date "2015.03.28"]
+[Round "6.5"]
+[White "Oliveira, Maria Alice"]
+[Black "Oliveira, Maria Elisa"]
+[Result "1-0"]
+[ECO "C90"]
+[WhiteElo "1528"]
+[BlackElo "1131"]
+[PlyCount "76"]
+[EventDate "2015.??.??"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. d3 b5 6. Bb3 d6 7. O-O Be7 8. Re1
+O-O 9. c3 Bg4 10. Nbd2 Na5 11. Bc2 c5 12. Nf1 d5 13. Qe2 Rc8 14. h3 Bh5 15. Ng3
+Bg6 16. exd5 Nxd5 17. Nxe5 Bd6 18. Nxg6 fxg6 19. Qe6+ Kh8 20. Be3 Nxe3 21. Rxe3
+Bxg3 22. fxg3 Re8 23. Qxe8+ Qxe8 24. Rxe8+ Rxe8 25. Kf2 c4 26. d4 Nc6 27. a4
+bxa4 28. Bxa4 Re6 29. Bxc6 Rxc6 30. d5 Rc5 31. Rxa6 h6 32. d6 Rd5 33. Ke3 Rd3+
+34. Ke2 Kh7 35. Rc6 Rd5 36. Rxc4 Rxd6 37. Rd4 Rb6 38. Rb4 Ra6 1-0
+
+[Event "CN Feminino 2014/2015 SR"]
+[Site "Bornes de Aguiar POR"]
+[Date "2015.03.28"]
+[Round "6.6"]
+[White "Jambas, Martina"]
+[Black "Fernandes, Cristina"]
+[Result "0-1"]
+[PlyCount "56"]
+[EventDate "2015.??.??"]
+
+1. f3 e6 2. e3 Nc6 3. Nh3 Nf6 4. Nc3 g6 5. Bb5 Bg7 6. O-O O-O 7. a3 a6 8. Ba4
+b5 9. Bb3 Rb8 10. a4 Bb7 11. axb5 axb5 12. Nxb5 Nd5 13. e4 Ba6 14. exd5 Bxb5
+15. Re1 exd5 16. Bxd5 Nb4 17. c3 Nxd5 18. b3 Ra8 19. Ba3 Re8 20. Rf1 Bxf1 21.
+Qxf1 Nb6 22. c4 d5 23. cxd5 Nxd5 24. d3 Nb4 25. Bxb4 Rxa1 26. Qxa1 Bxa1 27. d4
+Bxd4+ 28. Nf2 Re1+ 0-1
+
+[Event "CN Feminino 2014/2015 SR"]
+[Site "Bornes de Aguiar POR"]
+[Date "2015.03.28"]
+[Round "6.7"]
+[White "Pimpão, Maria Leonor"]
+[Black "Cerdeira, Virginia"]
+[Result "1-0"]
+[ECO "C20"]
+[PlyCount "73"]
+[EventDate "2015.??.??"]
+
+1. e4 e5 2. Qh5 g6 3. Qxe5+ Be7 4. Bb5 c6 5. Bc4 d6 6. Qxh8 d5 7. Bf1 dxe4 8.
+Qxg8+ Kd7 9. Be2 Qxg8 10. Bg4+ Kd8 11. Nh3 Bxg4 12. Ng5 Na6 13. Nxf7+ Qxf7 14.
+d4 Bb4+ 15. Kf1 Qc4+ 16. Kg1 c5 17. Bg5+ Kc8 18. dxc5 Bxc5 19. h3 Be6 20. g3
+Bd6 21. Kh2 Bxg3+ 22. fxg3 Qe2+ 23. Kg1 Kc7 24. c4 Rd8 25. Na3 Rd1+ 26. Rxd1
+Qxd1+ 27. Kh2 Qd2+ 28. Bxd2 Bxc4 29. Nxc4 Nc5 30. Ne5 g5 31. Rc1 Kb8 32. Nd7+
+Nxd7 33. Rf1 g4 34. Rf8+ Kc7 35. Rf1 gxh3 36. Kxh3 h6 37. Rc1+ 1-0
+
+[Event "CN Feminino 2014/2015 SR"]
+[Site "Bornes de Aguiar POR"]
+[Date "2015.03.28"]
+[Round "6.8"]
+[White "Gomes, Sara"]
+[Black "Rodrigues, Lara"]
+[Result "0-1"]
+[ECO "C47"]
+[PlyCount "88"]
+[EventDate "2015.??.??"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. d3 h6 5. Bf4 exf4 6. e5 Ng4 7. Qe2 Bb4 8. a3
+Bxc3+ 9. bxc3 O-O 10. O-O-O Qe7 11. Nd4 Nxd4 12. cxd4 d6 13. exd6 Qxd6 14. f3
+Qxa3+ 15. Kd2 Nf6 16. g3 fxg3 17. hxg3 Qb4+ 18. c3 Qb2+ 19. Ke1 Qxc3+ 20. Kf2
+Qxd4+ 21. Ke1 Nd5 22. g4 Ne3 23. f4 Nxd1 24. Qxd1 Qd5 25. Rh4 Qe6+ 26. Be2 Qf6
+27. Rh3 Qxf4 28. Rf3 Qg5 29. Rg3 Be6 30. d4 h5 31. d5 Bxd5 32. Qd3 Rae8 33. Re3
+Rxe3 34. Qd2 Qh4+ 35. Kd1 Rg3 36. Kc2 Be6 37. Bd1 hxg4 38. Kb2 Qf6+ 39. Kb1
+Rb3+ 40. Kc1 Qe7 41. Bc2 Rf3 42. Bb1 Qc5+ 43. Kd1 Bb3+ 44. Ke2 Qf2# 0-1
+
+[Event "CN Feminino 2014/2015 SR"]
+[Site "Bornes de Aguiar POR"]
+[Date "2015.03.28"]
+[Round "6.9"]
+[White "Sousa, Marta"]
+[Black "Monteiro, Lara"]
+[Result "1-0"]
+[LiveChessVersion "1.4.5"]
+[ECO "C42"]
+
+1. e4 {[%clk 0:15:18]} e5 {[%clk 0:15:19]} 2. Bc4 {[%clk 0:15:27]} Nf6
+{[%clk 0:15:27]} 3. Nf3 {[%clk 0:15:34]} Bb4 {[%clk 0:15:36]} 4. Nc3
+{[%clk 0:15:43]} Qe7 {[%clk 0:15:44]} 5. O-O {[%clk 0:15:51]} Bc5
+{[%clk 0:15:52]} 6. d3 {[%clk 0:15:58]} Qd6 {[%clk 0:15:58]} 7. Bg5
+{[%clk 0:16:03]} Qb6 {[%clk 0:16:05]} 8. h3 {[%clk 0:16:05]} Bxf2+
+{[%clk 0:16:12]} 9. Rxf2 d6 {[%clk 0:16:11]} 10. Be3 {[%clk 0:16:21]} Bd7
+{[%clk 0:16:10]} 11. Bxb6 {[%clk 0:16:29]} cxb6 {[%clk 0:16:19]} 12. Nd5
+{[%clk 0:16:30]} Ng8 {[%clk 0:16:23]} 13. Nc7+ {[%clk 0:16:37]} Kd8
+{[%clk 0:16:24]} 14. Nxa8 {[%clk 0:16:45]} a6 {[%clk 0:16:32]} 15. Nxb6
+{[%clk 0:16:51]} Bc6 {[%clk 0:16:38]} 16. Nh4 {[%clk 0:16:54]} Nf6
+{[%clk 0:16:41]} 17. Nf5 {[%clk 0:16:53]} 1-0
+
+[Event "CN Feminino 2014/2015 SR"]
+[Site "Bornes de Aguiar POR"]
+[Date "2015.03.28"]
+[Round "6.10"]
+[White "Oliveira, Ana Júlia"]
+[Black "Pimpão, Maria Inês"]
+[Result "1/2-1/2"]
+[LiveChessVersion "1.4.5"]
+[ECO "C40"]
+
+1. e4 {[%clk 0:15:18]} e5 {[%clk 0:15:18]} 2. Nf3 {[%clk 0:15:27]} Bb4
+{[%clk 0:15:24]} 3. Nc3 {[%clk 0:15:33]} Nc6 {[%clk 0:15:27]} 4. a3
+{[%clk 0:15:42]} Bc5 {[%clk 0:15:30]} 5. h3 {[%clk 0:15:47]} Nce7 6. d3 Bxa3
+{[%clk 0:15:20]} 7. Rxa3 {[%clk 0:15:54]} f5 {[%clk 0:15:25]} 8. g3
+{[%clk 0:15:55]} fxe4 {[%clk 0:15:30]} 9. dxe4 {[%clk 0:16:04]} Nd5
+{[%clk 0:15:34]} 10. exd5 Nf6 {[%clk 0:15:14]} 11. Nxe5 {[%clk 0:16:12]} Qe7
+{[%clk 0:14:39]} 12. Bf4 {[%clk 0:16:17]} g5 {[%clk 0:14:45]} 13. Qh5+ Kf8 14.
+Qf3 {[%clk 0:15:59]} gxf4 {[%clk 0:14:50]} 15. Qxf4 {[%clk 0:16:06]} Ng4
+{[%clk 0:14:30]} 16. hxg4+ {[%clk 0:16:13]} Ke8 {[%clk 0:14:28]} 17. Rb3
+{[%clk 0:16:09]} Rf8 {[%clk 0:14:33]} 18. Qe3 {[%clk 0:15:59]} Rf3
+{[%clk 0:14:04]} 19. Nxf3 Qxe3+ 20. fxe3 {[%clk 0:16:07]} a5 {[%clk 0:14:10]} 21.
+Ng5 {[%clk 0:16:10]} a4 {[%clk 0:14:17]} 22. Nxh7 {[%clk 0:16:01]} c6
+{[%clk 0:13:50]} 23. Rb4 {[%clk 0:16:02]} Ra6 {[%clk 0:13:56]} 24. Bxa6
+{[%clk 0:16:07]} c5 {[%clk 0:14:05]} 25. Rxa4 {[%clk 0:16:11]} bxa6
+{[%clk 0:13:54]} 26. Nf6+ {[%clk 0:16:17]} Kd8 {[%clk 0:14:01]} 27. Rh8+
+{[%clk 0:16:16]} Kc7 {[%clk 0:14:06]} 28. Rh7 {[%clk 0:15:38]} Kd8
+{[%clk 0:13:26]} 29. Rh8+ {[%clk 0:15:44]} Kc7 {[%clk 0:13:34]} 30. Nce4
+{[%clk 0:15:48]} Kb7 {[%clk 0:13:23]} 31. Nxc5+ {[%clk 0:15:51]} Kc7
+{[%clk 0:13:30]} 32. Nxa6+ {[%clk 0:15:55]} Kd6 {[%clk 0:13:37]} 33. Rxc8
+{[%clk 0:15:54]} Ke7 {[%clk 0:13:17]} 34. g5 {[%clk 0:15:56]} Kd6
+{[%clk 0:12:56]} 35. Ne8+ {[%clk 0:16:00]} Kxd5 {[%clk 0:12:50]} 36. Rc5+
+{[%clk 0:16:01]} Ke6 {[%clk 0:12:41]} 37. Nac7+ {[%clk 0:16:03]} Ke7
+{[%clk 0:12:42]} 38. Re5+ {[%clk 0:16:08]} Kf7 {[%clk 0:12:44]} 39. Rf4+
+{[%clk 0:16:05]} Kg6 {[%clk 0:12:45]} 40. Rf6+ {[%clk 0:16:10]} Kh5 41. g6+
+{[%clk 0:16:02]} Kh6 {[%clk 0:12:48]} 42. Re7 {[%clk 0:16:05]} Kh5
+{[%clk 0:12:30]} 43. Rxd7 {[%clk 0:16:09]} Kg5 {[%clk 0:12:38]} 44. b3
+{[%clk 0:16:14]} Kg4 {[%clk 0:12:37]} 45. b4 {[%clk 0:16:21]} Kxg3
+{[%clk 0:12:40]} 46. b5 {[%clk 0:16:29]} Kg4 {[%clk 0:12:40]} 47. b6
+{[%clk 0:16:38]} Kg5 {[%clk 0:12:47]} 48. b7 {[%clk 0:16:46]} Kg4
+{[%clk 0:12:46]} 49. b8=Q {[%clk 0:16:49]} Kg3 {[%clk 0:12:43]} 50. Qb3
+{[%clk 0:16:54]} Kh2 {[%clk 0:12:45]} 51. c3 {[%clk 0:16:59]} Kh1
+{[%clk 0:12:42]} 52. Rh7+ {[%clk 0:16:59]} Kg1 {[%clk 0:12:48]} 53. Qb1
+{[%clk 0:17:06]} Kg2 {[%clk 0:12:52]} 54. Qb2+ {[%clk 0:17:11]} Kg1
+{[%clk 0:12:59]} 55. Rh5 1/2-1/2
+
+[Event "CN Feminino 2014/2015 SR"]
+[Site "Bornes de Aguiar POR"]
+[Date "2015.03.28"]
+[Round "6.11"]
+[White "Santos, Patrícia"]
+[Black "Santos, Inês"]
+[Result "1-0"]
+[LiveChessVersion "1.4.5"]
+[ECO "C24"]
+
+1. e4 {[%clk 0:15:17]} e5 {[%clk 0:15:19]} 2. Bc4 {[%clk 0:15:25]} Nf6
+{[%clk 0:15:25]} 3. Na3 {[%clk 0:15:31]} Nc6 {[%clk 0:15:33]} 4. Nh3
+{[%clk 0:15:39]} Bc5 {[%clk 0:15:40]} 5. f4 {[%clk 0:15:47]} exf4
+{[%clk 0:15:46]} 6. Nxf4 {[%clk 0:15:53]} Nxe4 {[%clk 0:15:54]} 7. d3 Ng5
+{[%clk 0:15:50]} 8. Qe2+ {[%clk 0:15:57]} 1-0
+

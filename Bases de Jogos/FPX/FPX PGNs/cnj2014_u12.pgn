@@ -1,0 +1,4202 @@
+[Event "CN Jovens 2014 - U12"]
+[Site "Luso POR"]
+[Date "2014.07.23"]
+[Round "1.1"]
+[White "Gomes, Beatriz"]
+[Black "Veiga, Francisco"]
+[Result "0-1"]
+[ECO "B70"]
+[BlackElo "1680"]
+[WhiteFideId "1936433"]
+[BlackFideId "1930087"]
+[PlyCount "62"]
+[EventDate "2014.07.23"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Bd3 Bg7 7. Be3 O-O
+8. O-O Ng4 9. Nf3 Nxe3 10. fxe3 Nc6 11. Bc4 Qb6 12. Nd5 Qc5 13. Bb3 Bxb2 14. Rb1
+Bg7 15. Ng5 e6 16. Nc7 Qxe3+ 17. Kh1 Qxg5 18. Nxa8 Qd8 19. Ba4 Be5 20. Rb3 Qh4
+21. h3 Qxe4 22. Bb5 Bd7 23. Nc7 d5 24. Bd3 Qh4 25. Rxb7 Qg3 26. Kg1 Qh2+ 27. Kf2
+Bg3+ 28. Kf3 Bxc7 29. Rh1 Qg3+ 30. Ke2 Qxg2+ 31. Ke1 Bg3# 0-1
+
+[Event "CN Jovens 2014 - U12"]
+[Site "Luso POR"]
+[Date "2014.07.23"]
+[Round "1.2"]
+[White "Fidalgo, Daniel"]
+[Black "Oliveira, Beatriz"]
+[Result "1-0"]
+[ECO "A22"]
+[WhiteElo "1645"]
+[WhiteFideId "1934279"]
+[BlackFideId "1938649"]
+[PlyCount "119"]
+[EventDate "2014.07.23"]
+
+1. c4 e5 2. Nc3 Nf6 3. g3 Bc5 4. Bg2 O-O 5. e3 Nc6 6. Nge2 a6 7. O-O d6 8. d3
+Bg4 9. Qd2 Qd7 10. a3 Bh3 11. b4 Ba7 12. Bb2 Bxg2 13. Kxg2 Rab8 14. b5 Ne7
+15. a4 Ra8 16. Rfb1 a5 17. Ba3 b6 18. Re1 Rfe8 19. e4 h6 20. Rad1 Ng6 21. f4 Qg4
+22. Qe3 Nh4+ 23. Kh1 Qf3+ 24. Qxf3 Nxf3 25. Rf1 Nd4 26. Nxd4 exd4 27. Ne2 Ng4
+28. Rf3 Ne3 29. Rd2 c5 30. bxc6 Re6 31. Nxd4 Nxc4 32. dxc4 Rxe4 33. Nb5 Rxc4
+34. c7 Rxa4 35. Nxa7 Rc4 36. c8=Q+ Raxc8 37. Nxc8 Rxc8 38. Rxd6 Rb8 39. Rfd3 Rb7
+40. Rd8+ Kh7 41. R3d7 Rxd7 42. Rxd7 b5 43. Rb7 b4 44. Bxb4 axb4 45. Rxb4 Kg6
+46. Kg2 Kh5 47. Kf3 g5 48. fxg5 hxg5 49. h4 gxh4 50. Rxh4+ Kg5 51. Ra4 Kf5
+52. Ra5+ Kg6 53. Kg4 Kg7 54. Ra6 Kf8 55. Kf5 Kg7 56. Ra7 Kf8 57. Kf6 Ke8
+58. Rxf7 Kd8 59. g4 Kc8 60. g5 1-0
+
+[Event "CN Jovens 2014 - U12"]
+[Site "Luso POR"]
+[Date "2014.07.23"]
+[Round "1.3"]
+[White "Rodrigues, José Francisco"]
+[Black "Cordeiro, João"]
+[Result "0-1"]
+[ECO "C45"]
+[BlackElo "1524"]
+[WhiteFideId "1934201"]
+[BlackFideId "1935291"]
+[PlyCount "44"]
+[EventDate "2014.07.23"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Bc5 5. Be3 Bb6 6. c3 d6 7. Nd2 h6 8. Bb5
+Ne7 9. O-O Bd7 10. h3 O-O 11. Re1 Nxd4 12. Bxd7 Qxd7 13. cxd4 Rad8 14. Rc1 f5
+15. f3 f4 16. Bf2 Nc6 17. d5 Bxf2+ 18. Kxf2 Ne5 19. Nb3 c6 20. g4 fxg3+ 21. Kxg3
+Rxf3+ 22. Kg2 Qxh3+ 0-1
+
+[Event "CN Jovens 2014 - U12"]
+[Site "Luso POR"]
+[Date "2014.07.23"]
+[Round "1.4"]
+[White "Oliveira, Alice"]
+[Black "Lobo, Hugo"]
+[Result "1-0"]
+[ECO "B56"]
+[WhiteElo "1521"]
+[BlackElo "1154"]
+[WhiteFideId "1930818"]
+[BlackFideId "1934902"]
+[PlyCount "75"]
+[EventDate "2014.07.23"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 d6 5. Nc3 Nf6 6. f3 e6 7. Be3 Qb6 8. Qd2
+Be7 9. Nxe6 Qa5 10. Nxg7+ Kf8 11. Nf5 Bxf5 12. exf5 Qxf5 13. Bd3 Qe6 14. O-O-O
+d5 15. Bh6+ Ke8 16. Rhe1 Qd7 17. Bg7 Kd8 18. Bxh8 d4 19. Bxf6 dxc3 20. Bxe7+
+Nxe7 21. Qxc3 Rc8 22. Bc4 Nd5 23. Rxd5 Qxd5 24. Bxd5 Rxc3 25. bxc3 Kd7 26. Bxf7
+h6 27. Re6 a6 28. Rxh6 Kc8 29. g4 Kd7 30. Re6 Kc8 31. g5 Kb8 32. g6 Ka7 33. g7
+Ka8 34. g8=Q+ Ka7 35. Qc8 a5 36. Re7 Kb6 37. Rxb7+ Ka6 38. Qa8# 1-0
+
+[Event "CN Jovens 2014 - U12"]
+[Site "Luso POR"]
+[Date "2014.07.23"]
+[Round "1.5"]
+[White "Dias, Tiago Monteiro"]
+[Black "Silva, João Miguel"]
+[Result "0-1"]
+[ECO "B23"]
+[BlackElo "1481"]
+[WhiteFideId "1945785"]
+[BlackFideId "1926039"]
+[PlyCount "66"]
+[EventDate "2014.07.23"]
+
+1. e4 c5 2. Nc3 Nc6 3. Bc4 Nf6 4. Nf3 d6 5. h3 g6 6. O-O Bg7 7. d3 O-O 8. Bb5
+a6 9. Bxc6 bxc6 10. Bg5 Qc7 11. Bxf6 Bxf6 12. Re1 Rb8 13. b3 Bxc3 14. Rb1 Bxe1
+15. Qxe1 d5 16. Qe3 d4 17. Qh6 f5 18. Ng5 e5 19. exf5 Bxf5 20. g4 Bc8 21. Ne4
+Qf7 22. Rf1 Qg7 23. Qd2 h5 24. g5 Bxh3 25. Nf6+ Rxf6 26. gxf6 Qxf6 27. Re1 Qf3
+28. Qg5 Kg7 29. Rxe5 Rf8 30. Re7+ Rf7 31. Kh2 Rxe7 32. Qxe7+ Kh6 33. Kg1 Qg2#
+0-1
+
+[Event "CN Jovens 2014 - U12"]
+[Site "Luso POR"]
+[Date "2014.07.23"]
+[Round "1.6"]
+[White "Santos, José Miguel"]
+[Black "Fernandes, João Pedro S"]
+[Result "1-0"]
+[ECO "C50"]
+[WhiteElo "1452"]
+[WhiteFideId "1930834"]
+[BlackFideId "1944452"]
+[PlyCount "97"]
+[EventDate "2014.07.23"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. d3 Nf6 5. c3 O-O 6. h3 d6 7. Bb3 Re8 8. Bg5
+h6 9. Bc1 d5 10. Qe2 b6 11. Nbd2 Nh5 12. Nf1 dxe4 13. dxe4 a6 14. Ng5 hxg5
+15. Qxh5 g6 16. Qxg5 Be6 17. Qxd8 Raxd8 18. Bxe6 Rxe6 19. Ng3 Red6 20. Bg5 f6
+21. Be3 Bxe3 22. fxe3 f5 23. exf5 gxf5 24. Nxf5 Rd2 25. O-O Rxb2 26. g4 Rdd2
+27. Nh4 Rxa2 28. Rxa2 Rxa2 29. Rf6 Na5 30. Re6 Ra1+ 31. Kg2 Rc1 32. Rxe5 Nc4
+33. Re4 Rxc3 34. Nf5 a5 35. g5 Kf7 36. h4 Kg6 37. Ne7+ Kh5 38. Nd5 a4 39. Nxc3
+b5 40. Nxb5 c6 41. Rxc4 cxb5 42. Rb4 a3 43. Rxb5 Kxh4 44. Ra5 a2 45. g6 a1=Q
+46. Rxa1 Kh5 47. g7 Kh6 48. g8=Q Kh5 49. Rh1# 1-0
+
+[Event "CN Jovens 2014 - U12"]
+[Site "Luso POR"]
+[Date "2014.07.23"]
+[Round "1.7"]
+[White "Rego, André Rodrigues"]
+[Black "Martins, Antonio M G Costa"]
+[Result "0-1"]
+[ECO "D31"]
+[BlackElo "1408"]
+[WhiteFideId "1945793"]
+[BlackFideId "1930079"]
+[PlyCount "92"]
+[EventDate "2014.07.23"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nc6 4. Nf3 Bb4 5. a3 Bxc3+ 6. bxc3 Nge7 7. e3 O-O
+8. Bd3 b6 9. O-O Ba6 10. cxd5 Bxd3 11. Qxd3 exd5 12. Ng5 Ng6 13. e4 dxe4
+14. Qxe4 Na5 15. Rb1 Nc4 16. Qd3 Nd6 17. Re1 Qd7 18. h4 h6 19. h5 hxg5 20. hxg6
+f6 21. Qh3 Qxh3 22. gxh3 Rfe8 23. Bd2 Nc4 24. Rxe8+ Rxe8 25. Re1 Rxe1+ 26. Bxe1
+Nxa3 27. d5 Nc4 28. f3 a5 29. Bg3 Ne5 30. Be1 a4 31. c4 Nxf3+ 32. Kf1 Nxe1
+33. Kxe1 a3 34. Kd2 a2 35. Kd3 a1=Q 36. Kc2 Kf8 37. Kb3 Ke7 38. Kb4 Qa5+ 39. Kb3
+b5 40. cxb5 Qxb5+ 41. Kc3 Qxd5 42. Kc2 Qf3 43. Kd2 Kd6 44. Ke1 Qg2 45. Kd1 Kd5
+46. Kc1 Kc4 0-1
+
+[Event "CN Jovens 2014 - U12"]
+[Site "Luso POR"]
+[Date "2014.07.23"]
+[Round "1.8"]
+[White "Santos, José Gulherme"]
+[Black "Gaspar, Pedro"]
+[Result "1-0"]
+[ECO "A35"]
+[WhiteFideId "1939300"]
+[BlackFideId "1936425"]
+[PlyCount "63"]
+[EventDate "2014.07.23"]
+
+1. c4 c5 2. Nc3 Nc6 3. Nf3 Nf6 4. g3 b6 5. Bg2 Bb7 6. e4 e5 7. O-O Be7 8. b3
+O-O 9. Bb2 Qc7 10. Nd5 Nxd5 11. exd5 Nb4 12. Bxe5 Qd8 13. d4 d6 14. Bf4 Rc8
+15. a3 Na6 16. Re1 Re8 17. Bh3 Rc7 18. Qd3 Bc8 19. Bxc8 Rxc8 20. Re2 cxd4
+21. Rae1 Qd7 22. Nxd4 Nb8 23. Qf5 Qc7 24. Nb5 Qd8 25. Nxd6 Bxd6 26. Rxe8+ Qxe8
+27. Rxe8+ Rxe8 28. Bxd6 h6 29. Bxb8 Rxb8 30. d6 g6 31. Qf6 Kf8 32. Qh8# 1-0
+
+[Event "CN Jovens 2014 - U12"]
+[Site "Luso POR"]
+[Date "2014.07.23"]
+[Round "1.9"]
+[White "Abreu, Alexandre"]
+[Black "Silva, Tiago Alexandre"]
+[Result "1-0"]
+[ECO "C48"]
+[BlackElo "1360"]
+[WhiteFideId "1942182"]
+[BlackFideId "1935321"]
+[PlyCount "85"]
+[EventDate "2014.07.23"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. Bb5 d6 5. h3 Bd7 6. O-O a6 7. Bxc6 Bxc6
+8. Re1 Be7 9. d4 Nd7 10. d5 Bb5 11. a4 Bc4 12. b3 Bxb3 13. cxb3 c6 14. Be3 Rc8
+15. Rc1 Nb6 16. Bxb6 Qxb6 17. Re2 O-O 18. Rb2 c5 19. Rcb1 Qa5 20. Qc1 Qb4
+21. Ne2 f5 22. Qd2 fxe4 23. Qxb4 cxb4 24. Nd2 Bh4 25. Nxe4 Rcd8 26. Rc2 Rf7
+27. Rbc1 Rdf8 28. Rc8 Bxf2+ 29. Nxf2 Rxf2 30. Rxf8+ Rxf8 31. Rc7 Rf7 32. Rxf7
+Kxf7 33. Kf2 Kf6 34. Ng3 h6 35. Ne4+ Ke7 36. Ke2 g6 37. g4 g5 38. Kd3 Kd7
+39. Kc4 a5 40. Kb5 b6 41. Kxb6 Ke7 42. Kxa5 Kd7 43. Kxb4 1-0
+
+[Event "CN Jovens 2014 - U12"]
+[Site "Luso POR"]
+[Date "2014.07.23"]
+[Round "1.10"]
+[White "Rego, João Rui"]
+[Black "Barata, Manuel"]
+[Result "1/2-1/2"]
+[ECO "C50"]
+[WhiteElo "1317"]
+[WhiteFideId "1934465"]
+[BlackFideId "1938983"]
+[PlyCount "143"]
+[EventDate "2014.07.23"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. Nc3 Nf6 5. d3 h6 6. Be3 d6 7. Bxc5 dxc5 8. h3
+O-O 9. O-O b6 10. Bb5 Bb7 11. Bxc6 Bxc6 12. Nxe5 Bb7 13. Re1 Re8 14. Nf3 a6
+15. a4 Qd7 16. b3 b5 17. axb5 axb5 18. Qd2 Rxa1 19. Rxa1 c4 20. bxc4 bxc4
+21. Ne2 cxd3 22. cxd3 c5 23. Rc1 Ba6 24. Rc3 c4 25. dxc4 Qxd2 26. Nxd2 Nxe4
+27. Re3 Bb7 28. Nxe4 Rxe4 29. Rxe4 Bxe4 30. Nc3 Bd3 31. c5 Kf8 32. g3 Ke7
+33. Kg2 g6 34. Kf3 h5 35. Kf4 Bc4 36. Ke5 Kd7 37. Kd4 Be6 38. h4 Kc6 39. Ne2 Ba2
+40. Nf4 Bb3 41. Nd3 Be6 42. Nb4+ Kc7 43. c6 Kd6 44. f4 Kc7 45. Kc5 Ba2 46. Kd4
+Kd6 47. Nd3 Be6 48. c7 Kxc7 49. Ke5 Kd7 50. Nc5+ Ke7 51. Nxe6 fxe6 52. Ke4 Kf6
+53. Ke3 e5 54. Ke4 exf4 55. Kxf4 Kg7 56. Kg5 Kf7 57. g4 hxg4 58. Kxg4 Kf6
+59. Kf4 g5+ 60. hxg5+ Kg6 61. Kg4 Kg7 62. Kf4 Kg6 63. Kg4 Kg7 64. Kf5 Kf7
+65. g6+ Kg7 66. Kg5 Kg8 67. Kf6 Kf8 68. Kg5 Kg7 69. Kf5 Kg8 70. Kf6 Kf8 71. g7+
+Kg8 72. Kg6 1/2-1/2
+
+[Event "CN Jovens 2014 - U12"]
+[Site "Luso POR"]
+[Date "2014.07.23"]
+[Round "1.11"]
+[White "Pinto, Pedro M R"]
+[Black "Silva, Pedro Filipe"]
+[Result "0-1"]
+[ECO "B40"]
+[BlackElo "1314"]
+[WhiteFideId "1936549"]
+[BlackFideId "1934210"]
+[PlyCount "96"]
+[EventDate "2014.07.23"]
+
+1. e4 c5 2. Nf3 e6 3. Nc3 Nf6 4. Bb5 a6 5. e5 axb5 6. exf6 Qxf6 7. Nxb5 Qd8
+8. O-O d6 9. d3 Bd7 10. Nc3 b5 11. a3 b4 12. Ne2 Nc6 13. Qe1 Be7 14. h3 e5
+15. Be3 Bf6 16. Bd2 e4 17. dxe4 Bxb2 18. Ra2 bxa3 19. Bc1 Be6 20. Rxb2 axb2
+21. Bxb2 O-O 22. Qc3 f6 23. Ng5 Qe7 24. Nf3 Ne5 25. Nxe5 dxe5 26. Qg3 Bc4
+27. Qf3 Qd7 28. c3 Qb5 29. Ba1 Bxe2 30. Qe3 Bxf1 31. Qc1 Rab8 32. Qxf1 Qb1
+33. Qxb1 Rxb1+ 34. Kh2 Rxa1 35. c4 Ra4 36. Kg1 Rxc4 37. Kh2 Rd4 38. Kg1 c4
+39. Kh2 c3 40. Kg1 c2 41. Kh1 c1=Q+ 42. Kh2 Rd1 43. g3 Rh1+ 44. Kg2 Qg1+ 45. Kf3
+Rh2 46. h4 Qxf2+ 47. Kg4 Rg2 48. Kh3 Qxg3# 0-1
+
+[Event "CN Jovens 2014 - U12"]
+[Site "Luso POR"]
+[Date "2014.07.23"]
+[Round "1.12"]
+[White "Rodrigues, Pedro Serpa"]
+[Black "Lobo, Pedro"]
+[Result "1-0"]
+[ECO "C45"]
+[WhiteElo "1297"]
+[WhiteFideId "1934724"]
+[BlackFideId "1940082"]
+[PlyCount "69"]
+[EventDate "2014.07.23"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Bc5 5. Be3 Nf6 6. Nc3 O-O 7. Nxc6 dxc6
+8. Bxc5 Re8 9. Qxd8 Rxd8 10. Bd3 b6 11. Be7 Re8 12. Bxf6 gxf6 13. O-O Kh8 14. f4
+Rg8 15. Rf3 Bd7 16. Rd1 Rg7 17. Bf1 Bg4 18. Rfd3 Bxd1 19. Rxd1 b5 20. Rd7 b4
+21. Na4 f5 22. e5 Re8 23. Nc5 Rg6 24. Rxc7 Rd8 25. Bd3 Rd5 26. Nd7 c5 27. Nxc5
+Rd8 28. Nd7 Rdg8 29. g3 Rd8 30. Bxf5 Rgg8 31. Bd3 Rc8 32. Rxa7 Rgd8 33. Nf6 Rc6
+34. Rxf7 h6 35. Rh7# 1-0
+
+[Event "CN Jovens 2014 - U12"]
+[Site "Luso POR"]
+[Date "2014.07.23"]
+[Round "1.13"]
+[White "Saraiva, Diogo"]
+[Black "Gama, João"]
+[Result "0-1"]
+[ECO "C48"]
+[BlackElo "1290"]
+[WhiteFideId "1936611"]
+[BlackFideId "1926667"]
+[PlyCount "78"]
+[EventDate "2014.07.23"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. Bb5 d6 5. Bxc6+ bxc6 6. O-O Be7 7. d3 O-O
+8. h3 Be6 9. Bg5 Rb8 10. b3 Qd7 11. Kh2 h6 12. Be3 a5 13. Ng1 d5 14. Rb1 d4
+15. Na4 dxe3 16. fxe3 Qd6 17. Nc3 Nd7 18. Qh5 Qc5 19. Nd5 cxd5 20. exd5 Bxd5
+21. Rb2 Qc3 22. Rfb1 Ba3 23. Qf5 Be6 24. Ne2 Bxf5 25. Nxc3 Bxb2 26. Rxb2 Nf6
+27. Na4 e4 28. d4 Nd5 29. Nc5 Nxe3 30. g4 Be6 31. a3 Nd1 32. Rb1 Nc3 33. Rc1 e3
+34. Kg3 Ne2+ 35. Kh4 Nxc1 36. d5 e2 37. Na6 e1=Q+ 38. Kh5 g6+ 39. Kxh6 Qh4# 0-1
+
+[Event "CN Jovens 2014 - U12"]
+[Site "Luso POR"]
+[Date "2014.07.23"]
+[Round "1.14"]
+[White "Maciel, Rafael"]
+[Black "Encarnação, Filipe"]
+[Result "1-0"]
+[ECO "C68"]
+[WhiteElo "1285"]
+[WhiteFideId "1935305"]
+[BlackFideId "1942018"]
+[PlyCount "120"]
+[EventDate "2014.07.23"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. d3 Bc5 6. Be3 Bb6 7. Nxe5 Bxe3
+8. fxe3 Qg5 9. Nf3 Qxg2 10. Rg1 Qh3 11. Qe2 Bg4 12. Rg3 Bxf3 13. Rxf3 Qh5
+14. Nc3 Ne7 15. O-O-O Ng6 16. d4 Nh4 17. Rf5 Qxe2 18. Re5+ Kd8 19. Nxe2 Nf3
+20. Rf5 Nxh2 21. Rxf7 Rg8 22. Nf4 Ke8 23. Rxc7 Ng4 24. Rd3 Rb8 25. Ne6 Nf2
+26. Nxg7+ Kd8 27. Ne6+ Ke8 28. Rb3 Nxe4 29. c3 Nd6 30. Rxh7 b5 31. Nc7+ Kf8
+32. Nxa6 Rb6 33. Nc5 Rg1+ 34. Kc2 Rg2+ 35. Kd3 Nc4 36. Nd7+ Kg8 37. Nxb6 Kxh7
+38. Nxc4 bxc4+ 39. Kxc4 Rg3 40. e4 Re3 41. e5 Kg7 42. Rb6 Kf7 43. Rxc6 Ke7
+44. Ra6 Re2 45. e6 Rxb2 46. d5 Re2 47. Ra7+ Kd6 48. e7 Rxe7 49. Rxe7 Kxe7
+50. Kc5 Kd7 51. d6 Kd8 52. Kc6 Kc8 53. d7+ Kd8 54. a3 Ke7 55. Kc7 Ke6 56. d8=Q
+Ke5 57. Qd7 Kf6 58. Qe8 Kg7 59. Qe6 Kf8 60. Qd7 Kg8 1-0
+
+[Event "CN Jovens 2014 - U12"]
+[Site "Luso POR"]
+[Date "2014.07.23"]
+[Round "1.15"]
+[White "Antunes, André"]
+[Black "Rodrigues, Constança"]
+[Result "0-1"]
+[ECO "C50"]
+[WhiteFideId "1936328"]
+[BlackFideId "1929240"]
+[PlyCount "106"]
+[EventDate "2014.07.23"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. O-O Nf6 5. Nc3 d6 6. b3 Bg4 7. Be2 O-O 8. Bb2
+a6 9. Na4 Ba7 10. h3 Bh5 11. Re1 Nxe4 12. d4 Bxf3 13. Bxf3 Ng5 14. Bxc6 bxc6
+15. dxe5 dxe5 16. Qxd8 Raxd8 17. Bxe5 Ne6 18. Bb2 Bd4 19. c3 Bf6 20. Rad1 h6
+21. Rxd8 Rxd8 22. c4 Bxb2 23. Nxb2 Rd2 24. Na4 Rxa2 25. Rd1 Rc2 26. g3 Re2
+27. f4 f5 28. g4 g6 29. Nc3 Rb2 30. Rb1 Rxb1+ 31. Nxb1 Nxf4 32. gxf5 gxf5 33. h4
+Kf7 34. Kf2 Ke6 35. Nc3 Ke5 36. Na4 Ne6 37. Ke3 f4+ 38. Kf3 Nd4+ 39. Kf2 Nxb3
+40. c5 a5 41. Nb6 cxb6 42. cxb6 Nc5 43. Ke2 a4 44. Kd2 Kd4 45. Kc2 a3 46. h5 f3
+47. b7 Nxb7 48. Kb3 f2 49. Ka2 f1=Q 50. Kb3 Qb5+ 51. Kc2 Qd3+ 52. Kc1 Qe2
+53. Kb1 Qb2# 0-1
+
+[Event "CN Jovens 2014 - U12"]
+[Site "Luso POR"]
+[Date "2014.07.23"]
+[Round "1.16"]
+[White "Rocha, João"]
+[Black "Santos, Leonor"]
+[Result "1-0"]
+[ECO "C58"]
+[WhiteFideId "1939297"]
+[BlackFideId "1941739"]
+[PlyCount "55"]
+[EventDate "2014.07.23"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 d5 5. exd5 Na5 6. Bb5+ c6 7. dxc6 bxc6
+8. Ba4 h6 9. Nf3 e4 10. Ne5 Qd5 11. d4 Bd6 12. Bf4 Bxe5 13. Bxe5 Qc4 14. Nc3 Nd5
+15. Nxd5 Qxd5 16. O-O O-O 17. Qd2 Ba6 18. Rfe1 Nc4 19. Qf4 Nxe5 20. Qxe5 Qc4
+21. Bb3 Qb4 22. c3 Qb6 23. Rxe4 Rfe8 24. Qf4 c5 25. Qxf7+ Kh7 26. Rxe8 Rxe8
+27. Bc2+ Kh8 28. Qxe8# 1-0
+
+[Event "CN Jovens 2014 - U12"]
+[Site "Luso POR"]
+[Date "2014.07.23"]
+[Round "1.17"]
+[White "Carreira, David Santos"]
+[Black "Palmelão, Pedro"]
+[Result "0-1"]
+[ECO "C48"]
+[WhiteFideId "1941399"]
+[BlackFideId "1936522"]
+[PlyCount "110"]
+[EventDate "2014.07.23"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. Nc3 d6 5. O-O Bg4 6. h3 Bh5 7. b3 Qd7 8. Bxc6
+Qxc6 9. Re1 O-O-O 10. Bb2 Re8 11. d3 d5 12. Nxd5 Nxd5 13. exd5 Qxd5 14. c4 Qd6
+15. g4 Bg6 16. Bxe5 Qxd3 17. Qxd3 Bxd3 18. Rad1 Bg6 19. Bc3 Bd6 20. Bxg7 Rhg8
+21. Rxe8+ Rxe8 22. Bd4 Kb8 23. Ng5 Bf4 24. Nf3 f5 25. gxf5 Bxf5 26. Bf6 Bxh3
+27. Rd8+ Rxd8 28. Bxd8 Bf5 29. b4 Bd6 30. c5 Bf8 31. Nh4 Bb1 32. a4 Bc2 33. a5
+Ba4 34. Kg2 Bg7 35. f4 Bc6+ 36. Kf2 Bd4+ 37. Ke2 Bc3 38. Kd3 Bxb4 39. a6 bxa6
+40. Kc4 Bd2 41. Bg5 a5 42. Nf5 a4 43. Nd4 Be8 44. Kd3 Bc1 45. Kc2 Ba3 46. Kc3
+Bxc5 47. Ne6 Bd6 48. Nd4 a3 49. Nc2 Bf7 50. Na1 Bf8 51. f5 a2 52. Kb2 Bd6
+53. Bf6 h5 54. Bh4 Be5+ 55. Kc1 Bxa1 0-1
+
+[Event "CN Jovens 2014 - U12"]
+[Site "Luso POR"]
+[Date "2014.07.23"]
+[Round "1.18"]
+[White "Martins, Bruno"]
+[Black "Rhodes, Mónica"]
+[Result "1-0"]
+[ECO "C55"]
+[WhiteFideId "1942255"]
+[BlackFideId "1939262"]
+[PlyCount "49"]
+[EventDate "2014.07.23"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d3 h6 5. h3 Bc5 6. O-O O-O 7. Nc3 d6 8. Na4
+Be6 9. Bxe6 fxe6 10. Nxc5 dxc5 11. Be3 Nd7 12. Nh2 Nd4 13. c3 Nc6 14. Qg4 Qf6
+15. Qg3 b5 16. Ng4 Qe7 17. Nxh6+ Kh8 18. Bg5 Nf6 19. Ng4 b4 20. f4 Qe8 21. Nxf6
+gxf6 22. Qh4+ Kg8 23. Bxf6 bxc3 24. Qh8+ Kf7 25. Qg7# 1-0
+
+[Event "CN Jovens 2014 - U12"]
+[Site "Luso POR"]
+[Date "2014.07.23"]
+[Round "1.19"]
+[White "Silva, Manuel Amorim"]
+[Black "Monteiro, Tomás"]
+[Result "0-1"]
+[ECO "B54"]
+[BlackElo "1243"]
+[WhiteFideId "1944053"]
+[BlackFideId "1930800"]
+[PlyCount "96"]
+[EventDate "2014.07.23"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 g6 5. Bc4 Bg7 6. O-O Nf6 7. Nc3 O-O
+8. Qd3 Bd7 9. g3 Nc6 10. Be3 a6 11. Rae1 b5 12. Bb3 Ng4 13. Rd1 Nxe3 14. fxe3
+Ne5 15. Qd2 Bg4 16. Rde1 Rb8 17. Rf4 Qd7 18. a4 Nc4 19. Qd3 e5 20. Rf2 exd4
+21. exd4 Nxb2 22. Qd2 Nc4 23. Qd3 Rfe8 24. Rf4 Bh3 25. d5 Nb2 26. Qd2 Nxa4
+27. Bxa4 bxa4 28. Nxa4 Qxa4 29. Rh4 Bc8 30. Rf1 Bb7 31. Qg2 a5 32. Rhf4 Ba6
+33. R1f3 Qa1+ 34. Kf2 Qd4+ 35. Re3 Bh6 36. Qh3 Qd2+ 37. Kf3 Bxf4 38. gxf4 Qd1+
+39. Kf2 Qxc2+ 40. Kf3 Qd1+ 41. Kf2 Rb2+ 42. Kg3 Qg1+ 43. Kh4 Kg7 44. Rg3 Qd4
+45. Kg4 Qxe4 46. Qh4 Bc8+ 47. Kg5 Qxd5+ 48. f5 Qxf5# 0-1
+
+[Event "CN Jovens 2014 - U12"]
+[Site "Luso POR"]
+[Date "2014.07.23"]
+[Round "1.20"]
+[White "Garcia, Nathalia"]
+[Black "Ferreira, Guilherme"]
+[Result "1-0"]
+[ECO "B01"]
+[WhiteElo "1231"]
+[WhiteFideId "1936417"]
+[BlackFideId "1939912"]
+[PlyCount "53"]
+[EventDate "2014.07.23"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qa5 4. Nf3 Bf5 5. Bd3 Nc6 6. Bxf5 Qxf5 7. d3 O-O-O
+8. O-O e5 9. Re1 Bc5 10. Be3 Bxe3 11. Rxe3 Nf6 12. Qd2 Rhe8 13. Rae1 Ng4
+14. R3e2 Nd4 15. Nxd4 Rxd4 16. Re4 Qh5 17. h3 Nf6 18. Rxd4 exd4 19. Rxe8+ Nxe8
+20. Ne4 f5 21. Ng3 Qh4 22. Nxf5 Qg5 23. Qxg5 h6 24. Qg6 Nd6 25. Qe6+ Kb8
+26. Nxd6 b6 27. Qc8# 1-0
+
+[Event "CN Jovens 2014 - U12"]
+[Site "Luso POR"]
+[Date "2014.07.23"]
+[Round "1.21"]
+[White "Braz, Ana Francisca"]
+[Black "Ribeiro, Orlando"]
+[Result "0-1"]
+[ECO "C50"]
+[BlackElo "1219"]
+[WhiteFideId "1936352"]
+[BlackFideId "1936573"]
+[PlyCount "32"]
+[EventDate "2014.07.23"]
+
+1. e4 e5 2. Bc4 Nf6 3. Nc3 Bc5 4. d3 Nc6 5. Nf3 d6 6. Bg5 h6 7. Bxf6 Qxf6
+8. Qd2 Bb4 9. a3 Bxc3 10. Qxc3 Qg6 11. O-O Bh3 12. g3 Bxf1 13. Kxf1 Qf6 14. Rd1
+Qxf3 15. Rd2 Nd4 16. Bd5 Qh1# 0-1
+
+[Event "CN Jovens 2014 - U12"]
+[Site "Luso POR"]
+[Date "2014.07.23"]
+[Round "1.22"]
+[White "Camacho, Diogo"]
+[Black "Gomes, Gonçalo"]
+[Result "1-0"]
+[ECO "B40"]
+[WhiteFideId "1932306"]
+[BlackFideId "1941453"]
+[PlyCount "129"]
+[EventDate "2014.07.23"]
+
+1. e4 c5 2. Nf3 e6 3. Bb5 a6 4. Ba4 Nc6 5. d3 Qc7 6. Nc3 Nf6 7. Be3 Be7 8. O-O
+O-O 9. a3 b5 10. Bb3 Bb7 11. Bg5 h6 12. Bh4 Ne5 13. Nxe5 Qxe5 14. f4 Qd4+
+15. Rf2 b4 16. axb4 cxb4 17. Na4 Rfe8 18. c3 bxc3 19. bxc3 Qa7 20. e5 Nd5
+21. Bxe7 Rxe7 22. d4 Ne3 23. Qe2 Nf5 24. Nc5 Bc8 25. Qd3 d5 26. g4 Nh4 27. Rfa2
+Qb6 28. c4 Rea7 29. cxd5 exd5 30. Bxd5 Rb8 31. Qb3 Qxb3 32. Nxb3 Bxg4 33. Rxa6
+Rxa6 34. Rxa6 Rd8 35. Be4 Bf3 36. Bc2 Nf5 37. Bxf5 Rb8 38. Rd6 g6 39. Bc2 Rc8
+40. Nc5 Rb8 41. Kf2 Bh5 42. Ke3 Bg4 43. Ne4 Kg7 44. Nf6 Bf5 45. Bxf5 gxf5
+46. Nh5+ Kh7 47. Kd3 Rb3+ 48. Kc4 Rh3 49. Ng3 Rxh2 50. Nxf5 Rh5 51. Rxh6+ Rxh6
+52. Nxh6 Kxh6 53. Kc5 Kg7 54. f5 Kf8 55. Kc6 Ke7 56. d5 Ke8 57. e6 fxe6 58. fxe6
+Ke7 59. Kc7 Ke8 60. d6 Kf8 61. d7 Ke7 62. d8=Q+ Kxe6 63. Qd6+ Kf5 64. Qe7 Kf4
+65. Kd6 1-0
+
+[Event "CN Jovens 2014 - U12"]
+[Site "Luso POR"]
+[Date "2014.07.23"]
+[Round "1.23"]
+[White "Cunha, Alexandre"]
+[Black "Santos, Pedro Miguel"]
+[Result "1-0"]
+[ECO "B23"]
+[WhiteElo "1037"]
+[WhiteFideId "1931890"]
+[BlackFideId "1922246"]
+[PlyCount "93"]
+[EventDate "2014.07.23"]
+
+1. e4 c5 2. Bc4 e6 3. Nc3 a6 4. a4 Nc6 5. Nf3 Bd6 6. O-O Nge7 7. d4 cxd4
+8. Nxd4 Nxd4 9. Qxd4 Qc7 10. g3 O-O 11. Be3 e5 12. Qd2 Bb4 13. Qd3 Bxc3 14. Qxc3
+b6 15. Rad1 Qb7 16. Qxe5 Nc6 17. Qd5 Rb8 18. Bf4 Ra8 19. Bd6 Na5 20. Qxb7 Bxb7
+21. Bxf8 Nxc4 22. Rxd7 Bxe4 23. Rd4 Rxf8 24. Rxc4 Bf5 25. Rc6 Rb8 26. Re1 g6
+27. b4 Bd7 28. Rd6 Bxa4 29. c4 Bb3 30. c5 bxc5 31. bxc5 Bc4 32. c6 Rc8 33. Rc1
+Bb5 34. c7 a5 35. Rd8+ Kg7 36. Rxc8 Ba6 37. Rd8 a4 38. c8=Q Bxc8 39. Rdxc8 a3
+40. Ra1 a2 41. Rxa2 Kh6 42. Ra7 Kg5 43. Rxf7 h5 44. Kg2 Kg4 45. f3+ Kg5 46. h4+
+Kh6 47. Rh8# 1-0
+
+[Event "CN Jovens 2014 - U12"]
+[Site "Luso POR"]
+[Date "2014.07.23"]
+[Round "1.24"]
+[White "Prazeres, João"]
+[Black "Antunes, Ana"]
+[Result "1-0"]
+[ECO "D07"]
+[WhiteFideId "1939084"]
+[BlackFideId "1936310"]
+[PlyCount "53"]
+[EventDate "2014.07.23"]
+
+1. d4 d5 2. Nf3 Nc6 3. c4 dxc4 4. Nc3 Nf6 5. Bg5 e6 6. e3 h6 7. Bh4 Bb4 8. Bxc4
+Bxc3+ 9. bxc3 Na5 10. Bd3 O-O 11. O-O Re8 12. e4 g5 13. Bg3 Nh5 14. Ne5 Nxg3
+15. hxg3 Qd6 16. Qh5 Qe7 17. Qxh6 f6 18. Qg6+ Kf8 19. Ng4 Qf7 20. Qxf7+ Kxf7
+21. e5 fxe5 22. Nxe5+ Kf6 23. f4 a6 24. fxg5+ Kxg5 25. Nf7+ Kh5 26. Rf4 Rf8
+27. Rh4# 1-0
+
+[Event "CN Jovens 2014 - U12"]
+[Site "Luso POR"]
+[Date "2014.07.23"]
+[Round "1.25"]
+[White "Fernandes, João Adriano"]
+[Black "Silva, Rafael"]
+[Result "1-0"]
+[ECO "C50"]
+[WhiteFideId "1939602"]
+[BlackFideId "1925857"]
+[PlyCount "37"]
+[EventDate "2014.07.23"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. Nc3 d6 5. O-O Nf6 6. d3 Bg4 7. Bg5 O-O 8. Nd5
+Re8 9. Re1 Nd4 10. Nxf6+ gxf6 11. Bh4 Nxf3+ 12. gxf3 Bh5 13. Kh1 Rf8 14. Rg1+
+Kh8 15. Qd2 Rg8 16. Rxg8+ Qxg8 17. Rg1 Qd8 18. Qh6 Qe7 19. Qg7# 1-0
+
+[Event "CN Jovens 2014 - U12"]
+[Site "Luso POR"]
+[Date "2014.07.23"]
+[Round "1.26"]
+[White "Silva, Nuno Lynce"]
+[Black "Jesus, Ana"]
+[Result "1-0"]
+[ECO "C57"]
+[WhiteFideId "1942727"]
+[BlackFideId "1941640"]
+[PlyCount "83"]
+[EventDate "2014.07.23"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 Qe7 5. Nxf7 Rg8 6. Ng5 Qd8 7. Bf7+ Ke7
+8. Bxg8 Nxg8 9. Qf3 Nf6 10. Qe2 h6 11. Nf3 Qe8 12. Nc3 Qf7 13. O-O Qh5 14. d3
+Ng4 15. h3 d6 16. hxg4 Qxg4 17. Nd5+ Kd8 18. Be3 h5 19. Rfe1 h4 20. Nh2 Qg6
+21. Qf3 Nd4 22. Qxf8+ Qe8 23. Qxe8+ Kxe8 24. Bxd4 exd4 25. Nxc7+ Kd8 26. Nxa8 g5
+27. c3 h3 28. gxh3 Bxh3 29. cxd4 g4 30. Re3 g3 31. Rxg3 Be6 32. d5 Bf7 33. Rc1
+Ke8 34. Rc7 a6 35. Rh3 Bg8 36. Rh8 Kf8 37. Rc8+ Kg7 38. Rhxg8+ Kh7 39. Rg2 b6
+40. Rcg8 a5 41. R2g3 Kh6 42. Rh8# 1-0
+
+[Event "CN Jovens 2014 - U12"]
+[Site "Luso POR"]
+[Date "2014.07.23"]
+[Round "1.27"]
+[White "Lança, Luis"]
+[Black "Ribeiro, André Amorim"]
+[Result "0-1"]
+[ECO "B23"]
+[BlackElo "1190"]
+[WhiteFideId "1936450"]
+[BlackFideId "1928619"]
+[PlyCount "80"]
+[EventDate "2014.07.23"]
+
+1. e4 c5 2. Nc3 Nc6 3. Bc4 g6 4. Qf3 Ne5 5. Qe2 Nf6 6. Nf3 Nxc4 7. Qxc4 d6
+8. Ng5 d5 9. Qxc5 h6 10. e5 e6 11. Qb5+ Nd7 12. Nf3 a6 13. Qb3 Bg7 14. d4 b5
+15. O-O Qe7 16. a3 O-O 17. Bd2 Nb6 18. Na2 Bb7 19. Bb4 Qc7 20. Bxf8 Bxf8
+21. Rac1 Nc4 22. Qc3 a5 23. b3 b4 24. axb4 axb4 25. Nxb4 Bxb4 26. Qxb4 Na3
+27. c3 Ra6 28. Nd2 Kg7 29. c4 Qd7 30. f3 dxc4 31. bxc4 Qxd4+ 32. Kh1 Rb6 33. Qa5
+Rb2 34. Ne4 Nxc4 35. Qd8 Qxd8 36. Rxc4 Ba6 37. Rcc1 Bxf1 38. Rxf1 Qd3 39. h3
+Qxf1+ 40. Kh2 Qxg2# 0-1
+
+[Event "CN Jovens 2014 - U12"]
+[Site "Luso POR"]
+[Date "2014.07.24"]
+[Round "2.1"]
+[White "Veiga, Francisco"]
+[Black "Rocha, João"]
+[Result "1-0"]
+[ECO "D04"]
+[WhiteElo "1680"]
+[WhiteFideId "1930087"]
+[BlackFideId "1939297"]
+[PlyCount "113"]
+[EventDate "2014.07.23"]
+
+1. Nf3 Nf6 2. d4 d5 3. e3 Bg4 4. c4 e6 5. b3 Nc6 6. Be2 Bb4+ 7. Bd2 Bxd2+
+8. Nbxd2 O-O 9. O-O Qd7 10. h3 Bf5 11. Nh4 e5 12. cxd5 Nxd5 13. Nxf5 Qxf5 14. e4
+Qd7 15. exd5 Qxd5 16. Bf3 Qxd4 17. Bxc6 bxc6 18. Nc4 Qxd1 19. Raxd1 f6 20. Rd7
+Rac8 21. Rfd1 Rf7 22. Rd8+ Rxd8 23. Rxd8+ Rf8 24. Rxf8+ Kxf8 25. Kf1 Ke7 26. Ke2
+Ke6 27. Ke3 Kd5 28. g4 g6 29. h4 h6 30. f4 exf4+ 31. Kxf4 Kd4 32. h5 gxh5
+33. gxh5 Kc3 34. Kf5 Kc2 35. Kxf6 Kb1 36. Kg6 Kxa2 37. Na5 c5 38. Kxh6 Ka3
+39. Kg6 Kb4 40. h6 Kxa5 41. h7 Kb4 42. h8=Q Kxb3 43. Qb8+ Kc3 44. Qxa7 c4
+45. Qxc7 Kb3 46. Qb6+ Kc2 47. Qf2+ Kb3 48. Qd2 c3 49. Qc1 c2 50. Kf5 Kc3 51. Ke4
+Kb3 52. Kd3 Kb4 53. Qxc2 Ka3 54. Qb1 Ka4 55. Qb6 Ka3 56. Kc3 Ka2 57. Qb2# 1-0
+
+[Event "CN Jovens 2014 - U12"]
+[Site "Luso POR"]
+[Date "2014.07.24"]
+[Round "2.2"]
+[White "Palmelão, Pedro"]
+[Black "Fidalgo, Daniel"]
+[Result "0-1"]
+[ECO "C00"]
+[BlackElo "1645"]
+[WhiteFideId "1936522"]
+[BlackFideId "1934279"]
+[PlyCount "101"]
+[EventDate "2014.07.23"]
+
+1. e4 e6 2. d4 d5 3. f3 Nf6 4. Nc3 dxe4 5. fxe4 Bb4 6. Ne2 Nxe4 7. Qd3 Bxc3+
+8. Nxc3 Nxc3 9. Qxc3 Nc6 10. Be3 Qe7 11. O-O-O Nb4 12. Qa3 Nd5 13. Qd3 Bd7
+14. Bf2 a6 15. Qb3 Bc6 16. Qc4 Qb4 17. Qd3 Nb6 18. Be1 Qe7 19. Bg3 O-O-O 20. Qe3
+h6 21. Qf2 Rd7 22. Bh4 g5 23. Bg3 f5 24. Be5 Re8 25. Be2 f4 26. Bh5 Red8 27. Be2
+Nd5 28. Qf3 Ne3 29. Qf2 Nxd1 30. Rxd1 Qh7 31. Bd3 Be4 32. Bf6 Re8 33. Be5 Bxd3
+34. Rxd3 Qf5 35. Qf3 Rd5 36. Rc3 Rxe5 37. dxe5 Qxe5 38. b3 Qd5 39. Qf2 Kb8
+40. Qe2 e5 41. Rc4 e4 42. Rb4 Ka7 43. Qh5 Rd8 44. Qxh6 Qd2+ 45. Kb2 Qxb4
+46. Qxg5 Qd4+ 47. Kb1 e3 48. Qg4 Qd1+ 49. Qxd1 Rxd1+ 50. Kb2 e2 51. Ka3 0-1
+
+[Event "CN Jovens 2014 - U12"]
+[Site "Luso POR"]
+[Date "2014.07.24"]
+[Round "2.3"]
+[White "Cordeiro, João"]
+[Black "Martins, Bruno"]
+[Result "1/2-1/2"]
+[ECO "C68"]
+[WhiteElo "1524"]
+[WhiteFideId "1935291"]
+[BlackFideId "1942255"]
+[PlyCount "91"]
+[EventDate "2014.07.23"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. d3 Bc5 6. O-O Bg4 7. h3 Bxf3
+8. Qxf3 Ne7 9. Be3 Bxe3 10. fxe3 O-O 11. Nc3 Qd6 12. Rad1 c5 13. Ne2 Qb6 14. b3
+Rad8 15. Ng3 Qc6 16. Nf5 Nxf5 17. exf5 Qxf3 18. Rxf3 Rd6 19. e4 b5 20. Kf2 Rb8
+21. Ke2 Rbd8 22. g4 h6 23. h4 f6 24. Rg3 c4 25. g5 hxg5 26. hxg5 fxg5 27. Rxg5
+cxd3+ 28. Rxd3 Rxd3 29. cxd3 Kf7 30. Rg6 Rd6 31. Rxd6 cxd6 32. Kd2 Ke7 33. Kc3
+a5 34. a4 bxa4 35. bxa4 Kd7 36. Kc4 Kc6 37. d4 exd4 38. Kxd4 Kc7 39. Kd5 Kd7
+40. e5 dxe5 41. Kxe5 Ke7 42. Ke4 Kf7 43. Ke5 Ke7 44. Ke4 Kf7 45. Ke5 Ke7 46. Ke4
+1/2-1/2
+
+[Event "CN Jovens 2014 - U12"]
+[Site "Luso POR"]
+[Date "2014.07.24"]
+[Round "2.4"]
+[White "Monteiro, Tomás"]
+[Black "Oliveira, Alice"]
+[Result "0-1"]
+[ECO "A48"]
+[WhiteElo "1243"]
+[BlackElo "1521"]
+[WhiteFideId "1930800"]
+[BlackFideId "1930818"]
+[PlyCount "100"]
+[EventDate "2014.07.23"]
+
+1. d4 Nf6 2. Bf4 g6 3. Nf3 Bg7 4. c3 O-O 5. e3 d6 6. Qc2 Nbd7 7. Bd3 Re8 8. e4
+e5 9. Bg3 d5 10. Nxe5 Nxe4 11. Bxe4 dxe4 12. Nd2 Nxe5 13. dxe5 Bxe5 14. Bxe5
+Rxe5 15. O-O-O Qe7 16. Rde1 Bf5 17. Qb3 c6 18. Re3 Rd8 19. Rhe1 Rd3 20. Qc2 Rxe3
+21. Rxe3 Qh4 22. Nf1 Rd5 23. h3 Rd3 24. a3 h5 25. b4 Qg5 26. g4 hxg4 27. hxg4
+Bxg4 28. Kb2 Qd5 29. Qb3 Rd1 30. Qxd5 cxd5 31. Nh2 Be6 32. f3 Rd2+ 33. Kb3 d4+
+34. Ka4 dxe3 35. Nf1 e2 36. Nxd2 e1=Q 37. Nxe4 Bd7+ 38. Kb3 Qb1+ 39. Kc4 b5+
+40. Kc5 Qd3 41. Nf6+ Kg7 42. Nxd7 Qxd7 43. c4 a6 44. cxb5 Qxb5+ 45. Kd6 Kf6
+46. Kc7 Ke6 47. Kc8 Qd7+ 48. Kb8 Kd6 49. Ka8 Kc6 50. Kb8 Qb7# 0-1
+
+[Event "CN Jovens 2014 - U12"]
+[Site "Luso POR"]
+[Date "2014.07.24"]
+[Round "2.5"]
+[White "Silva, João Miguel"]
+[Black "Garcia, Nathalia"]
+[Result "1-0"]
+[ECO "C44"]
+[WhiteElo "1481"]
+[BlackElo "1231"]
+[WhiteFideId "1926039"]
+[BlackFideId "1936417"]
+[PlyCount "89"]
+[EventDate "2014.07.23"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Nxd4 5. Qxd4 Ne7 6. Bc4 Nc6 7. Qd1 Bc5
+8. Bxf7+ Kxf7 9. Qh5+ Kf8 10. Qxc5+ Qe7 11. Qxe7+ Kxe7 12. c3 d6 13. f4 Kd8
+14. O-O Re8 15. Re1 Bf5 16. Nd2 Kd7 17. Kf2 Bg6 18. f5 Bh5 19. Nf3 Bxf3 20. gxf3
+Ne5 21. Re2 c6 22. f4 Nd3+ 23. Kf3 Re7 24. Re3 Nc5 25. b4 Na6 26. Bb2 Rae8
+27. Rg1 Nc7 28. Rge1 b6 29. c4 a5 30. bxa5 bxa5 31. Rd1 d5 32. e5 Kc8 33. e6 Rd8
+34. f6 Rxe6 35. Rxe6 Nxe6 36. fxg7 Re8 37. cxd5 cxd5 38. Rxd5 Rg8 39. Rxa5 Kd7
+40. f5 Ng5+ 41. Kf4 Nh3+ 42. Kg4 Nf2+ 43. Kf3 Nd3 44. Bc3 Kc6 45. f6 1-0
+
+[Event "CN Jovens 2014 - U12"]
+[Site "Luso POR"]
+[Date "2014.07.24"]
+[Round "2.6"]
+[White "Ribeiro, Orlando"]
+[Black "Santos, José Miguel"]
+[Result "1/2-1/2"]
+[ECO "C11"]
+[WhiteElo "1219"]
+[BlackElo "1452"]
+[WhiteFideId "1936573"]
+[BlackFideId "1930834"]
+[PlyCount "62"]
+[EventDate "2014.07.23"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. e5 Nfd7 5. Nce2 c5 6. c3 Nc6 7. Be3 Be7 8. Nf3
+b6 9. Qd2 Na5 10. Ng3 Nc6 11. Bd3 c4 12. Bc2 b5 13. a4 b4 14. O-O b3 15. Bd1 O-O
+16. Bg5 Bxg5 17. Qxg5 Qxg5 18. Nxg5 h6 19. Nf3 a5 20. Be2 Ne7 21. Nd2 Ba6 22. f4
+Nc6 23. f5 Rae8 24. Nxb3 Rb8 25. Ra3 Bc8 26. fxe6 fxe6 27. Rxf8+ Kxf8 28. Nd2
+Rxb2 29. Ngf1 Rb7 30. Ra1 Ne7 31. Bg4 Nb8 1/2-1/2
+
+[Event "CN Jovens 2014 - U12"]
+[Site "Luso POR"]
+[Date "2014.07.24"]
+[Round "2.7"]
+[White "Martins, Antonio M G Costa"]
+[Black "Camacho, Diogo"]
+[Result "0-1"]
+[ECO "C62"]
+[WhiteElo "1408"]
+[WhiteFideId "1930079"]
+[BlackFideId "1932306"]
+[PlyCount "114"]
+[EventDate "2014.07.23"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 d6 4. h3 f5 5. d3 Nf6 6. Nc3 Be6 7. Bg5 Be7 8. Nd2
+a6 9. Bxc6+ bxc6 10. Bxf6 Bxf6 11. Qf3 Qd7 12. O-O O-O 13. Qe2 Rab8 14. Rfe1 d5
+15. exf5 Bxf5 16. Nb3 Qd6 17. Red1 Rfe8 18. Qf3 Bg6 19. Re1 Rf8 20. Qg3 Rbe8
+21. Rab1 e4 22. Qxd6 cxd6 23. d4 Bg5 24. Nd1 e3 25. Nxe3 Bxe3 26. fxe3 Bxc2
+27. Rbc1 Bxb3 28. axb3 Rc8 29. Rc3 Rc7 30. Ra1 Ra8 31. b4 Raa7 32. Raa3 Rab7
+33. Rxa6 Rxb4 34. Rc2 Rc4 35. Rxc4 dxc4 36. Kf1 Kf7 37. Ke1 Ke6 38. Kd2 Kd5
+39. Ra5+ Ke4 40. Ra3 d5 41. Rc3 Rb7 42. Kc1 g6 43. Ra3 Rb6 44. Rc3 Rb7 45. Kb1
+Rb3 46. Rc2 Kxe3 47. Kc1 Kxd4 48. Kd2 Rxb2 49. g4 Rxc2+ 50. Kxc2 c3 51. h4 Kc4
+52. h5 gxh5 53. gxh5 d4 54. Kc1 h6 55. Kc2 d3+ 56. Kb1 Kb3 57. Ka1 d2 0-1
+
+[Event "CN Jovens 2014 - U12"]
+[Site "Luso POR"]
+[Date "2014.07.24"]
+[Round "2.8"]
+[White "Prazeres, João"]
+[Black "Santos, José Gulherme"]
+[Result "0-1"]
+[ECO "D30"]
+[WhiteFideId "1939084"]
+[BlackFideId "1939300"]
+[PlyCount "130"]
+[EventDate "2014.07.23"]
+
+1. d4 d5 2. c4 e6 3. cxd5 exd5 4. Nf3 Bb4+ 5. Bd2 Bxd2+ 6. Nbxd2 Nf6 7. e3 Bf5
+8. Be2 Nc6 9. O-O O-O 10. Nh4 Be6 11. Bd3 Ne4 12. Nhf3 Ng5 13. Nxg5 Qxg5 14. Nf3
+Qf6 15. h3 Bf5 16. a3 Bxd3 17. Qxd3 Rfe8 18. Rac1 Qg6 19. Qxg6 fxg6 20. Rc5 Rad8
+21. Rfc1 Rd7 22. Nd2 Ree7 23. Rb5 Nd8 24. Nf3 c6 25. Rb3 Rd6 26. Ne5 Nf7
+27. Nxf7 Rxf7 28. Rc2 Re6 29. Rd3 Rfe7 30. b4 Kf7 31. a4 Kf6 32. b5 Kf7 33. bxc6
+Rxc6 34. Rxc6 bxc6 35. Rc3 Rc7 36. Kh2 Ke6 37. Kg3 Kf5 38. Kf3 g5 39. g4+ Ke6
+40. e4 dxe4+ 41. Kxe4 g6 42. Rc5 h6 43. d5+ cxd5+ 44. Rxd5 Rc4+ 45. Rd4 Rxd4+
+46. Kxd4 Kd6 47. Kc4 Kc6 48. Kb4 Kb6 49. a5+ Kc6 50. Kc4 a6 51. f3 h5 52. Kb4
+Kd5 53. Kc3 Kc5 54. Kb3 Kb5 55. Ka3 Kxa5 56. Kb3 Kb5 57. Ka3 Kc4 58. Ka4 Kd4
+59. Ka5 Ke3 60. Kxa6 Kxf3 61. Kb5 hxg4 62. hxg4 Kxg4 63. Kc4 Kf3 64. Kd3 g4
+65. Kd2 Kf2 0-1
+
+[Event "CN Jovens 2014 - U12"]
+[Site "Luso POR"]
+[Date "2014.07.24"]
+[Round "2.9"]
+[White "Silva, Pedro Filipe"]
+[Black "Silva, Nuno Lynce"]
+[Result "1/2-1/2"]
+[ECO "D30"]
+[WhiteElo "1314"]
+[WhiteFideId "1934210"]
+[BlackFideId "1942727"]
+[PlyCount "64"]
+[EventDate "2014.07.23"]
+
+1. d4 d5 2. c4 e6 3. cxd5 exd5 4. Nc3 Nf6 5. Nf3 Bb4 6. Bg5 O-O 7. e3 c6 8. Be2
+Bg4 9. Qb3 Bxc3+ 10. bxc3 b5 11. O-O Nbd7 12. h3 Bh5 13. a4 a6 14. Rfe1 Qc7
+15. Bf4 Qb7 16. Ne5 Bxe2 17. Rxe2 Rfe8 18. Nxd7 Qxd7 19. axb5 axb5 20. Rxa8 Rxa8
+21. Ra2 Re8 22. Qb2 Nh5 23. Be5 f6 24. Bh2 g6 25. Qa1 Qb7 26. f3 Rxe3 27. Ra8+
+Kg7 28. Ra7 Re1+ 29. Qxe1 Qxa7 30. g4 b4 31. gxh5 b3 32. Bd6 b2 1/2-1/2
+
+[Event "CN Jovens 2014 - U12"]
+[Site "Luso POR"]
+[Date "2014.07.24"]
+[Round "2.10"]
+[White "Ribeiro, André Amorim"]
+[Black "Rodrigues, Pedro Serpa"]
+[Result "0-1"]
+[ECO "B44"]
+[WhiteElo "1190"]
+[BlackElo "1297"]
+[WhiteFideId "1928619"]
+[BlackFideId "1934724"]
+[PlyCount "70"]
+[EventDate "2014.07.23"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nxc6 bxc6 6. Bd3 Qc7 7. Nd2 Nf6
+8. h3 Bb7 9. O-O Be7 10. b3 Qe5 11. Rb1 Qc7 12. Re1 Bc5 13. e5 Nd5 14. Ne4 Qb6
+15. Bb2 Rg8 16. Nd6+ Bxd6 17. exd6 Nf6 18. Bxf6 gxf6 19. Bxh7 Rg7 20. Qh5 c5
+21. Bg6 fxg6 22. Qh6 Qc6 23. f3 Kf7 24. Rbd1 a5 25. Qf4 Rd8 26. h4 Rh7 27. Kf2
+Rdh8 28. Rh1 Rh5 29. g4 Rxh4 30. Kg2 g5 31. Rxh4 Rxh4 32. Qg3 Rh7 33. Rg1 Qd5
+34. Kf2 Qe5 35. Qg2 Rh2 0-1
+
+[Event "CN Jovens 2014 - U12"]
+[Site "Luso POR"]
+[Date "2014.07.24"]
+[Round "2.11"]
+[White "Gama, João"]
+[Black "Abreu, Alexandre"]
+[Result "1-0"]
+[ECO "C01"]
+[WhiteElo "1290"]
+[WhiteFideId "1926667"]
+[BlackFideId "1942182"]
+[PlyCount "131"]
+[EventDate "2014.07.23"]
+
+1. e4 e6 2. d4 d5 3. exd5 exd5 4. Bd3 Bd6 5. Nf3 Bg4 6. c3 c6 7. O-O Qc7 8. h3
+Bh5 9. Re1+ Ne7 10. Nbd2 O-O 11. Qc2 Bg6 12. Bxg6 Nxg6 13. c4 dxc4 14. Nxc4 Bb4
+15. Bd2 Bxd2 16. Ncxd2 Nd7 17. Rac1 Nf6 18. Nc4 Rac8 19. Ne3 Rfd8 20. Nf5 Nd5
+21. a3 Nge7 22. Nxe7+ Nxe7 23. Qc5 Nd5 24. Qxa7 Qb6 25. Qxb6 Nxb6 26. Re7 Rb8
+27. Rce1 Kf8 28. Ng5 h6 29. Nxf7 Rxd4 30. Nh8 Nc4 31. Ng6+ Kg8 32. Rc7 Kh7
+33. Ne7 Nxb2 34. Nf5 Rd1 35. Rxd1 Nxd1 36. Rxg7+ Kh8 37. Rd7 Nb2 38. Nd6 b6
+39. Nf7+ Kg7 40. Nd8+ Kf6 41. Nxc6 Rc8 42. Rd6+ Kg7 43. Ne7 Rb8 44. Nf5+ Kh7
+45. Rxh6+ Kg8 46. Ne7+ Kg7 47. Nf5+ Kg8 48. Rf6 b5 49. h4 Rb7 50. h5 Nc4 51. Nd6
+Nxd6 52. Rxd6 b4 53. axb4 Rxb4 54. g3 Rb7 55. g4 Rf7 56. Kg2 Kh7 57. Kg3 Rc7
+58. f4 Rc3+ 59. Kh4 Rf3 60. Kg5 Rc3 61. Rd7+ Kg8 62. f5 Rc8 63. h6 Rf8 64. Kg6
+Re8 65. Rg7+ Kf8 66. h7 1-0
+
+[Event "CN Jovens 2014 - U12"]
+[Site "Luso POR"]
+[Date "2014.07.24"]
+[Round "2.12"]
+[White "Cunha, Alexandre"]
+[Black "Maciel, Rafael"]
+[Result "0-1"]
+[ECO "C50"]
+[WhiteElo "1037"]
+[BlackElo "1285"]
+[WhiteFideId "1931890"]
+[BlackFideId "1935305"]
+[PlyCount "60"]
+[EventDate "2014.07.23"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. O-O Nf6 5. Nc3 d6 6. d3 Bg4 7. h3 Bh5 8. Bg5
+h6 9. Bh4 g5 10. Bg3 Qd7 11. Qd2 Bxf3 12. gxf3 O-O-O 13. Kg2 Rdg8 14. Kh2 h5
+15. h4 Nd4 16. Kg2 gxh4 17. Ne2 h3+ 18. Kh1 h2 19. Nxd4 Bxd4 20. c3 Bb6 21. Kxh2
+h4 22. Rh1 hxg3+ 23. Kg2 gxf2+ 24. Kf1 Rxh1+ 25. Ke2 Rxa1 26. d4 f1=Q+ 27. Ke3
+Re1+ 28. Qxe1 Qxe1+ 29. Kd3 Rg2 30. Be6 Qe2# 0-1
+
+[Event "CN Jovens 2014 - U12"]
+[Site "Luso POR"]
+[Date "2014.07.24"]
+[Round "2.13"]
+[White "Rodrigues, Constança"]
+[Black "Fernandes, João Adriano"]
+[Result "1-0"]
+[ECO "C53"]
+[WhiteFideId "1929240"]
+[BlackFideId "1939602"]
+[PlyCount "83"]
+[EventDate "2014.07.23"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Nf6 5. d3 O-O 6. Bg5 d6 7. h3 b6 8. b4 b5
+9. Bxb5 Bb7 10. bxc5 dxc5 11. O-O h6 12. Bh4 Ne7 13. Nxe5 g5 14. Bg3 c6 15. Ba4
+Re8 16. Bb3 Rf8 17. Re1 Rc8 18. Qf3 Qd6 19. Nxf7 Qd7 20. Ne5+ Nfd5 21. Nxd7 Rxf3
+22. gxf3 Rd8 23. Nf6+ Kg7 24. Nxd5 cxd5 25. exd5 Nxd5 26. Bxd5 Bxd5 27. Nd2 Kh7
+28. c4 Bc6 29. Re5 Rxd3 30. Rxc5 Be8 31. Re1 Bf7 32. Ne4 Rxf3 33. Re3 Bh5
+34. Rxf3 Bxf3 35. Nd2 Bh5 36. Rc7+ Kg8 37. c5 Bf3 38. Rxa7 Kf8 39. Bd6+ Kg8
+40. Ne4 g4 41. Nf6+ Kh8 42. Rh7# 1-0
+
+[Event "CN Jovens 2014 - U12"]
+[Site "Luso POR"]
+[Date "2014.07.24"]
+[Round "2.14"]
+[White "Silva, Tiago Alexandre"]
+[Black "Rego, João Rui"]
+[Result "0-1"]
+[ECO "C50"]
+[WhiteElo "1360"]
+[BlackElo "1317"]
+[WhiteFideId "1935321"]
+[BlackFideId "1934465"]
+[PlyCount "120"]
+[EventDate "2014.07.23"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Bc4 Be7 5. Nxd4 Nf6 6. Nc3 O-O 7. O-O Ne5
+8. Bb3 d6 9. f4 Ned7 10. Be6 Nc5 11. Bxc8 Qxc8 12. e5 Nfd7 13. Nf5 Qd8 14. exd6
+cxd6 15. Nxd6 Qb6 16. Nf5 Ne4+ 17. Be3 Bc5 18. Nxe4 Bxe3+ 19. Kh1 Rad8 20. Qe2
+Bc5 21. c3 Rfe8 22. b4 Bf8 23. Qf3 g6 24. Nfg3 Bg7 25. Qf2 Qxf2 26. Rxf2 f5
+27. Nd6 Re7 28. Rf3 Nb6 29. Rd1 Red7 30. c4 Nxc4 31. Rfd3 Rxd6 32. Rxd6 Rxd6
+33. Rxd6 Nxd6 34. Ne2 Ne4 35. g3 Nf2+ 36. Kg2 Nd3 37. b5 Kf7 38. Kf3 Nb4 39. a4
+Nd5 40. g4 Nc3 41. Nxc3 Bxc3 42. gxf5 gxf5 43. h3 Ke6 44. Ke3 Kd5 45. Kd3 Bg7
+46. h4 h5 47. a5 Bf6 48. a6 b6 49. Ke3 Bxh4 50. Kd3 Bg3 51. Ke2 Bxf4 52. Kf3 Bd6
+53. Kg2 Ke4 54. Kf2 Bg3+ 55. Kxg3 Ke3 56. Kh2 f4 57. Kg1 Ke2 58. Kg2 f3+ 59. Kg1
+f2+ 60. Kg2 f1=Q+ 0-1
+
+[Event "CN Jovens 2014 - U12"]
+[Site "Luso POR"]
+[Date "2014.07.24"]
+[Round "2.15"]
+[White "Barata, Manuel"]
+[Black "Santos, Pedro Miguel"]
+[Result "0-1"]
+[ECO "A02"]
+[WhiteFideId "1938983"]
+[BlackFideId "1922246"]
+[PlyCount "50"]
+[EventDate "2014.07.23"]
+
+1. f4 c5 2. e3 a6 3. Nf3 b5 4. Be2 e6 5. O-O Be7 6. b3 Nf6 7. Bb2 O-O 8. Nc3
+Bb7 9. h3 Nc6 10. d4 cxd4 11. Nxd4 Rc8 12. Nxc6 Bxc6 13. Bf3 Bxf3 14. Qxf3 b4
+15. Ne4 Rxc2 16. Nxf6+ Bxf6 17. Bxf6 Qxf6 18. a3 a5 19. axb4 axb4 20. Ra8 d5
+21. Rxf8+ Kxf8 22. e4 Rc3 23. Qe2 Qd4+ 24. Kh1 Qxe4 25. Ra1 Qxe2 0-1
+
+[Event "CN Jovens 2014 - U12"]
+[Site "Luso POR"]
+[Date "2014.07.24"]
+[Round "2.16"]
+[White "Silva, Rafael"]
+[Black "Encarnação, Filipe"]
+[Result "1-0"]
+[ECO "C53"]
+[WhiteFideId "1925857"]
+[BlackFideId "1942018"]
+[PlyCount "55"]
+[EventDate "2014.07.23"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 d6 5. d4 exd4 6. cxd4 Bb4+ 7. Bd2 Nf6
+8. Bxb4 Nxb4 9. Qa4+ Nc6 10. Qc2 Bg4 11. Nbd2 O-O 12. O-O d5 13. e5 dxc4
+14. exf6 Qxf6 15. Qxc4 Rfe8 16. Rfe1 Rad8 17. g3 Nxd4 18. Nxd4 h6 19. Ne4 Qb6
+20. b3 Rxd4 21. Nf6+ Qxf6 22. Rxe8+ Kh7 23. Qc2+ g6 24. Rae1 Bf5 25. Qxc7 Rd2
+26. R1e7 Bc8 27. Rxf7+ Qxf7 28. Qxf7# 1-0
+
+[Event "CN Jovens 2014 - U12"]
+[Site "Luso POR"]
+[Date "2014.07.24"]
+[Round "2.17"]
+[White "Santos, Leonor"]
+[Black "Gomes, Beatriz"]
+[Result "1-0"]
+[ECO "C44"]
+[WhiteFideId "1941739"]
+[BlackFideId "1936433"]
+[PlyCount "34"]
+[EventDate "2014.07.23"]
+[Annotator "Inc"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Bc4 Bc5 5. O-O Nf6 6. Re1 O-O 7. e5 Ng4
+8. Nxd4 Bxd4 9. Qxg4 Nxe5 10. Qxd4 Nc6 11. Qd5 Nb4 12. Qd2 Nc6 13. Nc3 d6 14. h3
+Bf5 15. Bd3 Be6 16. Qe3 Qf6 17. Qe4 g6 *
+
+[Event "CN Jovens 2014 - U12"]
+[Site "Luso POR"]
+[Date "2014.07.24"]
+[Round "2.18"]
+[White "Oliveira, Beatriz"]
+[Black "Antunes, André"]
+[Result "1-0"]
+[ECO "C48"]
+[WhiteFideId "1938649"]
+[BlackFideId "1936328"]
+[PlyCount "133"]
+[EventDate "2014.07.23"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nc3 Nc6 4. Bb5 d6 5. h3 Bd7 6. O-O Be7 7. d3 O-O 8. Bg5
+h6 9. Be3 a6 10. Ba4 Na5 11. b4 Bxa4 12. Nxa4 Nc6 13. a3 d5 14. Bc5 Bxc5
+15. Nxc5 b6 16. exd5 Qxd5 17. Nb3 a5 18. c4 Qd7 19. b5 Nd4 20. Nxe5 Qd6 21. Nxd4
+Qxd4 22. Nc6 Qd6 23. Qe2 Rae8 24. Qf3 Nd7 25. Rfe1 Nc5 26. Rad1 Rxe1+ 27. Rxe1
+Nxd3 28. Rd1 Qxa3 29. Qxd3 Qc5 30. Qd4 a4 31. Qxc5 bxc5 32. Ra1 Ra8 33. Ne7+ Kf8
+34. Nd5 a3 35. Nxc7 Ra4 36. b6 Rxc4 37. Rxa3 Rb4 38. Nd5 Rb5 39. Ra6 Ke8 40. Ra7
+c4 41. b7 Kd8 42. Ra8+ Kd7 43. b8=Q Rxb8 44. Rxb8 Kc6 45. Ne3 Kc5 46. Rc8+ Kd4
+47. Rxc4+ Ke5 48. Kh2 f5 49. f4+ Kf6 50. Rc6+ Kf7 51. Nxf5 g6 52. Nxh6+ Kg7
+53. Ng4 Kf7 54. Kg3 Kg7 55. Rc7+ Kg8 56. Kh4 Kf8 57. Kg5 Ke8 58. Kxg6 Kf8
+59. Ra7 Ke8 60. Kf6 Kd8 61. Ke6 Kc8 62. Kd6 Kb8 63. Rh7 Kc8 64. Rg7 Kb8 65. Kc6
+Ka8 66. Kb6 Kb8 67. Rg8# 1-0
+
+[Event "CN Jovens 2014 - U12"]
+[Site "Luso POR"]
+[Date "2014.07.24"]
+[Round "2.19"]
+[White "Rhodes, Mónica"]
+[Black "Rodrigues, José Francisco"]
+[Result "0-1"]
+[ECO "B40"]
+[WhiteFideId "1939262"]
+[BlackFideId "1934201"]
+[PlyCount "56"]
+[EventDate "2014.07.23"]
+
+1. e4 c5 2. Nc3 e6 3. Nf3 Nc6 4. d3 Nf6 5. Bf4 d6 6. e5 dxe5 7. Bxe5 Be7 8. Nb5
+Qa5+ 9. Nc3 O-O 10. Qd2 Rd8 11. Bf4 c4 12. O-O-O b5 13. d4 b4 14. Ne2 Qxa2
+15. c3 b3 16. Qe3 e5 17. Bxe5 Bf5 18. Kd2 Qxb2+ 19. Ke1 Qa2 20. Nc1 Qa3 21. Bxc4
+b2 22. Ne2 b1=Q 23. Rxb1 Bxb1 24. Bb5 Nxe5 25. Nxe5 Rab8 26. Bc4 Bg6 27. Nc6
+Rb1+ 28. Kd2 Qb2# 0-1
+
+[Event "CN Jovens 2014 - U12"]
+[Site "Luso POR"]
+[Date "2014.07.24"]
+[Round "2.20"]
+[White "Lobo, Hugo"]
+[Black "Carreira, David Santos"]
+[Result "1-0"]
+[ECO "B00"]
+[WhiteElo "1154"]
+[WhiteFideId "1934902"]
+[BlackFideId "1941399"]
+[PlyCount "87"]
+[EventDate "2014.07.23"]
+
+1. d4 Nc6 2. e4 e6 3. Nc3 d5 4. exd5 exd5 5. Nf3 Bg4 6. Be2 Bb4 7. a3 Ba5 8. h3
+Bh5 9. O-O Nf6 10. Bg5 O-O 11. Bxf6 Qxf6 12. Nxd5 Qg6 13. b4 Bb6 14. b5 Qd6
+15. bxc6 Qxd5 16. cxb7 Qxb7 17. c3 Bxf3 18. Bxf3 Qb8 19. Bxa8 Qxa8 20. Re1 c6
+21. Re3 Qb8 22. Rb1 g6 23. c4 Qf4 24. c5 Bc7 25. g3 Qf5 26. Rb7 Bd8 27. Qg4 Qxg4
+28. hxg4 Bg5 29. Reb3 Bh6 30. Rxa7 Bg7 31. Rd7 Re8 32. a4 Re1+ 33. Kg2 Re8
+34. a5 Ra8 35. Ra3 Bh6 36. a6 Bc1 37. Ra4 Kg7 38. a7 h6 39. Rb7 Rxa7 40. Raxa7
+Bg5 41. Rxf7+ Kg8 42. Rfc7 Bd8 43. Ra8 Kf8 44. Rxd8# 1-0
+
+[Event "CN Jovens 2014 - U12"]
+[Site "Luso POR"]
+[Date "2014.07.24"]
+[Round "2.21"]
+[White "Ferreira, Guilherme"]
+[Black "Dias, Tiago Monteiro"]
+[Result "1-0"]
+[ECO "C01"]
+[WhiteFideId "1939912"]
+[BlackFideId "1945785"]
+[PlyCount "55"]
+[EventDate "2014.07.23"]
+
+1. d4 e6 2. e4 d5 3. exd5 exd5 4. Bf4 Nf6 5. Nc3 Bb4 6. a3 Bxc3+ 7. bxc3 O-O
+8. Bd3 g6 9. Bh6 Re8+ 10. Ne2 Bg4 11. O-O Nc6 12. Qb1 Rb8 13. Nf4 Ne4 14. Qe1 b6
+15. c4 f5 16. cxd5 g5 17. dxc6 gxf4 18. Bxf4 Qxd4 19. Rd1 Nc5 20. Be3 Qb2
+21. Rd2 Nxd3 22. Rxd3 Qxc2 23. Rd7 f4 24. Qb4 Bxd7 25. Qxf4 Qxc6 26. Bd4 Rf8
+27. Qe5 Rbe8 28. Qg7# 1-0
+
+[Event "CN Jovens 2014 - U12"]
+[Site "Luso POR"]
+[Date "2014.07.24"]
+[Round "2.22"]
+[White "Fernandes, João Pedro S"]
+[Black "Silva, Manuel Amorim"]
+[Result "0-1"]
+[ECO "B02"]
+[WhiteFideId "1944452"]
+[BlackFideId "1944053"]
+[PlyCount "107"]
+[EventDate "2014.07.23"]
+
+1. e4 d5 2. Nc3 Nf6 3. d3 e5 4. Nf3 Bg4 5. Be2 Bxf3 6. Bxf3 Bb4 7. a3 Bxc3+
+8. bxc3 Nc6 9. O-O O-O 10. c4 d4 11. h3 Qd6 12. Bg5 Rfd8 13. Rb1 Rab8 14. Bxf6
+Qxf6 15. Qd2 a5 16. Rfe1 Re8 17. c3 Re6 18. Bg4 Ree8 19. Qb2 b6 20. Bd7 Ne7
+21. Bxe8 Rxe8 22. cxd4 exd4 23. e5 Qh4 24. g3 Qh6 25. Qxd4 Qe6 26. Qg4 Qh6
+27. Qd7 Kf8 28. Qxc7 Qh5 29. Rxb6 Ng6 30. d4 f6 31. exf6 Rxe1+ 32. Kh2 Qh6
+33. Rb8+ Re8 34. f7 Rxb8 35. Qxb8+ Kxf7 36. c5 Qd2 37. Kg2 Qxd4 38. c6 Qd5+
+39. Kh2 Qxc6 40. Qa7+ Ne7 41. Qxa5 Qd5 42. Qxd5+ Nxd5 43. a4 Nb6 44. a5 Na8
+45. a6 Ke7 46. a7 Kd7 47. f4 Kc7 48. g4 Kb7 49. f5 Kxa7 50. g5 Nc7 51. f6 g6
+52. f7 Ne6 53. Kg3 Kb6 54. Kg4 0-1
+
+[Event "CN Jovens 2014 - U12"]
+[Site "Luso POR"]
+[Date "2014.07.24"]
+[Round "2.23"]
+[White "Gomes, Gonçalo"]
+[Black "Rego, André Rodrigues"]
+[Result "1-0"]
+[ECO "B54"]
+[WhiteFideId "1941453"]
+[BlackFideId "1945793"]
+[PlyCount "51"]
+[EventDate "2014.07.23"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 e5 5. Nf3 Nf6 6. Nc3 g6 7. Bc4 Bg4 8. Bg5
+Bg7 9. Nd5 O-O 10. h3 Be6 11. O-O Nbd7 12. Re1 Rc8 13. b3 h6 14. Nxf6+ Bxf6
+15. Bxh6 Re8 16. Qd2 Bxc4 17. bxc4 Rxc4 18. Rac1 Qc7 19. Ng5 b5 20. Qd5 Bxg5
+21. Bxg5 Rc5 22. Qd2 Ra8 23. Bh6 a5 24. Re2 b4 25. Qg5 f6 26. Qxg6+ 1-0
+
+[Event "CN Jovens 2014 - U12"]
+[Site "Luso POR"]
+[Date "2014.07.24"]
+[Round "2.24"]
+[White "Gaspar, Pedro"]
+[Black "Braz, Ana Francisca"]
+[Result "1-0"]
+[ECO "B21"]
+[WhiteFideId "1936425"]
+[BlackFideId "1936352"]
+[PlyCount "81"]
+[EventDate "2014.07.23"]
+
+1. e4 c5 2. d4 cxd4 3. Qxd4 Nc6 4. Qe3 e5 5. Qf3 Nf6 6. Bc4 Bb4+ 7. c3 b5
+8. Bxb5 Qe7 9. cxb4 Nxb4 10. Qb3 O-O 11. Bg5 h6 12. Bxf6 gxf6 13. Nf3 Bb7
+14. Bd3 Rac8 15. O-O Qd6 16. Bc4 Bxe4 17. Nfd2 Bd3 18. Bxd3 Nxd3 19. Nc4 Qd5
+20. Nbd2 Nf4 21. f3 Ne2+ 22. Kh1 Rb8 23. Qd1 Qd3 24. Rf2 Nf4 25. Kg1 Rfc8
+26. Rc1 e4 27. fxe4 Rb4 28. Rxf4 Qd4+ 29. Kh1 Ra4 30. Qxa4 Rc7 31. Nf3 Qe3
+32. Rf1 Qxf4 33. Nfd2 Qg5 34. Rf5 Qg4 35. Rxf6 Qe2 36. Qa5 Qe1+ 37. Rf1 Qe2
+38. Qxc7 Qe3 39. Qd8+ Kg7 40. Qf6+ Kf8 41. Qxf7# 1-0
+
+[Event "CN Jovens 2014 - U12"]
+[Site "Luso POR"]
+[Date "2014.07.24"]
+[Round "2.25"]
+[White "Antunes, Ana"]
+[Black "Pinto, Pedro M R"]
+[Result "0-1"]
+[ECO "C50"]
+[WhiteFideId "1936310"]
+[BlackFideId "1936549"]
+[PlyCount "118"]
+[EventDate "2014.07.23"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. Nc3 Nf6 5. Ng5 O-O 6. Bxf7+ Rxf7 7. Nxf7 Kxf7
+8. O-O d6 9. d3 Kg8 10. Re1 Bg4 11. Ne2 Nd4 12. Qd2 Nxe2+ 13. Rxe2 Bxe2 14. Qxe2
+Qd7 15. Bg5 Rf8 16. Be3 Bxe3 17. Qxe3 Ng4 18. Qxa7 Rxf2 19. Qb8+ Rf8 20. Qxb7
+Qf7 21. Qd5 Qxd5 22. exd5 Rf2 23. Rf1 Rxf1+ 24. Kxf1 Nf6 25. c4 Kf8 26. b4 Ke7
+27. a4 Kd8 28. b5 Kc8 29. Ke2 Nd7 30. Kd2 Kb7 31. Kc3 Nc5 32. d4 Nxa4+ 33. Kb4
+Nb6 34. dxe5 dxe5 35. c5 Nxd5+ 36. Kc4 e4 37. Kxd5 e3 38. c6+ Kb6 39. Kc4 e2
+40. g4 e1=Q 41. h3 Qe2+ 42. Kb4 Qxb5+ 43. Kc3 Qd5 44. h4 Qxc6+ 45. Kd3 Qa4
+46. h5 Qxg4 47. Ke3 Qxh5 48. Ke4 Qf7 49. Ke3 g5 50. Ke4 g4 51. Ke5 g3 52. Kd4 g2
+53. Ke5 g1=R 54. Kd4 Qe7 55. Kd5 Rd1+ 56. Kc4 Qc5+ 57. Kb3 Rb1+ 58. Ka2 Qb5
+59. Ka3 Ra1# 0-1
+
+[Event "CN Jovens 2014 - U12"]
+[Site "Luso POR"]
+[Date "2014.07.24"]
+[Round "2.26"]
+[White "Lobo, Pedro"]
+[Black "Lança, Luis"]
+[Result "0-1"]
+[ECO "C55"]
+[WhiteFideId "1940082"]
+[BlackFideId "1936450"]
+[PlyCount "166"]
+[EventDate "2014.07.23"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d3 h6 5. a3 Bc5 6. Nc3 d6 7. h3 Be6 8. Bxe6
+fxe6 9. O-O O-O 10. Qe2 d5 11. exd5 exd5 12. Nxe5 Nxe5 13. Qxe5 Re8 14. Qg3 Nh5
+15. Qg4 Nf6 16. Qg3 Nh5 17. Qg6 Nf6 18. Bxh6 Bf8 19. Rfe1 Kh8 20. Rxe8 Nxe8
+21. Ne2 gxh6 22. Re1 Qd6 23. Qxd6 Nxd6 24. Nf4 Bg7 25. b3 Bc3 26. Re6 Nf5
+27. Nxd5 Ba5 28. b4 Bb6 29. Nxb6 axb6 30. Rf6 Ne7 31. Rxh6+ Kg7 32. Re6 Kf7
+33. Re3 Rxa3 34. Rf3+ Ke8 35. h4 Ra1+ 36. Kh2 Ng6 37. h5 Nf8 38. h6 Re1 39. g4
+Re6 40. Re3 Rxe3 41. fxe3 Kf7 42. Kg3 Kg6 43. Kh4 Kxh6 44. e4 Ng6+ 45. Kg3 Kg5
+46. d4 Nf4 47. c4 Ne2+ 48. Kf3 Nxd4+ 49. Ke3 Nc2+ 50. Kd3 Nxb4+ 51. Kd4 Nc6+
+52. Kd5 Kxg4 53. e5 Kf5 54. e6 Kf6 55. e7 Kxe7 56. Ke4 Kd6 57. Kd3 Kc5 58. Kc3
+Na5 59. Kd3 Nxc4 60. Kc3 b5 61. Kb3 b4 62. Ka2 Nd2 63. Kb2 Kc4 64. Ka1 Nb3+
+65. Kb2 Na5 66. Ka1 c5 67. Kb2 b3 68. Ka1 Kb4 69. Kb2 b5 70. Kb1 c4 71. Kc1 c3
+72. Kb1 Ka3 73. Ka1 b2+ 74. Kb1 c2+ 75. Kxc2 Ka2 76. Kc3 b1=Q 77. Kd4 b4 78. Kc5
+b3 79. Kb4 Qf5 80. Ka4 b2 81. Kb4 Qf8+ 82. Ka4 b1=Q 83. Kxa5 Qa8# 0-1
+
+[Event "CN Jovens 2014 - U12"]
+[Site "Luso POR"]
+[Date "2014.07.24"]
+[Round "2.27"]
+[White "Jesus, Ana"]
+[Black "Saraiva, Diogo"]
+[Result "1-0"]
+[ECO "C47"]
+[WhiteFideId "1941640"]
+[BlackFideId "1936611"]
+[PlyCount "55"]
+[EventDate "2014.07.23"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Nf6 5. Nc3 Bb4 6. Bd2 Bxc3 7. Bxc3 O-O
+8. Bd3 d6 9. O-O Bg4 10. Qe1 Bh5 11. Bd2 Ng4 12. e5 Qh4 13. h3 Ngxe5 14. Bf5
+Nxd4 15. Be4 c6 16. Qe3 Ne2+ 17. Kh1 Rfe8 18. Bc3 Nc4 19. Qd3 Rxe4 20. b3 Bg6
+21. Rae1 Re6 22. Qd1 Qh5 23. Ba1 Nf4 24. Qb1 Rxe1 25. Rxe1 Qg5 26. g3 Na3
+27. Qb2 Nxh3 28. Qxg7# 1-0
+
+[Event "CN Jovens 2014 - U12"]
+[Site "Luso POR"]
+[Date "2014.07.24"]
+[Round "3.1"]
+[White "Rodrigues, Pedro Serpa"]
+[Black "Veiga, Francisco"]
+[Result "0-1"]
+[ECO "B34"]
+[WhiteElo "1297"]
+[BlackElo "1680"]
+[WhiteFideId "1934724"]
+[BlackFideId "1930087"]
+[PlyCount "92"]
+[EventDate "2014.07.23"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 g6 5. Be3 Bg7 6. Be2 Nf6 7. Nc3 O-O
+8. O-O d6 9. h3 Bd7 10. f4 Nxd4 11. Bxd4 Bc6 12. Bxf6 Bxf6 13. Bd3 Qb6+ 14. Kh1
+Qxb2 15. Ne2 Qxa1 16. Qxa1 Bxa1 17. Rxa1 Rac8 18. Rf1 Ba4 19. Nd4 e5 20. Nb3
+Bxb3 21. axb3 f6 22. f5 g5 23. Rf3 Rfd8 24. Rg3 Kf8 25. Rf3 Rc7 26. Rf1 d5
+27. c4 dxe4 28. Bxe4 Rd4 29. Re1 Ke7 30. Bd5 Rd3 31. Rb1 Kd6 32. Kg1 b5 33. Be6
+b4 34. Re1 Kc5 35. Rb1 Rc6 36. Bd5 Ra6 37. Be4 Rc3 38. Bf3 Ra3 39. Bd1 Kd4
+40. Kh2 Ke4 41. Rb2 Kxf5 42. g4+ Ke6 43. Kg2 Ra6 44. Rd2 Rd6 45. Rxd6+ Kxd6
+46. Kh2 Rd3 0-1
+
+[Event "CN Jovens 2014 - U12"]
+[Site "Luso POR"]
+[Date "2014.07.24"]
+[Round "3.2"]
+[White "Fidalgo, Daniel"]
+[Black "Gama, João"]
+[Result "1-0"]
+[ECO "A20"]
+[WhiteElo "1645"]
+[BlackElo "1290"]
+[WhiteFideId "1934279"]
+[BlackFideId "1926667"]
+[PlyCount "95"]
+[EventDate "2014.07.23"]
+
+1. c4 e5 2. g3 Nf6 3. Bg2 Nc6 4. Nc3 d6 5. Nf3 Be7 6. d3 O-O 7. O-O Re8 8. Rb1
+Bf8 9. Ne1 Bf5 10. e4 Bg6 11. f4 Bh5 12. Bf3 Bxf3 13. Qxf3 a5 14. f5 Nd4 15. Qg2
+Qd7 16. g4 Reb8 17. g5 Ne8 18. Nf3 Nxf3+ 19. Rxf3 Kh8 20. Nd5 b6 21. g6 c6
+22. Nc3 Nc7 23. gxh7 f6 24. Qg6 Qe8 25. Be3 Na6 26. a3 Qxg6+ 27. fxg6 b5
+28. cxb5 cxb5 29. Nd5 Nc5 30. Bxc5 dxc5 31. h4 b4 32. a4 b3 33. h5 Rb7 34. h6
+Ra6 35. Rbf1 Rd7 36. Rf5 Rc6 37. Rxe5 Rd8 38. Ref5 Rd7 39. hxg7+ Bxg7 40. Nxf6
+Bxf6 41. Rxf6 Rxf6 42. Rxf6 Rd8 43. Rf7 Re8 44. e5 c4 45. dxc4 Rd8 46. e6 Re8
+47. e7 Rxe7 48. Rf8+ 1-0
+
+[Event "CN Jovens 2014 - U12"]
+[Site "Luso POR"]
+[Date "2014.07.24"]
+[Round "3.3"]
+[White "Oliveira, Alice"]
+[Black "Maciel, Rafael"]
+[Result "1-0"]
+[ECO "C77"]
+[WhiteElo "1521"]
+[BlackElo "1285"]
+[WhiteFideId "1930818"]
+[BlackFideId "1935305"]
+[PlyCount "55"]
+[EventDate "2014.07.23"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. d3 Bc5 6. c3 d6 7. O-O Bg4 8. Nbd2
+O-O 9. Re1 Qd7 10. Nf1 Qe6 11. h3 Bh5 12. Ng3 Ne7 13. Bb3 Qd7 14. Nxh5 Nxh5
+15. Nxe5 dxe5 16. Qxh5 Qd6 17. Bc2 Qf6 18. d4 Bd6 19. f4 Ng6 20. fxe5 Bxe5
+21. dxe5 Nxe5 22. Rf1 Rad8 23. Rxf6 gxf6 24. Bh6 Rfe8 25. Rf1 Re6 26. Rxf6 Rxf6
+27. Qg5+ Rg6 28. Qxd8# 1-0
+
+[Event "CN Jovens 2014 - U12"]
+[Site "Luso POR"]
+[Date "2014.07.24"]
+[Round "3.4"]
+[White "Camacho, Diogo"]
+[Black "Silva, João Miguel"]
+[Result "0-1"]
+[ECO "A40"]
+[BlackElo "1481"]
+[WhiteFideId "1932306"]
+[BlackFideId "1926039"]
+[PlyCount "76"]
+[EventDate "2014.07.23"]
+
+1. d4 e6 2. c4 c5 3. d5 d6 4. e4 g6 5. Nc3 Bg7 6. Nf3 Ne7 7. Bg5 a6 8. Qd2 exd5
+9. exd5 O-O 10. Bd3 Qc7 11. O-O f6 12. Bf4 Nd7 13. Ne4 Ne5 14. Qe3 Nf5 15. Qe2
+Bd7 16. Ng3 Nxd3 17. Qxd3 Nxg3 18. Bxg3 f5 19. Rfe1 Bxb2 20. Rab1 Bf6 21. Bh4
+Bxh4 22. Nxh4 Rae8 23. Nf3 b5 24. Ng5 bxc4 25. Qxc4 Bc8 26. Re6 Bxe6 27. Nxe6
+Qa5 28. Nxf8 Re1+ 29. Rxe1 Qxe1+ 30. Qf1 Qxf1+ 31. Kxf1 Kxf8 32. Ke2 Kf7 33. f4
+Kf6 34. h4 h6 35. a4 g5 36. g3 gxh4 37. gxh4 Kg6 38. Kd3 Kh5 0-1
+
+[Event "CN Jovens 2014 - U12"]
+[Site "Luso POR"]
+[Date "2014.07.24"]
+[Round "3.5"]
+[White "Santos, José Gulherme"]
+[Black "Rodrigues, Constança"]
+[Result "1-0"]
+[ECO "C47"]
+[WhiteFideId "1939300"]
+[BlackFideId "1929240"]
+[PlyCount "66"]
+[EventDate "2014.07.23"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. a3 a6 5. Be2 d6 6. O-O Be7 7. d4 O-O 8. d5
+Nb8 9. h3 h6 10. Be3 c6 11. Na4 c5 12. c4 Nxe4 13. b4 Qc7 14. Bd3 Nf6 15. bxc5
+e4 16. Nb6 Ra7 17. Nxc8 Qxc8 18. cxd6 Ra8 19. dxe7 Re8 20. d6 exd3 21. Qxd3 Qd7
+22. Rad1 Nc6 23. c5 Rac8 24. Bd4 Nh7 25. Bb2 Kh8 26. Qd5 Kg8 27. Ne5 Nxe5
+28. Qxe5 Nf6 29. Qg3 Nh5 30. Qg4 Qxg4 31. hxg4 Nf6 32. Bxf6 gxf6 33. d7 Rxe7 1-0
+
+[Event "CN Jovens 2014 - U12"]
+[Site "Luso POR"]
+[Date "2014.07.24"]
+[Round "3.6"]
+[White "Silva, Nuno Lynce"]
+[Black "Cordeiro, João"]
+[Result "0-1"]
+[ECO "C50"]
+[BlackElo "1524"]
+[WhiteFideId "1942727"]
+[BlackFideId "1935291"]
+[PlyCount "93"]
+[EventDate "2014.07.23"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. O-O d6 5. h3 h6 6. Nc3 Nf6 7. d3 O-O 8. Be3
+Bb6 9. Re1 Na5 10. Bb3 Nxb3 11. axb3 c6 12. Bxb6 Qxb6 13. Qd2 Bd7 14. Nh2 Ne8
+15. Qe3 Qxe3 16. fxe3 f5 17. Rf1 fxe4 18. Rxf8+ Kxf8 19. Rf1+ Ke7 20. Nxe4 Nf6
+21. Nd2 Nd5 22. Rf3 Rf8 23. Kf2 Rxf3+ 24. Nhxf3 Nb4 25. Ne1 g5 26. c3 Nd5 27. g4
+Nf6 28. Kg3 h5 29. gxh5 Nxh5+ 30. Kg2 d5 31. Nef3 Kf6 32. c4 g4 33. hxg4 Bxg4
+34. e4 Nf4+ 35. Kg3 Bxf3 36. Nxf3 Nxd3 37. cxd5 cxd5 38. exd5 Nxb2 39. d6 Ke6
+40. d7 Kxd7 41. Nxe5+ Kd6 42. Kf4 Kc5 43. Ke4 Kb4 44. Kd5 Kxb3 45. Nc6 bxc6+
+46. Kxc6 a5 47. Kd5 0-1
+
+[Event "CN Jovens 2014 - U12"]
+[Site "Luso POR"]
+[Date "2014.07.24"]
+[Round "3.7"]
+[White "Santos, José Miguel"]
+[Black "Silva, Pedro Filipe"]
+[Result "1-0"]
+[ECO "B23"]
+[WhiteElo "1452"]
+[BlackElo "1314"]
+[WhiteFideId "1930834"]
+[BlackFideId "1934210"]
+[PlyCount "131"]
+[EventDate "2014.07.23"]
+
+1. e4 c5 2. Nc3 e6 3. f4 Nc6 4. d3 Nge7 5. Nf3 d5 6. g3 d4 7. Ne2 g6 8. Bg2 Bg7
+9. O-O O-O 10. a3 f6 11. Nd2 e5 12. fxe5 fxe5 13. Nf3 a6 14. Ng5 b5 15. Nf3 c4
+16. Bd2 cxd3 17. cxd3 Bd7 18. Rc1 Rc8 19. Qb3+ Kh8 20. Qc2 Kg8 21. Qb3+ Kh8
+22. Ng5 Rxf1+ 23. Rxf1 Be8 24. Qd1 Qd7 25. Bh3 Qd8 26. Bxc8 Qxc8 27. Nf7+ Bxf7
+28. Rxf7 Qg4 29. Rf1 Qc8 30. Bg5 Qd7 31. Bf6 Qe8 32. Bxg7+ Kxg7 33. Qe1 a5
+34. b3 Qg8 35. Qf2 Qe8 36. Qf6+ Kg8 37. Qf2 Kg7 38. Kg2 g5 39. Qf6+ Kg8
+40. Qxg5+ Qg6 41. Qxg6+ hxg6 42. Ng1 Kg7 43. Nf3 Kh6 44. Ng1 Kg7 45. Nf3 Kh6
+46. h3 Kh5 47. Nd2 Kh6 48. Rc1 Kg5 49. Rc5 b4 50. a4 Kf6 51. Rc1 Kg5 52. Rf1 Kh6
+53. Nc4 Kg7 54. Rf2 Nc8 55. Rc2 N8e7 56. Kf3 g5 57. Nd6 Kf6 58. Rf2 Ke6 59. Nc4
+Kf6 60. Kg4+ Kg6 61. Nd6 Nd8 62. Nf5 Nec6 63. Nd6 Ne7 64. h4 gxh4 65. gxh4 Kh6
+66. Nf7+ 1-0
+
+[Event "CN Jovens 2014 - U12"]
+[Site "Luso POR"]
+[Date "2014.07.24"]
+[Round "3.8"]
+[White "Rego, João Rui"]
+[Black "Ribeiro, Orlando"]
+[Result "0-1"]
+[ECO "C50"]
+[WhiteElo "1317"]
+[BlackElo "1219"]
+[WhiteFideId "1934465"]
+[BlackFideId "1936573"]
+[PlyCount "140"]
+[EventDate "2014.07.23"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. Nc3 Nf6 5. d3 d6 6. Bg5 Be6 7. Bb5 Bd7 8. Nd5
+Nb8 9. Bxf6 gxf6 10. Bxd7+ Nxd7 11. Qd2 c6 12. Ne3 Bxe3 13. fxe3 Qb6 14. O-O-O
+O-O-O 15. Rde1 Qa6 16. a3 Kb8 17. Nh4 d5 18. Qb4 c5 19. Qb3 c4 20. dxc4 Qxc4
+21. Qxc4 dxc4 22. Rhf1 Rhg8 23. g3 Rg4 24. Nf5 Rf8 25. Nd6 a6 26. Nxc4 Rxe4
+27. Rd1 Rxc4 28. Rxd7 Rc6 29. Kb1 Kc8 30. Rfd1 h6 31. b3 Rc3 32. R1d3 Rxd3
+33. Rxd3 Rd8 34. Kb2 Rxd3 35. cxd3 Kd7 36. Kc3 Kd6 37. b4 f5 38. a4 b5 39. axb5
+axb5 40. h3 h5 41. h4 Kd5 42. Kd2 e4 43. Kc3 exd3 44. Kxd3 Ke5 45. Kd2 Ke4
+46. Ke2 f6 47. Kf2 Kd3 48. Kf3 Kc4 49. Kf4 Kxb4 50. Kxf5 Kc4 51. Kxf6 b4 52. e4
+b3 53. e5 b2 54. e6 b1=Q 55. e7 Qf1+ 56. Kg5 Qf7 57. Kh6 Qxe7 58. Kxh5 Qe5+
+59. Kg4 Kd3 60. Kh3 Qf5+ 61. Kh2 Qg4 62. Kh1 Qxg3 63. h5 Qh4+ 64. Kg1 Qxh5
+65. Kf2 Qh3 66. Kg1 Qf3 67. Kh2 Qg4 68. Kh1 Ke2 69. Kh2 Kf2 70. Kh1 Qh3# 0-1
+
+[Event "CN Jovens 2014 - U12"]
+[Site "Luso POR"]
+[Date "2014.07.24"]
+[Round "3.9"]
+[White "Martins, Bruno"]
+[Black "Martins, Antonio M G Costa"]
+[Result "1/2-1/2"]
+[ECO "C55"]
+[BlackElo "1408"]
+[WhiteFideId "1942255"]
+[BlackFideId "1930079"]
+[PlyCount "81"]
+[EventDate "2014.07.23"]
+
+1. e4 e5 2. Nf3 Nf6 3. Bc4 Nc6 4. d3 d6 5. h3 Be7 6. O-O O-O 7. Nc3 Bd7 8. a3
+Qc8 9. Kh2 Be6 10. Bxe6 Qxe6 11. Re1 Qd7 12. d4 exd4 13. Nxd4 Nxd4 14. Qxd4 Rfe8
+15. Bg5 h6 16. Bd2 a6 17. Re3 Bf8 18. Nd5 Nxd5 19. Qxd5 Rab8 20. Rg3 Qe6
+21. Qxe6 Rxe6 22. Re1 Rbe8 23. Rge3 g6 24. g4 Bg7 25. Bc3 Bxc3 26. Rxc3 c6
+27. Rce3 Kg7 28. Kg3 Kf8 29. c4 Ke7 30. Rb3 Rb8 31. f3 Kd7 32. Rd1 Kc7 33. Rbd3
+c5 34. b4 b6 35. Ra1 Kc6 36. Rb3 Kd7 37. b5 a5 38. a4 Ke7 39. Rd1 Rg8 40. Rbd3
+Rd8 41. Rd5 1/2-1/2
+
+[Event "CN Jovens 2014 - U12"]
+[Site "Luso POR"]
+[Date "2014.07.24"]
+[Round "3.10"]
+[White "Rocha, João"]
+[Black "Gaspar, Pedro"]
+[Result "1-0"]
+[ECO "C50"]
+[WhiteFideId "1939297"]
+[BlackFideId "1936425"]
+[PlyCount "21"]
+[EventDate "2014.07.23"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Qf6 4. O-O Bc5 5. Nc3 Nge7 6. Nd5 Qd6 7. d3 Nxd5
+8. Bxd5 O-O 9. Ng5 Nd8 10. Qh5 Qe7 11. Qxh7# 1-0
+
+[Event "CN Jovens 2014 - U12"]
+[Site "Luso POR"]
+[Date "2014.07.24"]
+[Round "3.11"]
+[White "Abreu, Alexandre"]
+[Black "Palmelão, Pedro"]
+[Result "1-0"]
+[ECO "C48"]
+[WhiteFideId "1942182"]
+[BlackFideId "1936522"]
+[PlyCount "123"]
+[EventDate "2014.07.23"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nc3 Nc6 4. Bb5 d6 5. h3 Bd7 6. O-O Be7 7. Re1 O-O
+8. Bxc6 Bxc6 9. d4 h6 10. dxe5 dxe5 11. Qxd8 Raxd8 12. Nxe5 Be8 13. Be3 a6
+14. Rad1 Bd6 15. Bc5 b6 16. Bxd6 Rxd6 17. Rxd6 cxd6 18. Nc4 b5 19. Nxd6 Bc6
+20. a3 Rd8 21. e5 Nh5 22. Nce4 Nf4 23. f3 Ne6 24. Kf2 Nd4 25. Rc1 Bd5 26. Rd1
+Be6 27. Rxd4 Bc4 28. b3 Be6 29. c4 bxc4 30. bxc4 Rd7 31. f4 Rc7 32. Ke3 Kf8
+33. f5 Bd7 34. c5 Bc6 35. e6 Bxe4 36. Nxe4 fxe6 37. fxe6 Ke7 38. Rd7+ Rxd7
+39. exd7 Kxd7 40. Kd4 Kc6 41. Kc4 a5 42. a4 Kc7 43. Kb5 Kb7 44. Kxa5 Kc6 45. Ka6
+Kc7 46. Kb5 Kb7 47. c6+ Kc7 48. a5 Kb8 49. Kb6 g5 50. c7+ Kc8 51. Nd6+ Kd7
+52. c8=Q+ Kxd6 53. Qh8 Kd5 54. Qxh6 Ke4 55. Qxg5 Kd3 56. Qf4 Kc2 57. Qe3 Kd1
+58. Qf2 Kc1 59. Kc5 Kd1 60. Kc4 Kc1 61. Kc3 Kb1 62. Qb2# 1-0
+
+[Event "CN Jovens 2014 - U12"]
+[Site "Luso POR"]
+[Date "2014.07.24"]
+[Round "3.12"]
+[White "Pinto, Pedro M R"]
+[Black "Monteiro, Tomás"]
+[Result "1-0"]
+[ECO "B50"]
+[BlackElo "1243"]
+[WhiteFideId "1936549"]
+[BlackFideId "1930800"]
+[PlyCount "159"]
+[EventDate "2014.07.23"]
+
+1. e4 c5 2. Nf3 d6 3. Nc3 g6 4. d3 Bg7 5. Be2 Nf6 6. O-O O-O 7. h3 Nc6 8. Rb1
+a6 9. Bf4 Bd7 10. Nd5 Nxd5 11. exd5 Nb4 12. a3 Nxd5 13. Bc1 b5 14. d4 Nb6 15. b3
+Bc6 16. Bb2 Bxf3 17. Bxf3 Rb8 18. d5 c4 19. Bxg7 Kxg7 20. Re1 a5 21. Qc1 Qc7
+22. Re4 cxb3 23. Rxb3 Nxd5 24. Rh4 h5 25. Bxh5 Rh8 26. Qg5 Nf6 27. Re3 Rbe8
+28. Re6 Rxh5 29. Rxh5 Nxh5 30. Re2 b4 31. a4 Nf6 32. Qc1 b3 33. Kh1 Rb8 34. c3
+Nd5 35. c4 Nb6 36. Qc3+ e5 37. Qxb3 Nxc4 38. Qc3 d5 39. Rd2 Rb1+ 40. Kh2 d4
+41. Qc2 e4+ 42. g3 Rb2 43. Qxe4 Rxd2 44. Kg2 Ne3+ 45. Kf3 Qd7 46. Qe5+ f6
+47. Qe4 Qxh3 48. Qe7+ Kh6 49. Qf8+ Kg5 50. Qc5+ f5 51. Qe7+ Kh5 52. Qh7+ Kg5
+53. Qxh3 Kf6 54. Qh4+ g5 55. Qh6+ Ke5 56. Qg7+ Ke6 57. Qg8+ Kf6 58. Qd8+ Ke5
+59. Qe7+ Kd5 60. Qd8+ Ke6 61. Qxg5 Ke5 62. fxe3 dxe3 63. Qxe3+ Kf6 64. Qxd2 Kg6
+65. Qd3 Kg5 66. Qd4 Kg6 67. Qf4 Kf6 68. g4 Ke6 69. Qxf5+ Kd6 70. Qe4 Kc5 71. Qd3
+Kb4 72. Qc2 Ka3 73. Qc4 Kb2 74. Qd3 Ka1 75. Qe2 Kb1 76. Ke3 Kc1 77. Kd3 Kb1
+78. Kc3 Ka1 79. Kb3 Kb1 80. Qb2# 1-0
+
+[Event "CN Jovens 2014 - U12"]
+[Site "Luso POR"]
+[Date "2014.07.24"]
+[Round "3.13"]
+[White "Garcia, Nathalia"]
+[Black "Santos, Leonor"]
+[Result "1-0"]
+[ECO "C49"]
+[WhiteElo "1231"]
+[WhiteFideId "1936417"]
+[BlackFideId "1941739"]
+[PlyCount "81"]
+[EventDate "2014.07.23"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. Bb5 Bb4 5. d3 h6 6. O-O Bxc3 7. bxc3 O-O
+8. Bxc6 dxc6 9. Nxe5 Re8 10. Nf3 Bg4 11. h3 Bh5 12. Re1 Re5 13. Qe2 Rc5 14. c4
+Re5 15. Qe3 Bg6 16. Nxe5 Qe8 17. Bb2 Rd8 18. Nxg6 fxg6 19. Bxf6 gxf6 20. Qxh6
+Rd6 21. Qe3 Qe5 22. Rad1 Qc3 23. Qd2 Qb2 24. Qa5 Qxc2 25. Qxc7 Rxd3 26. Rxd3
+Qxd3 27. Qxb7 Qxc4 28. Rd1 Qc5 29. Rd8+ Qf8 30. Rxf8+ Kxf8 31. Qxa7 f5 32. exf5
+gxf5 33. Qc5+ Kf7 34. Qxc6 f4 35. a4 f3 36. a5 fxg2 37. a6 Ke7 38. a7 Kf7
+39. a8=R Ke7 40. Ra7+ Kd8 41. Qa8# 1-0
+
+[Event "CN Jovens 2014 - U12"]
+[Site "Luso POR"]
+[Date "2014.07.24"]
+[Round "3.14"]
+[White "Santos, Pedro Miguel"]
+[Black "Ferreira, Guilherme"]
+[Result "1-0"]
+[ECO "B01"]
+[WhiteFideId "1922246"]
+[BlackFideId "1939912"]
+[PlyCount "75"]
+[EventDate "2014.07.23"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qa5 4. b3 Bf5 5. Bb2 Nc6 6. Qe2 Bxc2 7. Nf3 O-O-O
+8. g3 e6 9. Bg2 Bc5 10. O-O Nf6 11. Ne1 Nd4 12. Qc4 Rhe8 13. Rc1 e5 14. Nxc2
+Ne2+ 15. Qxe2 h5 16. a3 Qb6 17. Na4 Qc6 18. Bxc6 Re6 19. Bxb7+ Kxb7 20. Nxc5+
+Kc8 21. Nxe6 Re8 22. Qxe5 Re7 23. Nxc7 Rxc7 24. Qxc7+ Kxc7 25. Bxf6 gxf6
+26. Nd4+ Kd6 27. Rfe1 Kd5 28. Nb5 a6 29. Na7 Kd4 30. b4 Kd3 31. Re8 Kxd2 32. Rc7
+a5 33. b5 h4 34. b6 hxg3 35. b7 gxf2+ 36. Kxf2 a4 37. b8=Q Kd3 38. Qd8# 1-0
+
+[Event "CN Jovens 2014 - U12"]
+[Site "Luso POR"]
+[Date "2014.07.24"]
+[Round "3.15"]
+[White "Silva, Manuel Amorim"]
+[Black "Prazeres, João"]
+[Result "0-1"]
+[ECO "C02"]
+[WhiteFideId "1944053"]
+[BlackFideId "1939084"]
+[PlyCount "66"]
+[EventDate "2014.07.23"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. Nf3 Nc6 5. Nc3 Qb6 6. Be3 Qxb2 7. Rb1 Qxc3+
+8. Qd2 Qxd2+ 9. Nxd2 cxd4 10. Bf4 Bb4 11. Rb3 Bxd2+ 12. Bxd2 Nxe5 13. Bb5+ Bd7
+14. O-O Bxb5 15. Rxb5 Nc4 16. Bf4 b6 17. Rd1 Rc8 18. Rxd4 Rc5 19. Rb4 e5 20. Bg3
+exd4 21. Be5 Nxe5 22. g3 Rc4 23. Rb3 Rxc2 24. Rb4 d3 25. Rd4 Nf3+ 26. Kg2 Nxd4
+27. Kf1 d2 28. Kg2 d1=Q 29. Kh3 Qf1+ 30. Kg4 b5 31. Kf4 Rxf2+ 32. Kg5 Ne6+
+33. Kh5 Qh3# 0-1
+
+[Event "CN Jovens 2014 - U12"]
+[Site "Luso POR"]
+[Date "2014.07.24"]
+[Round "3.16"]
+[White "Gomes, Gonçalo"]
+[Black "Silva, Rafael"]
+[Result "1-0"]
+[ECO "C44"]
+[WhiteFideId "1941453"]
+[BlackFideId "1925857"]
+[PlyCount "33"]
+[EventDate "2014.07.23"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Nxd4 5. Qxd4 b6 6. Nc3 Bb7 7. Bc4 Bb4
+8. a3 Bxc3+ 9. Qxc3 Bxe4 10. Qe3 Nf6 11. Bd5 O-O 12. Bxe4 Re8 13. f3 d5 14. O-O
+dxe4 15. fxe4 Rxe4 16. Rxf6 gxf6 17. Qxe4 1-0
+
+[Event "CN Jovens 2014 - U12"]
+[Site "Luso POR"]
+[Date "2014.07.24"]
+[Round "3.17"]
+[White "Ribeiro, André Amorim"]
+[Black "Cunha, Alexandre"]
+[Result "1-0"]
+[ECO "C62"]
+[WhiteElo "1190"]
+[BlackElo "1037"]
+[WhiteFideId "1928619"]
+[BlackFideId "1931890"]
+[PlyCount "117"]
+[EventDate "2014.07.23"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 d6 4. d4 a6 5. Bxc6+ bxc6 6. dxe5 Bg4 7. exd6 cxd6
+8. O-O Nf6 9. Re1 Be7 10. Bg5 h6 11. Bh4 g5 12. Bg3 O-O 13. Nc3 d5 14. e5 Nh5
+15. Qd4 Bxf3 16. gxf3 f5 17. f4 gxf4 18. Bxf4 Nxf4 19. Qxf4 Bg5 20. Qd4 Kh7
+21. Kh1 Rg8 22. Rg1 Qe7 23. Rg2 Rad8 24. f4 Bh4 25. Rag1 Rxg2 26. Rxg2 Rg8
+27. Rxg8 Kxg8 28. Qb6 Qe8 29. Qxa6 Qg6 30. Qc8+ Kf7 31. Qd7+ Be7 32. e6+ Qxe6
+33. Qxe6+ Kxe6 34. Kg2 c5 35. b3 d4 36. Nb5 Kd5 37. Kf3 c4 38. Nc7+ Kc5 39. Ke2
+Bd6 40. Ne6+ Kd5 41. Ng7 Ke4 42. bxc4 Kxf4 43. a4 Ke4 44. a5 f4 45. Ne8 f3+
+46. Kf2 Bc5 47. Nf6+ Kf5 48. Nd7 d3+ 49. Nxc5 dxc2 50. Nb3 Ke4 51. a6 Kd3 52. a7
+Kc3 53. Nc1 Kb2 54. a8=Q Kxc1 55. c5 Kd2 56. Qd5+ Kc3 57. Qxf3+ Kb2 58. Qe2 Kb1
+59. Qxc2+ 1-0
+
+[Event "CN Jovens 2014 - U12"]
+[Site "Luso POR"]
+[Date "2014.07.24"]
+[Round "3.18"]
+[White "Fernandes, João Adriano"]
+[Black "Oliveira, Beatriz"]
+[Result "0-1"]
+[ECO "C50"]
+[WhiteFideId "1939602"]
+[BlackFideId "1938649"]
+[PlyCount "66"]
+[EventDate "2014.07.23"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. O-O Nxe4 5. Qe1 d5 6. Bb3 Bg4 7. d3 Bxf3
+8. gxf3 Nf6 9. f4 e4 10. Nc3 Nd4 11. dxe4 Nf3+ 12. Kh1 Nxe1 13. Rxe1 dxe4
+14. Nxe4 Nxe4 15. Rxe4+ Be7 16. f5 O-O 17. Rg4 Qd1+ 18. Kg2 Qxg4+ 19. Kf1 Qxf5
+20. Be3 Qh3+ 21. Kg1 Bd6 22. f4 Qxe3+ 23. Kf1 Qxf4+ 24. Ke1 Rfe8+ 25. Kd1 Qf1+
+26. Kd2 Qxa1 27. Bc4 Bf4+ 28. Kc3 Qe1+ 29. Kb3 Qe3+ 30. c3 a5 31. a3 a4+ 32. Kb4
+Bd6+ 33. Kb5 Qc5# 0-1
+
+[Event "CN Jovens 2014 - U12"]
+[Site "Luso POR"]
+[Date "2014.07.24"]
+[Round "3.19"]
+[White "Rodrigues, José Francisco"]
+[Black "Jesus, Ana"]
+[Result "1-0"]
+[ECO "C44"]
+[WhiteFideId "1934201"]
+[BlackFideId "1941640"]
+[PlyCount "105"]
+[EventDate "2014.07.23"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 Nf6 4. dxe5 Nxe5 5. Nxe5 Qe7 6. Bf4 d6 7. Nd3 Bf5
+8. Be2 Be6 9. O-O O-O-O 10. e5 Nh5 11. Bxh5 Bd5 12. exd6 Qd7 13. Nc5 Qf5 14. Bf3
+Bc4 15. Be2 Qxf4 16. Bxc4 Qxc4 17. Nd3 Bxd6 18. b3 Qd4 19. Nd2 c6 20. Nf3 Qf6
+21. Re1 Bc7 22. a4 Qd6 23. b4 f6 24. g3 f5 25. Ng5 Qh6 26. Nf7 Qh3 27. Nxd8 Rxd8
+28. Re7 Bd6 29. Rxg7 f4 30. Qg4+ Qxg4 31. Rxg4 h5 32. Rh4 Rh8 33. Nxf4 Be5
+34. Re1 Re8 35. Nxh5 b6 36. Rhe4 Kd7 37. Rxe5 Rh8 38. Rd1+ Kc7 39. Re7+ Kc8
+40. Nf4 Rf8 41. h4 Kb8 42. h5 Ka8 43. Rde1 Kb8 44. Re8+ Rxe8 45. Rxe8+ Kb7
+46. h6 Ka6 47. h7 b5 48. axb5+ cxb5 49. h8=R Kb6 50. Rh6+ Kc7 51. Re7+ Kd8
+52. Rxa7 Kc8 53. Rh8# 1-0
+
+[Event "CN Jovens 2014 - U12"]
+[Site "Luso POR"]
+[Date "2014.07.24"]
+[Round "3.20"]
+[White "Lança, Luis"]
+[Black "Lobo, Hugo"]
+[Result "0-1"]
+[ECO "B23"]
+[BlackElo "1154"]
+[WhiteFideId "1936450"]
+[BlackFideId "1934902"]
+[PlyCount "78"]
+[EventDate "2014.07.23"]
+
+1. e4 c5 2. Nc3 Nc6 3. Bc4 Nf6 4. d3 h6 5. Be3 d6 6. Nf3 e6 7. Bb3 Be7 8. O-O
+O-O 9. Qd2 e5 10. h3 Qa5 11. Rae1 Nd4 12. Nd5 Qxd2 13. Nxd2 Nxb3 14. Nxe7+ Kh8
+15. Nxb3 Be6 16. Na5 Rab8 17. a3 Rfe8 18. Nf5 d5 19. Rd1 dxe4 20. dxe4 Nxe4
+21. f3 Bxf5 22. fxe4 Bxe4 23. c3 Kg8 24. Rd7 Rf8 25. Bxc5 Rfe8 26. Bxa7 Ra8
+27. Bb6 Re6 28. Rfxf7 Rxb6 29. Rxg7+ Kf8 30. Rxb7 Bxb7 31. Rh7 Rxa5 32. g4 e4
+33. b4 Re5 34. a4 e3 35. Kf1 e2+ 36. Ke1 Rd6 37. Rh8+ Kg7 38. Rb8 Rd1+ 39. Kf2
+e1=Q# 0-1
+
+[Event "CN Jovens 2014 - U12"]
+[Site "Luso POR"]
+[Date "2014.07.24"]
+[Round "3.21"]
+[White "Gomes, Beatriz"]
+[Black "Barata, Manuel"]
+[Result "0-1"]
+[ECO "C44"]
+[WhiteFideId "1936433"]
+[BlackFideId "1938983"]
+[PlyCount "104"]
+[EventDate "2014.07.23"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Nxd4 5. Qxd4 Nf6 6. e5 Ng8 7. Bd3 d6
+8. exd6 Qxd6 9. Qxd6 Bxd6 10. h3 Ne7 11. Nc3 O-O 12. O-O Re8 13. Re1 Bd7 14. Bd2
+Nf5 15. Rxe8+ Rxe8 16. Bxf5 Bxf5 17. Be3 b6 18. Rc1 Be5 19. Nb5 Bxb2 20. Nxc7
+Bxc1 21. Nxe8 Bxe3 22. fxe3 Bxc2 23. Nc7 Kf8 24. Kf2 Bb1 25. a3 Ba2 26. g3 Ke7
+27. Ke2 Kd7 28. Nb5 Bc4+ 29. Kd2 Bxb5 30. Kc3 Kc6 31. Kd4 Kd6 32. h4 f6 33. Kc3
+Kd5 34. Kc2 Ke4 35. Kd2 Bd3 36. Ke1 Kxe3 37. Kd1 b5 38. Kc1 a5 39. Kb2 Kd4
+40. Kb3 Bc4+ 41. Kb2 b4 42. a4 h6 43. g4 g6 44. Kc2 f5 45. gxf5 gxf5 46. Kd2 b3
+47. Kc1 Ba6 48. Kb2 Kc4 49. Kc1 Kc3 50. Kb1 b2 51. Ka2 Kc2 52. Ka3 b1=Q 0-1
+
+[Event "CN Jovens 2014 - U12"]
+[Site "Luso POR"]
+[Date "2014.07.24"]
+[Round "3.22"]
+[White "Encarnação, Filipe"]
+[Black "Silva, Tiago Alexandre"]
+[Result "0-1"]
+[ECO "C77"]
+[BlackElo "1360"]
+[WhiteFideId "1942018"]
+[BlackFideId "1935321"]
+[PlyCount "92"]
+[EventDate "2014.07.23"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. d3 h6 6. Bxc6 dxc6 7. Nxe5 Bc5
+8. O-O Bd4 9. Nf3 Bg4 10. c3 Bb6 11. h3 Bh5 12. Re1 O-O 13. Be3 Nd7 14. Nbd2 f5
+15. Nc4 f4 16. Nxb6 cxb6 17. Bd2 Ne5 18. Rb1 Nxf3+ 19. gxf3 Qxd3 20. Qe2 Qxf3
+21. Qxf3 Bxf3 22. Rbd1 Bxd1 23. Rxd1 Rad8 24. Kg2 Rd3 25. f3 Rfd8 26. c4 Rxd2+
+27. Rxd2 Rxd2+ 28. Kf1 Rxb2 29. a3 b5 30. cxb5 axb5 31. e5 Kf7 32. e6+ Kxe6
+33. Ke1 c5 34. Kd1 c4 35. Kc1 c3 36. h4 Rf2 37. h5 Rxf3 38. Kc2 Rh3 39. a4 f3
+40. Kxc3 f2+ 41. Kd4 f1=Q 42. axb5 Rxh5 43. b6 Qf4+ 44. Kd3 Rh3+ 45. Kc2 Qf2+
+46. Kd1 Rh1# 0-1
+
+[Event "CN Jovens 2014 - U12"]
+[Site "Luso POR"]
+[Date "2014.07.24"]
+[Round "3.23"]
+[White "Dias, Tiago Monteiro"]
+[Black "Antunes, André"]
+[Result "0-1"]
+[ECO "C55"]
+[WhiteFideId "1945785"]
+[BlackFideId "1936328"]
+[PlyCount "52"]
+[EventDate "2014.07.23"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nc3 Nc6 4. Bc4 h6 5. O-O Bc5 6. d3 O-O 7. Re1 b6 8. Be3
+Bxe3 9. Rxe3 Nd4 10. Nb5 Nxb5 11. Bxb5 Bb7 12. Nh4 d5 13. Rg3 c6 14. Rxg7+ Kxg7
+15. Ba4 dxe4 16. dxe4 Qxd1+ 17. Rxd1 Rad8 18. Nf5+ Kh8 19. Re1 Rd2 20. Nxh6 Kh7
+21. Nf5 Rfd8 22. Kf1 Nh5 23. g4 Nf4 24. Bb3 Kg6 25. Rc1 Rd1+ 26. Rxd1 Rxd1# 0-1
+
+[Event "CN Jovens 2014 - U12"]
+[Site "Luso POR"]
+[Date "2014.07.24"]
+[Round "3.24"]
+[White "Carreira, David Santos"]
+[Black "Fernandes, João Pedro S"]
+[Result "1-0"]
+[ECO "C57"]
+[WhiteFideId "1941399"]
+[BlackFideId "1944452"]
+[PlyCount "83"]
+[EventDate "2014.07.23"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 h6 5. Nxf7 Qe7 6. Nxh8 d6 7. Ng6 Bg4
+8. Qxg4 Nxg4 9. Nxe7 Bxe7 10. O-O O-O-O 11. Be6+ Kb8 12. Bxg4 Nd4 13. Na3 d5
+14. c3 Nc6 15. exd5 Rxd5 16. Bf3 Rd6 17. Nb5 Rd8 18. Bxc6 bxc6 19. Na3 Bxa3
+20. bxa3 e4 21. d4 g5 22. Be3 Rd5 23. c4 Ra5 24. Bc1 Ra4 25. Re1 Rxc4 26. Rxe4
+c5 27. Rb1+ Kc8 28. h3 cxd4 29. Re8+ Kd7 30. Rbb8 Rxc1+ 31. Kh2 d3 32. Rbd8+ Kc6
+33. Rxd3 Rc2 34. Re6+ Kc5 35. Rf3 Rxa2 36. Rf5+ Kc4 37. Re4+ Kb3 38. Rf3+ Kc2
+39. Re2+ Kb1 40. Rb3+ Kc1 41. Rxa2 Kd1 42. Rb1# 1-0
+
+[Event "CN Jovens 2014 - U12"]
+[Site "Luso POR"]
+[Date "2014.07.24"]
+[Round "3.25"]
+[White "Rego, André Rodrigues"]
+[Black "Rhodes, Mónica"]
+[Result "1-0"]
+[ECO "D20"]
+[WhiteFideId "1945793"]
+[BlackFideId "1939262"]
+[PlyCount "65"]
+[EventDate "2014.07.23"]
+
+1. d4 d5 2. c4 dxc4 3. e3 Nf6 4. Bxc4 Ne4 5. Nf3 e6 6. O-O Nc6 7. Nc3 Nf6 8. e4
+Na5 9. Bd3 Qd6 10. e5 Qd8 11. exf6 gxf6 12. Bf4 Bd7 13. Rb1 f5 14. b4 Nc6 15. b5
+Na5 16. Be5 Rg8 17. Qa4 b6 18. Rfe1 Qe7 19. d5 f6 20. Bxc7 Qg7 21. g3 Rc8
+22. dxe6 Bxe6 23. Rxe6+ Kd7 24. Bc4 Rxc7 25. Rd1+ Kc8 26. Re8+ Kb7 27. Bd5+ Nc6
+28. Bxc6+ Rxc6 29. bxc6+ Kc7 30. Rd7+ Qxd7 31. cxd7 Kd6 32. d8=Q+ Kc5 33. Qb5#
+1-0
+
+[Event "CN Jovens 2014 - U12"]
+[Site "Luso POR"]
+[Date "2014.07.24"]
+[Round "3.26"]
+[White "Braz, Ana Francisca"]
+[Black "Lobo, Pedro"]
+[Result "0-1"]
+[ECO "C20"]
+[WhiteFideId "1936352"]
+[BlackFideId "1940082"]
+[PlyCount "82"]
+[EventDate "2014.07.23"]
+
+1. e4 e5 2. Bb5 Bc5 3. Nf3 c6 4. Bc4 d5 5. exd5 cxd5 6. Bb5+ Nc6 7. Nc3 a6
+8. Ba4 d4 9. Nxe5 Qe7 10. Nd5 Qxe5+ 11. Ne3 dxe3 12. dxe3 b5 13. Bb3 Nd4 14. e4
+Nxb3 15. O-O Nxc1 16. Rxc1 Qg5 17. Rb1 Bh3 18. Qf3 Bg4 19. Qg3 Rd8 20. b4 Bd6
+21. Rb3 Bxg3 22. fxg3 Rd1 23. h4 Rxf1+ 24. Kxf1 Qc1+ 25. Kf2 Qd2+ 26. Kg1 Qe1+
+27. Kh2 Qf2 28. Ra3 Be2 29. Rxa6 Bf1 30. Kh3 Qxg2+ 31. Kg4 Be2+ 32. Kf4 Qf3+
+33. Ke5 f6+ 34. Ke6 Qxe4+ 35. Kd6 Bc4 36. Ra8+ Qxa8 37. g4 Qd5+ 38. Kc7 Qd7+
+39. Kb6 Qd6+ 40. Kb7 Bd5+ 41. Kc8 Ne7# 0-1
+
+[Event "CN Jovens 2014 - U12"]
+[Site "Luso POR"]
+[Date "2014.07.24"]
+[Round "3.27"]
+[White "Saraiva, Diogo"]
+[Black "Antunes, Ana"]
+[Result "1-0"]
+[ECO "B23"]
+[WhiteFideId "1936611"]
+[BlackFideId "1936310"]
+[PlyCount "87"]
+[EventDate "2014.07.23"]
+
+1. e4 c5 2. Nc3 d6 3. d4 Nc6 4. Nf3 cxd4 5. Nxd4 Bd7 6. Bb5 Nxd4 7. Qxd4 a6
+8. Ba4 e5 9. Qe3 Bxa4 10. Nxa4 Qa5+ 11. Nc3 Nf6 12. O-O d5 13. exd5 Nxd5
+14. Qxe5+ Ne7 15. Qxa5 Nc6 16. Re1+ Be7 17. Qa4 O-O 18. Qg4 g6 19. Nd5 Rfe8
+20. Nc7 h5 21. Qf4 Bd6 22. Qd2 Bxc7 23. Rf1 Ba5 24. Qg5 Ne5 25. Qf6 Bd8 26. Qf4
+Rc8 27. Qa4 Re7 28. Bh6 Bb6 29. Qf4 Ng4 30. h3 Nxh6 31. Qg5 Re2 32. Qxh6 Rcxc2
+33. Qf4 Rxb2 34. Rab1 Bxf2+ 35. Kh1 Rxb1 36. Rxb1 Rxa2 37. Rf1 f5 38. Qc4+ Kg7
+39. Qxa2 Bh4 40. Rb1 Kh6 41. Qd2+ g5 42. Rb6+ Kg7 43. Rxb7+ Kg6 44. Qd6# 1-0
+
+[Event "CN Jovens 2014 - U12"]
+[Site "Luso POR"]
+[Date "2014.07.25"]
+[Round "4.1"]
+[White "Veiga, Francisco"]
+[Black "Oliveira, Alice"]
+[Result "1-0"]
+[ECO "C88"]
+[WhiteElo "1680"]
+[BlackElo "1521"]
+[WhiteFideId "1930087"]
+[BlackFideId "1930818"]
+[PlyCount "109"]
+[EventDate "2014.07.23"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. a4
+Rb8 9. axb5 axb5 10. c3 O-O 11. h3 Be6 12. Bxe6 fxe6 13. Qb3 Qd7 14. d4 exd4
+15. cxd4 d5 16. e5 Ne4 17. Nbd2 Nxd2 18. Bxd2 Qe8 19. Rec1 Rxf3 20. Qxf3 Nxd4
+21. Qd3 c5 22. b4 Qh5 23. Re1 Nc6 24. bxc5 Bxc5 25. Rac1 Nxe5 26. Rxe5 Bxf2+
+27. Kxf2 Qxe5 28. Qe3 Qd6 29. Re1 Rf8+ 30. Kg1 Re8 31. Rb1 Qc6 32. Rc1 Qd6
+33. Qc5 Qd7 34. Qc6 Qxc6 35. Rxc6 Kf7 36. Rb6 Ra8 37. Rxb5 Ra1+ 38. Kf2 Ra2
+39. Ke2 Kf6 40. Ra5 Rxa5 41. Bxa5 e5 42. Ke3 Kf5 43. g3 h5 44. Bd2 d4+ 45. Kd3
+g5 46. Bc1 g4 47. h4 Ke6 48. Ke4 d3 49. Kxd3 Kd5 50. Bb2 Ke6 51. Ke4 Kf6
+52. Bxe5+ Kg6 53. Kf4 Kh6 54. Kf5 Kh7 55. Ke4 1-0
+
+[Event "CN Jovens 2014 - U12"]
+[Site "Luso POR"]
+[Date "2014.07.25"]
+[Round "4.2"]
+[White "Silva, João Miguel"]
+[Black "Fidalgo, Daniel"]
+[Result "1/2-1/2"]
+[ECO "C02"]
+[WhiteElo "1481"]
+[BlackElo "1645"]
+[WhiteFideId "1926039"]
+[BlackFideId "1934279"]
+[PlyCount "64"]
+[EventDate "2014.07.23"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. f4 Qb6 6. Nf3 cxd4 7. cxd4 Nge7 8. Nc3
+Nf5 9. Bb5 Bd7 10. Bxc6 bxc6 11. g4 Ne7 12. b3 Ng6 13. O-O c5 14. Be3 cxd4
+15. Nxd4 Rc8 16. Qd3 Bc5 17. Rac1 a6 18. Kg2 O-O 19. Kg3 Qd8 20. Nf3 Bxe3
+21. Qxe3 f6 22. h3 fxe5 23. Nxe5 Qh4+ 24. Kg2 Nxe5 25. Qxe5 Qf6 26. Ne2 Qxe5
+27. fxe5 Rxf1 28. Kxf1 Rxc1+ 29. Nxc1 Kf7 30. Kf2 Bb5 31. a4 Bd7 32. Ne2 g6
+1/2-1/2
+
+[Event "CN Jovens 2014 - U12"]
+[Site "Luso POR"]
+[Date "2014.07.25"]
+[Round "4.3"]
+[White "Ribeiro, Orlando"]
+[Black "Santos, José Gulherme"]
+[Result "0-1"]
+[ECO "C55"]
+[WhiteElo "1219"]
+[WhiteFideId "1936573"]
+[BlackFideId "1939300"]
+[PlyCount "74"]
+[EventDate "2014.07.23"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Nc3 d6 5. h3 Be7 6. O-O O-O 7. d3 Na5 8. Bb3
+h6 9. Be3 Nc6 10. Re1 Be6 11. Qd2 Bxb3 12. axb3 d5 13. exd5 Nxd5 14. Nxd5 Qxd5
+15. Re2 Bd6 16. c4 Qe6 17. c5 Be7 18. d4 Rad8 19. Qc3 exd4 20. Bxd4 Qxe2
+21. Bxg7 Qd3 22. Bxf8 Qxc3 23. bxc3 Bxf8 24. b4 Bg7 25. Nd4 Nxd4 26. cxd4 Rxd4
+27. Rxa7 Rxb4 28. c6 bxc6 29. Rxc7 Rb1+ 30. Kh2 Be5+ 31. g3 Bxc7 32. Kg2 c5
+33. Kh2 c4 34. Kg2 c3 35. Kh2 c2 36. Kg2 c1=Q 37. Kh2 Qh1# 0-1
+
+[Event "CN Jovens 2014 - U12"]
+[Site "Luso POR"]
+[Date "2014.07.25"]
+[Round "4.4"]
+[White "Cordeiro, João"]
+[Black "Santos, José Miguel"]
+[Result "1/2-1/2"]
+[ECO "C00"]
+[WhiteElo "1524"]
+[BlackElo "1452"]
+[WhiteFideId "1935291"]
+[BlackFideId "1930834"]
+[PlyCount "144"]
+[EventDate "2014.07.23"]
+
+1. e4 e6 2. Qe2 b6 3. g3 Bb7 4. Bg2 d6 5. Nf3 Nf6 6. d3 Be7 7. O-O c5 8. c3 d5
+9. exd5 Bxd5 10. Be3 O-O 11. Nbd2 Bb7 12. Rad1 Qc7 13. d4 Rd8 14. dxc5 Bxc5
+15. Bxc5 Qxc5 16. Nb3 Qe7 17. Rxd8+ Qxd8 18. Rd1 Qe7 19. Qd3 Nc6 20. Nbd4 Nxd4
+21. Qxd4 h6 22. Qd6 Qxd6 23. Rxd6 Kf8 24. Rd1 Ke7 25. Ne5 Bxg2 26. Kxg2 Rc8
+27. Nf3 Nd5 28. Re1 Nf6 29. Nd4 Nd7 30. Nb3 Nc5 31. Nxc5 Rxc5 32. Rd1 Rd5
+33. Rxd5 exd5 34. Kf3 Ke6 35. Ke3 Ke5 36. f4+ Kd6 37. Kd4 a6 38. b3 g6 39. a3 f6
+40. h3 Kc6 41. g4 Kd6 42. a4 Ke6 43. a5 bxa5 44. Kc5 f5 45. gxf5+ gxf5 46. Kb6
+d4 47. cxd4 Kd5 48. Kxa6 Kxd4 49. Kxa5 Ke4 50. b4 Kxf4 51. b5 Kg3 52. b6 f4
+53. b7 f3 54. b8=Q+ Kg2 55. Qg8+ Kxh3 56. Qe6+ Kg2 57. Qg4+ Kf2 58. Qh4+ Ke2
+59. Qxh6 f2 60. Qh5+ Kf1 61. Kb4 Kg1 62. Qg4+ Kh1 63. Qh3+ Kg1 64. Qg3+ Kh1
+65. Qf3+ Kg1 66. Qe3 Kh1 67. Qe4+ Kg1 68. Qg4+ Kh1 69. Qe4+ Kg1 70. Qd4 Kh1
+71. Qd3 Kg1 72. Qg3+ Kh1 1/2-1/2
+
+[Event "CN Jovens 2014 - U12"]
+[Site "Luso POR"]
+[Date "2014.07.25"]
+[Round "4.5"]
+[White "Santos, Pedro Miguel"]
+[Black "Rodrigues, Pedro Serpa"]
+[Result "1/2-1/2"]
+[ECO "B47"]
+[BlackElo "1297"]
+[WhiteFideId "1922246"]
+[BlackFideId "1934724"]
+[PlyCount "63"]
+[EventDate "2014.07.23"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 Qc7 6. Be3 Nf6 7. Be2 Be7
+8. O-O O-O 9. a3 a6 10. Rb1 Bd6 11. g3 Be7 12. b4 Nxd4 13. Bxd4 e5 14. Bc5 Bxc5
+15. bxc5 Qxc5 16. Rb3 b5 17. Qd2 Bb7 18. Bf3 h6 19. Rfb1 Bc6 20. Nd5 Nxd5
+21. exd5 Bb7 22. a4 Rac8 23. R1b2 f5 24. axb5 e4 25. Be2 Rf6 26. bxa6 Bxa6
+27. Bxa6 Rxa6 28. Rb8 Rxb8 29. Rxb8+ Kh7 30. Rd8 Rd6 31. Qf4 Rxd5 32. g4 1/2-1/2
+
+[Event "CN Jovens 2014 - U12"]
+[Site "Luso POR"]
+[Date "2014.07.25"]
+[Round "4.6"]
+[White "Gama, João"]
+[Black "Prazeres, João"]
+[Result "1-0"]
+[ECO "C01"]
+[WhiteElo "1290"]
+[WhiteFideId "1926667"]
+[BlackFideId "1939084"]
+[PlyCount "107"]
+[EventDate "2014.07.23"]
+
+1. e4 e6 2. d4 d5 3. exd5 exd5 4. Nf3 Nf6 5. Bd3 Be7 6. O-O O-O 7. Bf4 Bg4
+8. Nbd2 Nbd7 9. Re1 Re8 10. Nf1 c6 11. h3 Nh5 12. Bg3 Nxg3 13. Nxg3 Bxf3
+14. Qxf3 Nf6 15. c3 Qc7 16. Nf5 h6 17. Re2 Bd6 18. Nxh6+ gxh6 19. Qxf6 Rxe2
+20. Bxe2 Re8 21. Bd3 Re6 22. Qf3 Qe7 23. Rf1 Rf6 24. Qe3 Qxe3 25. fxe3 Re6
+26. Rf3 b5 27. b3 Ba3 28. c4 a6 29. Kf2 Bc1 30. cxb5 cxb5 31. g4 Re7 32. h4 Kf8
+33. g5 Kg7 34. Rg3 hxg5 35. Rxg5+ Kh6 36. Rg3 Kh5 37. a4 bxa4 38. bxa4 a5
+39. Rg5+ Kxh4 40. Rxd5 Bxe3+ 41. Kf3 Bd2 42. Re5 Rxe5 43. dxe5 Bc3 44. Kf4 Kh5
+45. Kf5 Kh6 46. Kf6 Bb2 47. Bc4 Bxe5+ 48. Kxe5 Kg6 49. Kd5 f5 50. Kc5 f4 51. Kb5
+f3 52. Kxa5 f2 53. Kb5 Kf6 54. a5 1-0
+
+[Event "CN Jovens 2014 - U12"]
+[Site "Luso POR"]
+[Date "2014.07.25"]
+[Round "4.7"]
+[White "Maciel, Rafael"]
+[Black "Ribeiro, André Amorim"]
+[Result "0-1"]
+[ECO "B24"]
+[WhiteElo "1285"]
+[BlackElo "1190"]
+[WhiteFideId "1935305"]
+[BlackFideId "1928619"]
+[PlyCount "120"]
+[EventDate "2014.07.23"]
+
+1. e4 c5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. d3 Nf6 6. Be3 d6 7. h3 O-O 8. Nge2
+Qa5 9. O-O Bd7 10. Qd2 b5 11. Bh6 Nd4 12. Qc1 Nxe2+ 13. Nxe2 Rab8 14. Bxg7 Kxg7
+15. f4 b4 16. g4 Bb5 17. Ng3 c4 18. Qe3 Qb6 19. Qxb6 Rxb6 20. Rad1 cxd3 21. cxd3
+Ra6 22. g5 Nd7 23. f5 Rxa2 24. Rf2 a5 25. d4 Rc8 26. Re1 b3 27. e5 dxe5 28. dxe5
+Rc2 29. f6+ Kf8 30. Rxc2 bxc2 31. Be4 Rxb2 32. Rc1 Rb1 33. Rxb1 cxb1=Q+ 34. Bxb1
+Nxe5 35. Be4 Bc6 36. Bxc6 Nxc6 37. Ne4 Ne5 38. Nd2 a4 39. Nb1 exf6 40. gxf6 Nd7
+41. Nc3 a3 42. Kf2 Nxf6 43. Kf3 Ke7 44. Kf4 Ke6 45. h4 Nd5+ 46. Nxd5 Kxd5
+47. Kg5 a2 48. Kf6 a1=Q+ 49. Kxf7 Qf1+ 50. Kg7 Qa6 51. Kxh7 Ke6 52. Kxg6 Ke5+
+53. Kg5 Qf6+ 54. Kg4 Qf5+ 55. Kg3 Qf4+ 56. Kh3 Qf3+ 57. Kh2 Qg4 58. Kh1 Kf4
+59. Kh2 Kf3 60. h5 Qg2# 0-1
+
+[Event "CN Jovens 2014 - U12"]
+[Site "Luso POR"]
+[Date "2014.07.25"]
+[Round "4.8"]
+[White "Rodrigues, Constança"]
+[Black "Rodrigues, José Francisco"]
+[Result "1-0"]
+[ECO "B44"]
+[WhiteFideId "1929240"]
+[BlackFideId "1934201"]
+[PlyCount "97"]
+[EventDate "2014.07.23"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nf3 Bc5 6. Bc4 e5 7. O-O Nf6
+8. Bg5 h6 9. Bh4 d6 10. h3 a6 11. Nc3 O-O 12. Nd5 g5 13. Bg3 b5 14. Nxf6+ Qxf6
+15. Bd5 Bd7 16. Nd2 Rac8 17. Qf3 Qxf3 18. Nxf3 Nb4 19. Bb3 a5 20. a3 Na6 21. h4
+g4 22. Nd2 h5 23. Kh1 Bd4 24. c3 a4 25. Ba2 Ba7 26. f3 Be3 27. Rfd1 Nc5 28. Nf1
+Rc6 29. Nxe3 Nb3 30. Bxb3 axb3 31. a4 bxa4 32. Rxa4 Rb6 33. Rb4 Rxb4 34. cxb4
+Rb8 35. Rxd6 Be6 36. Bxe5 Rxb4 37. Rd8+ Kh7 38. Bc3 Ra4 39. Kg1 g3 40. Kf1 Ra1+
+41. Ke2 Rh1 42. Rh8+ Kg6 43. Rg8+ Kh7 44. Rxg3 Rxh4 45. Nf5 Bxf5 46. exf5 Rf4
+47. Rg7+ Kh6 48. Rxf7 h4 49. Bd2 1-0
+
+[Event "CN Jovens 2014 - U12"]
+[Site "Luso POR"]
+[Date "2014.07.25"]
+[Round "4.9"]
+[White "Oliveira, Beatriz"]
+[Black "Rocha, João"]
+[Result "1/2-1/2"]
+[ECO "C50"]
+[WhiteFideId "1938649"]
+[BlackFideId "1939297"]
+[PlyCount "81"]
+[EventDate "2014.07.23"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. O-O Nf6 5. Nc3 O-O 6. d3 h6 7. Qe2 d6 8. h3
+Qe7 9. Be3 Nd4 10. Qd1 Be6 11. Nd5 Bxd5 12. exd5 a6 13. a3 b5 14. Ba2 Nf5
+15. Bxc5 dxc5 16. Qe2 Nd4 17. Qd1 Rad8 18. c4 c6 19. Re1 Nd7 20. dxc6 Nxc6
+21. cxb5 axb5 22. a4 bxa4 23. Qxa4 Nb4 24. d4 cxd4 25. Nxd4 Qc5 26. Nf3 Nd3
+27. Re2 Rfe8 28. Qc4 Qxc4 29. Bxc4 Nf4 30. Re4 Ng6 31. Rae1 Rb8 32. b3 Nc5
+33. R4e3 e4 34. Nd2 Re7 35. Rb1 Ne5 36. Be2 f5 37. Nc4 f4 38. Rc3 Nxc4 39. Bxc4+
+Kh7 40. h4 Rc7 41. Bd5 1/2-1/2
+
+[Event "CN Jovens 2014 - U12"]
+[Site "Luso POR"]
+[Date "2014.07.25"]
+[Round "4.10"]
+[White "Lobo, Hugo"]
+[Black "Martins, Bruno"]
+[Result "0-1"]
+[ECO "D35"]
+[WhiteElo "1154"]
+[WhiteFideId "1934902"]
+[BlackFideId "1942255"]
+[PlyCount "104"]
+[EventDate "2014.07.23"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bf4 Bb4 5. a3 Bxc3+ 6. bxc3 Nc6 7. e3 Ne7
+8. Nf3 Ne4 9. Qc2 Ng6 10. Bd3 Nxf4 11. exf4 Nf6 12. O-O h6 13. Rfe1 O-O 14. f5
+dxc4 15. Bxc4 exf5 16. Bd3 g6 17. h3 Be6 18. Ne5 Nd7 19. Bc4 Nxe5 20. Bxe6 fxe6
+21. Rxe5 Qd6 22. Qb3 Qb6 23. Qxb6 axb6 24. Rxe6 Kf7 25. Re2 Rfe8 26. Rea2 Ra4
+27. Kf1 g5 28. Re1 Rxe1+ 29. Kxe1 Ke6 30. Ke2 Kd5 31. Kd3 c5 32. dxc5 bxc5
+33. f3 b5 34. Ra1 b4 35. Kc2 Rxa3 36. Rxa3 bxa3 37. Kb3 a2 38. Kxa2 Kc4 39. Kb2
+Kd3 40. Kb3 c4+ 41. Kb4 f4 42. h4 gxh4 43. g4 h3 44. g5 hxg5 45. Ka3 h2 46. Kb2
+h1=Q 47. Ka2 Qd1 48. Kb2 Qb3+ 49. Ka1 Qxc3+ 50. Ka2 Qb4 51. Ka1 Kc2 52. Ka2 Qa4#
+0-1
+
+[Event "CN Jovens 2014 - U12"]
+[Site "Luso POR"]
+[Date "2014.07.25"]
+[Round "4.11"]
+[White "Abreu, Alexandre"]
+[Black "Garcia, Nathalia"]
+[Result "1-0"]
+[ECO "C49"]
+[BlackElo "1231"]
+[WhiteFideId "1942182"]
+[BlackFideId "1936417"]
+[PlyCount "159"]
+[EventDate "2014.07.23"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nc3 Nc6 4. Bb5 Bb4 5. d3 d6 6. Bd2 O-O 7. Bxc6 bxc6
+8. h3 Be6 9. O-O h6 10. Re1 Bc5 11. Ne2 Re8 12. Be3 Bxe3 13. fxe3 Bc8 14. c3 d5
+15. exd5 cxd5 16. Ng3 e4 17. dxe4 Nxe4 18. Nxe4 dxe4 19. Qxd8 Rxd8 20. Nd4 Ba6
+21. Rad1 Bc4 22. b3 Ba6 23. Nc6 Rxd1 24. Rxd1 Re8 25. Rd7 Re6 26. Rxc7 Rf6
+27. Nd4 Rf1+ 28. Kh2 Rf2 29. c4 Rf1 30. Rxa7 Bxc4 31. bxc4 Rc1 32. Ra4 Rc3
+33. Nf5 g6 34. Ne7+ Kg7 35. Nd5 Rd3 36. Kg3 Rd2 37. a3 f5 38. Rb4 g5 39. a4 Kg6
+40. a5 Ra2 41. Rb5 Ra3 42. Rb6+ Kh5 43. Nf6+ Kg6 44. Nxe4+ Kh5 45. Nf6+ Kg6
+46. Ng4+ Kg7 47. Nxh6 f4+ 48. Kf2 fxe3+ 49. Ke2 Rxa5 50. Kxe3 Rc5 51. Kd4 Rc8
+52. Kd5 Kf8 53. c5 Ke7 54. c6 Kd8 55. Kd6 Ra8 56. c7+ Kc8 57. Rb8+ Rxb8
+58. cxb8=Q+ Kxb8 59. Ke6 Kc8 60. Kf6 Kd8 61. Kxg5 Ke7 62. Kg6 Kf8 63. Kh7 Ke7
+64. g4 Kf6 65. h4 Ke7 66. g5 Kf8 67. g6 Ke7 68. g7 Kf6 69. g8=Q Ke5 70. Qf7 Ke4
+71. Qf6 Kd3 72. Qf5+ Ke2 73. Qf4 Ke1 74. Qh2 Kd1 75. Kg6 Kc1 76. Kf5 Kd1 77. Ke4
+Kc1 78. Kd3 Kb1 79. Kc3 Ka1 80. Qb2# 1-0
+
+[Event "CN Jovens 2014 - U12"]
+[Site "Luso POR"]
+[Date "2014.07.25"]
+[Round "4.12"]
+[White "Pinto, Pedro M R"]
+[Black "Camacho, Diogo"]
+[Result "0-1"]
+[ECO "C50"]
+[WhiteFideId "1936549"]
+[BlackFideId "1932306"]
+[PlyCount "122"]
+[EventDate "2014.07.23"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. Nc3 Nf6 5. O-O d6 6. d3 h6 7. h3 Be6 8. Bd5
+Bxd5 9. exd5 Nd4 10. a3 a6 11. b4 Ba7 12. Ra2 O-O 13. Be3 Nb5 14. Bd2 Nxc3
+15. Bxc3 Nxd5 16. Bd2 f5 17. c4 Ne7 18. Re1 Ng6 19. Be3 Qf6 20. Bxa7 Rxa7
+21. Qb3 Kh8 22. Qd1 Raa8 23. Qb3 Rfe8 24. Rae2 Nh4 25. Nxh4 Qxh4 26. a4 f4
+27. d4 f3 28. Re4 Qg5 29. g3 Qh5 30. Kh2 exd4 31. Rxe8+ Rxe8 32. Rxe8+ Qxe8
+33. Qxf3 Qxa4 34. Qxb7 Qc2 35. Qa8+ Kh7 36. Qf3 Qxc4 37. Qe4+ Kh8 38. Qe8+ Qg8
+39. Qxg8+ Kxg8 40. Kg1 Kf7 41. Kf1 Ke6 42. Ke2 Kd5 43. Kd3 c5 44. bxc5 dxc5
+45. f4 c4+ 46. Kd2 Ke4 47. g4 Kxf4 48. h4 Kf3 49. g5 hxg5 50. hxg5 a5 51. g6 a4
+52. Kc2 Ke2 53. Kc1 d3 54. Kb2 d2 55. Kb1 d1=Q+ 56. Ka2 Kd3 57. Kb2 Qc2+ 58. Ka1
+Qc3+ 59. Ka2 Qb4 60. Ka1 Kc2 61. Ka2 Qb2# 0-1
+
+[Event "CN Jovens 2014 - U12"]
+[Site "Luso POR"]
+[Date "2014.07.25"]
+[Round "4.13"]
+[White "Silva, Pedro Filipe"]
+[Black "Gomes, Gonçalo"]
+[Result "1-0"]
+[ECO "D10"]
+[WhiteElo "1314"]
+[WhiteFideId "1934210"]
+[BlackFideId "1941453"]
+[PlyCount "93"]
+[EventDate "2014.07.23"]
+
+1. d4 d5 2. c4 c6 3. cxd5 cxd5 4. Nc3 Nf6 5. Bg5 Nc6 6. Nf3 Bg4 7. e3 a6 8. Bd3
+e6 9. Qb3 Qc7 10. e4 Rd8 11. e5 h6 12. Bxf6 gxf6 13. exf6 Rb8 14. Qa4 Qf4
+15. Ne5 Qxd4 16. Nxc6 Qxa4 17. Nxa4 bxc6 18. Bxa6 Ra8 19. Bb7 Rxa4 20. Bxc6+ Kd8
+21. Bxa4 Bb4+ 22. Kf1 Kc7 23. f3 Bf5 24. Ke2 Kb6 25. a3 Bd6 26. g4 Bg6 27. h4
+Be5 28. h5 Bh7 29. Ra2 Bxf6 30. Rc1 Bg5 31. Rc6+ Ka5 32. Bd1 Rb8 33. b4+ Kb5
+34. Rc5+ Kb6 35. Ba4 Ra8 36. Rb5+ Kc7 37. Rc5+ Kd6 38. Bc2 Re8 39. Bxh7 f5
+40. a4 fxg4 41. fxg4 e5 42. a5 e4 43. a6 e3 44. a7 Ra8 45. Bg8 Rxg8 46. a8=Q
+Rxa8 47. Rxa8 1-0
+
+[Event "CN Jovens 2014 - U12"]
+[Site "Luso POR"]
+[Date "2014.07.25"]
+[Round "4.14"]
+[White "Martins, Antonio M G Costa"]
+[Black "Rego, João Rui"]
+[Result "1-0"]
+[ECO "B73"]
+[WhiteElo "1408"]
+[BlackElo "1317"]
+[WhiteFideId "1930079"]
+[BlackFideId "1934465"]
+[PlyCount "149"]
+[EventDate "2014.07.23"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 d6 5. Nc3 g6 6. Be3 Bg7 7. Be2 Nf6
+8. O-O O-O 9. h3 Bd7 10. Qd2 Re8 11. a3 Rc8 12. Rab1 Ne5 13. Nf3 Nc4 14. Bxc4
+Rxc4 15. Qd3 Rc8 16. Rfd1 Bc6 17. Nd2 e6 18. Nb5 Bxb5 19. Qxb5 b6 20. c3 d5
+21. exd5 Qxd5 22. Qxd5 Nxd5 23. Nf1 Red8 24. Rbc1 Kf8 25. f3 Bf6 26. Kf2 Ke7
+27. Bd4 Nf4 28. Bxf6+ Kxf6 29. Rxd8 Rxd8 30. Rc2 h5 31. Kg3 Nd5 32. Rd2 Rc8
+33. Kf2 Ke7 34. Ne3 Nf6 35. Kg3 Rc5 36. Kf2 Nd7 37. Ke2 Ne5 38. Rd4 Rc6 39. Re4
+Nd7 40. Nd5+ Kd6 41. Nb4 Rc5 42. Rd4+ Ke7 43. Nd3 Rc6 44. Ke3 Rd6 45. Rxd6 Kxd6
+46. Kd4 a6 47. Nb4 Nc5 48. Nd3 Nxd3 49. Kxd3 Kd5 50. b3 a5 51. g3 f5 52. f4 b5
+53. h4 Kc5 54. c4 a4 55. b4+ Kc6 56. c5 Kd5 57. Ke3 e5 58. fxe5 Kxe5 59. Kf3 Kd5
+60. Kf4 Kc4 61. c6 Kb3 62. c7 Kxa3 63. c8=Q Kb3 64. Qc1 a3 65. Qa1 Kxb4 66. Ke3
+Ka4 67. Kd3 b4 68. Kc2 b3+ 69. Kc3 f4 70. gxf4 g5 71. fxg5 a2 72. g6 Ka3
+73. Qb2+ Ka4 74. Qxb3+ Ka5 75. Qxa2+ 1-0
+
+[Event "CN Jovens 2014 - U12"]
+[Site "Luso POR"]
+[Date "2014.07.25"]
+[Round "4.15"]
+[White "Barata, Manuel"]
+[Black "Silva, Nuno Lynce"]
+[Result "0-1"]
+[ECO "C53"]
+[WhiteFideId "1938983"]
+[BlackFideId "1942727"]
+[PlyCount "58"]
+[EventDate "2014.07.23"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 d6 5. d3 Bg4 6. O-O Nf6 7. Bg5 h6 8. Bh4
+O-O 9. b4 Bb6 10. a4 a5 11. b5 Na7 12. Nbd2 c6 13. Qb3 d5 14. exd5 cxd5 15. Bxd5
+Qxd5 16. c4 Qd6 17. Rfe1 Bxf3 18. Nxf3 Rfe8 19. Rac1 Rad8 20. c5 Bxc5 21. Rcd1
+Qd5 22. Qc3 Bb4 23. Qc4 Bxe1 24. Rxe1 Qxc4 25. dxc4 e4 26. Nd2 Rxd2 27. Bxf6
+gxf6 28. h3 Rd4 29. Rc1 Rc8 0-1
+
+[Event "CN Jovens 2014 - U12"]
+[Site "Luso POR"]
+[Date "2014.07.25"]
+[Round "4.16"]
+[White "Antunes, André"]
+[Black "Silva, Tiago Alexandre"]
+[Result "0-1"]
+[ECO "C48"]
+[BlackElo "1360"]
+[WhiteFideId "1936328"]
+[BlackFideId "1935321"]
+[PlyCount "142"]
+[EventDate "2014.07.23"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. Bb5 a6 5. Bc4 Bc5 6. O-O d6 7. d3 b5 8. Bb3
+O-O 9. Nd5 a5 10. Nxf6+ Qxf6 11. Bd5 Bb7 12. b3 Rab8 13. Bb2 Ne7 14. c4 c6
+15. d4 exd4 16. Bxd4 Bxd4 17. Nxd4 cxd5 18. Nxb5 Bc6 19. a4 Bxb5 20. axb5 dxe4
+21. Rxa5 Qc3 22. Ra2 Nc8 23. Qg4 Qxb3 24. Re2 Qxc4 25. Rxe4 Qxb5 26. Re3 Qb1
+27. Ree1 Qg6 28. Qc4 Nb6 29. Qc6 Rfc8 30. Qb5 f6 31. Re2 Re8 32. Rfe1 Rxe2
+33. Rxe2 Nd7 34. Qd5+ Kh8 35. h3 Qb1+ 36. Kh2 Qb6 37. Qe4 Ne5 38. Qa4 Qb5
+39. Qa7 Nc6 40. Qe3 Qe5+ 41. f4 Qxe3 42. Rxe3 d5 43. Re1 Kg8 44. Rd1 d4 45. Kg3
+Re8 46. Ra1 d3 47. Ra3 Nb4 48. Ra1 Kf7 49. Ra7+ Ke6 50. f5+ Kxf5 51. Kf3 Nc6
+52. Rd7 Ne5+ 53. Ke3 Nxd7+ 54. Kxd3 Rc8 55. Ke3 Nb6 56. g4+ Ke5 57. h4 Rc3+
+58. Kf2 Kf4 59. Kg2 Kxg4 60. Kf2 Kxh4 61. Ke2 Kg4 62. Kd2 Na4 63. Kd1 Kf3
+64. Kd2 Ke4 65. Ke2 Rf3 66. Kd2 h5 67. Kc2 Rd3 68. Kb1 Rd2 69. Kc1 Kd3 70. Kb1
+h4 71. Kc1 h3 0-1
+
+[Event "CN Jovens 2014 - U12"]
+[Site "Luso POR"]
+[Date "2014.07.25"]
+[Round "4.17"]
+[White "Palmelão, Pedro"]
+[Black "Silva, Manuel Amorim"]
+[Result "1-0"]
+[ECO "C50"]
+[WhiteFideId "1936522"]
+[BlackFideId "1944053"]
+[PlyCount "55"]
+[EventDate "2014.07.23"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Qf6 4. O-O g6 5. d3 Bg7 6. Nc3 Nge7 7. Nb5 O-O
+8. Nxc7 Rb8 9. Nd5 Nxd5 10. Bxd5 Nd4 11. Nxd4 exd4 12. f4 d6 13. Bd2 Be6 14. Bb3
+Bh6 15. Bb4 Rbd8 16. Bd2 d5 17. exd5 Bxd5 18. Ba4 g5 19. fxg5 Bxg5 20. Rxf6 Bxf6
+21. Bb4 Bg7 22. Bxf8 Bxf8 23. Qh5 Rd6 24. Rf1 f6 25. Rf4 Bc6 26. Bb3+ Kg7
+27. Rg4+ Kh8 28. Rg8# 1-0
+
+[Event "CN Jovens 2014 - U12"]
+[Site "Luso POR"]
+[Date "2014.07.25"]
+[Round "4.18"]
+[White "Monteiro, Tomás"]
+[Black "Carreira, David Santos"]
+[Result "1-0"]
+[ECO "D02"]
+[WhiteElo "1243"]
+[WhiteFideId "1930800"]
+[BlackFideId "1941399"]
+[PlyCount "81"]
+[EventDate "2014.07.23"]
+
+1. d4 Nf6 2. Bf4 d5 3. Nf3 Bf5 4. c3 Nc6 5. e3 e6 6. Bd3 Bxd3 7. Qxd3 Bd6
+8. Bg3 Bxg3 9. hxg3 O-O 10. Nbd2 h6 11. O-O-O Ne4 12. Nxe4 dxe4 13. Qxe4 f5
+14. Qd3 g5 15. Rxh6 g4 16. Ne5 Nxe5 17. dxe5 Qxd3 18. Rxd3 Rfe8 19. f3 Kg7
+20. Rf6 Re7 21. fxg4 fxg4 22. Rd4 Kh8 23. Rxg4 Rg8 24. Rh6+ Rh7 25. Rxh7+ Kxh7
+26. Rxg8 Kxg8 27. Kd2 Kg7 28. Ke2 Kg6 29. e4 a5 30. Kf3 b5 31. Kg4 c5 32. Kf4 b4
+33. g4 c4 34. g3 Kg7 35. Kg5 Kh7 36. Kf6 Kh6 37. g5+ Kh7 38. g6+ Kg8 39. g7 bxc3
+40. bxc3 a4 41. a3 1-0
+
+[Event "CN Jovens 2014 - U12"]
+[Site "Luso POR"]
+[Date "2014.07.25"]
+[Round "4.19"]
+[White "Silva, Rafael"]
+[Black "Cunha, Alexandre"]
+[Result "0-1"]
+[ECO "C53"]
+[BlackElo "1037"]
+[WhiteFideId "1925857"]
+[BlackFideId "1931890"]
+[PlyCount "60"]
+[EventDate "2014.07.23"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Bb6 5. d3 d6 6. O-O Bg4 7. Bg5 Nf6 8. Nbd2
+h6 9. Bh4 g5 10. Bg3 d5 11. Bb5 a6 12. Bxc6+ bxc6 13. Bxe5 dxe4 14. dxe4 O-O
+15. Qc2 Qe7 16. Rfe1 Bxf3 17. Nxf3 g4 18. Bxf6 Qxf6 19. Nd2 Bxf2+ 20. Kh1 Bxe1
+21. Rxe1 Qf2 22. Rf1 Qe2 23. Kg1 Rad8 24. Rd1 Qe3+ 25. Kh1 Qe2 26. a3 f5
+27. exf5 Rfe8 28. Qb3+ Kh8 29. g3 Rxd2 30. Rg1 Qxh2# 0-1
+
+[Event "CN Jovens 2014 - U12"]
+[Site "Luso POR"]
+[Date "2014.07.25"]
+[Round "4.20"]
+[White "Santos, Leonor"]
+[Black "Rego, André Rodrigues"]
+[Result "0-1"]
+[ECO "B23"]
+[WhiteFideId "1941739"]
+[BlackFideId "1945793"]
+[PlyCount "78"]
+[EventDate "2014.07.23"]
+
+1. e4 c5 2. Nc3 e5 3. Nf3 Nc6 4. Bc4 Be7 5. O-O a6 6. d3 b5 7. Bd5 b4 8. Bxc6
+dxc6 9. Na4 Bg4 10. h3 Bxf3 11. Qxf3 Nf6 12. Be3 Qa5 13. b3 O-O 14. Qf5 Bd6
+15. Bg5 Nh5 16. Qd7 Qc7 17. Qg4 Nf4 18. Bh6 Ne6 19. c3 Kh8 20. d4 gxh6 21. dxc5
+Nxc5 22. cxb4 Nxa4 23. bxa4 Bxb4 24. Rab1 Rg8 25. Qh5 Bd2 26. Rfd1 Rg5 27. Qxh6
+Rxg2+ 28. Kxg2 Bxh6 29. Rbc1 Bxc1 30. Rxc1 Rc8 31. Rc5 Rb8 32. Rc2 Qa5 33. h4
+Qxa4 34. Rd2 Qxe4+ 35. Kf1 Qxh4 36. a3 Qf4 37. Rd7 Qf3 38. Rd6 Rb1+ 39. Rd1
+Rxd1# 0-1
+
+[Event "CN Jovens 2014 - U12"]
+[Site "Luso POR"]
+[Date "2014.07.25"]
+[Round "4.21"]
+[White "Gaspar, Pedro"]
+[Black "Lança, Luis"]
+[Result "1-0"]
+[ECO "B01"]
+[WhiteFideId "1936425"]
+[BlackFideId "1936450"]
+[PlyCount "155"]
+[EventDate "2014.07.23"]
+
+1. e4 d5 2. e5 Nc6 3. d4 e6 4. Nf3 Nge7 5. Bg5 Bd7 6. Bb5 h6 7. Bxe7 Qxe7
+8. O-O O-O-O 9. Bxc6 Bxc6 10. Nc3 Qb4 11. Rb1 Qe7 12. Qd2 a6 13. Rbd1 f6
+14. exf6 gxf6 15. Nh4 Qd6 16. Ng6 Rg8 17. Nxf8 Qxf8 18. Rfe1 Qg7 19. g3 Rde8
+20. a4 b6 21. Qe2 Kb7 22. b4 e5 23. Qd3 Qe7 24. b5 axb5 25. axb5 Bd7 26. Nxd5
+Qe6 27. Nc3 Rd8 28. dxe5 fxe5 29. Rd2 Rgf8 30. Rde2 Qf7 31. Nd1 Rde8 32. Rxe5
+Rxe5 33. Rxe5 Bg4 34. Qe4+ Kb8 35. Qxg4 Qf6 36. Rh5 Qa1 37. Rxh6 Re8 38. Kf1 Qa5
+39. Re6 Qxb5+ 40. Kg1 Qd7 41. Rxe8+ Qxe8 42. Ne3 Qd8 43. h4 Qd2 44. Qg8+ Kb7
+45. c4 Qa2 46. Qd5+ c6 47. Qd7+ Kb8 48. Qd8+ Kb7 49. Qd7+ Kb8 50. Qd6+ Kb7
+51. Qd7+ Kb8 52. Qxc6 Qb1+ 53. Kg2 Qb4 54. Qe8+ Ka7 55. Qd7+ Ka6 56. Qc8+ Ka7
+57. Qc7+ Ka8 58. Nd5 Qc5 59. Nxb6+ Qxb6 60. Qh7 Qb7+ 61. Qxb7+ Kxb7 62. h5 Kc7
+63. h6 Kd7 64. h7 Ke7 65. h8=Q Kd6 66. Qd8+ Kc5 67. Kf3 Kxc4 68. Ke2 Kc5 69. Qh4
+Kd5 70. Ke3 Kd6 71. Qh5 Ke6 72. Kf4 Kf6 73. Qh6+ Ke7 74. Kf5 Kd7 75. Ke5 Ke7
+76. Qh7+ Kf8 77. Ke6 Ke8 78. Qh8# 1-0
+
+[Event "CN Jovens 2014 - U12"]
+[Site "Luso POR"]
+[Date "2014.07.25"]
+[Round "4.22"]
+[White "Lobo, Pedro"]
+[Black "Fernandes, João Adriano"]
+[Result "0-1"]
+[ECO "C50"]
+[WhiteFideId "1940082"]
+[BlackFideId "1939602"]
+[PlyCount "56"]
+[EventDate "2014.07.23"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. O-O Nf6 5. d3 O-O 6. Nc3 d6 7. h3 Re8 8. Ne2
+a6 9. Ng3 Qd7 10. Bg5 Qe7 11. Nh5 Bd7 12. Bxf6 gxf6 13. Qd2 Kh8 14. Qh6 Rg8
+15. Bd5 Bxh3 16. Ng3 Rxg3 17. d4 Rxg2+ 18. Kh1 Nxd4 19. Qxh3 Rg7 20. Nxd4 Bxd4
+21. c3 Bc5 22. Bxb7 Rb8 23. b4 Bb6 24. Bxa6 Rbg8 25. Qf5 Rg5 26. Qh3 Qe6
+27. Qxe6 Rh5+ 28. Qh3 Rxh3# 0-1
+
+[Event "CN Jovens 2014 - U12"]
+[Site "Luso POR"]
+[Date "2014.07.25"]
+[Round "4.23"]
+[White "Ferreira, Guilherme"]
+[Black "Saraiva, Diogo"]
+[Result "0-1"]
+[ECO "D00"]
+[WhiteFideId "1939912"]
+[BlackFideId "1936611"]
+[PlyCount "106"]
+[EventDate "2014.07.23"]
+
+1. d4 d5 2. Bf4 Bf5 3. e3 e6 4. Nc3 Bd6 5. g3 Bb4 6. a3 Bxc3+ 7. bxc3 Be4
+8. Nf3 f6 9. Bg2 Nd7 10. O-O g5 11. Bxc7 Qxc7 12. Bh3 g4 13. Bxg4 Bf5 14. Bh5+
+Bg6 15. Bxg6+ hxg6 16. Qd3 f5 17. Ng5 Ndf6 18. Nxe6 Qh7 19. Qb5+ Kf7 20. h4 Kxe6
+21. Rab1 Rb8 22. Qc5 Ra8 23. c4 Ne4 24. cxd5+ Kf6 25. Qb5 Nd2 26. Rb4 Nxf1
+27. Kxf1 Rb8 28. c4 Nh6 29. d6 Rhd8 30. Qe5+ Kf7 31. Qe7+ Kg8 32. Qf6 Qf7
+33. Qg5 Kg7 34. h5 Qf6 35. Qf4 Qxd6 36. Qxd6 Rxd6 37. c5 a5 38. Rb6 Rxb6
+39. cxb6 Kf6 40. hxg6 Kxg6 41. f4 Ng4 42. Ke2 Rc8 43. d5 Rd8 44. e4 fxe4 45. Kd2
+Rxd5+ 46. Kc3 e3 47. Kc4 Rd8 48. Kb5 e2 49. Kxa5 e1=Q+ 50. Kb5 Rc8 51. f5+ Kxf5
+52. a4 Qb1+ 53. Ka5 Ra8# 0-1
+
+[Event "CN Jovens 2014 - U12"]
+[Site "Luso POR"]
+[Date "2014.07.25"]
+[Round "4.24"]
+[White "Jesus, Ana"]
+[Black "Dias, Tiago Monteiro"]
+[Result "0-1"]
+[ECO "C47"]
+[WhiteFideId "1941640"]
+[BlackFideId "1945785"]
+[PlyCount "102"]
+[EventDate "2014.07.23"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 Nf6 4. Nc3 Bb4 5. Bd2 exd4 6. Nxd4 Nxd4 7. Be3 Bxc3+
+8. bxc3 Nb5 9. Bxb5 c6 10. Bc4 d5 11. exd5 cxd5 12. Bb5+ Bd7 13. Bd3 O-O 14.
+Bd4 Re8+ 15. Be3 Rc8 16. O-O Bg4 17. Qd2 b5 18. Bd4 Ne4 19. Qf4 h5 20. a4 Nxc3
+21. axb5 Qd7 22. Qg5 f6 23. Qg6 Nxb5 24. Bxb5 Qxb5 25. Rxa7 Bd7 26. Bxf6 Re7
+27. Bxe7 Qc6 28. Bf6 Qxf6 29. Qd3 Bc6 30. c4 dxc4 31. Qxc4+ Kh8 32. Qa6 Qg5 33.
+g3 Qf5 34. Qa2 Qe4 35. f3 Qf5 36. Qa1 Qg6 37. Qa6 Rd8 38. Re1 Qc2 39. Qf1 Qc5+
+40. Kg2 Qxa7 41. Re5 g6 42. Re6 Be8 43. Qa1+ Qxa1 44. Rxg6 Bxg6 45. g4 hxg4 46.
+h3 gxh3+ 47. Kxh3 Qc3 48. Kg3 Rd3 49. Kf4 Qf6+ 50. Kg3 Qxf3+ 51. Kh4 Qf4# 0-1
+
+[Event "CN Jovens 2014 - U12"]
+[Site "Luso POR"]
+[Date "2014.07.25"]
+[Round "4.25"]
+[White "Rhodes, Mónica"]
+[Black "Gomes, Beatriz"]
+[Result "1-0"]
+[ECO "C42"]
+[WhiteFideId "1939262"]
+[BlackFideId "1936433"]
+[PlyCount "69"]
+[EventDate "2014.07.23"]
+
+1. e4 e5 2. Nf3 Nf6 3. Bc4 Bc5 4. Nc3 d6 5. h3 Nc6 6. d3 O-O 7. Bg5 Be6 8. O-O
+h6 9. Bh4 Bd4 10. Rb1 Rb8 11. Nd5 Bxd5 12. Bxd5 Ne7 13. Bxf6 gxf6 14. Nxd4 exd4
+15. Qg4+ Ng6 16. Qxg6+ Kh8 17. Qxh6+ Kg8 18. e5 dxe5 19. Be4 Re8 20. Bh7+ Kh8
+21. Rfe1 Qd6 22. Re4 Qf8 23. Qh4 Qg7 24. Bf5+ Kg8 25. Rg4 Qxg4 26. Qxg4+ Kf8
+27. c3 Red8 28. Qh4 Ke7 29. f4 exf4 30. Qxf4 dxc3 31. bxc3 b6 32. Re1+ Kf8
+33. Qh6+ Kg8 34. Qh7+ Kf8 35. Qh8# 1-0
+
+[Event "CN Jovens 2014 - U12"]
+[Site "Luso POR"]
+[Date "2014.07.25"]
+[Round "4.26"]
+[White "Fernandes, João Pedro S"]
+[Black "Braz, Ana Francisca"]
+[Result "1-0"]
+[ECO "B23"]
+[WhiteFideId "1944452"]
+[BlackFideId "1936352"]
+[PlyCount "73"]
+[EventDate "2014.07.23"]
+
+1. e4 c5 2. Nc3 Nc6 3. Nf3 Nf6 4. Bc4 e6 5. d3 d6 6. O-O Be7 7. Re1 O-O 8. Bg5
+h6 9. Bh4 a6 10. a4 e5 11. h3 Be6 12. Bxe6 fxe6 13. Qd2 d5 14. exd5 exd5
+15. Nxe5 Nd4 16. Qd1 Qb6 17. b3 Qa5 18. Ng6 Rfe8 19. Nxe7+ Rxe7 20. Rxe7 Nf5
+21. Rxb7 Nxh4 22. Ne2 Re8 23. Qe1 Qxe1+ 24. Rxe1 Nf5 25. c4 dxc4 26. dxc4 Nd6
+27. Rb6 Nc8 28. Rxa6 Ne4 29. Ra8 Ncd6 30. Rxe8+ Nxe8 31. a5 Nc7 32. Ra1 Na6
+33. Rb1 Nb4 34. Rd1 Nc6 35. a6 g6 36. f3 Nd6 37. Rxd6 1-0
+
+[Event "CN Jovens 2014 - U12"]
+[Site "Luso POR"]
+[Date "2014.07.25"]
+[Round "4.27"]
+[White "Antunes, Ana"]
+[Black "Encarnação, Filipe"]
+[Result "0-1"]
+[ECO "C50"]
+[WhiteFideId "1936310"]
+[BlackFideId "1942018"]
+[PlyCount "124"]
+[EventDate "2014.07.23"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. Nc3 Nf6 5. Ng5 O-O 6. O-O d6 7. d3 h6 8. Nf3
+Bg4 9. h3 Bh5 10. Re1 Nd4 11. g4 Bg6 12. Nxd4 Bxd4 13. Bd2 Bxc3 14. Bxc3 Re8
+15. a3 Qe7 16. Qe2 Rad8 17. Ba5 Bh7 18. Bd5 Nxd5 19. exd5 f6 20. Qe3 b6 21. Bc3
+Qf7 22. Qf3 Kh8 23. Rac1 Bg8 24. Bd2 Qxd5 25. Qxd5 Bxd5 26. f4 exf4 27. Bxf4
+Rxe1+ 28. Rxe1 g5 29. Bh2 a5 30. Re7 c5 31. Re1 b5 32. b3 c4 33. dxc4 bxc4
+34. bxc4 Bxc4 35. Rd1 d5 36. c3 Kg7 37. Bc7 Ra8 38. Bb6 Kf7 39. Rd4 Ke6 40. Kf2
+Kd6 41. Ke3 Kc6 42. Rxc4+ dxc4 43. Bd4 Rb8 44. Bxf6 Rb3 45. Kd4 Rxa3 46. Kxc4
+Ra4+ 47. Kd3 Ra3 48. Bg7 a4 49. Kc2 Rb3 50. c4 Rxh3 51. Bf8 Rg3 52. Bxh6 Rxg4
+53. Kc3 Kc5 54. Bf8+ Kc6 55. Kb4 Rf4 56. Bc5 g4 57. Be3 Rf3 58. Bg1 a3 59. Bd4
+a2 60. c5 g3 61. Bg1 a1=Q 62. Kc4 Qa4# 0-1
+
+[Event "CN Jovens 2014 - U12"]
+[Site "Luso POR"]
+[Date "2014.07.26"]
+[Round "5.1"]
+[White "Santos, José Gulherme"]
+[Black "Veiga, Francisco"]
+[Result "0-1"]
+[ECO "B34"]
+[BlackElo "1680"]
+[WhiteFideId "1939300"]
+[BlackFideId "1930087"]
+[PlyCount "98"]
+[EventDate "2014.07.23"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 g6 5. Nxc6 bxc6 6. Bc4 Bg7 7. O-O d6
+8. Nd2 Nf6 9. Rb1 O-O 10. Re1 d5 11. exd5 cxd5 12. Bb3 a5 13. c4 Bf5 14. Bc2 d4
+15. Bxf5 gxf5 16. Nf3 Ne4 17. Bf4 Rc8 18. Qd3 Rc5 19. h3 e5 20. Bh2 Re8 21. Nd2
+Nd6 22. Qa3 Rc6 23. c5 Nb7 24. Qf3 Qd7 25. Qa3 Rxc5 26. Rbc1 Rxc1 27. Rxc1 Bh6
+28. Rd1 Qb5 29. Nf3 Bg7 30. Qb3 Qxb3 31. axb3 Nc5 32. Nd2 f6 33. Nc4 Rb8
+34. Nxa5 Nxb3 35. Nc6 Rb7 36. f4 e4 37. Kf1 d3 38. Bg1 Bf8 39. Nd4 Nxd4 40. Bxd4
+Kf7 41. Kf2 Ke6 42. Ke3 Be7 43. Rc1 Kd5 44. Bc3 Bc5+ 45. Kd2 Bd4 46. Ra1 Bxc3+
+47. Kxc3 Rc7+ 48. Kb3 d2 49. Rd1 e3 0-1
+
+[Event "CN Jovens 2014 - U12"]
+[Site "Luso POR"]
+[Date "2014.07.26"]
+[Round "5.2"]
+[White "Fidalgo, Daniel"]
+[Black "Cordeiro, João"]
+[Result "1-0"]
+[ECO "A20"]
+[WhiteElo "1645"]
+[BlackElo "1524"]
+[WhiteFideId "1934279"]
+[BlackFideId "1935291"]
+[PlyCount "119"]
+[EventDate "2014.07.23"]
+
+1. c4 e5 2. g3 c6 3. Nc3 d5 4. cxd5 cxd5 5. Qb3 Nf6 6. d3 Nc6 7. Bg2 Bb4 8. a3
+Bxc3+ 9. bxc3 h6 10. Nf3 O-O 11. O-O Re8 12. Nd2 Rb8 13. c4 Be6 14. cxd5 Bxd5
+15. Bxd5 Qxd5 16. Qxd5 Nxd5 17. Bb2 f5 18. Nc4 Rbd8 19. Rac1 f4 20. Rc2 fxg3
+21. hxg3 e4 22. dxe4 Rxe4 23. f3 Rxc4 24. Rxc4 Ne3 25. Rxc6 bxc6 26. Re1 Nc4
+27. Bc1 Rb8 28. Rd1 Rb1 29. Kf2 Kh7 30. e4 Nxa3 31. Rd3 Rxc1 32. Rxa3 Rc5
+33. Rxa7 Re5 34. Rc7 Re6 35. Ke3 Kg6 36. f4 Kh7 37. f5 Rf6 38. Kf4 Rf8 39. Rxc6
+Kg8 40. e5 g5+ 41. Ke4 Kg7 42. Rc7+ Rf7 43. Rxf7+ Kxf7 44. f6 h5 45. Kf5 h4
+46. gxh4 gxh4 47. Kg4 h3 48. Kxh3 Ke6 49. Kg4 Kf7 50. Kf5 Ke8 51. Ke6 Kf8
+52. Kd7 Kf7 53. e6+ Kxf6 54. e7 Kf7 55. e8=Q+ Kf6 56. Qe6+ Kg5 57. Qf7 Kh4
+58. Qg6 Kh3 59. Ke6 Kh2 60. Kf5 1-0
+
+[Event "CN Jovens 2014 - U12"]
+[Site "Luso POR"]
+[Date "2014.07.26"]
+[Round "5.3"]
+[White "Oliveira, Alice"]
+[Black "Silva, João Miguel"]
+[Result "1-0"]
+[ECO "B01"]
+[WhiteElo "1521"]
+[BlackElo "1481"]
+[WhiteFideId "1930818"]
+[BlackFideId "1926039"]
+[PlyCount "59"]
+[EventDate "2014.07.23"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qa5 4. Bc4 Nf6 5. d3 c6 6. Bd2 Qc7 7. Nge2 Bf5
+8. O-O e6 9. Ng3 Bg6 10. Kh1 Nbd7 11. f4 Nb6 12. Bb3 O-O-O 13. f5 exf5 14. Nxf5
+Bxf5 15. Rxf5 Nfd5 16. Qf3 f6 17. Nxd5 cxd5 18. Bxd5 Nxd5 19. Rxd5 Bd6 20. Qg4+
+Rd7 21. Re1 Kd8 22. Qe6 h5 23. c4 b6 24. b4 Be5 25. d4 Rd6 26. dxe5 Rxd5
+27. cxd5 fxe5 28. Qxe5 Qb7 29. Bg5+ Kc8 30. Rc1+ 1-0
+
+[Event "CN Jovens 2014 - U12"]
+[Site "Luso POR"]
+[Date "2014.07.26"]
+[Round "5.4"]
+[White "Santos, José Miguel"]
+[Black "Abreu, Alexandre"]
+[Result "1-0"]
+[ECO "C01"]
+[WhiteElo "1452"]
+[WhiteFideId "1930834"]
+[BlackFideId "1942182"]
+[PlyCount "73"]
+[EventDate "2014.07.23"]
+
+1. e4 e6 2. d4 d5 3. exd5 exd5 4. Bd3 Bd6 5. Ne2 Ne7 6. Nbc3 Be6 7. Be3 Nbc6
+8. Qd2 Qd7 9. O-O-O O-O-O 10. Kb1 Rhe8 11. Rhe1 a6 12. a3 Ng6 13. Ng3 Re7
+14. Re2 Rde8 15. Rde1 Bxg3 16. hxg3 Bf5 17. Bxf5 Qxf5 18. f3 Qd7 19. Bf2 Qd6
+20. Rxe7 Rxe7 21. Rxe7 Ngxe7 22. Qg5 g6 23. Qd2 h5 24. Kc1 Nf5 25. Ne2 Qf6
+26. Qd3 Kd7 27. Qb3 Ncxd4 28. Nxd4 Nxd4 29. Qxd5+ Kc8 30. Qxd4 Qe7 31. Qe3 Qd7
+32. Qd4 Qe7 33. Qe4 Qd7 34. Qd4 Qe7 35. Be3 b6 36. Qe4 Qd7 37. Qa8# 1-0
+
+[Event "CN Jovens 2014 - U12"]
+[Site "Luso POR"]
+[Date "2014.07.26"]
+[Round "5.5"]
+[White "Martins, Bruno"]
+[Black "Gama, João"]
+[Result "0-1"]
+[ECO "C50"]
+[BlackElo "1290"]
+[WhiteFideId "1942255"]
+[BlackFideId "1926667"]
+[PlyCount "84"]
+[EventDate "2014.07.23"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. O-O Nf6 5. Re1 O-O 6. Nc3 d6 7. h3 Be6
+8. Bxe6 fxe6 9. Na4 Bb6 10. Nxb6 axb6 11. c3 Qd7 12. d4 exd4 13. cxd4 Ne7 14. e5
+dxe5 15. dxe5 Nfd5 16. Ng5 h6 17. Ne4 Rad8 18. Qg4 Nf5 19. Ng3 Rf7 20. Nxf5 exf5
+21. Qg6 Ne7 22. Qxf7+ Kxf7 23. e6+ Qxe6 24. Rxe6 Rd1+ 25. Kh2 Kxe6 26. b3 g5
+27. Kg3 c5 28. Bb2 Rxa1 29. Bxa1 b5 30. Bg7 h5 31. Bf8 c4 32. Bxe7 Kxe7 33. Kf3
+Kd6 34. Ke3 Kd5 35. g3 b4 36. bxc4+ Kxc4 37. Kd2 b3 38. a3 b5 39. Kc1 Kc3
+40. Kb1 b2 41. f3 g4 42. hxg4 f4 0-1
+
+[Event "CN Jovens 2014 - U12"]
+[Site "Luso POR"]
+[Date "2014.07.26"]
+[Round "5.6"]
+[White "Camacho, Diogo"]
+[Black "Rodrigues, Constança"]
+[Result "0-1"]
+[ECO "D55"]
+[WhiteFideId "1932306"]
+[BlackFideId "1929240"]
+[PlyCount "92"]
+[EventDate "2014.07.23"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5 Be7 5. Nf3 O-O 6. e3 b6 7. cxd5 exd5 8. Bb5
+c6 9. Ba4 h6 10. Bf4 b5 11. Bc2 Bd6 12. Be5 Bxe5 13. Nxe5 Qd6 14. Qd3 Nbd7
+15. Nxd7 Bxd7 16. e4 dxe4 17. Nxe4 Nxe4 18. Qxe4 Rfe8 19. O-O Rxe4 20. Bxe4 Qxd4
+21. Rfe1 Qxb2 22. Rad1 Be6 23. Rd6 Qb4 24. Rdd1 Bd5 25. Bf5 Qf4 26. Bc2 Qg4
+27. f3 Qc4 28. Rd2 g6 29. Rde2 Qc5+ 30. Kh1 Bxa2 31. Bxg6 fxg6 32. Rxa2 b4
+33. Rae2 Kf7 34. Re5 Qd6 35. R5e3 a5 36. Ra1 a4 37. Re2 a3 38. Re3 Rd8 39. Kg1
+Qd4 40. Kf2 Qxa1 41. g4 Qb2+ 42. Re2 Qxe2+ 43. Kg3 Rd3 44. h3 Qxf3+ 45. Kh2 Rd2+
+46. Kg1 Qg2# 0-1
+
+[Event "CN Jovens 2014 - U12"]
+[Site "Luso POR"]
+[Date "2014.07.26"]
+[Round "5.7"]
+[White "Ribeiro, André Amorim"]
+[Black "Santos, Pedro Miguel"]
+[Result "1-0"]
+[ECO "B41"]
+[WhiteElo "1190"]
+[WhiteFideId "1928619"]
+[BlackFideId "1922246"]
+[PlyCount "43"]
+[EventDate "2014.07.23"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Bf4 Nc6 6. Nxc6 bxc6 7. Bd3 Be7
+8. O-O Nf6 9. c4 O-O 10. Re1 Bb7 11. Re3 d5 12. e5 Ne8 13. Qh5 g6 14. Qh6 Ng7
+15. Rh3 f5 16. exf6 Bxf6 17. Qxh7+ Kf7 18. Qxg6+ Ke7 19. Bg5 dxc4 20. Bxf6+ Rxf6
+21. Qxg7+ Ke8 22. Rh8+ 1-0
+
+[Event "CN Jovens 2014 - U12"]
+[Site "Luso POR"]
+[Date "2014.07.26"]
+[Round "5.8"]
+[White "Silva, Nuno Lynce"]
+[Black "Martins, Antonio M G Costa"]
+[Result "0-1"]
+[ECO "C50"]
+[BlackElo "1408"]
+[WhiteFideId "1942727"]
+[BlackFideId "1930079"]
+[PlyCount "132"]
+[EventDate "2014.07.23"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nc3 Nc6 4. Bc4 Bc5 5. O-O O-O 6. d3 h6 7. Be3 Bb6 8. h3
+d6 9. Bxb6 axb6 10. Qd2 Be6 11. Nd5 Bxd5 12. exd5 Na5 13. Bb3 Nxb3 14. axb3 Qd7
+15. c4 Rfe8 16. Rxa8 Rxa8 17. Nh2 Qc8 18. f4 exf4 19. Qxf4 Qd7 20. Qg3 Kh8
+21. Rc1 Re8 22. Re1 Rxe1+ 23. Qxe1 Qe8 24. Qxe8+ Nxe8 25. Kf2 Kh7 26. Ke3 Kg6
+27. b4 Nf6 28. Kd4 Kf5 29. c5 bxc5+ 30. bxc5 dxc5+ 31. Kxc5 Nd7+ 32. Kd4 Kf4
+33. Nf1 g5 34. Ne3 h5 35. b4 f5 36. Nf1 h4 37. Ne3 g4 38. Nf1 gxh3 39. gxh3 Kf3
+40. Ne3 f4 41. Nf5 Kg2 42. Nxh4+ Kxh3 43. Ke4 Kg4 44. Ng6 f3 45. Ke3 Kg3 46. Nf4
+f2 47. Ne2+ Kg2 48. Nf4+ Kf1 49. Nh3 Nb6 50. Kf3 Nxd5 51. Nxf2 Nxb4 52. Ke3 Nc2+
+53. Kd2 Kxf2 54. Kxc2 Ke3 55. Kc3 c6 56. Kc4 b6 57. d4 Ke4 58. Kc3 b5 59. Kb3
+Kxd4 60. Kb4 Kd3 61. Kb3 c5 62. Kb2 c4 63. Kc1 c3 64. Kd1 c2+ 65. Kc1 b4 66. Kb2
+Kd2 0-1
+
+[Event "CN Jovens 2014 - U12"]
+[Site "Luso POR"]
+[Date "2014.07.26"]
+[Round "5.9"]
+[White "Rocha, João"]
+[Black "Silva, Pedro Filipe"]
+[Result "1/2-1/2"]
+[ECO "B40"]
+[BlackElo "1314"]
+[WhiteFideId "1939297"]
+[BlackFideId "1934210"]
+[PlyCount "67"]
+[EventDate "2014.07.23"]
+
+1. e4 c5 2. Nf3 e6 3. Nc3 a6 4. g3 Nc6 5. Bg2 Qc7 6. O-O Be7 7. d3 Nf6 8. Be3
+O-O 9. Qe2 Rb8 10. Rad1 b6 11. d4 cxd4 12. Nxd4 Bb7 13. Nxc6 Qxc6 14. f4 Qc7
+15. Rd2 Rfd8 16. Qd3 d6 17. Rdf2 Nd7 18. f5 e5 19. Qd2 Nf6 20. Bf3 Rd7 21. h4
+Rbd8 22. Rh2 d5 23. exd5 Nxd5 24. Nxd5 Bxd5 25. Bxd5 Rxd5 26. Qf2 Qd6 27. Bxb6
+Rb8 28. c4 Rd1 29. Be3 Rxf1+ 30. Qxf1 e4 31. Qf2 Bf6 32. b3 Rd8 33. Qd2 Qxg3+
+34. Rg2 1/2-1/2
+
+[Event "CN Jovens 2014 - U12"]
+[Site "Luso POR"]
+[Date "2014.07.26"]
+[Round "5.10"]
+[White "Rodrigues, Pedro Serpa"]
+[Black "Ribeiro, Orlando"]
+[Result "0-1"]
+[ECO "C45"]
+[WhiteElo "1297"]
+[BlackElo "1219"]
+[WhiteFideId "1934724"]
+[BlackFideId "1936573"]
+[PlyCount "108"]
+[EventDate "2014.07.23"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Bc5 5. Be3 Qf6 6. c3 Nge7 7. Be2 O-O
+8. O-O Nxd4 9. Bxd4 Bxd4 10. cxd4 Nc6 11. d5 Qxb2 12. Nd2 Ne7 13. Nc4 Qf6 14. e5
+Qh6 15. f4 f6 16. d6 cxd6 17. exd6 Nc6 18. Bd3 f5 19. Qc2 Qf6 20. Qa4 Qd4+
+21. Kh1 Qxd3 22. Nb6 axb6 23. Qxa8 Qa6 24. Qxa6 bxa6 25. Rab1 b5 26. Rfe1 Kf7
+27. Rb3 Re8 28. Rxe8 Kxe8 29. Rg3 Kf7 30. Kg1 Nd4 31. Kf2 Ne6 32. Rf3 Bb7
+33. Rh3 h6 34. g3 a5 35. Ke2 a4 36. Kd2 Nf8 37. Kc3 Ke6 38. Rh5 Bf3 39. Rh3 Kxd6
+40. Kb4 Kc6 41. Rh4 Ng6 42. Rh3 Bg4 43. Rxh6 gxh6 44. h4 h5 45. a3 d5 46. Kc3
+Kc5 47. Kd3 d4 48. Kc2 Kc4 49. Kb2 d3 50. Ka2 d2 51. Kb2 d1=Q 52. Ka2 Qd2+
+53. Kb1 Kb3 54. Ka1 Qc1# 0-1
+
+[Event "CN Jovens 2014 - U12"]
+[Site "Luso POR"]
+[Date "2014.07.26"]
+[Round "5.11"]
+[White "Silva, Tiago Alexandre"]
+[Black "Oliveira, Beatriz"]
+[Result "1-0"]
+[ECO "C44"]
+[WhiteElo "1360"]
+[WhiteFideId "1935321"]
+[BlackFideId "1938649"]
+[PlyCount "101"]
+[EventDate "2014.07.23"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 Bb4+ 4. c3 Ba5 5. Nxe5 Nxe5 6. dxe5 Qe7 7. Bf4 g5
+8. Bg3 f6 9. Qd5 Bb6 10. exf6 Nxf6 11. Qe5 Qxe5 12. Bxe5 Rf8 13. Bxf6 Rxf6
+14. f3 d6 15. Nd2 Be6 16. Bc4 O-O-O 17. Bxe6+ Rxe6 18. Nc4 Bc5 19. b4 Bb6 20. a4
+a6 21. Nxb6+ cxb6 22. O-O d5 23. Rad1 dxe4 24. Rxd8+ Kxd8 25. Re1 e3 26. Kf1 Kc7
+27. Ke2 Kc6 28. Kd3 Kd5 29. Rxe3 Rxe3+ 30. Kxe3 Kc4 31. Kd2 Kb3 32. a5 bxa5
+33. bxa5 Ka4 34. g3 Kxa5 35. f4 gxf4 36. gxf4 Kb5 37. f5 Kc6 38. Ke3 a5 39. Kd4
+b5 40. c4 b4 41. f6 Kd6 42. c5+ Kd7 43. Kd5 b3 44. c6+ Kd8 45. Kd6 b2 46. c7+
+Kc8 47. f7 b1=Q 48. f8=Q+ Kb7 49. Qb8+ Ka6 50. c8=Q+ Qb7 51. Qbxb7# 1-0
+
+[Event "CN Jovens 2014 - U12"]
+[Site "Luso POR"]
+[Date "2014.07.26"]
+[Round "5.12"]
+[White "Rego, André Rodrigues"]
+[Black "Maciel, Rafael"]
+[Result "0-1"]
+[ECO "D53"]
+[BlackElo "1285"]
+[WhiteFideId "1945793"]
+[BlackFideId "1935305"]
+[PlyCount "60"]
+[EventDate "2014.07.23"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5 Be7 5. Nf3 h6 6. Bf4 Nc6 7. e3 Bb4 8. a3
+Bxc3+ 9. bxc3 Ne4 10. Qc2 O-O 11. Bd3 f5 12. O-O b6 13. Qa4 Qd7 14. Rab1 Nxc3
+15. Qb3 Nxb1 16. Rxb1 Ba6 17. Rc1 Na5 18. Qb4 Bxc4 19. Bxc4 Nxc4 20. Ne5 Nxe5
+21. Bxe5 a5 22. Qb3 Rfc8 23. Rxc7 Rxc7 24. Bxc7 Qxc7 25. f4 Rc8 26. h4 Qe7
+27. Qxb6 Rc1+ 28. Kf2 Qxh4+ 29. g3 Qh2+ 30. Kf3 Rf1# 0-1
+
+[Event "CN Jovens 2014 - U12"]
+[Site "Luso POR"]
+[Date "2014.07.26"]
+[Round "5.13"]
+[White "Saraiva, Diogo"]
+[Black "Palmelão, Pedro"]
+[Result "0-1"]
+[ECO "C65"]
+[WhiteFideId "1936611"]
+[BlackFideId "1936522"]
+[PlyCount "60"]
+[EventDate "2014.07.23"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. d3 Nd4 5. Nxe5 Nxb5 6. O-O Bc5 7. Bg5 O-O
+8. Qf3 Be7 9. Qg3 Nd4 10. Nc3 Nxc2 11. Rac1 Nd4 12. Bh6 Nh5 13. Nd5 Nxg3
+14. fxg3 Ne2+ 15. Kh1 Nxc1 16. Rxc1 gxh6 17. Nxc7 Rb8 18. Ng4 Kg7 19. d4 d5
+20. Nxd5 Bxg4 21. e5 Qxd5 22. h3 Bd7 23. Kh2 Bc6 24. Rg1 Bb4 25. a3 Be1 26. h4
+Bf2 27. Kh3 Bxg1 28. Kg4 Qxd4+ 29. Kh5 Bd7 30. g4 Bxg4# 0-1
+
+[Event "CN Jovens 2014 - U12"]
+[Site "Luso POR"]
+[Date "2014.07.26"]
+[Round "5.14"]
+[White "Gomes, Gonçalo"]
+[Black "Monteiro, Tomás"]
+[Result "0-1"]
+[ECO "B54"]
+[BlackElo "1243"]
+[WhiteFideId "1941453"]
+[BlackFideId "1930800"]
+[PlyCount "102"]
+[EventDate "2014.07.23"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 g6 5. Nc3 Bg7 6. Nf3 Nf6 7. Bg5 O-O 8.
+Bc4 Nc6 9. O-O Bd7 10. h3 a6 11. Re1 b5 12. Bb3 Qc7 13. Nd5 Nxd5 14. exd5 Na5
+15. Qd2 Rfe8 16. Bh6 Bh8 17. Ng5 Nxb3 18. cxb3 Rac8 19. Rac1 Qb7 20. Red1 Rxc1
+21. Rxc1 Rc8 22. Rxc8+ Qxc8 23. Qf4 f6 24. Nf3 Qe8 25. Nd4 g5 26. Qe4 f5 27.
+Qe3 Bxd4 28. Qxd4 Qg6 29. Qa7 Qxh6 30. Qxd7 Qf8 31. a4 bxa4 32. bxa4 Qf7 33.
+Qc6 a5 34. Qb5 Qf6 35. Qxa5 Qxb2 36. Qb5 Qc1+ 37. Kh2 Qf4+ 38. Kg1 Qc1+ 39. Qf1
+Qa3 40. Qb5 Qc1+ 41. Kh2 Qf4+ 42. Kg1 Qc1+ 43. Qf1 Qa3 44. Qc4 Qa1+ 45. Kh2
+Qe5+ 46. g3 Qa1 47. Qb5 Qa2 48. Kg2 Qa3 49. Qe8+ Kg7 50. Qxe7+ Kh6 51. Qxd6+
+Qxd6 0-1
+
+[Event "CN Jovens 2014 - U12"]
+[Site "Luso POR"]
+[Date "2014.07.26"]
+[Round "5.15"]
+[White "Garcia, Nathalia"]
+[Black "Gaspar, Pedro"]
+[Result "1-0"]
+[ECO "C49"]
+[WhiteElo "1231"]
+[WhiteFideId "1936417"]
+[BlackFideId "1936425"]
+[PlyCount "93"]
+[EventDate "2014.07.23"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. Bb5 Bb4 5. d3 Nd4 6. Bc4 O-O 7. O-O Nxf3+
+8. Qxf3 Bxc3 9. bxc3 d6 10. h3 Nd7 11. Qg3 Qf6 12. Bb3 Nc5 13. Bg5 Qg6 14. Be7
+Qxg3 15. fxg3 Re8 16. Bxf7+ Kh8 17. Bxe8 g6 18. d4 exd4 19. cxd4 Nxe4 20. Rf8+
+Kg7 21. Bd7 Nxg3 22. Rxc8 Rxc8 23. Bxc8 Ne2+ 24. Kh2 Kf7 25. Bh4 h6 26. Bxb7 g5
+27. Bg3 Nxd4 28. Rd1 Nxc2 29. Bxd6 cxd6 30. Rxd6 Nb4 31. a4 Ke7 32. Rxh6 a5
+33. Rh5 Kf6 34. h4 Kg6 35. Rxg5+ Kh6 36. Rxa5 Kg7 37. Rb5 Nd3 38. a5 Kf7 39. a6
+Ke7 40. a7 Nc5 41. Rxc5 Kd6 42. Rh5 Kc7 43. a8=Q Kb6 44. Qg8 Kxb7 45. Qg6 Kc8
+46. Rh7 Kd8 47. Qg8# 1-0
+
+[Event "CN Jovens 2014 - U12"]
+[Site "Luso POR"]
+[Date "2014.07.26"]
+[Round "5.16"]
+[White "Prazeres, João"]
+[Black "Pinto, Pedro M R"]
+[Result "0-1"]
+[ECO "D02"]
+[WhiteFideId "1939084"]
+[BlackFideId "1936549"]
+[PlyCount "76"]
+[EventDate "2014.07.23"]
+
+1. d4 d5 2. Nf3 Nc6 3. c4 e6 4. Nc3 Nf6 5. Bg5 Be7 6. e3 h6 7. Bh4 O-O 8. Bd3
+b6 9. cxd5 exd5 10. O-O Bb7 11. a3 Qd6 12. Bg3 Qd8 13. Nb5 Bd6 14. Nxd6 cxd6
+15. Rc1 Qd7 16. Qe2 a5 17. Bb5 Rac8 18. Ba6 Bxa6 19. Qxa6 Qa7 20. Qxa7 Nxa7
+21. Bxd6 Rxc1 22. Rxc1 Rc8 23. Rxc8+ Nxc8 24. Be5 Nd7 25. Kf1 f6 26. Bg3 Kf7
+27. Ke2 Ke6 28. Nd2 Na7 29. Kd3 f5 30. h3 Nc6 31. Kc3 b5 32. f3 a4 33. Kd3 g5
+34. f4 g4 35. Bh2 h5 36. Bg3 Nf6 37. Bh4 gxh3 38. Bxf6 h2 0-1
+
+[Event "CN Jovens 2014 - U12"]
+[Site "Luso POR"]
+[Date "2014.07.26"]
+[Round "5.17"]
+[White "Cunha, Alexandre"]
+[Black "Rodrigues, José Francisco"]
+[Result "1/2-1/2"]
+[ECO "B23"]
+[WhiteElo "1037"]
+[WhiteFideId "1931890"]
+[BlackFideId "1934201"]
+[PlyCount "80"]
+[EventDate "2014.07.23"]
+
+1. e4 c5 2. Bc4 e6 3. Nc3 Nc6 4. Nf3 Nf6 5. e5 Ng4 6. Qe2 d5 7. exd6 Bxd6 8. h3
+Nge5 9. O-O Nxf3+ 10. Qxf3 Ne5 11. Qe4 Nxc4 12. Qxc4 O-O 13. d4 cxd4 14. Nb5 Be5
+15. f4 Bb8 16. Qxd4 a6 17. Qxd8 Rxd8 18. Nc3 Ba7+ 19. Kh1 b5 20. a3 Bb7 21. f5
+exf5 22. Rxf5 Re8 23. Bf4 Re6 24. Nd5 Re2 25. Bd6 Bxd5 26. Rxd5 Rxc2 27. Be5 Re8
+28. Bc3 h6 29. Rd2 Rxd2 30. Bxd2 Re2 31. Bc3 Re4 32. Re1 Rc4 33. Re8+ Kh7
+34. Re7 Bd4 35. Bxd4 Rxd4 36. Rxf7 Rd2 37. Ra7 Rxb2 38. Rxa6 Ra2 39. Rb6 Rxa3
+40. Rxb5 Ra1+ 1/2-1/2
+
+[Event "CN Jovens 2014 - U12"]
+[Site "Luso POR"]
+[Date "2014.07.26"]
+[Round "5.18"]
+[White "Fernandes, João Adriano"]
+[Black "Lobo, Hugo"]
+[Result "0-1"]
+[ECO "B30"]
+[BlackElo "1154"]
+[WhiteFideId "1939602"]
+[BlackFideId "1934902"]
+[PlyCount "62"]
+[EventDate "2014.07.23"]
+
+1. e4 c5 2. Nc3 Nc6 3. Nf3 d6 4. Bc4 Nf6 5. Ng5 e6 6. O-O h6 7. Nf3 Be7 8. d3
+O-O 9. Re1 e5 10. Bd2 Bg4 11. Qc1 Bxf3 12. gxf3 Nd4 13. Qd1 Qd7 14. Kh1 Qh3
+15. Re3 Nh7 16. f4 Qh4 17. fxe5 dxe5 18. Nd5 Bg5 19. Rg3 Bxd2 20. Qxd2 Ne6
+21. Rag1 Kh8 22. c3 Qh5 23. Ne7 Nhg5 24. Qe3 Rfe8 25. Nf5 Nf4 26. Nd6 Re7
+27. Nf5 Rd7 28. Qxc5 Re8 29. Bb5 Nf3 30. Rxf3 Qxf3+ 31. Rg2 Qxg2# 0-1
+
+[Event "CN Jovens 2014 - U12"]
+[Site "Luso POR"]
+[Date "2014.07.26"]
+[Round "5.19"]
+[White "Rego, João Rui"]
+[Black "Silva, Rafael"]
+[Result "1-0"]
+[ECO "C51"]
+[WhiteElo "1317"]
+[WhiteFideId "1934465"]
+[BlackFideId "1925857"]
+[PlyCount "105"]
+[EventDate "2014.07.23"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. b4 Bxb4 5. c3 Bc5 6. d4 exd4 7. cxd4 Bb4+
+8. Bd2 Bxd2+ 9. Nbxd2 d6 10. O-O Bg4 11. Qb3 Qd7 12. Qxb7 Rb8 13. Qa6 Nf6 14. d5
+Ne5 15. Nxe5 dxe5 16. Qxa7 O-O 17. f3 Bh5 18. Rab1 Rxb1 19. Rxb1 Bg6 20. Rb7 Rc8
+21. Bb5 Qd6 22. Rb8 Qd8 23. Rxc8 Qxc8 24. Bc6 Nh5 25. Qa8 Qxa8 26. Bxa8 Nf4
+27. a4 Ne2+ 28. Kf2 Nc3 29. a5 Nb5 30. a6 Na7 31. Nb3 f6 32. Na5 Be8 33. Bc6 Kf8
+34. Bxe8 Kxe8 35. Nc6 Nc8 36. a7 Nb6 37. Ke2 Kd7 38. Kd2 Kc8 39. Kc3 Kb7 40. Kb4
+Nc8 41. Ka4 Nxa7 42. Nxa7 Kxa7 43. Kb5 Kb7 44. Kc5 Kc8 45. Kc6 Kd8 46. g3 Ke7
+47. Kxc7 h6 48. d6+ Ke8 49. d7+ Ke7 50. d8=Q+ Kf7 51. Kd6 Kg6 52. Ke6 Kh7
+53. Kf7 1-0
+
+[Event "CN Jovens 2014 - U12"]
+[Site "Luso POR"]
+[Date "2014.07.26"]
+[Round "5.20"]
+[White "Fernandes, João Pedro S"]
+[Black "Barata, Manuel"]
+[Result "0-1"]
+[ECO "C50"]
+[WhiteFideId "1944452"]
+[BlackFideId "1938983"]
+[PlyCount "110"]
+[EventDate "2014.07.23"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. O-O Nf6 5. Nc3 d6 6. h3 O-O 7. d3 h6 8. Re1
+Be6 9. Bxe6 fxe6 10. Be3 Bb6 11. d4 Qd7 12. dxe5 Nxe5 13. Nxe5 dxe5 14. Bxb6
+axb6 15. Qxd7 Nxd7 16. Rad1 Nc5 17. b3 c6 18. b4 Na4 19. Nxa4 Rxa4 20. Rd7 Rf7
+21. Red1 Rxd7 22. Rxd7 Rxa2 23. Rxb7 Rxc2 24. Rxb6 Kf7 25. b5 cxb5 26. Rxb5 Kf6
+27. g4 Rc4 28. f3 Rc2 29. h4 g5 30. hxg5+ hxg5 31. Rb7 Kg6 32. Rd7 Kf6 33. Rh7
+Kg6 34. Rh2 Rxh2 35. Kxh2 Kf7 36. Kg3 Ke7 37. Kf2 Kd6 38. Ke3 Kc5 39. Kd3 Kb4
+40. Kd2 Kc4 41. Ke3 Kc3 42. Ke2 Kd4 43. Kd2 Kc4 44. Ke3 Kc3 45. Ke2 Kc2 46. Ke3
+Kd1 47. Kf2 Kd2 48. Kf1 Ke3 49. Kg2 Ke2 50. Kg3 Kf1 51. f4 exf4+ 52. Kf3 Ke1
+53. e5 Kf1 54. Ke4 Ke2 55. Kd4 f3 0-1
+
+[Event "CN Jovens 2014 - U12"]
+[Site "Luso POR"]
+[Date "2014.07.26"]
+[Round "5.21"]
+[White "Dias, Tiago Monteiro"]
+[Black "Rhodes, Mónica"]
+[Result "1-0"]
+[ECO "C50"]
+[WhiteFideId "1945785"]
+[BlackFideId "1939262"]
+[PlyCount "123"]
+[EventDate "2014.07.23"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. d3 h6 5. O-O Nf6 6. c3 d5 7. exd5 Nxd5 8. Bb5
+Bg4 9. Bxc6+ bxc6 10. Nbd2 Bb6 11. Re1 Qf6 12. c4 Ne7 13. Ne4 Qf5 14. c5 Ba5
+15. Bd2 Bxd2 16. Nexd2 Ng6 17. Nb3 Nh4 18. Re3 Qg6 19. g3 Nxf3+ 20. Rxf3 Bxf3
+21. Qxf3 Qf6 22. Qe3 O-O 23. Qe1 Rfd8 24. Rd1 Rab8 25. Qd2 Qg5 26. Qa5 Qf6
+27. Qxc7 Rbc8 28. Qxa7 Ra8 29. Qb6 Rab8 30. Qa5 e4 31. d4 Ra8 32. Qb4 Rxa2
+33. Qc3 Qf3 34. Qc2 Rb8 35. Nd2 Raxb2 36. Qc1 Qf6 37. Nxe4 Qe7 38. Re1 Rb1
+39. Qd2 Rxe1+ 40. Qxe1 Rb4 41. f3 Rxd4 42. g4 g6 43. Qc3 Rd1+ 44. Kg2 h5
+45. gxh5 gxh5 46. Nf6+ Kg7 47. Nxh5+ Kf8 48. Nf6 Qe2+ 49. Kg3 Rg1+ 50. Kf4 Qxh2+
+51. Ke3 Qh6+ 52. Kf2 Rc1 53. Nd7+ Kg8 54. Nf6+ Kg7 55. Ne8+ Kg6 56. Qf6+ Kh7
+57. Qxf7+ Kh8 58. Nf6 Qh4+ 59. Ke2 Rc2+ 60. Kd3 Rg2 61. Qf8+ Rg8 62. Qxg8# 1-0
+
+[Event "CN Jovens 2014 - U12"]
+[Site "Luso POR"]
+[Date "2014.07.26"]
+[Round "5.22"]
+[White "Carreira, David Santos"]
+[Black "Lobo, Pedro"]
+[Result "0-1"]
+[ECO "C44"]
+[WhiteFideId "1941399"]
+[BlackFideId "1940082"]
+[PlyCount "176"]
+[EventDate "2014.07.23"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Bc4 Bc5 5. c3 dxc3 6. O-O cxb2 7. Bxb2 Nf6
+8. e5 Ne4 9. Qd5 O-O 10. Qxe4 d5 11. exd6 Qxd6 12. Ng5 g6 13. Bh8 Kxh8 14. Nxf7+
+Rxf7 15. Bxf7 Qd8 16. Nd2 Qf6 17. Nb3 Bf5 18. Qf3 Nd4 19. Nxd4 Bxd4 20. Qxb7 Rf8
+21. Rad1 Rxf7 22. Qb8+ Kg7 23. Qb4 Bc3 24. Qb3 Be6 25. Qc2 c6 26. Rc1 Bc4
+27. Qxc3 Bxf1 28. Qxf6+ Rxf6 29. Rxf1 c5 30. Rd1 Re6 31. g3 c4 32. Rd7+ Kf6
+33. Rc7 Re1+ 34. Kg2 Rc1 35. f4 c3 36. h4 Kf5 37. Rc5+ Ke4 38. Kh3 c2 39. Kg4
+Kd3 40. Rd5+ Ke2 41. Re5+ Kd3 42. Rd5+ Kc4 43. Rd8 Ra1 44. h5 gxh5+ 45. Kxh5 Rd1
+46. Rd7 c1=Q 47. Rc7+ Kd5 48. Rxc1 Rxc1 49. g4 Rh1+ 50. Kg5 Ke6 51. f5+ Kf7
+52. Kf4 h6 53. Ke4 Re1+ 54. Kf4 Kf6 55. Kf3 Rg1 56. Kf4 Rf1+ 57. Kg3 Kg5 58. a4
+h5 59. gxh5 Kxh5 60. a5 Rxf5 61. a6 Ra5 62. Kf3 Ra4 63. Ke3 Kg5 64. Kd3 Kf5
+65. Kc3 Ke5 66. Kb3 Rh4 67. Ka3 Kd5 68. Kb3 Kc5 69. Ka3 Kb5 70. Kb3 Rh3+ 71. Kc2
+Kb4 72. Kd2 Kc4 73. Ke2 Kd4 74. Kf2 Ke4 75. Kg2 Ra3 76. Kf2 Rb3 77. Kg2 Kf4
+78. Kh2 Kg4 79. Kg2 Rb2+ 80. Kf1 Kg3 81. Ke1 Kf3 82. Kd1 Ke3 83. Kc1 Rh2 84. Kb1
+Kd3 85. Ka1 Kc3 86. Kb1 Rg2 87. Ka1 Kb3 88. Kb1 Rg1# 0-1
+
+[Event "CN Jovens 2014 - U12"]
+[Site "Luso POR"]
+[Date "2014.07.26"]
+[Round "5.23"]
+[White "Encarnação, Filipe"]
+[Black "Jesus, Ana"]
+[Result "1-0"]
+[ECO "C65"]
+[WhiteFideId "1942018"]
+[BlackFideId "1941640"]
+[PlyCount "83"]
+[EventDate "2014.07.23"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. d3 Bd6 5. Bg5 O-O 6. Nc3 Bc5 7. Bxc6 bxc6
+8. Nxe5 d6 9. Nxc6 Qd7 10. Na5 Qe6 11. O-O Qe5 12. Bxf6 Qxf6 13. Nb3 Bb6 14. Nd5
+Qg6 15. Ne7+ Kh8 16. Nxg6+ fxg6 17. Re1 Bxf2+ 18. Kh1 Bb6 19. Rf1 Bf2 20. Qe2
+Rf4 21. Rxf2 Bg4 22. Qe3 Kg8 23. Qxf4 Be6 24. Raf1 h6 25. Qd2 Rb8 26. Qa5 Kh7
+27. Qxa7 Rh8 28. Qxc7 d5 29. Rf8 Rxf8 30. Rxf8 g5 31. Qd6 Bg8 32. exd5 Kh8
+33. Rxg8+ Kxg8 34. a4 Kh7 35. a5 Kg8 36. a6 Kh8 37. a7 Kg8 38. Qe7 Kh8 39. a8=Q+
+Kh7 40. Qe6 g6 41. Qa7+ Kh8 42. Qe8# 1-0
+
+[Event "CN Jovens 2014 - U12"]
+[Site "Luso POR"]
+[Date "2014.07.26"]
+[Round "5.24"]
+[White "Silva, Manuel Amorim"]
+[Black "Antunes, André"]
+[Result "0-1"]
+[ECO "D02"]
+[WhiteFideId "1944053"]
+[BlackFideId "1936328"]
+[PlyCount "23"]
+[EventDate "2014.07.23"]
+[Annotator "Inc"]
+
+1. d4 d5 2. Nf3 Nc6 3. g3 Bd7 4. Bg2 Nf6 5. Nc3 g6 6. Bd2 Bg7 7. Qc1 Ng8 8. b3
+Be6 9. Ne5 Nxe5 10. dxe5 Qd7 11. f4 g5 12. e3 *
+
+[Event "CN Jovens 2014 - U12"]
+[Site "Luso POR"]
+[Date "2014.07.26"]
+[Round "5.25"]
+[White "Lança, Luis"]
+[Black "Santos, Leonor"]
+[Result "1-0"]
+[ECO "C60"]
+[WhiteFideId "1936450"]
+[BlackFideId "1941739"]
+[PlyCount "41"]
+[EventDate "2014.07.23"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Bb4 4. O-O Nf6 5. d3 O-O 6. Bxc6 dxc6 7. Nxe5 Re8
+8. Nf3 Bg4 9. h3 Bh5 10. Nc3 Re5 11. d4 Re7 12. e5 Nd5 13. Bg5 f6 14. Qd3 fxg5
+15. Nxg5 Bg6 16. Qg3 Nxc3 17. bxc3 Bxc2 18. Qh4 Bd3 19. Rad1 Bxf1 20. Qxh7+ Kf8
+21. Qh8# 1-0
+
+[Event "CN Jovens 2014 - U12"]
+[Site "Luso POR"]
+[Date "2014.07.26"]
+[Round "5.26"]
+[White "Braz, Ana Francisca"]
+[Black "Ferreira, Guilherme"]
+[Result "0-1"]
+[ECO "B02"]
+[WhiteFideId "1936352"]
+[BlackFideId "1939912"]
+[PlyCount "27"]
+[EventDate "2014.07.23"]
+
+1. e4 d5 2. Nc3 Nf6 3. d3 dxe4 4. dxe4 Qxd1+ 5. Nxd1 Nxe4 6. Bf4 Na6 7. Bb5+ c6
+8. Bc4 Nac5 9. Ne3 g6 10. O-O-O Nxf2 11. Be5 Nxd1 12. Nxd1 f6 13. Bc7 Bh6+
+14. Kb1 0-1
+
+[Event "CN Jovens 2014 - U12"]
+[Site "Luso POR"]
+[Date "2014.07.26"]
+[Round "5.27"]
+[White "Gomes, Beatriz"]
+[Black "Antunes, Ana"]
+[Result "1-0"]
+[ECO "B50"]
+[WhiteFideId "1936433"]
+[BlackFideId "1936310"]
+[PlyCount "117"]
+[EventDate "2014.07.23"]
+
+1. e4 c5 2. Nf3 d6 3. d4 Nc6 4. Be3 Nf6 5. Nc3 e6 6. Bd3 Be7 7. O-O O-O 8. h3
+Bd7 9. e5 dxe5 10. Nxe5 cxd4 11. Bd2 Nxe5 12. Ne4 Nxe4 13. Bxe4 Bc6 14. Bxc6
+Nxc6 15. Qg4 Ne5 16. Qg3 h6 17. Bxh6 Ng6 18. Bd2 Bh4 19. Qf3 Qd5 20. Qxd5 exd5
+21. Bb4 Rfe8 22. Bc5 Rec8 23. Bxd4 Rxc2 24. Rad1 Re8 25. Rb1 Ree2 26. Bxa7 Bxf2+
+27. Rxf2 Rxf2 28. Bxf2 Ne5 29. Bd4 Nd3 30. a3 Nf4 31. Kf1 Rxg2 32. Be5 d4
+33. Bxf4 Rg6 34. Rd1 d3 35. Rxd3 Rf6 36. Rf3 Rf5 37. Kf2 Kh7 38. Kg3 g5 39. Be3
+Kg6 40. Rxf5 Kxf5 41. Kf3 f6 42. b4 Ke6 43. a4 Kd7 44. b5 Kc8 45. Bb6 Kb8 46. a5
+f5 47. Kg3 f4+ 48. Kg4 Ka8 49. Kf3 Kb8 50. a6 g4+ 51. hxg4 Kc8 52. a7 Kd7
+53. a8=Q Ke6 54. Kxf4 Kf6 55. Qe8 Kg7 56. g5 Kh7 57. g6+ Kg7 58. Qf7+ Kh6
+59. Qh7# 1-0
+
+[Event "CN Jovens 2014 - U12"]
+[Site "Luso POR"]
+[Date "2014.07.26"]
+[Round "6.1"]
+[White "Veiga, Francisco"]
+[Black "Fidalgo, Daniel"]
+[Result "1-0"]
+[ECO "C05"]
+[WhiteElo "1680"]
+[BlackElo "1645"]
+[WhiteFideId "1930087"]
+[BlackFideId "1934279"]
+[PlyCount "161"]
+[EventDate "2014.07.23"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. Bd3 c5 6. c3 Nc6 7. Ne2 Be7 8. O-O
+O-O 9. Nf3 cxd4 10. cxd4 f6 11. exf6 Nxf6 12. Ng3 Bd6 13. Re1 h6 14. Bd2 Qb6
+15. Bc3 Bd7 16. Ne5 Bxe5 17. dxe5 Ne8 18. Re2 Nc7 19. Bb1 Ne7 20. Bd4 Qa6
+21. Qc2 Nb5 22. Bc5 Rac8 23. Qh7+ Kf7 24. Bxe7 Kxe7 25. Qxg7+ Rf7 26. Qxh6 Nd4
+27. Re1 Nc2 28. Qg5+ Kf8 29. Bxc2 Rxc2 30. Qd8+ Be8 31. Rf1 Qb5 32. Qd6+ Re7
+33. Rac1 Rxc1 34. Rxc1 Bc6 35. Qa3 Qb6 36. Nh5 Qd4 37. Qc3 Qxc3 38. bxc3 Rh7
+39. Nf6 Rh4 40. g3 Ra4 41. Rc2 Ra3 42. h4 Ba4 43. Rb2 b6 44. h5 Rxc3 45. Rb4 Bc6
+46. Rd4 Rc1+ 47. Kg2 Rc4 48. Rxc4 dxc4+ 49. Kf1 Bf3 50. Ke1 c3 51. h6 Kf7
+52. Nh7 Bd5 53. Ng5+ Kg6 54. h7 Kg7 55. a3 b5 56. Kd1 Bb3+ 57. Kc1 a5 58. Ne4 b4
+59. Nc5 Bd5 60. axb4 axb4 61. Kc2 Kxh7 62. Na6 b3+ 63. Kxc3 Kg6 64. Nc7 b2
+65. Kxb2 Bc4 66. Kc3 Ba2 67. Kd4 Kf5 68. Nb5 Kg4 69. Nc3 Bb3 70. Ne4 Kf5 71. Nc5
+Bd5 72. Nd7 Bf3 73. Nf6 Bd1 74. f4 Bf3 75. Ke3 Bd1 76. g4+ Kg6 77. Kd4 Bb3
+78. Kc5 Kf7 79. Kd6 Bc4 80. Ne4 Ba2 81. Ng5+ 1-0
+
+[Event "CN Jovens 2014 - U12"]
+[Site "Luso POR"]
+[Date "2014.07.26"]
+[Round "6.2"]
+[White "Gama, João"]
+[Black "Oliveira, Alice"]
+[Result "0-1"]
+[ECO "C53"]
+[WhiteElo "1290"]
+[BlackElo "1521"]
+[WhiteFideId "1926667"]
+[BlackFideId "1930818"]
+[PlyCount "116"]
+[EventDate "2014.07.23"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Nf6 5. d3 a6 6. O-O Ba7 7. Nbd2 d6 8. h3
+O-O 9. Bb3 Be6 10. Bc2 h6 11. Re1 Ne7 12. Nf1 Ng6 13. Ng3 Qe7 14. d4 Nh7 15. Be3
+Ng5 16. Nxg5 hxg5 17. Qf3 Nf4 18. dxe5 dxe5 19. Bxa7 Rxa7 20. Rad1 Raa8 21. Nf5
+Qf6 22. g3 Bxf5 23. exf5 Nxh3+ 24. Kg2 g4 25. Qxg4 Ng5 26. Qb4 Qc6+ 27. Kf1 Qh1+
+28. Ke2 Qf3+ 29. Kd2 Qxf2+ 30. Kc1 Nf3 31. Rf1 Qe3+ 32. Kb1 Nd2+ 33. Rxd2 Qxd2
+34. Rc1 b6 35. Qe4 Qd6 36. f6 g6 37. Rh1 Qxf6 38. Qh4 Qxh4 39. gxh4 Rad8 40. h5
+Kg7 41. h6+ Kh7 42. Bb3 f5 43. a4 a5 44. Ba2 e4 45. b4 f4 46. Kb2 Rd2+ 47. Ka3
+e3 48. Bb3 e2 49. b5 f3 50. Bc4 f2 51. Bxe2 Rxe2 52. Rf1 Re1 53. Rxf2 Rxf2
+54. Kb3 Rf4 55. c4 Re3+ 56. Kc2 Rf2+ 57. Kd1 Rh2 58. Kc1 Re1# 0-1
+
+[Event "CN Jovens 2014 - U12"]
+[Site "Luso POR"]
+[Date "2014.07.26"]
+[Round "6.3"]
+[White "Rodrigues, Constança"]
+[Black "Santos, José Miguel"]
+[Result "1/2-1/2"]
+[ECO "C02"]
+[BlackElo "1452"]
+[WhiteFideId "1929240"]
+[BlackFideId "1930834"]
+[PlyCount "47"]
+[EventDate "2014.07.23"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Bd7 6. a3 Nge7 7. Be2 Ng6 8. O-O
+Be7 9. Re1 O-O 10. Nbd2 Qc7 11. Nf1 a6 12. Ng3 Rac8 13. h3 f6 14. Bd3 f5 15. Rb1
+b5 16. Bc2 cxd4 17. cxd4 Na5 18. Bd3 Nc6 19. b4 Qb6 20. Bb2 Na7 21. Qd2 Qb7
+22. Nh5 Rc7 23. Rbc1 Rcc8 24. Rb1 1/2-1/2
+
+[Event "CN Jovens 2014 - U12"]
+[Site "Luso POR"]
+[Date "2014.07.26"]
+[Round "6.4"]
+[White "Santos, José Gulherme"]
+[Black "Ribeiro, André Amorim"]
+[Result "1-0"]
+[ECO "A00"]
+[BlackElo "1190"]
+[WhiteFideId "1939300"]
+[BlackFideId "1928619"]
+[PlyCount "89"]
+[EventDate "2014.07.23"]
+
+1. c3 c5 2. d4 cxd4 3. cxd4 Nf6 4. g3 Nc6 5. Bg2 g6 6. Bf4 d6 7. Nc3 Bg7 8. Nf3
+O-O 9. O-O Bg4 10. Qd2 Qa5 11. Bh6 Bxh6 12. Qxh6 Bxf3 13. Bxf3 Nxd4 14. Bg2 Rab8
+15. e4 Nb5 16. Qg5 a6 17. a4 Qb4 18. axb5 Qxb2 19. Nd5 Nxd5 20. Qxd5 e6 21. Qd3
+axb5 22. Qb1 Qc3 23. Qxb5 Qc7 24. Rfc1 Qe7 25. Ra7 Rfd8 26. Rb1 Rd7 27. Rba1
+Rdd8 28. Qb4 Qc7 29. Rb1 Rd7 30. Qb6 Qxb6 31. Rxb6 Kf8 32. Bf1 d5 33. e5 Rbd8
+34. Rbxb7 Rxb7 35. Rxb7 d4 36. Bd3 Kg7 37. f4 Rc8 38. Rd7 Rc1+ 39. Kg2 Rd1
+40. Rxd4 f6 41. Rd7+ Kf8 42. exf6 Ke8 43. f7+ Kf8 44. Rd8+ Kxf7 45. Bxg6+ 1-0
+
+[Event "CN Jovens 2014 - U12"]
+[Site "Luso POR"]
+[Date "2014.07.26"]
+[Round "6.5"]
+[White "Silva, João Miguel"]
+[Black "Martins, Antonio M G Costa"]
+[Result "1-0"]
+[ECO "C42"]
+[WhiteElo "1481"]
+[BlackElo "1408"]
+[WhiteFideId "1926039"]
+[BlackFideId "1930079"]
+[PlyCount "73"]
+[EventDate "2014.07.23"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nc3 Bb4 4. a3 Bxc3 5. dxc3 O-O 6. Bc4 d6 7. Bg5 h6
+8. Bh4 Be6 9. Bb3 Nbd7 10. Qe2 Bxb3 11. cxb3 Nc5 12. Nd2 Qe7 13. c4 Qe6 14. O-O
+Rfe8 15. b4 Na6 16. Rfe1 Nd7 17. Rad1 Qg6 18. Nb1 Qe6 19. b3 Nf8 20. f3 Ng6
+21. Bf2 Nf4 22. Qc2 Qg6 23. Bg3 Nh5 24. Kf2 Nxg3 25. hxg3 Rac8 26. f4 Qf6
+27. Qd2 Rcd8 28. Nc3 Rc8 29. f5 Nb8 30. Nd5 Qd8 31. f6 Nc6 32. Rh1 Re6 33. Rxh6
+Rxf6+ 34. Nxf6+ gxf6 35. Rh8+ Kxh8 36. Qh6+ Kg8 37. Rh1 1-0
+
+[Event "CN Jovens 2014 - U12"]
+[Site "Luso POR"]
+[Date "2014.07.26"]
+[Round "6.6"]
+[White "Maciel, Rafael"]
+[Black "Ribeiro, Orlando"]
+[Result "0-1"]
+[ECO "C68"]
+[WhiteElo "1285"]
+[BlackElo "1219"]
+[WhiteFideId "1935305"]
+[BlackFideId "1936573"]
+[PlyCount "62"]
+[EventDate "2014.07.23"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. d3 Bd6 6. Nc3 Nf6 7. Be3 Bg4
+8. h3 Bh5 9. g4 Bg6 10. Qd2 h5 11. g5 Nd7 12. O-O-O Qe7 13. Rhe1 h4 14. d4 exd4
+15. Bxd4 f6 16. gxf6 gxf6 17. Qe3 c5 18. e5 cxd4 19. exd6 dxe3 20. dxe7 Bh5
+21. Rxe3 Ne5 22. Nd5 Bxf3 23. Nxf6+ Kxe7 24. Rd7+ Kxf6 25. Rd4 Raf8 26. Rc3 Bc6
+27. Re3 Rd8 28. Rf4+ Ke6 29. Rg4 Rhg8 30. Rxh4 Rg1+ 31. Re1 Rxe1# 0-1
+
+[Event "CN Jovens 2014 - U12"]
+[Site "Luso POR"]
+[Date "2014.07.26"]
+[Round "6.7"]
+[White "Cordeiro, João"]
+[Black "Garcia, Nathalia"]
+[Result "1/2-1/2"]
+[ECO "C65"]
+[WhiteElo "1524"]
+[BlackElo "1231"]
+[WhiteFideId "1935291"]
+[BlackFideId "1936417"]
+[PlyCount "115"]
+[EventDate "2014.07.23"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. d3 d6 5. h3 Bd7 6. O-O Be7 7. Nc3 O-O 8. Re1
+Nd4 9. Bxd7 Nxf3+ 10. Qxf3 Qxd7 11. Ne2 d5 12. Ng3 d4 13. Nf5 Rad8 14. Nxe7+
+Qxe7 15. Bg5 h6 16. Bxf6 Qxf6 17. Qxf6 gxf6 18. Rf1 Rd6 19. f4 Rb6 20. b3 Re8
+21. Rf2 Re7 22. Raf1 c5 23. fxe5 fxe5 24. Rc1 Rc6 25. c3 Kg7 26. Rfc2 Ree6
+27. cxd4 cxd4 28. Rc4 Rxc4 29. Rxc4 Rc6 30. Rxc6 bxc6 31. Kf2 Kf6 32. h4 c5
+33. g4 Kg6 34. Ke2 f6 35. a3 a5 36. Kf3 Kg7 37. h5 Kf7 38. Ke2 Ke6 39. Kd2 Kd6
+40. Kc2 Kc6 41. Kd2 Kb5 42. Kc2 Kc6 43. Kb2 Kb5 44. Kc2 Kb6 45. Kd2 Kc6 46. Ke2
+Kd7 47. Kf3 Ke7 48. Ke2 Kf7 49. Kd2 Ke7 50. Ke2 Kf7 51. Kd2 Ke7 52. a4 Kd6
+53. Ke2 Ke7 54. Kf3 Kf7 55. Ke2 Ke6 56. Ke1 Kd7 57. Kf2 Ke7 58. Kg2 1/2-1/2
+
+[Event "CN Jovens 2014 - U12"]
+[Site "Luso POR"]
+[Date "2014.07.26"]
+[Round "6.8"]
+[White "Silva, Tiago Alexandre"]
+[Black "Camacho, Diogo"]
+[Result "0-1"]
+[ECO "C50"]
+[WhiteElo "1360"]
+[WhiteFideId "1935321"]
+[BlackFideId "1932306"]
+[PlyCount "50"]
+[EventDate "2014.07.23"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Bc4 Be7 5. Nxd4 Nf6 6. Nxc6 bxc6 7. e5 Ne4
+8. Qf3 d5 9. exd6 Nxd6 10. Bb3 O-O 11. Qxc6 Bb7 12. Qc3 Bg5 13. Bxg5 Qxg5
+14. Nd2 Rfe8+ 15. Kd1 Qxg2 16. Rf1 Ne4 17. Bxf7+ Kxf7 18. Qf3+ Nf6 19. Qxg2 Bxg2
+20. Rg1 Bc6 21. Re1 Ne4 22. Nxe4 Rad8+ 23. Nd2 Bf3+ 24. Re2 Rxe2 25. Kc1 Re1#
+0-1
+
+[Event "CN Jovens 2014 - U12"]
+[Site "Luso POR"]
+[Date "2014.07.26"]
+[Round "6.9"]
+[White "Silva, Pedro Filipe"]
+[Black "Abreu, Alexandre"]
+[Result "1/2-1/2"]
+[ECO "E21"]
+[WhiteElo "1314"]
+[WhiteFideId "1934210"]
+[BlackFideId "1942182"]
+[PlyCount "95"]
+[EventDate "2014.07.23"]
+
+1. d4 e6 2. c4 Nf6 3. Nc3 Bb4 4. Nf3 h6 5. a3 Bxc3+ 6. bxc3 d5 7. cxd5 exd5
+8. e3 O-O 9. c4 c6 10. cxd5 cxd5 11. Bd3 Nc6 12. O-O Re8 13. h3 Ne4 14. Bxe4
+dxe4 15. Nd2 Be6 16. Nb3 Rc8 17. Nc5 Bc4 18. Re1 b6 19. Na4 Re7 20. Nc3 Bd3
+21. Ne2 Rec7 22. Nf4 Ba6 23. Bd2 Bb7 24. Rc1 Qd6 25. a4 Ne7 26. Rxc7 Rxc7 27. a5
+Nd5 28. Nxd5 Bxd5 29. axb6 axb6 30. Qb1 Bb7 31. Rc1 Rxc1+ 32. Qxc1 Ba6 33. Qb2
+Bd3 34. Bb4 Qc6 35. Qc3 Qxc3 36. Bxc3 Kf8 37. d5 Ke7 38. Bb4+ Kd7 39. d6 f5
+40. f4 g5 41. g3 gxf4 42. gxf4 b5 43. Kf2 h5 44. h4 Bc4 45. Ke1 Be6 46. Kd2 Kc6
+47. Kc3 Kd5 48. Ba3 1/2-1/2
+
+[Event "CN Jovens 2014 - U12"]
+[Site "Luso POR"]
+[Date "2014.07.26"]
+[Round "6.10"]
+[White "Lobo, Hugo"]
+[Black "Rocha, João"]
+[Result "1-0"]
+[ECO "D38"]
+[WhiteElo "1154"]
+[WhiteFideId "1934902"]
+[BlackFideId "1939297"]
+[PlyCount "123"]
+[EventDate "2014.07.23"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Nf3 Bb4 5. Bd2 O-O 6. a3 Be7 7. e3 Bd7 8. Be2
+Nc6 9. O-O Bd6 10. h3 Qe7 11. c5 Bxc5 12. dxc5 Qxc5 13. Bb5 Rad8 14. Bxc6 Bxc6
+15. Rb1 Rfe8 16. b4 Qd6 17. Re1 e5 18. b5 Bd7 19. a4 Bf5 20. Rb2 h6 21. Na2 Nh7
+22. Nh4 Qf6 23. Nxf5 Qxf5 24. Qc2 Qxc2 25. Rxc2 Rc8 26. a5 Nf6 27. f3 Re6
+28. Kf1 e4 29. b6 axb6 30. axb6 c6 31. fxe4 Nxe4 32. Nb4 Rf6+ 33. Kg1 Rg6
+34. Nxd5 Kf8 35. Bb4+ Ke8 36. Ne7 Kd8 37. Nxc8 Kxc8 38. Rc4 Nd6 39. Bxd6 Rxd6
+40. Ra1 Kd7 41. Rd4 c5 42. Rxd6+ Kxd6 43. Kf2 Kc6 44. Ke2 Kxb6 45. Kd3 Kc6
+46. Rb1 b5 47. e4 Kb6 48. e5 Kc6 49. Ke4 b4 50. Rf1 Kb5 51. Rxf7 b3 52. e6 Ka4
+53. e7 Ka3 54. e8=Q b2 55. Ra7+ Kb4 56. Rb7+ Kc3 57. Rxb2 Kxb2 58. Qe5+ Kb3
+59. Qxc5 g5 60. Kd3 g4 61. Qb5+ Ka3 62. Kc3 1-0
+
+[Event "CN Jovens 2014 - U12"]
+[Site "Luso POR"]
+[Date "2014.07.26"]
+[Round "6.11"]
+[White "Palmelão, Pedro"]
+[Black "Pinto, Pedro M R"]
+[Result "1/2-1/2"]
+[ECO "C50"]
+[WhiteFideId "1936522"]
+[BlackFideId "1936549"]
+[PlyCount "49"]
+[EventDate "2014.07.23"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. O-O d6 5. h3 h6 6. d3 Nf6 7. Be3 O-O 8. Bxc5
+dxc5 9. Nc3 a6 10. Nd5 Be6 11. Re1 Kh8 12. Qd2 Re8 13. Nxf6 Qxf6 14. Bb3 Rf8
+15. Qc3 b6 16. Ba4 Nd4 17. Re3 Nxf3+ 18. Rxf3 Qg5 19. Rg3 Qh5 20. Qd2 f6 21. c3
+Qf7 22. Bd1 Rad8 23. f4 c4 24. d4 Rg8 25. d5 1/2-1/2
+
+[Event "CN Jovens 2014 - U12"]
+[Site "Luso POR"]
+[Date "2014.07.26"]
+[Round "6.12"]
+[White "Monteiro, Tomás"]
+[Black "Martins, Bruno"]
+[Result "1/2-1/2"]
+[ECO "D00"]
+[WhiteElo "1243"]
+[WhiteFideId "1930800"]
+[BlackFideId "1942255"]
+[PlyCount "37"]
+[EventDate "2014.07.23"]
+
+1. d4 d5 2. Bf4 Bf5 3. Nf3 Nf6 4. c3 e6 5. e3 Bd6 6. Bg3 Bxg3 7. hxg3 Nbd7
+8. Bd3 Bxd3 9. Qxd3 a6 10. Nbd2 c5 11. O-O-O c4 12. Qe2 Qa5 13. Kb1 b5 14. a3
+Qb6 15. Kc1 a5 16. Nb1 Ne4 17. Rh2 b4 18. cxb4 axb4 19. Rdh1 1/2-1/2
+
+[Event "CN Jovens 2014 - U12"]
+[Site "Luso POR"]
+[Date "2014.07.26"]
+[Round "6.13"]
+[White "Rodrigues, José Francisco"]
+[Black "Rego, João Rui"]
+[Result "0-1"]
+[ECO "B20"]
+[BlackElo "1317"]
+[WhiteFideId "1934201"]
+[BlackFideId "1934465"]
+[PlyCount "120"]
+[EventDate "2014.07.23"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bc4 e6 4. e5 d5 5. Bb5 a6 6. Bxc6+ bxc6 7. d4 cxd4
+8. Nxd4 c5 9. Nf3 Ne7 10. Bg5 Qb6 11. b3 h6 12. Bh4 Nf5 13. Nc3 Nxh4 14. Nxh4
+Qb4 15. Qf3 Qxh4 16. O-O Be7 17. Na4 Rb8 18. Rad1 Bd7 19. Nb2 O-O 20. Rd3 Bb5
+21. c4 dxc4 22. bxc4 Bxc4 23. Nxc4 Qxc4 24. Qh3 Qxa2 25. Ra3 Qd5 26. Rg3 Kh7
+27. Qg4 Qxe5 28. Re3 Qd4 29. Re4 Qd5 30. Rd1 f5 31. Rxd5 fxg4 32. Rd1 Rfd8
+33. Rde1 Rd6 34. Rxg4 Rd4 35. Rg3 Rbd8 36. Rge3 R8d6 37. g3 Rd1 38. Kg2 Rxe1
+39. Rxe1 Bf6 40. Re2 Kg6 41. Rc2 Bd4 42. h4 a5 43. Ra2 Ra6 44. f4 e5 45. fxe5
+Bxe5 46. g4 a4 47. Kf3 a3 48. Ke4 Bb2 49. Kf4 Rd6 50. h5+ Kf6 51. Kg3 Rd1
+52. Kf4 Ra1 53. Rxa3 Bxa3 54. Ke4 Rd1 55. Ke3 c4 56. Ke2 Rd8 57. Ke1 c3 58. Kf1
+c2 59. Ke1 c1=Q+ 60. Ke2 Rd2+ 0-1
+
+[Event "CN Jovens 2014 - U12"]
+[Site "Luso POR"]
+[Date "2014.07.26"]
+[Round "6.14"]
+[White "Barata, Manuel"]
+[Black "Rodrigues, Pedro Serpa"]
+[Result "1/2-1/2"]
+[ECO "A03"]
+[BlackElo "1297"]
+[WhiteFideId "1938983"]
+[BlackFideId "1934724"]
+[PlyCount "78"]
+[EventDate "2014.07.23"]
+
+1. f4 d5 2. Nf3 c5 3. e3 Nc6 4. Be2 Nf6 5. b3 e6 6. Bb2 Be7 7. O-O O-O 8. Nc3
+a6 9. h3 h6 10. d4 b6 11. Re1 Bb7 12. Bd3 Re8 13. Qd2 Rb8 14. dxc5 bxc5 15. e4
+d4 16. Ne2 Nd7 17. c3 dxc3 18. Qxc3 Bf6 19. e5 Be7 20. f5 Ncxe5 21. Nxe5 Nxe5
+22. Qxe5 Bf6 23. Qxc5 Bxb2 24. Rab1 Qxd3 25. Rxb2 Qxf5 26. Qxf5 exf5 27. Rf1 Be4
+28. Ng3 a5 29. Nxf5 Bd3 30. Rf3 Re1+ 31. Kh2 Bc4 32. Rc3 Be6 33. Nd4 Ra8
+34. Nxe6 fxe6 35. Rcc2 e5 36. Re2 Rxe2 37. Rxe2 Re8 38. a3 Kf7 39. b4 axb4
+1/2-1/2
+
+[Event "CN Jovens 2014 - U12"]
+[Site "Luso POR"]
+[Date "2014.07.26"]
+[Round "6.15"]
+[White "Santos, Pedro Miguel"]
+[Black "Silva, Nuno Lynce"]
+[Result "1-0"]
+[ECO "C53"]
+[WhiteFideId "1922246"]
+[BlackFideId "1942727"]
+[PlyCount "53"]
+[EventDate "2014.07.23"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 d6 5. d3 a6 6. Ng5 Nh6 7. O-O Qe7 8. Nf3
+O-O 9. Bxh6 gxh6 10. d4 b5 11. Bd5 exd4 12. Bxc6 Rb8 13. cxd4 Bb6 14. Nc3 Bg4
+15. Qd3 Bxf3 16. Qxf3 Bxd4 17. Rad1 Bxc3 18. bxc3 Kh8 19. Rfe1 Rb6 20. Bd5 c6
+21. Qe3 cxd5 22. Qxb6 dxe4 23. Qxa6 Rg8 24. Qxd6 Qg5 25. g3 Qg4 26. Qe5+ Rg7
+27. Rxe4 1-0
+
+[Event "CN Jovens 2014 - U12"]
+[Site "Luso POR"]
+[Date "2014.07.26"]
+[Round "6.16"]
+[White "Oliveira, Beatriz"]
+[Black "Cunha, Alexandre"]
+[Result "0-1"]
+[ECO "C50"]
+[BlackElo "1037"]
+[WhiteFideId "1938649"]
+[BlackFideId "1931890"]
+[PlyCount "34"]
+[EventDate "2014.07.23"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. O-O Nf6 5. Nc3 d6 6. h3 Be6 7. Nd5 Nxe4 8. d3
+Nf6 9. Nxf6+ gxf6 10. Bb5 a6 11. Ba4 Qd7 12. Re1 Rg8 13. Nh4 Bd5 14. Kh2 Bxf2
+15. Rf1 Bxh4 16. Rg1 Bg3+ 17. Kh1 Qxh3# 0-1
+
+[Event "CN Jovens 2014 - U12"]
+[Site "Luso POR"]
+[Date "2014.07.26"]
+[Round "6.17"]
+[White "Encarnação, Filipe"]
+[Black "Prazeres, João"]
+[Result "0-1"]
+[ECO "C18"]
+[WhiteFideId "1942018"]
+[BlackFideId "1939084"]
+[PlyCount "92"]
+[EventDate "2014.07.23"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 cxd4 7. cxd4 Nc6
+8. Bb5 Qb6 9. Rb1 Bd7 10. a4 a6 11. Bxc6 Qxb1 12. Bxd7+ Kxd7 13. Ne2 Rc8 14. c3
+Qb6 15. Qd3 Ne7 16. O-O h6 17. Qg3 Ng6 18. Bd2 Qb2 19. Qd3 Qb3 20. Ra1 Qc4
+21. Qxc4 Rxc4 22. Rb1 Rc7 23. Nf4 Nxf4 24. Bxf4 Rb8 25. Bd2 Rc4 26. a5 Ra4
+27. h3 Rxa5 28. Kh2 Ra2 29. Rd1 Rc8 30. Kg3 a5 31. Be1 a4 32. Kh4 a3 33. f3 Rxg2
+34. Ra1 Rg1 35. Rxa3 Rxe1 36. Ra7 Rxc3 37. Rxb7+ Rc7 38. Rxc7+ Kxc7 39. f4 Re4
+40. Kg4 f5+ 41. exf6 gxf6 42. Kh5 Rxf4 43. Kxh6 Rf5 44. Kg6 Rg5+ 45. Kxf6 Rh5
+46. Kxe6 Kc6 0-1
+
+[Event "CN Jovens 2014 - U12"]
+[Site "Luso POR"]
+[Date "2014.07.26"]
+[Round "6.18"]
+[White "Lança, Luis"]
+[Black "Dias, Tiago Monteiro"]
+[Result "1-0"]
+[ECO "C64"]
+[WhiteFideId "1936450"]
+[BlackFideId "1945785"]
+[PlyCount "147"]
+[EventDate "2014.07.23"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Bc5 4. Bxc6 bxc6 5. Nxe5 Nf6 6. Nc3 d6 7. Nf3 O-O 8.
+h3 Re8 9. d3 Bb4 10. Bd2 Bxc3 11. bxc3 d5 12. e5 Nd7 13. d4 c5 14. O-O cxd4 15.
+cxd4 Ba6 16. Re1 Rb8 17. Rb1 Rxb1 18. Qxb1 Nb6 19. Ba5 Bc4 20. Bxb6 axb6 21. c3
+c5 22. dxc5 bxc5 23. h4 d4 24. cxd4 cxd4 25. Qb4 Bxa2 26. Qxd4 Qxd4 27. Nxd4 f6
+28. e6 Kf8 29. Re2 Bc4 30. Rc2 Bb3 31. Nxb3 Rxe6 32. Rc8+ Kf7 33. Nc5 Re1+ 34.
+Kh2 g5 35. Rc7+ Kg6 36. hxg5 Kxg5 37. Rxh7 Re5 38. Nd7 Rd5 39. Kh3 f5 40. g3
+Kg6 41. Re7 Kg5 42. f4+ Kg6 43. Nf8+ Kf6 44. Re6+ Kf7 45. Re5 Rd8 46. Ne6 Re8
+47. Ng5+ Kf8 48. Rxe8+ Kxe8 49. g4 fxg4+ 50. Kxg4 Kf8 51. f5 Kg7 52. Ne4 Kf7
+53. Kg5 Ke7 54. Kg6 Kf8 55. Kh7 Ke7 56. f6+ Ke6 57. Kg7 Ke5 58. Ng3 Ke6 59. f7
+Ke5 60. f8=Q Ke6 61. Qf2 Ke7 62. Qf3 Kd7 63. Qe4 Kd8 64. Kf6 Kd7 65. Qe7+ Kc6
+66. Qd8 Kc5 67. Ne4+ Kc4 68. Nd2+ Kc3 69. Nb1+ Kc2 70. Na3+ Kc3 71. Ke5 Kb4 72.
+Qc7 Kb3 73. Kd4 Kb2 74. Qc3+ 1-0
+
+[Event "CN Jovens 2014 - U12"]
+[Site "Luso POR"]
+[Date "2014.07.26"]
+[Round "6.19"]
+[White "Ferreira, Guilherme"]
+[Black "Rego, André Rodrigues"]
+[Result "0-1"]
+[ECO "D00"]
+[WhiteFideId "1939912"]
+[BlackFideId "1945793"]
+[PlyCount "50"]
+[EventDate "2014.07.23"]
+
+1. d4 d5 2. Nc3 e6 3. Bf4 Bb4 4. Qd2 Nf6 5. O-O-O O-O 6. a3 Ne4 7. Qe3 Nxc3
+8. bxc3 Bxa3+ 9. Kd2 b6 10. Nf3 Kh8 11. Nh4 Qxh4 12. g3 Qe7 13. g4 e5 14. Bxe5
+Bxg4 15. Rg1 f6 16. Qg3 h5 17. Qh4 fxe5 18. Qg3 Qg5+ 19. Ke1 exd4 20. f3 Rf4
+21. fxg4 Rxg4 22. Qxc7 Rxg1 23. Qc8+ Bf8 24. Rxd4 Qf6 25. Rxd5 Qxf1+ 0-1
+
+[Event "CN Jovens 2014 - U12"]
+[Site "Luso POR"]
+[Date "2014.07.26"]
+[Round "6.20"]
+[White "Gaspar, Pedro"]
+[Black "Fernandes, João Adriano"]
+[Result "0-1"]
+[ECO "C46"]
+[WhiteFideId "1936425"]
+[BlackFideId "1939602"]
+[PlyCount "54"]
+[EventDate "2014.07.23"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Bc5 4. d3 Nf6 5. Bg5 O-O 6. Be2 d6 7. O-O Re8 8. Nd5
+Re6 9. Nxf6+ Rxf6 10. Bxf6 Qxf6 11. a3 Qg6 12. Nh4 Qg5 13. g3 Bh3 14. Nf3 Qf6
+15. Re1 Nd4 16. b4 Bb6 17. c3 Nxf3+ 18. Bxf3 Re8 19. Ra2 Qe6 20. Rb2 Qh6 21. Bg4
+c6 22. Bxh3 Qxh3 23. Rf1 Re6 24. d4 Rh6 25. Re1 Qxh2+ 26. Kf1 Rf6 27. Ree2 Qh1#
+0-1
+
+[Event "CN Jovens 2014 - U12"]
+[Site "Luso POR"]
+[Date "2014.07.26"]
+[Round "6.21"]
+[White "Lobo, Pedro"]
+[Black "Gomes, Gonçalo"]
+[Result "0-1"]
+[ECO "B40"]
+[WhiteFideId "1940082"]
+[BlackFideId "1941453"]
+[PlyCount "132"]
+[EventDate "2014.07.23"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Qxd4 Nc6 5. Qd2 Qc7 6. Bc4 Nf6 7. Nc3 Be7
+8. O-O a6 9. Re1 b5 10. Bb3 Bb7 11. a3 e5 12. Ng5 Na5 13. Bxf7+ Kf8 14. Ba2 Ke8
+15. Nf7 Rf8 16. Nd5 Bxd5 17. exd5 Rxf7 18. d6 Qxd6 19. Qxd6 Bxd6 20. Bxf7+ Kxf7
+21. Bd2 Nc4 22. Bb4 Bc7 23. b3 Nb6 24. a4 bxa4 25. bxa4 d6 26. Rad1 Rd8 27. Ba5
+Ke6 28. f4 Rc8 29. fxe5 dxe5 30. Rd2 Nxa4 31. Ra1 Nc5 32. Bxc7 Rxc7 33. Rad1 Rc6
+34. h3 Nce4 35. Rd3 Rxc2 36. Ra1 Nc5 37. Rg3 g6 38. Kf1 Nfe4 39. Rf3 Nd2+
+40. Ke2 Nxf3+ 41. Kxf3 Kf5 42. Rf1 Rc4 43. Ke3+ Ke6 44. g4 a5 45. g5 a4 46. Rf6+
+Kd5 47. Rf7 Rc3+ 48. Kd2 Rxh3 49. Ra7 h5 50. gxh6 Rxh6 51. Kc3 g5 52. Kb4 g4
+53. Ra5 Rc6 54. Kc3 g3 55. Rb5 g2 56. Rb1 Rg6 57. Rd1+ Ke6 58. Kc4 g1=Q 59. Rxg1
+Rxg1 60. Kxc5 Rb1 61. Kc4 a3 62. Kc3 a2 63. Kc2 a1=Q 64. Kd2 Qa3 65. Kc2 Rb2+
+66. Kc1 Qa1# 0-1
+
+[Event "CN Jovens 2014 - U12"]
+[Site "Luso POR"]
+[Date "2014.07.26"]
+[Round "6.22"]
+[White "Antunes, André"]
+[Black "Saraiva, Diogo"]
+[Result "1-0"]
+[ECO "C50"]
+[WhiteFideId "1936328"]
+[BlackFideId "1936611"]
+[PlyCount "131"]
+[EventDate "2014.07.23"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. Nc3 Nf6 5. O-O O-O 6. Nd5 d6 7. d3 h6 8. Re1
+Be6 9. b3 Nd4 10. Nxd4 Bxd4 11. c3 Bxd5 12. cxd4 Bxc4 13. dxc4 Qd7 14. d5 Qg4
+15. Qxg4 Nxg4 16. h3 Nf6 17. Bd2 b6 18. Re3 Nh5 19. Rae1 a5 20. a4 Rac8 21. Bc3
+c6 22. R3e2 Nf4 23. Re3 Nh5 24. R3e2 cxd5 25. exd5 Rfe8 26. Re4 Nf6 27. R4e3 Nh5
+28. Re4 f5 29. R4e3 Nf6 30. Bd2 Ne4 31. Bc3 Nxc3 32. Rxc3 Rf8 33. Rb1 Rb8 34. b4
+f4 35. Rcb3 Rbc8 36. Rc1 Rf7 37. g3 Kh8 38. Kg2 fxg3 39. fxg3 Rfc7 40. bxa5 bxa5
+41. Rbc3 Rc5 42. R1c2 e4 43. Re2 Re8 44. Kf2 Re5 45. Ke3 Rexd5 46. cxd5 Rxc3+
+47. Kxe4 Rc4+ 48. Kf5 Rxa4 49. Re6 Ra3 50. Rxd6 Rxg3 51. Ra6 Rd3 52. Rxa5 Kg8
+53. Ke6 Kh8 54. d6 Re3+ 55. Re5 Rd3 56. Ke7 Ra3 57. d7 Ra7 58. Ke8 Rxd7 59. Kxd7
+Kh7 60. Ke7 g6 61. h4 g5 62. hxg5 hxg5 63. Rxg5 Kh6 64. Rg1 Kh5 65. Kf6 Kh6
+66. Rh1# 1-0
+
+[Event "CN Jovens 2014 - U12"]
+[Site "Luso POR"]
+[Date "2014.07.26"]
+[Round "6.23"]
+[White "Silva, Rafael"]
+[Black "Carreira, David Santos"]
+[Result "0-1"]
+[ECO "C55"]
+[WhiteFideId "1925857"]
+[BlackFideId "1941399"]
+[PlyCount "98"]
+[EventDate "2014.07.23"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d3 Bb4+ 5. c3 Bc5 6. Bg5 O-O 7. O-O h6 8. Bh4
+d6 9. d4 Bb6 10. Re1 Bg4 11. Qd3 Bxf3 12. Qxf3 exd4 13. cxd4 Nxd4 14. Qd3 g5
+15. Bg3 Nh5 16. Bb3 Nxg3 17. Qxg3 Nxb3 18. Qxb3 Qf6 19. Re2 Qf4 20. Qc3 c6
+21. Nd2 Bc7 22. Nf1 d5 23. Rae1 Be5 24. Qd3 dxe4 25. Rxe4 Qf5 26. Ng3 Bxg3
+27. Qxg3 h5 28. Rh4 Qg6 29. Rh3 g4 30. Rh4 Rfe8 31. Rc1 Re7 32. f3 gxf3 33. Qxf3
+Qg5 34. Rd1 Qxh4 35. Rf1 Re1 36. Qxf7+ Kh8 37. g3 Qd4+ 38. Kg2 Rxf1 39. Kxf1 Qc5
+40. h3 Rf8 41. Qxf8+ Qxf8+ 42. Kg2 Kg7 43. h4 Kg6 44. Kh3 Kf5 45. Kh2 Kg4
+46. Kg2 Qf3+ 47. Kh2 Qxg3+ 48. Kh1 Kh3 49. a3 Qg2# 0-1
+
+[Event "CN Jovens 2014 - U12"]
+[Site "Luso POR"]
+[Date "2014.07.26"]
+[Round "6.24"]
+[White "Jesus, Ana"]
+[Black "Gomes, Beatriz"]
+[Result "0-1"]
+[ECO "C47"]
+[WhiteFideId "1941640"]
+[BlackFideId "1936433"]
+[PlyCount "74"]
+[EventDate "2014.07.23"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. d3 Bc5 5. Be2 d6 6. O-O h6 7. Na4 Bb6 8. Nc3
+Be6 9. h3 O-O 10. Bd2 d5 11. d4 dxe4 12. Nxe5 Nxe5 13. dxe5 Nd5 14. Nxe4 Bd4
+15. Rb1 Bxe5 16. Bc3 Bxc3 17. bxc3 Rb8 18. Bd3 Qh4 19. c4 Nf6 20. Nxf6+ Qxf6
+21. Rb5 Bd7 22. Rh5 g6 23. Rxh6 Qg5 24. Rxg6+ fxg6 25. Re1 Bxh3 26. g3 Qf6
+27. Kh2 Bd7 28. c3 Qxf2+ 29. Kh1 Bh3 30. Rg1 Rf3 31. Bf1 Bxf1 32. Qd5+ Kf8
+33. Qd1 Rxg3 34. Rxg3 Qxg3 35. Qxf1+ Kg7 36. c5 Rh8+ 37. Qh3 Rxh3# 0-1
+
+[Event "CN Jovens 2014 - U12"]
+[Site "Luso POR"]
+[Date "2014.07.26"]
+[Round "6.25"]
+[White "Rhodes, Mónica"]
+[Black "Fernandes, João Pedro S"]
+[Result "1-0"]
+[ECO "C42"]
+[WhiteFideId "1939262"]
+[BlackFideId "1944452"]
+[PlyCount "97"]
+[EventDate "2014.07.23"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 Nxe4 4. Qf3 f6 5. Qxe4 fxe5 6. Qxe5+ Qe7 7. Qxe7+
+Bxe7 8. Nc3 Nc6 9. Bc4 d6 10. O-O Bd7 11. Re1 O-O-O 12. d3 Nd4 13. Rxe7 Rde8
+14. Rxe8+ Rxe8 15. Be3 Nxc2 16. Rc1 Nxe3 17. fxe3 Rxe3 18. Nd5 Re2 19. Rf1 c6
+20. d4 cxd5 21. Bxe2 a5 22. h3 Kc7 23. Rc1+ Bc6 24. Bb5 Kb6 25. Bxc6 bxc6
+26. Rf1 c5 27. dxc5+ dxc5 28. Rd1 d4 29. Kf2 Kb5 30. Kf3 Kb4 31. Ke4 Kc4 32. g4
+a4 33. a3 g6 34. g5 Kb3 35. Kd5 Kxb2 36. Kxc5 Kxa3 37. Rxd4 Kb3 38. Rb4+ Ka3
+39. Kb5 h5 40. h4 Ka2 41. Rxa4+ Kb2 42. Rc4 Kb3 43. Rc8 Ka3 44. Kc4 Ka2 45. Rb8
+Ka3 46. Kc3 Ka2 47. Rb7 Ka1 48. Kc2 Ka2 49. Ra7# 1-0
+
+[Event "CN Jovens 2014 - U12"]
+[Site "Luso POR"]
+[Date "2014.07.26"]
+[Round "6.26"]
+[White "Santos, Leonor"]
+[Black "Silva, Manuel Amorim"]
+[Result "1-0"]
+[ECO "C41"]
+[WhiteFideId "1941739"]
+[BlackFideId "1944053"]
+[PlyCount "99"]
+[EventDate "2014.07.23"]
+
+1. e4 e5 2. Nf3 d6 3. h3 g6 4. Bc4 Qe7 5. d3 Bg7 6. Ng5 Be6 7. Nxe6 fxe6 8. Qg4
+d5 9. exd5 Nf6 10. Qxe6 Bf8 11. Qc8+ Qd8 12. Qe6+ Qe7 13. Qxe7+ Bxe7 14. O-O c6
+15. dxc6 Nxc6 16. Bg5 Nd4 17. Bxf6 Bxf6 18. Na3 a6 19. c3 Ne2+ 20. Kh1 b5
+21. Bd5 Nf4 22. Bxa8 Nxd3 23. b4 O-O 24. Be4 Nf4 25. c4 bxc4 26. Nxc4 Rc8
+27. Rac1 Be7 28. Nxe5 Rb8 29. Nc6 Rb7 30. Nxe7+ Rxe7 31. Rfd1 Ne2 32. Rc8+ Kg7
+33. Bd3 Nd4 34. Bc4 Kf6 35. Rxd4 Re1+ 36. Kh2 Ke5 37. Rd5+ Ke4 38. Re8+ Kf4
+39. Rxe1 h5 40. Rd8 h4 41. Rf8+ Kg5 42. Re5+ Kh6 43. Re4 g5 44. Rh8+ Kg6
+45. Re6+ Kg7 46. Rd8 Kf7 47. Rd7+ Kf8 48. Rb6 Ke8 49. Be6 Kf8 50. Rb8# 1-0
+
+[Event "CN Jovens 2014 - U12"]
+[Site "Luso POR"]
+[Date "2014.07.26"]
+[Round "6.27"]
+[White "Antunes, Ana"]
+[Black "Braz, Ana Francisca"]
+[Result "1-0"]
+[ECO "C50"]
+[WhiteFideId "1936310"]
+[BlackFideId "1936352"]
+[PlyCount "69"]
+[EventDate "2014.07.23"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Nc3 Bc5 5. O-O O-O 6. d3 d6 7. Re1 Bg4 8. h3
+Bh5 9. Be3 Bb4 10. Bd2 Qe7 11. a3 Bxc3 12. Bxc3 Rad8 13. Bb5 a6 14. Bxc6 bxc6
+15. Qe2 d5 16. Qd2 dxe4 17. Nxe5 Rd6 18. Qe3 Rfd8 19. dxe4 g6 20. Bd4 c5
+21. Bxc5 R6d7 22. Bxe7 Rxe7 23. Qc5 Rc8 24. Qxe7 c5 25. Qxf7+ Kh8 26. g4 Bxg4
+27. Nxg4 Nh5 28. Qe6 Ra8 29. Rad1 Nf4 30. Qe5+ Kg8 31. Qxf4 c4 32. Rd6 Kg7
+33. Rd7+ Kg8 34. Qf7+ Kh8 35. Qxh7# 1-0
+
+[Event "CN Jovens 2014 - U12"]
+[Site "Luso POR"]
+[Date "2014.07.27"]
+[Round "7.1"]
+[White "Santos, José Miguel"]
+[Black "Veiga, Francisco"]
+[Result "0-1"]
+[ECO "B23"]
+[WhiteElo "1452"]
+[BlackElo "1680"]
+[WhiteFideId "1930834"]
+[BlackFideId "1930087"]
+[PlyCount "168"]
+[EventDate "2014.07.23"]
+
+1. e4 c5 2. Nc3 Nc6 3. f4 g6 4. Nf3 Bg7 5. d3 e6 6. Bd2 Nge7 7. g3 O-O 8. Bg2
+d6 9. g4 f5 10. h3 fxe4 11. dxe4 d5 12. e5 Bh6 13. Ne2 d4 14. Bc1 Nd5 15. g5 Bg7
+16. h4 Ne3 17. Bxe3 dxe3 18. Qxd8 Rxd8 19. h5 Nb4 20. Rc1 Nxa2 21. Ra1 Nb4
+22. Rc1 Nd5 23. hxg6 hxg6 24. Nh4 Ne7 25. Be4 Kf7 26. Nf3 Nf5 27. Bxf5 exf5
+28. Nc3 Be6 29. Ke2 b5 30. Kxe3 a6 31. Rcd1 Kg8 32. Rxd8+ Rxd8 33. Ra1 Bc8
+34. Rd1 Rxd1 35. Nxd1 Kf7 36. Nc3 Be6 37. Nd2 Ke8 38. Nb3 Bf8 39. Nd2 Kd7
+40. Nf3 Bf7 41. Nd2 Kc6 42. Nb3 b4 43. Ne2 Kb5 44. Nec1 a5 45. Nd2 a4 46. Nf3 a3
+47. b3 Be7 48. Nd2 Bd8 49. Kd3 Bb6 50. Nc4 Bxc4+ 51. bxc4+ Ka4 52. e6 Bd8
+53. Kd2 Ka5 54. Nb3+ Kb6 55. Kd3 Kc6 56. Ke3 Kd6 57. Kd3 Bb6 58. e7 Kxe7 59. Ke3
+Kd6 60. Kd3 Bd8 61. Kd2 Be7 62. Nc1 Bf8 63. c3 Bg7 64. cxb4 cxb4 65. Kc2 Kc5
+66. Kb3 Bc3 67. Ne2 Bd2 68. Ng1 Bxf4 69. Nf3 Bg3 70. Ng1 Bf4 71. Nf3 Bg3 72. Ng1
+Bd6 73. Nh3 Kd4 74. Nf2 Ke3 75. Nh3 f4 76. Ng1 f3 77. Nh3 f2 78. Nxf2 Kxf2
+79. Ka2 Ke3 80. Kb3 Kd3 81. Ka2 Kc2 82. c5 Be5 83. c6 Bb2 84. c7 b3# 0-1
+
+[Event "CN Jovens 2014 - U12"]
+[Site "Luso POR"]
+[Date "2014.07.27"]
+[Round "7.2"]
+[White "Oliveira, Alice"]
+[Black "Santos, José Gulherme"]
+[Result "1-0"]
+[ECO "C62"]
+[WhiteElo "1521"]
+[WhiteFideId "1930818"]
+[BlackFideId "1939300"]
+[PlyCount "79"]
+[EventDate "2014.07.23"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 d6 4. d4 exd4 5. Qxd4 Bd7 6. Bxc6 Bxc6 7. Nc3 Nf6
+8. Bg5 Be7 9. O-O-O Nh5 10. Bxe7 Qxe7 11. Rhe1 f6 12. e5 O-O-O 13. Qg4+ Kb8
+14. Qxh5 fxe5 15. Qg5 Qf7 16. Nxe5 Qe8 17. Nxc6+ Qxc6 18. Qd5 Qxd5 19. Nxd5 Rde8
+20. Kd2 Kc8 21. Rxe8+ Rxe8 22. Re1 Rf8 23. f3 c6 24. Nc3 Kd7 25. a4 a5 26. Ne4
+Rf5 27. Re3 Rh5 28. h3 c5 29. Rd3 Rh6 30. Nxc5+ Kc6 31. Ne4 Rg6 32. g4 h6 33. f4
+Re6 34. Rxd6+ Rxd6+ 35. Nxd6 Kxd6 36. c4 Kc5 37. Kc3 b6 38. f5 Kc6 39. Kd4 Kd6
+40. h4 1-0
+
+[Event "CN Jovens 2014 - U12"]
+[Site "Luso POR"]
+[Date "2014.07.27"]
+[Round "7.3"]
+[White "Fidalgo, Daniel"]
+[Black "Rodrigues, Constança"]
+[Result "1-0"]
+[ECO "A22"]
+[WhiteElo "1645"]
+[WhiteFideId "1934279"]
+[BlackFideId "1929240"]
+[PlyCount "99"]
+[EventDate "2014.07.23"]
+
+1. c4 e5 2. g3 Nf6 3. Bg2 d5 4. cxd5 Nxd5 5. Nc3 Nb6 6. Nf3 Nc6 7. d3 Be7
+8. O-O O-O 9. Be3 Be6 10. Ne4 h6 11. Nc5 Bxc5 12. Bxc5 Re8 13. Rc1 Bg4 14. h3
+Bxf3 15. Bxf3 Qd7 16. Kh2 Qe6 17. a3 Rab8 18. Be3 Red8 19. Qc2 Nd4 20. Bxd4 exd4
+21. Qxc7 Rdc8 22. Qf4 Nd5 23. Rxc8+ Rxc8 24. Qxd4 Nb6 25. e4 Qe7 26. Qe3 f6
+27. Rc1 Rxc1 28. Qxc1 Qe5 29. Qc3 Qxc3 30. bxc3 Kf7 31. Be2 Ke6 32. Kg2 Na4
+33. Bg4+ Ke5 34. f4+ Kd6 35. c4 Nb2 36. Be2 b6 37. Kf2 Ke6 38. Ke3 Kd6 39. d4
+Kd7 40. d5 Kd6 41. Kd4 Na4 42. e5+ fxe5+ 43. fxe5+ Ke7 44. d6+ Kd7 45. Bg4+ Kd8
+46. Kd5 Nc5 47. e6 Ke8 48. Kc6 Kd8 49. e7+ Ke8 50. Bh5+ 1-0
+
+[Event "CN Jovens 2014 - U12"]
+[Site "Luso POR"]
+[Date "2014.07.27"]
+[Round "7.4"]
+[White "Ribeiro, Orlando"]
+[Black "Silva, João Miguel"]
+[Result "0-1"]
+[ECO "B54"]
+[WhiteElo "1219"]
+[BlackElo "1481"]
+[WhiteFideId "1936573"]
+[BlackFideId "1926039"]
+[PlyCount "146"]
+[EventDate "2014.07.23"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 g6 6. Be3 Bg7 7. Bc4 Nf6 8. h3
+O-O 9. O-O a6 10. a3 Qc7 11. Bb3 Bd7 12. Nf3 b5 13. Qd2 Na5 14. Bd5 Nc4 15. Bxc4
+Qxc4 16. Qd4 Rac8 17. Qxc4 Rxc4 18. e5 Ne8 19. exd6 Nxd6 20. Nd2 Rcc8 21. Rfe1
+Bxc3 22. bxc3 Rxc3 23. Bf4 Rxc2 24. Rxe7 Rd8 25. Bxd6 Rxd2 26. Bb4 Rd5 27. Ba5
+Re8 28. Rxe8+ Bxe8 29. Re1 Bd7 30. Bb4 Be6 31. Rc1 Rd7 32. Rc6 Ra7 33. Ba5 Kf8
+34. Kf1 Ke8 35. Rd6 Bc4+ 36. Kg1 Ke7 37. Bb4 a5 38. Ra6+ axb4 39. Rxa7+ Kd6
+40. axb4 Kd5 41. Rd7+ Ke4 42. g3 Bd5 43. Rc7 Kd4 44. Rc1 Bb3 45. Kf1 Kd3 46. Ke1
+Bc2 47. h4 Kc3 48. Ke2 Kb3 49. Kd2 Bf5 50. Re1 Kxb4 51. g4 Be6 52. Rb1+ Bb3
+53. Kd3 Ka3 54. Kc3 b4+ 55. Kd2 Bd5 56. Kc1 Ba2 57. Rb2 Be6 58. g5 Bf5 59. f4
+Be6 60. Kb1 Bf5+ 61. Kc1 b3 62. Rd2 Kb4 63. Kb2 Be6 64. Rd1 Kc5 65. Rd2 Bd5
+66. Re2 Be6 67. Rd2 Bd5 68. Re2 Kd6 69. Re8 Kd7 70. Rh8 Ke6 71. Rxh7 Kf5 72. h5
+gxh5 73. Rxh5 Kg4 0-1
+
+[Event "CN Jovens 2014 - U12"]
+[Site "Luso POR"]
+[Date "2014.07.27"]
+[Round "7.5"]
+[White "Ribeiro, André Amorim"]
+[Black "Gama, João"]
+[Result "1-0"]
+[ECO "C68"]
+[WhiteElo "1190"]
+[BlackElo "1290"]
+[WhiteFideId "1928619"]
+[BlackFideId "1926667"]
+[PlyCount "111"]
+[EventDate "2014.07.23"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. O-O Bd6 6. d4 exd4 7. Qxd4 f6
+8. Re1 Be7 9. Bf4 Bg4 10. Nbd2 Qxd4 11. Nxd4 O-O-O 12. N2f3 g5 13. Bg3 Bc5
+14. c3 Ne7 15. h3 Bxf3 16. Nxf3 Ng6 17. e5 Be7 18. exf6 Bxf6 19. Re6 Rhf8
+20. Rae1 h5 21. Nxg5 Bxg5 22. Rxg6 Rd5 23. Re5 Rf5 24. Rxf5 Rxf5 25. Rg8+ Bd8
+26. Bh4 Rd5 27. Rxd8+ Rxd8 28. Bxd8 Kxd8 29. Kf1 Ke7 30. Ke1 Ke6 31. Ke2 c5
+32. g4 hxg4 33. hxg4 Ke5 34. Ke3 b5 35. f4+ Ke6 36. Ke4 c6 37. g5 b4 38. f5+ Kf7
+39. Ke5 Ke7 40. g6 a5 41. f6+ Kf8 42. Ke6 a4 43. cxb4 c4 44. f7 a3 45. bxa3 Kg7
+46. Ke7 c3 47. f8=Q+ Kxg6 48. Qf2 Kg5 49. Qe3+ Kf5 50. Qxc3 Kg6 51. Qf3 Kg5
+52. Kf7 c5 53. bxc5 Kh4 54. Qg2 Kh5 55. Qg3 Kh6 56. Qg6# 1-0
+
+[Event "CN Jovens 2014 - U12"]
+[Site "Luso POR"]
+[Date "2014.07.27"]
+[Round "7.6"]
+[White "Camacho, Diogo"]
+[Black "Lobo, Hugo"]
+[Result "1-0"]
+[ECO "B30"]
+[BlackElo "1154"]
+[WhiteFideId "1932306"]
+[BlackFideId "1934902"]
+[PlyCount "121"]
+[EventDate "2014.07.23"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bc4 d6 4. h3 Nf6 5. Nc3 e6 6. O-O Be7 7. d3 h6 8. a3 O-O
+9. Bf4 Bd7 10. e5 dxe5 11. Nxe5 Nxe5 12. Bxe5 Bc6 13. Bb5 Bxb5 14. Nxb5 a6 15.
+Nc3 Bd6 16. Bxf6 Qxf6 17. Ne4 Qe7 18. Nxd6 Qxd6 19. Qe2 Rfe8 20. Rfe1 b6 21.
+Rad1 Qc6 22. Qe4 Qxe4 23. dxe4 Rad8 24. Rd3 Rxd3 25. cxd3 e5 26. Kf1 Rd8 27.
+Ke2 Kf8 28. Ke3 Ke7 29. Rc1 a5 30. g3 g5 31. Rc3 Rd6 32. f4 f6 33. fxe5 fxe5
+34. Rc2 Rf6 35. Rf2 Rxf2 36. Kxf2 Kf6 37. Ke3 h5 38. Kd2 Ke6 39. Kc3 Kd6 40.
+Kc4 Kc6 41. a4 Kd6 42. Kb5 Kc7 43. Ka6 Kc6 44. Ka7 Kc7 45. b3 Kc6 46. Kb8 b5
+47. Kc8 bxa4 48. bxa4 c4 49. dxc4 Kc5 50. Kd7 Kxc4 51. Ke6 Kd4 52. Kf5 h4 53.
+g4 Ke3 54. Kxe5 Kf3 55. Kf5 Kg3 56. e5 Kxh3 57. e6 Kg3 58. e7 h3 59. e8=Q h2
+60. Qh8 Kg2 61. Qxh2+ 1-0
+
+[Event "CN Jovens 2014 - U12"]
+[Site "Luso POR"]
+[Date "2014.07.27"]
+[Round "7.7"]
+[White "Abreu, Alexandre"]
+[Black "Cordeiro, João"]
+[Result "1/2-1/2"]
+[ECO "C48"]
+[BlackElo "1524"]
+[WhiteFideId "1942182"]
+[BlackFideId "1935291"]
+[PlyCount "115"]
+[EventDate "2014.07.23"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. Bb5 d6 5. h3 Bd7 6. O-O a6 7. Bxc6 Bxc6
+8. Re1 Be7 9. d4 exd4 10. Nxd4 Qd7 11. Bf4 O-O-O 12. Qe2 Rhe8 13. Rad1 Kb8
+14. Rd3 g6 15. Re3 Nh5 16. Bh2 Bf6 17. Nxc6+ Qxc6 18. e5 dxe5 19. Bxe5 Bxe5
+20. Rxe5 Rxe5 21. Qxe5 Qf6 22. Qe3 Ng7 23. Qe7 Qxe7 24. Rxe7 Rf8 25. Ne4 Re8
+26. Rxe8+ Nxe8 27. Ng5 f6 28. Nxh7 Kc8 29. Kf1 Kd8 30. Nf8 g5 31. Ng6 Kd7 32. h4
+Ke6 33. h5 Kf7 34. Ke2 Ng7 35. g4 Ne6 36. Ke3 Nd8 37. f4 gxf4+ 38. Nxf4 Nc6
+39. a3 Ne5 40. Nd5 Nxg4+ 41. Kf4 Ne5 42. Nxc7 Nc4 43. b3 Nxa3 44. c4 Nb1 45. b4
+Nd2 46. c5 Nc4 47. Nd5 a5 48. bxa5 Nxa5 49. h6 Kg6 50. h7 Kxh7 51. Nxf6+ Kg7
+52. Nd7 Kf7 53. Ke5 Nb3 54. Kd6 Nxc5 55. Nxc5 b5 56. Kc6 b4 57. Kb5 b3 58. Nxb3
+1/2-1/2
+
+[Event "CN Jovens 2014 - U12"]
+[Site "Luso POR"]
+[Date "2014.07.27"]
+[Round "7.8"]
+[White "Martins, Antonio M G Costa"]
+[Black "Monteiro, Tomás"]
+[Result "1-0"]
+[ECO "B72"]
+[WhiteElo "1408"]
+[BlackElo "1243"]
+[WhiteFideId "1930079"]
+[BlackFideId "1930800"]
+[PlyCount "99"]
+[EventDate "2014.07.23"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 g6 5. Nc3 Bg7 6. Be3 Nf6 7. Be2 O-O
+8. O-O Bd7 9. Qd2 Re8 10. h3 Nc6 11. a3 a6 12. f4 Qc7 13. Kh1 Nxd4 14. Bxd4 Bc6
+15. Bf3 Rad8 16. Qf2 e5 17. fxe5 dxe5 18. Bb6 Qb8 19. Bxd8 Rxd8 20. Rad1 Rxd1
+21. Rxd1 Qc7 22. Qd2 Bf8 23. Qd8 Qxd8 24. Rxd8 Kg7 25. Rd1 Bc5 26. Nd5 Nxd5
+27. exd5 Bd7 28. Kh2 f5 29. g3 e4 30. Be2 Kf6 31. b4 Ba7 32. c4 b6 33. Kg2 Ke5
+34. Kf2 f4 35. gxf4+ Kxf4 36. Bg4 Bxg4 37. hxg4 b5+ 38. c5 e3+ 39. Ke2 Kxg4
+40. Kxe3 h5 41. d6 h4 42. d7 h3 43. d8=Q h2 44. Qd7+ Kg3 45. Qxa7 Kg2 46. Qb7+
+Kg3 47. Qh7 Kg2 48. Qxg6+ Kh3 49. Kf3 h1=Q+ 50. Rxh1# 1-0
+
+[Event "CN Jovens 2014 - U12"]
+[Site "Luso POR"]
+[Date "2014.07.27"]
+[Round "7.9"]
+[White "Rego, João Rui"]
+[Black "Santos, Pedro Miguel"]
+[Result "0-1"]
+[ECO "B43"]
+[WhiteElo "1317"]
+[WhiteFideId "1934465"]
+[BlackFideId "1922246"]
+[PlyCount "64"]
+[EventDate "2014.07.23"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Nc3 b5 6. a3 Bb7 7. f3 Be7 8. Be2
+d6 9. Be3 Nf6 10. O-O O-O 11. Kh1 Nbd7 12. Qe1 Rc8 13. Rd1 d5 14. exd5 Nxd5
+15. Nxd5 Bxd5 16. g4 Bf6 17. Qg3 Bxd4 18. Bxd4 Rxc2 19. Bd3 Rc6 20. h4 Qe7
+21. g5 Rd6 22. Rc1 Bxf3+ 23. Qxf3 Rxd4 24. Qe3 Rxh4+ 25. Kg2 Rg4+ 26. Kf2 Rxg5
+27. Bxh7+ Kxh7 28. Qh3+ Kg8 29. Rh1 Qf6+ 30. Ke2 Qh6 31. Qd3 Ne5 32. Qb1 Rg2+
+0-1
+
+[Event "CN Jovens 2014 - U12"]
+[Site "Luso POR"]
+[Date "2014.07.27"]
+[Round "7.10"]
+[White "Garcia, Nathalia"]
+[Black "Silva, Pedro Filipe"]
+[Result "1/2-1/2"]
+[ECO "B46"]
+[WhiteElo "1231"]
+[BlackElo "1314"]
+[WhiteFideId "1936417"]
+[BlackFideId "1934210"]
+[PlyCount "129"]
+[EventDate "2014.07.23"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 a6 6. Be3 Nf6 7. Be2 Bb4 8. f3
+O-O 9. O-O Qc7 10. Qd2 Bc5 11. Nxc6 Bxe3+ 12. Qxe3 bxc6 13. Rad1 d5 14. e5 Nd7
+15. f4 f6 16. exf6 Nxf6 17. Qe5 Ne8 18. Qxc7 Nxc7 19. Bg4 Nb5 20. Nxb5 axb5
+21. a3 Bd7 22. Rde1 Rae8 23. h3 c5 24. f5 e5 25. Bh5 Re7 26. Bg4 e4 27. f6 Rxf6
+28. Bxd7 Rxf1+ 29. Rxf1 Rxd7 30. Rf5 e3 31. Re5 Kf7 32. Rxe3 g6 33. Re1 Kf6
+34. Rd1 Ke5 35. Kf2 Ke4 36. Ke2 d4 37. b3 Ra7 38. Ra1 c4 39. b4 d3+ 40. cxd3+
+cxd3+ 41. Kd2 Rd7 42. Re1+ Kd4 43. Re3 Kc4 44. Re6 Kb3 45. Ra6 Rd5 46. Ra8 Rg5
+47. Kxd3 Rxg2 48. Ra5 Rg3+ 49. Kd4 Rxh3 50. Rxb5 Rh4+ 51. Kc5 Rh5+ 52. Kb6 Rxb5+
+53. Kxb5 Kxa3 54. Ka5 g5 55. b5 g4 56. b6 g3 57. b7 g2 58. b8=Q g1=Q 59. Qb4+
+Ka2 60. Qc4+ Kb2 61. Qb4+ Kc1 62. Qa3+ Kd2 63. Qb2+ Ke1 64. Qb1+ Kf2 65. Qc2+
+1/2-1/2
+
+[Event "CN Jovens 2014 - U12"]
+[Site "Luso POR"]
+[Date "2014.07.27"]
+[Round "7.11"]
+[White "Cunha, Alexandre"]
+[Black "Palmelão, Pedro"]
+[Result "1/2-1/2"]
+[ECO "C50"]
+[WhiteElo "1037"]
+[WhiteFideId "1931890"]
+[BlackFideId "1936522"]
+[PlyCount "60"]
+[EventDate "2014.07.23"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. Nc3 Nf6 5. d3 h6 6. Be3 Bb6 7. Qd2 d6
+8. O-O-O Be6 9. Rhe1 Qd7 10. Nd5 Ba5 11. Nxf6+ gxf6 12. c3 O-O-O 13. b4 Bb6
+14. Qe2 d5 15. Bb3 d4 16. Bd2 dxc3 17. Bxc3 Bd4 18. Nxd4 Nxd4 19. Qb2 Qc6
+20. Bxe6+ fxe6 21. Kb1 Nb5 22. Rc1 Qa6 23. Red1 Nd4 24. Bxd4 Rxd4 25. Qc3 Qb6
+26. a3 Rhd8 27. Rc2 Qd6 28. Rcd2 Qf8 29. Rc1 Qg7 30. g3 Qd7 1/2-1/2
+
+[Event "CN Jovens 2014 - U12"]
+[Site "Luso POR"]
+[Date "2014.07.27"]
+[Round "7.12"]
+[White "Pinto, Pedro M R"]
+[Black "Martins, Bruno"]
+[Result "0-1"]
+[ECO "C68"]
+[WhiteFideId "1936549"]
+[BlackFideId "1942255"]
+[PlyCount "102"]
+[EventDate "2014.07.23"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. Nxe5 Qd4 6. Nf3 Qxe4+ 7. Qe2
+Qxe2+ 8. Kxe2 Bg4 9. Re1 O-O-O 10. Kf1 Bxf3 11. gxf3 Bd6 12. h3 Nf6 13. d3 Rhe8
+14. Bd2 Rxe1+ 15. Bxe1 Nd5 16. Bd2 Bf4 17. Bc3 g6 18. Na3 Nxc3 19. bxc3 Re8
+20. Re1 Rxe1+ 21. Kxe1 b5 22. Kf1 Kd7 23. Kg2 g5 24. d4 Kd6 25. Nb1 Kd5 26. a3
+Kc4 27. Kf1 Bc1 28. Kg2 f5 29. Kg3 Bf4+ 30. Kg2 h5 31. Kf1 a5 32. Kg2 h4 33. Kg1
+Bc1 34. Kg2 Bb2 35. Kf1 Bxc3 36. Kg2 Bxd4 37. Nd2+ Kc3 38. Nb3 a4 39. Na5 Kxc2
+40. Nxc6 Bc5 41. Ne5 Bxa3 42. Nc6 Bc5 43. Na5 a3 44. Nb7 Bb6 45. Nd8 a2 46. Nc6
+a1=Q 47. Nb4+ Kd2 48. Nd5 Ke2 49. Nc3+ Qxc3 50. Kg1 Bxf2+ 51. Kh2 Qe1 0-1
+
+[Event "CN Jovens 2014 - U12"]
+[Site "Luso POR"]
+[Date "2014.07.27"]
+[Round "7.13"]
+[White "Rego, André Rodrigues"]
+[Black "Silva, Tiago Alexandre"]
+[Result "0-1"]
+[ECO "C50"]
+[BlackElo "1360"]
+[WhiteFideId "1945793"]
+[BlackFideId "1935321"]
+[PlyCount "96"]
+[EventDate "2014.07.23"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. Nc3 d6 5. h3 Nf6 6. O-O Be6 7. Bxe6 fxe6
+8. d3 O-O 9. Bg5 h6 10. Bh4 Nd4 11. Re1 Qe8 12. a3 Nh5 13. Bg3 Nxf3+ 14. gxf3
+Nxg3 15. b4 Bd4 16. Qd2 Qc6 17. Ne2 Nxe2+ 18. Qxe2 Bc3 19. Rec1 Bxa1 20. Rxa1
+Rf6 21. Rb1 Raf8 22. b5 Qc5 23. a4 Rxf3 24. Rf1 d5 25. exd5 Qxd5 26. c4 Qxd3
+27. Qxd3 Rxd3 28. Re1 Rf5 29. a5 Rxh3 30. c5 Ra3 31. Rd1 Rf7 32. Rd8+ Kh7
+33. Rb8 Rxa5 34. Rxb7 a6 35. Ra7 Rxb5 36. Rxa6 Rxc5 37. Rxe6 Rc2 38. Rxe5 Rcxf2
+39. Rh5 Rf1+ 40. Kg2 g6 41. Ra5 R1f5 42. Ra7 c5 43. Ra4 Rf4 44. Ra3 Rf3 45. Ra4
+R3f4 46. Ra3 c4 47. Kg3 Rf3+ 48. Kg2 Rxa3 0-1
+
+[Event "CN Jovens 2014 - U12"]
+[Site "Luso POR"]
+[Date "2014.07.27"]
+[Round "7.14"]
+[White "Rodrigues, Pedro Serpa"]
+[Black "Antunes, André"]
+[Result "1-0"]
+[ECO "C42"]
+[WhiteElo "1297"]
+[WhiteFideId "1934724"]
+[BlackFideId "1936328"]
+[PlyCount "127"]
+[EventDate "2014.07.23"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. d4 g6 6. Bd3 d5 7. Qe2 Qe7 8. O-O
+Bg7 9. Nbd2 Bf5 10. Re1 O-O 11. Nxe4 dxe4 12. Bxe4 Bxe4 13. Qxe4 Qb4 14. c3 Qb6
+15. Rb1 Na6 16. Bd2 Qb5 17. Qe2 Qc6 18. h3 Rfe8 19. Qd3 Rxe1+ 20. Rxe1 Re8
+21. Rxe8+ Qxe8 22. Qe3 Qa4 23. b4 Nb8 24. Qe4 Qb5 25. Bf4 Na6 26. Ne5 Bf8
+27. Ng4 Qc6 28. Qxc6 bxc6 29. Nf6+ Kg7 30. Ne8+ Kg8 31. Nxc7 Nxc7 32. Bxc7 Be7
+33. Kf1 Bg5 34. Ke2 Kf8 35. Kd3 Ke8 36. c4 Kd7 37. f4 Bf6 38. Be5 Be7 39. Kc3 f6
+40. Bb8 a6 41. Ba7 Kc7 42. Bc5 Bd8 43. a4 Kd7 44. b5 cxb5 45. cxb5 axb5 46. axb5
+Kc7 47. Kc4 Kb7 48. d5 h5 49. d6 g5 50. fxg5 fxg5 51. Kd5 g4 52. Ke6 gxh3
+53. gxh3 h4 54. d7 Kc7 55. Be7 Bxe7 56. Kxe7 Kb6 57. d8=Q+ Kxb5 58. Qc7 Kb4
+59. Qc6 Ka5 60. Qb7 Ka4 61. Kd6 Ka3 62. Kc5 Ka2 63. Kc4 Ka1 64. Kc3 1-0
+
+[Event "CN Jovens 2014 - U12"]
+[Site "Luso POR"]
+[Date "2014.07.27"]
+[Round "7.15"]
+[White "Gomes, Gonçalo"]
+[Black "Maciel, Rafael"]
+[Result "0-1"]
+[ECO "C45"]
+[BlackElo "1285"]
+[WhiteFideId "1941453"]
+[BlackFideId "1935305"]
+[PlyCount "132"]
+[EventDate "2014.07.23"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Bc5 5. Be3 Bxd4 6. Bxd4 Nf6 7. Nc3 d6
+8. Bc4 Be6 9. Bd5 Bxd5 10. exd5 Qe7+ 11. Be3 Ne5 12. O-O O-O 13. Re1 Qd7 14. Bg5
+Qe7 15. Qd2 c6 16. f4 Nc4 17. Rxe7 Nxd2 18. dxc6 bxc6 19. Rc7 Rac8 20. Re7 h6
+21. Bh4 Nc4 22. b3 Na5 23. Rd1 Rfd8 24. h3 d5 25. g4 d4 26. Ne4 Nxe4 27. Rxe4 c5
+28. g5 hxg5 29. Bxg5 f6 30. Bh4 Nc6 31. Bf2 Nb4 32. Ra1 Nxc2 33. Rc1 Nb4 34. a3
+Nd3 35. Rc2 Nxf2 36. Kxf2 d3 37. Rd2 a5 38. Re3 Rb8 39. Rexd3 Rxd3 40. Rxd3 Kh7
+41. Rc3 Rb5 42. a4 Rb4 43. Rxc5 Rxb3 44. Rxa5 Rxh3 45. Rb5 Ra3 46. a5 Ra4 47. f5
+Ra2+ 48. Kf1 Kh6 49. Ke1 Kg5 50. Kd1 Kf4 51. Kc1 Ke4 52. Kb1 Rh2 53. Rb2 Rh8
+54. a6 Ra8 55. Rg2 Ra7 56. Ra2 Kxf5 57. Kb2 g5 58. Kb3 Ke4 59. Kb4 g4 60. Kb5 g3
+61. Kb6 Rg7 62. a7 Rxa7 63. Rxa7 g2 64. Rf7 g1=Q+ 65. Kc6 Qc1+ 66. Kd6 Qc3 0-1
+
+[Event "CN Jovens 2014 - U12"]
+[Site "Luso POR"]
+[Date "2014.07.27"]
+[Round "7.16"]
+[White "Rocha, João"]
+[Black "Barata, Manuel"]
+[Result "1/2-1/2"]
+[ECO "C50"]
+[WhiteFideId "1939297"]
+[BlackFideId "1938983"]
+[PlyCount "126"]
+[EventDate "2014.07.23"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. O-O Nf6 5. d3 h6 6. Be3 Bb6 7. c3 d6 8. h3
+Be6 9. Bb3 O-O 10. Bc2 d5 11. Bxb6 axb6 12. exd5 Nxd5 13. Nbd2 Nf6 14. Qe2 Qd6
+15. Qe3 Nd7 16. d4 exd4 17. Nxd4 Nxd4 18. cxd4 c5 19. Qe4 Nf6 20. Qd3 Qxd4
+21. Qxd4 cxd4 22. Bb3 Rfe8 23. Bxe6 fxe6 24. a3 e5 25. Rfe1 Rac8 26. Nf3 Nd7
+27. Rad1 Rc5 28. Nxd4 Rd5 29. Nc2 Rxd1 30. Rxd1 Nc5 31. Kf1 Kf7 32. Ke2 Na4
+33. Rd7+ Re7 34. Rxe7+ Kxe7 35. b3 Nc3+ 36. Kd3 Nd5 37. Ne3 Nf4+ 38. Ke4 Ke6
+39. Nc4 Nxg2 40. Nxb6 Nf4 41. h4 g5 42. hxg5 hxg5 43. Nc4 Ng6 44. a4 g4 45. b4
+Ne7 46. Nxe5 Nd5 47. Nxg4 Nxb4 48. f4 Nd5 49. f5+ Kd6 50. Kd4 Kc6 51. f6 Nxf6
+52. Nxf6 b5 53. a5 b4 54. Kc4 b3 55. Ne4 b2 56. Nd2 Kb7 57. Nb1 Ka6 58. Kb4 Ka7
+59. Kb5 Kb7 60. a6+ Ka7 61. Nc3 Ka8 62. Kb6 Kb8 63. a7+ Ka8 1/2-1/2
+
+[Event "CN Jovens 2014 - U12"]
+[Site "Luso POR"]
+[Date "2014.07.27"]
+[Round "7.17"]
+[White "Prazeres, João"]
+[Black "Lança, Luis"]
+[Result "1-0"]
+[ECO "D07"]
+[WhiteFideId "1939084"]
+[BlackFideId "1936450"]
+[PlyCount "143"]
+[EventDate "2014.07.23"]
+
+1. d4 d5 2. Nf3 Nc6 3. c4 dxc4 4. Nc3 Bf5 5. e3 Be6 6. d5 Bd7 7. dxc6 Bxc6
+8. Qxd8+ Rxd8 9. Ne5 Nh6 10. Nxc6 bxc6 11. Bxc4 e6 12. O-O Bc5 13. Rd1 O-O
+14. Bd2 Nf5 15. Ne4 Nd6 16. Nxd6 cxd6 17. Bb3 h6 18. Ba4 Rc8 19. Rac1 Rc7
+20. Bc3 d5 21. Ba5 Bb6 22. Bxb6 axb6 23. Rxc6 Rxc6 24. Bxc6 Rc8 25. Bb5 Rc5
+26. Bd3 g6 27. h3 Ra5 28. a3 Rc5 29. Kf1 e5 30. Rd2 Rc1+ 31. Ke2 e4 32. Ba6 Rc5
+33. Bb7 Rb5 34. Bxd5 Kg7 35. Bxe4 Re5 36. Bf3 Rb5 37. b4 Re5 38. Rd5 Re6 39. a4
+Rc6 40. Rb5 Rc2+ 41. Kd3 Ra2 42. a5 bxa5 43. Rxa5 Rxf2 44. b5 Rb2 45. Bc6 Rb3+
+46. Ke4 Rb4+ 47. Kf3 Kf6 48. b6 Rxb6 49. Be4 Re6 50. Rc5 Re5 51. Rxe5 Kxe5
+52. Bc6 f5 53. Be8 Kf6 54. g4 fxg4+ 55. hxg4 h5 56. gxh5 gxh5 57. Bxh5 Ke5
+58. e4 Kd4 59. Kf4 Kc5 60. Kf5 Kc6 61. Kf6 Kd6 62. e5+ Kd7 63. e6+ Kd8 64. e7+
+Kd7 65. e8=Q+ Kd6 66. Qe4 Kd7 67. Qe6+ Kd8 68. Qf7 Kc8 69. Ke6 Kb8 70. Kd6 Ka8
+71. Kc6 Kb8 72. Qb7# 1-0
+
+[Event "CN Jovens 2014 - U12"]
+[Site "Luso POR"]
+[Date "2014.07.27"]
+[Round "7.18"]
+[White "Fernandes, João Adriano"]
+[Black "Rodrigues, José Francisco"]
+[Result "0-1"]
+[ECO "B23"]
+[WhiteFideId "1939602"]
+[BlackFideId "1934201"]
+[PlyCount "26"]
+[EventDate "2014.07.23"]
+
+1. e4 c5 2. Nc3 e6 3. Bb5 Nc6 4. Nf3 a6 5. Ba4 b5 6. Nxb5 axb5 7. Bxb5 Ba6
+8. Bxc6 dxc6 9. Ne5 Qd6 10. Qh5 g6 11. Qg5 Bh6 12. Qg3 Nf6 13. f3 Rd8 {0-0
+ilegal} 0-1
+
+[Event "CN Jovens 2014 - U12"]
+[Site "Luso POR"]
+[Date "2014.07.27"]
+[Round "7.19"]
+[White "Silva, Nuno Lynce"]
+[Black "Oliveira, Beatriz"]
+[Result "1-0"]
+[ECO "C50"]
+[WhiteFideId "1942727"]
+[BlackFideId "1938649"]
+[PlyCount "117"]
+[EventDate "2014.07.23"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. O-O Nf6 5. d3 h6 6. c3 O-O 7. Be3 Ng4 8. Bxc5
+d6 9. Be3 Nxe3 10. fxe3 Bg4 11. d4 Re8 12. h3 Bh5 13. Nbd2 Qd7 14. Be2 Re6
+15. Nh2 Bg6 16. Bg4 Ne7 17. Bxe6 Qxe6 18. Qb3 Qc8 19. Rf2 Kf8 20. Raf1 Qe8
+21. Nhf3 f6 22. dxe5 Bf7 23. e6 Bg8 24. Qxb7 Bxe6 25. Qxc7 Bxa2 26. Qxd6 Rd8
+27. Qa6 Bf7 28. Qxa7 Nc6 29. Qc5+ Ne7 30. e5 Rd5 31. Qb4 f5 32. Nd4 g6 33. e4
+Rxe5 34. exf5 gxf5 35. Rxf5 Rxf5 36. Nxf5 h5 37. Qxe7+ Qxe7 38. Nxe7 Kxe7 39. b4
+Bd5 40. c4 Bb7 41. b5 Kd6 42. g4 hxg4 43. hxg4 Bc8 44. g5 Be6 45. g6 Ke7 46. Re1
+Kd7 47. Rxe6 Kxe6 48. b6 Kf6 49. b7 Kxg6 50. b8=Q Kf5 51. Qg3 Ke6 52. Qg5 Kd6
+53. Qf5 Kc6 54. Qd5+ Kb6 55. c5+ Kb5 56. c6+ Kb6 57. Nc4+ Kc7 58. Qd7+ Kb8
+59. Qb7# 1-0
+
+[Event "CN Jovens 2014 - U12"]
+[Site "Luso POR"]
+[Date "2014.07.27"]
+[Round "7.20"]
+[White "Gomes, Beatriz"]
+[Black "Encarnação, Filipe"]
+[Result "1-0"]
+[ECO "C50"]
+[WhiteFideId "1936433"]
+[BlackFideId "1942018"]
+[PlyCount "133"]
+[EventDate "2014.07.23"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. Nc3 d6 5. h3 Nf6 6. d3 Be6 7. Bxe6 fxe6
+8. Be3 Bb6 9. O-O O-O 10. Ng5 Qe7 11. Qf3 h6 12. Qg3 hxg5 13. Bxg5 Nh5 14. Qg4
+Nf6 15. Qf3 Nd4 16. Qd1 Nc6 17. Be3 d5 18. exd5 exd5 19. Bg5 Rad8 20. Qf3 d4
+21. Ne4 Nb4 22. Bxf6 gxf6 23. Ng3 Nxc2 24. Nf5 Qh7 25. Qg3+ Kh8 26. Nh4 Rg8
+27. Qf3 Qxh4 28. Rac1 Nb4 29. a3 Na6 30. Qxb7 Nc5 31. Qf3 Qf4 32. Qh5+ Kg7
+33. g3 Qg5 34. Qxg5+ fxg5 35. Rcd1 e4 36. dxe4 Nxe4 37. Rfe1 Rge8 38. Kg2 Kf6
+39. f3 Nc5 40. Rxe8 Rxe8 41. Kf2 Na4 42. b3 Nc3 43. Rd3 Re2+ 44. Kf1 Ra2 45. a4
+Rb2 46. f4 gxf4 47. g4 Kg5 48. Ke1 Rxb3 49. Kf1 Ra3 50. Ke1 Rxa4 51. Kd2 Nd5
+52. Ke1 Ne3 53. Rb3 f3 54. Rb5+ Kf4 55. g5 Nf5 56. g6 Kg3 57. Rxf5 Kg2 58. g7
+Ra1+ 59. Kd2 f2 60. g8=Q+ Kf1 61. Qc4+ Kg1 62. Ke2 f1=Q+ 63. Rxf1+ Rxf1 64. Qg8+
+Kh2 65. Kxf1 Kxh3 66. Kf2 Kh4 67. Kf3 1-0
+
+[Event "CN Jovens 2014 - U12"]
+[Site "Luso POR"]
+[Date "2014.07.27"]
+[Round "7.21"]
+[White "Dias, Tiago Monteiro"]
+[Black "Santos, Leonor"]
+[Result "0-1"]
+[ECO "C50"]
+[WhiteFideId "1945785"]
+[BlackFideId "1941739"]
+[PlyCount "48"]
+[EventDate "2014.07.23"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. d3 h6 5. Nc3 Nf6 6. O-O d6 7. Re1 Bg4 8. Be3
+Bb4 9. Bd2 O-O 10. h3 Bh5 11. Nd5 Nxd5 12. exd5 Bxd2 13. Qxd2 Bxf3 14. gxf3 Nd4
+15. Re3 Qg5+ 16. Kh1 Nxf3 17. Qb4 Qf4 18. Kg2 Nh4+ 19. Kf1 Nf5 20. Re4 Ng3+
+21. Kg2 Nxe4 22. dxe4 Qxe4+ 23. Kf1 Qxc2 24. Qxb7 Qxc4+ 0-1
+
+[Event "CN Jovens 2014 - U12"]
+[Site "Luso POR"]
+[Date "2014.07.27"]
+[Round "7.22"]
+[White "Carreira, David Santos"]
+[Black "Gaspar, Pedro"]
+[Result "0-1"]
+[ECO "C44"]
+[WhiteFideId "1941399"]
+[BlackFideId "1936425"]
+[PlyCount "106"]
+[EventDate "2014.07.23"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 Nf6 4. Nxe5 Nxe5 5. dxe5 Nxe4 6. g3 f6 7. exf6 Nxf6
+8. Bg2 Bc5 9. O-O O-O 10. Nc3 d6 11. Bg5 Bb4 12. Bd5+ Kh8 13. a3 Bxc3 14. bxc3
+Qd7 15. Ba2 Qc6 16. Bd5 Nxd5 17. Qd3 Nxc3 18. Be7 Bh3 19. f3 Bxf1 20. Rxf1 Rfe8
+21. Bg5 Nd5 22. Bd2 a6 23. c4 Nf6 24. Bc3 Rf8 25. Qd4 Qb6 26. Qxb6 cxb6 27. Bd4
+Nd7 28. h4 Kg8 29. g4 Rf7 30. h5 Raf8 31. Kg2 b5 32. cxb5 axb5 33. Kg3 Ne5
+34. f4 Nd3 35. f5 g6 36. hxg6 hxg6 37. Rh1 Rh7 38. Rg1 gxf5 39. gxf5 Rxf5
+40. Kg4 Rf4+ 41. Kg3 Rxd4 42. Kf3+ Rg7 43. Rd1 Ne5+ 44. Ke2 Rxd1 45. Kxd1 Rg2
+46. Ke1 Kf7 47. Kf1 Ra2 48. Ke1 Ke6 49. Kd1 Kd5 50. Kc1 Kc4 51. Kb1 Rh2 52. Ka1
+Kb3 53. Kb1 Rh1# 0-1
+
+[Event "CN Jovens 2014 - U12"]
+[Site "Luso POR"]
+[Date "2014.07.27"]
+[Round "7.23"]
+[White "Ferreira, Guilherme"]
+[Black "Lobo, Pedro"]
+[Result "0-1"]
+[ECO "D00"]
+[WhiteFideId "1939912"]
+[BlackFideId "1940082"]
+[PlyCount "88"]
+[EventDate "2014.07.23"]
+
+1. d4 d5 2. Bf4 Bf5 3. Nc3 e6 4. e3 Bb4 5. Qd2 Nc6 6. O-O-O f6 7. Bb5 Qd7
+8. Nf3 O-O-O 9. Bd3 Bxd3 10. Qxd3 g5 11. a3 Bxc3 12. Qxc3 gxf4 13. exf4 f5
+14. Rhe1 Nf6 15. Ne5 Nxe5 16. fxe5 Ng4 17. Rd2 Nxh2 18. Qb4 Ng4 19. Rd3 b6
+20. f3 Nh6 21. g4 fxg4 22. fxg4 Nxg4 23. Rg3 Rhg8 24. Reg1 Qf7 25. Rxg4 Rxg4
+26. Rxg4 Qf1+ 27. Kd2 Qf2+ 28. Kd3 Qf3+ 29. Kd2 Qxg4 30. Qe7 h5 31. Qf7 h4
+32. Qf1 h3 33. Ke1 Qg3+ 34. Qf2 Qxf2+ 35. Kxf2 Rg8 36. Ke2 h2 37. Kd3 h1=Q
+38. Kc3 Rg3+ 39. Kb4 Kb7 40. c3 Rxc3 41. bxc3 Qb1+ 42. Ka4 Ka6 43. c4 b5+
+44. cxb5+ Qxb5# 0-1
+
+[Event "CN Jovens 2014 - U12"]
+[Site "Luso POR"]
+[Date "2014.07.27"]
+[Round "7.24"]
+[White "Saraiva, Diogo"]
+[Black "Rhodes, Mónica"]
+[Result "1-0"]
+[ECO "C50"]
+[WhiteFideId "1936611"]
+[BlackFideId "1939262"]
+[PlyCount "89"]
+[EventDate "2014.07.23"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. Bc4 Bc5 5. O-O d6 6. h3 O-O 7. d3 h6 8. Be3
+Bb6 9. Nh4 Nd4 10. Bxd4 Bxd4 11. Nf3 Be6 12. Bxe6 fxe6 13. Nb5 c5 14. c3 a6
+15. Nbxd4 cxd4 16. cxd4 exd4 17. Nxd4 e5 18. Ne6 Qe7 19. Nxf8 Qxf8 20. Qb3+ Kh8
+21. Qxb7 Nh5 22. Rac1 Nf4 23. Rfd1 Ne2+ 24. Kf1 Nxc1 25. Rxc1 a5 26. Rc7 Rb8
+27. Qa7 Rxb2 28. Rd7 Qxf2+ 29. Qxf2 Rxf2+ 30. Kxf2 Kg8 31. Rxd6 Kf7 32. Rd5 Ke6
+33. Rxa5 Kd6 34. Rb5 Ke6 35. a4 Kd6 36. a5 Kc6 37. Rb1 g5 38. a6 h5 39. a7 h4
+40. a8=Q+ Kc5 41. Qd8 Kc6 42. Rc1+ Kb7 43. Qc8+ Kb6 44. Qb8+ Ka6 45. Ra1# 1-0
+
+[Event "CN Jovens 2014 - U12"]
+[Site "Luso POR"]
+[Date "2014.07.27"]
+[Round "7.25"]
+[White "Silva, Manuel Amorim"]
+[Black "Silva, Rafael"]
+[Result "1/2-1/2"]
+[ECO "D00"]
+[WhiteFideId "1944053"]
+[BlackFideId "1925857"]
+[PlyCount "58"]
+[EventDate "2014.07.23"]
+
+1. d4 d5 2. Nc3 Nf6 3. Nf3 e6 4. Bg5 Be7 5. g3 Ne4 6. Bxe7 Qxe7 7. Nxe4 dxe4
+8. Ne5 b6 9. Bg2 Bb7 10. O-O O-O 11. f3 exf3 12. exf3 c5 13. c3 Qd6 14. Nc4 Qe7
+15. Re1 Rd8 16. Qd2 Nc6 17. Rad1 Rd7 18. Re3 Rad8 19. Rd3 Ba6 20. Ne5 Nxe5
+21. Re1 Nxd3 22. Re3 Nf4 23. Bf1 Bxf1 24. Kxf1 cxd4 25. cxd4 Rxd4 26. Qf2 Rd1+
+27. Re1 Nh3 28. Qg2 Rxe1+ 29. Kxe1 {Kf2 ilegal} 29... Qb4+ 1/2-1/2
+
+[Event "CN Jovens 2014 - U12"]
+[Site "Luso POR"]
+[Date "2014.07.27"]
+[Round "7.26"]
+[White "Fernandes, João Pedro S"]
+[Black "Antunes, Ana"]
+[Result "0-1"]
+[ECO "C50"]
+[WhiteFideId "1944452"]
+[BlackFideId "1936310"]
+[PlyCount "134"]
+[EventDate "2014.07.23"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Nc3 Bc5 5. O-O O-O 6. d3 d6 7. h3 Re8 8. Re1
+Be6 9. b3 Bxc4 10. bxc4 Bd4 11. Bd2 Bxc3 12. Bxc3 h6 13. Rb1 b6 14. Nh4 Qd7
+15. Nf5 Qe6 16. Ne3 Nd4 17. Bxd4 exd4 18. Nd5 Nxd5 19. cxd5 Qc8 20. Qg4 Qxg4
+21. hxg4 Re7 22. Rbc1 c5 23. f3 a5 24. Rb1 Rb8 25. a4 Reb7 26. Rb2 b5 27. Reb1
+b4 28. Kf2 g6 29. f4 Re8 30. g3 Kg7 31. Re1 Rbe7 32. Kf3 f6 33. f5 Rh8 34. Rh1
+Re5 35. fxg6 Kxg6 36. Kf4 h5 37. Rbb1 Rg5 38. Rh4 Rxg4+ 39. Rxg4+ hxg4 40. Kxg4
+Rh5 41. Kf3 f5 42. exf5+ Rxf5+ 43. Kg2 Rxd5 44. Rf1 Rf5 45. Rxf5 Kxf5 46. Kf3 d5
+47. g4+ Kg5 48. Kg3 c4 49. dxc4 dxc4 50. Kf2 Kxg4 51. Ke2 Kf5 52. Kd2 Ke5
+53. Kc1 d3 54. cxd3 cxd3 55. Kd2 Kd4 56. Kc1 Ke3 57. Kd1 b3 58. Kc1 d2+ 59. Kd1
+b2 60. Kc2 Ke2 61. Kxb2 d1=Q 62. Ka3 Kd3 63. Ka2 Qxa4+ 64. Kb2 Qb4+ 65. Kc1 Qd2+
+66. Kb1 Kc3 67. Ka1 Qb2# 0-1
+
+[Event "CN Jovens 2014 - U12"]
+[Site "Luso POR"]
+[Date "2014.07.27"]
+[Round "7.27"]
+[White "Braz, Ana Francisca"]
+[Black "Jesus, Ana"]
+[Result "0-1"]
+[ECO "C60"]
+[WhiteFideId "1936352"]
+[BlackFideId "1941640"]
+[PlyCount "78"]
+[EventDate "2014.07.23"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Bd6 4. d3 Nge7 5. Bg5 O-O 6. Nc3 Bc5 7. O-O a6
+8. Bxc6 bxc6 9. Nxe5 Bb7 10. Qd2 d6 11. Nf3 d5 12. Rfe1 Qd6 13. exd5 Qd7
+14. dxc6 Bxc6 15. h3 Rfe8 16. Ne4 Nd5 17. Nxc5 Qd6 18. Nxa6 Rac8 19. b3 Nf6
+20. Bf4 Qd5 21. Nxc7 Qf5 22. Nd4 Qd7 23. c3 Rxc7 24. Bxc7 Qxc7 25. Nxc6 Qxc6
+26. a4 Rd8 27. Re3 Nd5 28. Ree1 h6 29. Re4 Nf6 30. Re7 Kf8 31. Ra7 Kg8 32. Qe3
+Nh5 33. Qe7 Rxd3 34. Ra5 Qg6 35. Ra8+ Kh7 36. Qf8 Qg5 37. Qxf7 Rxh3 38. Re1 Nf4
+39. Kf1 Qxg2# 0-1
+

@@ -1,0 +1,666 @@
+[Event "CM Júnior 2013"]
+[Site "Kocaeli TUR"]
+[Date "2013.09.13"]
+[Round "1.32"]
+[White "Ferreira, Jorge"]
+[Black "Fuentes Godoy, Arturo"]
+[WhiteFideId "1910850"]
+[BlackFideId "5111390"]
+[Result "1-0"]
+[WhiteElo "2426"]
+[BlackElo "1992"]
+[ECO "A10"]
+[PlyCount "1"]
+[WhiteCountry "POR"]
+[BlackCountry "MEX"]
+[EventDate "2013.??.??"]
+[Termination "forfeit"]
+
+1. c4 1-0
+
+[Event "CM Júnior 2013"]
+[Site "Kocaeli TUR"]
+[Date "2013.09.14"]
+[Round "2.24"]
+[White "Ferreira, Jorge"]
+[Black "Ali, Muhammad Luthfi"]
+[WhiteFideId "1910850"]
+[BlackFideId "7103743"]
+[Result "1/2-1/2"]
+[WhiteElo "2426"]
+[BlackElo "2277"]
+[ECO "A36"]
+[PlyCount "111"]
+[WhiteCountry "POR"]
+[BlackCountry "INA"]
+[EventDate "2013.??.??"]
+
+1. c4 Nf6 2. g3 g6 3. Bg2 Bg7 4. Nc3 O-O 5. e4 c5 6. Nge2 Nc6 7. O-O d6 8. d3
+Bg4 9. f3 Bd7 10. Be3 a6 11. a4 Rb8 12. d4 cxd4 13. Nxd4 Nxd4 14. Bxd4 Qa5
+15. Qd3 Rfc8 16. b3 Be6 17. f4 Nd7 18. Bxg7 Kxg7 19. f5 Qc5+ 20. Kh1 Ne5 21. Qd2
+Bd7 22. Nd5 Nc6 23. Nxe7 Nxe7 24. f6+ Kh8 25. fxe7 Qe5 26. Rad1 Qxe7 27. Qd4+
+Kg8 28. e5 d5 29. cxd5 Rc2 30. Rde1 Bf5 31. g4 Qh4 32. e6 Qxg4 33. Qxg4 Bxg4
+34. Rxf7 Rf8 35. h3 Bh5 36. Rxb7 Bf3 37. Bxf3 Rxf3 38. Rf7 Rxf7 39. exf7+ Kxf7
+40. Re6 Rc3 41. Kg2 Rxb3 42. Rxa6 Rd3 43. Ra7+ Kf6 44. Rxh7 Rxd5 45. Rh4 g5
+46. Rc4 Rd3 47. h4 gxh4 48. Rxh4 Ra3 49. Kf2 Ke5 50. Ke2 Kd5 51. Kd2 Kc6 52. Kc2
+Kb7 53. Kb2 Rg3 54. Rb4+ Ka8 55. Rb3 Rxb3+ 56. Kxb3 1/2-1/2
+
+[Event "CM Júnior 2013"]
+[Site "Kocaeli TUR"]
+[Date "2013.09.15"]
+[Round "3.19"]
+[White "Chu, Wei Chao"]
+[Black "Ferreira, Jorge"]
+[WhiteFideId "8605661"]
+[BlackFideId "1910850"]
+[Result "1/2-1/2"]
+[WhiteElo "2270"]
+[BlackElo "2426"]
+[ECO "A59"]
+[PlyCount "72"]
+[WhiteCountry "CHN"]
+[BlackCountry "POR"]
+[EventDate "2013.??.??"]
+
+1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. bxa6 g6 6. Nc3 Bxa6 7. e4 Bxf1
+8. Kxf1 d6 9. Nf3 Nbd7 10. g3 Bg7 11. Kg2 O-O 12. h3 Qa5 13. Re1 Rfb8 14. e5
+Nxe5 15. Nxe5 dxe5 16. Rxe5 Rb7 17. Qe2 Qd8 18. Qf3 c4 19. Re2 Rd7 20. Bg5 h6
+21. Bxf6 Bxf6 22. Qf4 Bxc3 23. bxc3 Rxd5 24. Rae1 e6 25. Qxh6 Qf6 26. Rc2 Rd3
+27. Re3 Qf5 28. Qf4 Rxe3 29. Qxf5 Rxg3+ 30. Kxg3 exf5 31. Kf4 Kf8 32. Ke3 Ke7
+33. Kd4 Kd6 34. Kxc4 Kc6 35. Re2 Ra4+ 36. Kd3 Kd5 1/2-1/2
+
+[Event "CM Júnior 2013"]
+[Site "Kocaeli TUR"]
+[Date "2013.09.16"]
+[Round "4.19"]
+[White "Ferreira, Jorge"]
+[Black "Lozhnikov, Vyacheslav"]
+[WhiteFideId "1910850"]
+[BlackFideId "13704761"]
+[Result "1/2-1/2"]
+[WhiteElo "2426"]
+[BlackElo "2339"]
+[ECO "A34"]
+[PlyCount "117"]
+[WhiteCountry "POR"]
+[BlackCountry "KAZ"]
+[EventDate "2013.??.??"]
+
+1. c4 Nf6 2. g3 g6 3. Bg2 d5 4. cxd5 Nxd5 5. Nc3 Nxc3 6. bxc3 Bg7 7. Nf3 c5
+8. O-O Nc6 9. Rb1 O-O 10. Qa4 Qd7 11. Qh4 b6 12. d4 cxd4 13. cxd4 Bb7 14. Bh6
+Rfd8 15. Bxg7 Kxg7 16. d5 Na5 17. Rfd1 Qf5 18. g4 Qf4 19. Rd4 Qc7 20. g5 Kh8
+21. Rbd1 b5 22. e4 Nc4 23. Bf1 Rac8 24. Bh3 Rb8 25. Bf1 Rbc8 26. Qg3 Qxg3+
+27. hxg3 Nd6 28. a4 a6 29. axb5 axb5 30. Rb4 Rc5 31. Bd3 Bc8 32. Nd4 Bd7
+33. Rdb1 e6 34. dxe6 Bxe6 35. Nxe6 fxe6 36. Bxb5 Rxg5 37. Rd4 Kg7 38. Bc4 Nf7
+39. Rxd8 Nxd8 40. Rb8 Rc5 41. Bb3 Rc1+ 42. Kg2 Rb1 43. Rxd8 Rxb3 44. Rd7+ Kg8
+45. Rd6 Kf7 46. Rd7+ Kg8 47. Re7 Rb6 48. Kh3 Rb2 49. f3 Rb3 50. f4 Rb6 51. Kg4
+h6 52. Kf3 Rb3+ 53. Kf2 Rb2+ 54. Ke3 Rb3+ 55. Kf2 Rb2+ 56. Kf3 Rb3+ 57. Kg4 Rb6
+58. Kh4 Ra6 59. Kg4 1/2-1/2
+
+
+[Event "CM Júnior 2013"]
+[Site "Kocaeli TUR"]
+[Date "2013.09.17"]
+[Round "5.22"]
+[White "Ferreira, Jorge"]
+[Black "Wang, Yiye"]
+[WhiteFideId "1910850"]
+[BlackFideId "8606021"]
+[Result "0-1"]
+[WhiteElo "2426"]
+[BlackElo "2258"]
+[ECO "A36"]
+[PlyCount "84"]
+[WhiteCountry "POR"]
+[BlackCountry "CHN"]
+[EventDate "2013.??.??"]
+
+1. c4 Nf6 2. g3 g6 3. Bg2 Bg7 4. Nc3 c5 5. e4 Nc6 6. Nge2 d6 7. O-O O-O 8. d3
+Bg4 9. f3 Bd7 10. Be3 a6 11. a4 Ne8 12. Bf2 Nc7 13. d4 cxd4 14. Nxd4 Rb8 15. f4
+Re8 16. Nb3 b6 17. Nd4 Na5 18. b3 e5 19. Nde2 exf4 20. gxf4 Bg4 21. Rc1 Ne6
+22. Qc2 b5 23. f5 Ng5 24. axb5 axb5 25. Nd5 bxc4 26. b4 Nc6 27. f6 Bh6 28. Nd4
+Ne5 29. Bg3 Qd7 30. Kh1 Ne6 31. Qc3 Nxd4 32. Qxd4 Be2 33. Rfe1 Nf3 34. Qf2 Nxe1
+35. Rxe1 Bg4 36. Bf4 Bf8 37. Qe3 Be6 38. Bh6 Bxd5 39. Bxf8 Qe6 40. Bg7 Bxe4
+41. Bxe4 Rxb4 42. Bh6 d5 0-1
+
+[Event "CM Júnior 2013"]
+[Site "Kocaeli TUR"]
+[Date "2013.09.18"]
+[Round "6.26"]
+[White "Emiroglu, Cankut"]
+[Black "Ferreira, Jorge"]
+[WhiteFideId "6306659"]
+[BlackFideId "1910850"]
+[Result "1-0"]
+[WhiteElo "2260"]
+[BlackElo "2426"]
+[ECO "B30"]
+[PlyCount "39"]
+[WhiteCountry "TUR"]
+[BlackCountry "POR"]
+[EventDate "2013.??.??"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 Nf6 4. e5 Nd5 5. O-O Nc7 6. Bxc6 dxc6 7. h3 Bf5
+8. d3 h6 9. Nbd2 e6 10. Qe2 Nb5 11. Nc4 Be7 12. a4 Nd4 13. Nxd4 Qxd4 14. Be3 Qd5
+15. a5 g5 16. Rfd1 h5 17. d4 Qe4 18. dxc5 g4 19. hxg4 Bxg4 20. Qd3 1-0
+
+[Event "CM Júnior 2013"]
+[Site "Kocaeli TUR"]
+[Date "2013.09.19"]
+[Round "7.37"]
+[White "Pecurica, Milos"]
+[Black "Ferreira, Jorge"]
+[WhiteFideId "944963"]
+[BlackFideId "1910850"]
+[Result "0-1"]
+[WhiteElo "2190"]
+[BlackElo "2426"]
+[ECO "D52"]
+[PlyCount "66"]
+[WhiteCountry "MNE"]
+[BlackCountry "POR"]
+[EventDate "2013.??.??"]
+
+1. d4 d5 2. c4 e6 3. Nf3 c6 4. Nc3 Nf6 5. Bg5 Nbd7 6. e3 Qa5 7. cxd5 Nxd5
+8. Qd2 Bb4 9. Rc1 h6 10. Bh4 c5 11. a3 Bxc3 12. bxc3 b6 13. Bd3 Ba6 14. O-O cxd4
+15. exd4 Rc8 16. Bxa6 Qxa6 17. Bg3 O-O 18. Qb2 b5 19. Nd2 N7b6 20. Ne4 Na4
+21. Qb3 Rc6 22. Nc5 Nxc5 23. dxc5 Rxc5 24. Be5 Rfc8 25. Bd4 Rc4 26. f4 f6 27. g3
+Qb7 28. Rfe1 Qd7 29. Rcd1 a6 30. Qc2 Qf7 31. Rd3 b4 32. Qd1 bxc3 33. f5 exf5 0-1
+
+[Event "CM Júnior 2013"]
+[Site "Kocaeli TUR"]
+[Date "2013.09.21"]
+[Round "8.29"]
+[White "Ferreira, Jorge"]
+[Black "Nuri, Murad"]
+[WhiteFideId "1910850"]
+[BlackFideId "13404474"]
+[Result "1/2-1/2"]
+[WhiteElo "2426"]
+[BlackElo "2206"]
+[ECO "E94"]
+[PlyCount "99"]
+[WhiteCountry "POR"]
+[BlackCountry "AZE"]
+[EventDate "2013.??.??"]
+
+1. Nf3 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. d4 O-O 6. Be2 e5 7. O-O Nbd7 8. Be3
+c6 9. d5 Qe7 10. b4 c5 11. Rb1 b6 12. Qa4 cxb4 13. Qxb4 Nc5 14. Nd2 Ng4 15. Bxg4
+Bxg4 16. a4 Bf6 17. h3 Bd7 18. Nf3 Rfc8 19. a5 Nd3 20. Qa3 bxa5 21. Rfd1 Nc5
+22. Qxa5 Qd8 23. Qa3 a5 24. Nb5 Be7 25. Nxe5 Nxe4 26. Nxd7 Qxd7 27. Qd3 Nc5
+28. Qc3 Bf8 29. Qf6 Ne4 30. Qd4 Re8 31. Re1 a4 32. Bh6 Bxh6 33. Rxe4 Bg7
+34. Rxe8+ Rxe8 35. Qd3 Qd8 36. Qa3 Qa5 37. Kf1 Qd2 38. Nxd6 Bd4 39. Qf3 Re7
+40. Rd1 Qb2 41. Nb5 Bc5 42. d6 Re8 43. d7 Rd8 44. Qe2 Qf6 45. Nc3 Qxc3 46. Qe8+
+Kg7 47. Qxd8 Qc2 48. Qf6+ Kxf6 49. d8=Q+ Kg7 50. Qd2 1/2-1/2
+
+[Event "CM Júnior 2013"]
+[Site "Kocaeli TUR"]
+[Date "2013.09.22"]
+[Round "9.29"]
+[White "Uysal, Burak"]
+[Black "Ferreira, Jorge"]
+[WhiteFideId "6339387"]
+[BlackFideId "1910850"]
+[Result "1-0"]
+[WhiteElo "1928"]
+[BlackElo "2426"]
+[ECO "C49"]
+[PlyCount "92"]
+[WhiteCountry "TUR"]
+[BlackCountry "POR"]
+[EventDate "2013.??.??"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. Bb5 Bb4 5. O-O O-O 6. Re1 d6 7. h3 Nd4 8. Bd3
+Ne6 9. a3 Ba5 10. b4 Bb6 11. Na4 Nh5 12. Nxb6 axb6 13. Bf1 f5 14. d4 fxe4
+15. Rxe4 Nf6 16. Re1 e4 17. Ng5 d5 18. c4 c6 19. c5 Nc7 20. Qb3 Kh8 21. h4 Ng4
+22. f3 exf3 23. Nxf3 Bf5 24. Bg5 Qb8 25. Be7 Re8 26. Bd6 Qd8 27. Ng5 Qf6 28. Be5
+Rxe5 29. dxe5 Qe7 30. cxb6 Ne6 31. Qg3 Nxg5 32. hxg5 Qd8 33. e6 Qxb6+ 34. Kh1
+Nf2+ 35. Kh2 Ng4+ 36. Kh1 Nf2+ 37. Kh2 Ne4 38. Qf4 Re8 39. Rxe4 Bxe4 40. e7 Kg8
+41. Be2 h6 42. Rf1 Kh7 43. Bh5 hxg5 44. Qe5 Qe3 45. Bxe8 Qe2 46. Bg6+ Kxg6 1-0
+
+[Event "CM Júnior 2013"]
+[Site "Kocaeli TUR"]
+[Date "2013.09.23"]
+[Round "10.36"]
+[White "Koksal, Ege"]
+[Black "Ferreira, Jorge"]
+[WhiteFideId "6317626"]
+[BlackFideId "1910850"]
+[Result "1-0"]
+[WhiteElo "2207"]
+[BlackElo "2426"]
+[ECO "A90"]
+[PlyCount "71"]
+[WhiteCountry "TUR"]
+[BlackCountry "POR"]
+[EventDate "2013.??.??"]
+
+1. d4 e6 2. Nf3 f5 3. g3 Nf6 4. Bg2 d5 5. O-O Bd6 6. c4 c6 7. b3 Qe7 8. Bb2 b6
+9. Nbd2 O-O 10. Rc1 Bb7 11. Ne5 a5 12. e3 Na6 13. Qc2 Rac8 14. Rfd1 Ne4 15. Ndf3
+c5 16. Qb1 Qe8 17. Nd3 Nb4 18. dxc5 bxc5 19. Be5 Nxd3 20. Rxd3 Be7 21. Qb2 Rf7
+22. Nd2 Bf8 23. f4 a4 24. Nxe4 fxe4 25. Rd2 Ra8 26. Bh3 Qc6 27. b4 a3 28. Qb1 d4
+29. b5 Qb6 30. Kf2 Rd7 31. Rcd1 Ra4 32. Bf1 Ra8 33. Bg2 Ra4 34. Bxe4 Rxc4
+35. Bxh7+ Kh8 36. Qg6 1-0
+
+[Event "CM Júnior 2013"]
+[Site "Kocaeli TUR"]
+[Date "2013.09.24"]
+[Round "11.40"]
+[White "Ferreira, Jorge"]
+[Black "Igonin, Temur"]
+[WhiteFideId "1910850"]
+[BlackFideId "14203049"]
+[Result "1/2-1/2"]
+[WhiteElo "2426"]
+[BlackElo "2074"]
+[ECO "C47"]
+[PlyCount "147"]
+[WhiteCountry "POR"]
+[BlackCountry "UZB"]
+[EventDate "2013.??.??"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. d4 exd4 5. Nxd4 Bb4 6. Nxc6 bxc6 7. Bd3 d5
+8. exd5 cxd5 9. O-O O-O 10. h3 c6 11. Qf3 h6 12. Ne2 Bd6 13. Bd2 Be5 14. c3 Rb8
+15. b4 Ne4 16. Bxe4 dxe4 17. Qxe4 Ba6 18. Rfd1 Re8 19. Be3 Bh2+ 20. Kxh2 Rxe4
+21. Rxd8+ Rxd8 22. Nd4 Rc8 23. Nf5 Re5 24. g4 Bd3 25. Bd4 Re2 26. Nxg7 Bg6
+27. Nf5 Bxf5 28. gxf5 a6 29. Rg1+ Kf8 30. Rg4 Rxa2 31. Rh4 a5 32. Rxh6 Ke7
+33. Bc5+ Kd7 34. Rh7 Ke8 35. Rh4 a4 36. Re4+ Kd8 37. f6 a3 38. Bb6+ Kd7 39. Re7+
+Kd6 40. c4 c5 41. Bxc5+ Rxc5 42. bxc5+ Kxc5 43. Kg3 Kb6 44. Re8 Ra1 45. Ra8 a2
+46. Kg2 Kc6 47. h4 Kd6 48. h5 Rc1 49. Rxa2 Rxc4 50. Re2 Rh4 51. Re7 Rxh5
+52. Rxf7 Ke6 53. Rf8 Rg5+ 54. Kf3 Rf5+ 55. Kg2 Rxf6 56. Ra8 Kf5 57. Kg3 Rb6
+58. Ra5+ Kg6 59. Kg4 Rb4+ 60. f4 Rb6 61. Rg5+ Kf6 62. Rh5 Kg6 63. f5+ Kg7
+64. Kg5 Rb1 65. f6+ Kg8 66. Kg6 Rg1+ 67. Kf5 Rf1+ 68. Ke6 Re1+ 69. Re5 Rxe5+
+70. Kxe5 Kf7 71. Kf5 Kf8 72. Kg6 Kg8 73. f7+ Kf8 74. Kf6 1/2-1/2
+
+[Event "CM Júnior 2013"]
+[Site "Kocaeli TUR"]
+[Date "2013.09.25"]
+[Round "12.43"]
+[White "Meza Ponce, Jerry"]
+[Black "Ferreira, Jorge"]
+[WhiteFideId "3603733"]
+[BlackFideId "1910850"]
+[Result "1/2-1/2"]
+[WhiteElo "2047"]
+[BlackElo "2426"]
+[ECO "B35"]
+[PlyCount "82"]
+[WhiteCountry "ECU"]
+[BlackCountry "POR"]
+[EventDate "2013.??.??"]
+
+1. e4 c5 2. Nc3 Nc6 3. Nf3 g6 4. d4 cxd4 5. Nxd4 Bg7 6. Be3 Nf6 7. Bc4 O-O
+8. Bb3 a5 9. a4 Ng4 10. Qxg4 Nxd4 11. Qd1 Nxb3 12. cxb3 Ra6 13. O-O Re6 14. Bd4
+f6 15. Qd3 b6 16. Qb5 f5 17. Bxg7 Kxg7 18. Rfe1 Bb7 19. Rad1 Bc6 20. Qc4 f4
+21. f3 Qb8 22. b4 axb4 23. Qxb4 Qe5 24. Qd4 Ra8 25. Re2 Qxd4+ 26. Rxd4 Re5
+27. Rb4 Rc5 28. Rd2 Rb8 29. Kf2 d6 30. g3 fxg3+ 31. hxg3 Rb7 32. Nd5 Ra5
+33. Rxb6 Bxd5 34. Rxd5 Rxb6 35. Rxa5 Rxb2+ 36. Ke3 Rb3+ 37. Ke2 h5 38. e5 dxe5
+39. Rxe5 Kf6 40. Ra5 Ra3 41. Ra8 g5 1/2-1/2
+
+[Event "CM Júnior 2013"]
+[Site "Kocaeli TUR"]
+[Date "2013.09.26"]
+[Round "13.41"]
+[White "Ferreira, Jorge"]
+[Black "Zhanbai Uulu, Zhokhar"]
+[WhiteFideId "1910850"]
+[BlackFideId "13800027"]
+[Result "1/2-1/2"]
+[WhiteElo "2426"]
+[BlackElo "1843"]
+[ECO "A30"]
+[PlyCount "105"]
+[WhiteCountry "POR"]
+[BlackCountry "KGZ"]
+[EventDate "2013.??.??"]
+
+1. Nf3 Nf6 2. c4 c5 3. g3 b6 4. Bg2 Bb7 5. Nc3 e6 6. O-O a6 7. d4 cxd4 8. Qxd4
+d6 9. b3 Nbd7 10. Rd1 Be7 11. Ng5 Bxg2 12. Kxg2 O-O 13. Bb2 Qc7 14. Nge4 Rfd8
+15. Rac1 Nc5 16. f3 Rac8 17. Nxc5 bxc5 18. Qf4 Qc6 19. e4 Nd7 20. Qd2 Nb6
+21. Qe2 Bf6 22. Rd3 Bd4 23. Rcd1 a5 24. Nb5 e5 25. Na7 Qb7 26. Nxc8 Rxc8 27. Bc1
+Nd7 28. Bd2 Ra8 29. Be1 Nf8 30. Rb1 Ne6 31. a3 Qa6 32. Qc2 Rc8 33. Qd2 Ra8
+34. Qc2 Rc8 35. Rdd1 g6 36. h4 Kg7 37. Qd2 Ra8 38. Qd3 Rc8 39. Rd2 Ra8 40. Rc2
+Qc6 41. Bd2 Ra7 42. Bc1 f6 43. Qd2 g5 44. hxg5 fxg5 45. Qe1 h5 46. a4 Rf7
+47. Re2 Qa8 48. Qh1 Kg6 49. Bd2 Qf8 50. Rf1 Qb8 51. Rb1 Qf8 52. Rf1 Qb8 53. Rb1
+1/2-1/2
+
+[Event "CM Júnior 2013"]
+[Site "Kocaeli TUR"]
+[Date "2013.09.13"]
+[Round "1.15"]
+[White "Neves, Pedro"]
+[Black "Debashis, Das"]
+[WhiteFideId "1905554"]
+[BlackFideId "5024854"]
+[Result "0-1"]
+[WhiteElo "2212"]
+[BlackElo "2489"]
+[ECO "E14"]
+[PlyCount "292"]
+[WhiteCountry "POR"]
+[BlackCountry "IND"]
+[EventDate "2013.??.??"]
+
+1. d4 Nf6 2. Nf3 d5 3. c4 e6 4. e3 b6 5. Nbd2 Bb7 6. Be2 Bd6 7. b3 O-O 8. Bb2
+c5 9. O-O Nc6 10. Rc1 Rc8 11. Qc2 Re8 12. Rfd1 h6 13. Qb1 Qe7 14. dxc5 bxc5
+15. Qa1 Red8 16. cxd5 exd5 17. Bb5 a6 18. Bxc6 Rxc6 19. Nf1 Bb8 20. Ng3 Ba7
+21. Rc2 a5 22. Rdc1 Rdc8 23. Ne5 R6c7 24. Nd3 Ne8 25. Nf4 d4 26. Re1 Qh4 27. Nd3
+dxe3 28. fxe3 c4 29. bxc4 Rxc4 30. Rf2 Rc2 31. Bd4 Rxf2 32. Nxf2 Bb8 33. Be5
+Bxe5 34. Qxe5 Qb4 35. Rd1 Qc5 36. Qf4 Nf6 37. e4 Re8 38. Re1 Bc8 39. h3 Be6
+40. Qd2 Rc8 41. Kh2 a4 42. Re2 a3 43. Qf4 Qb4 44. Nf5 Bxf5 45. Qxf5 Qc4 46. Qf3
+Rb8 47. Re3 Qxa2 48. Rxa3 Qe6 49. Re3 Rb2 50. Nd3 Rd2 51. Qf5 Qc6 52. Nf4 Rf2
+53. Qe5 Qc1 54. Rf3 Rxf3 55. gxf3 Qf1 56. Qc3 Qf2+ 57. Ng2 Kh7 58. Qe3 Qc2
+59. Qf4 Qc4 60. e5 Qxf4+ 61. Nxf4 g5 62. Nd3 Nd7 63. h4 gxh4 64. Kh3 Kg6 65. Kg4
+h3 66. Nf4+ Kg7 67. Nxh3 Nxe5+ 68. Kf4 Kf6 69. Nf2 Nc4 70. Ne4+ Kg6 71. Ng3 Nb6
+72. Kg4 Nd5 73. Kh4 Ne3 74. Ne2 Nf5+ 75. Kg4 Ng7 76. Kf4 Kh5 77. Kg3 Kg5 78. f4+
+Kg6 79. Kg4 Kf6 80. Kf3 Ke6 81. Nc3 Ne8 82. Ne4 Nf6 83. Nc5+ Kd5 84. Nd3 Nd7
+85. Nb4+ Kc5 86. Nc2 Nf6 87. Ne3 Ng8 88. Ke4 Kd6 89. Kf3 Ke6 90. Kg4 Kf6 91. Kh5
+Kg7 92. Kg4 Kg6 93. Kh4 Nf6 94. Kg3 Ne8 95. Kg4 Nd6 96. f5+ Kg7 97. Kf4 Ne8
+98. Ng4 Nf6 99. Nf2 Kf8 100. Ke5 Ke7 101. Nh3 Nd7+ 102. Kf4 Kd6 103. Nf2 Nf6
+104. Nd3 Kd5 105. Nf2 Kd4 106. Nh3 Nd5+ 107. Kg4 Ke5 108. Ng1 Nf6+ 109. Kh4 Kxf5
+110. Ne2 Nd5 111. Nd4+ Kg6 112. Nc6 f6 113. Nd4 Ne3 114. Ne2 Nf5+ 115. Kg4 Ng7
+116. Kf4 h5 117. Nd4 Kf7 118. Nf3 Ke6 119. Nh4 Kf7 120. Ng2 Ke7 121. Nh4 Ke6
+122. Ng6 Ne8 123. Nh4 Nd6 124. Ng6 Kf7 125. Nh4 Nc8 126. Nf3 Ne7 127. Ke4 Kg6
+128. Kf4 Nd5+ 129. Ke4 Nc7 130. Kf4 Ne6+ 131. Kg3 Kf5 132. Kh4 Ng7 133. Nd2 Kf4
+134. Nc4 f5 135. Nd6 Ke5 136. Nf7+ Kd4 137. Kg5 Ke3 138. Ne5 f4 139. Nc4+ Kd3
+140. Nb2+ Ke4 141. Nd1 f3 142. Kh4 Kf4 143. Kh3 Nf5 144. Nf2 Ke3 145. Nh1 Ke2
+146. Kh2 f2 0-1
+
+[Event "CM Júnior 2013"]
+[Site "Kocaeli TUR"]
+[Date "2013.09.14"]
+[Round "2.49"]
+[White "Zhanbai Uulu, Zhokhar"]
+[Black "Neves, Pedro"]
+[WhiteFideId "13800027"]
+[BlackFideId "1905554"]
+[Result "1-0"]
+[WhiteElo "1843"]
+[BlackElo "2212"]
+[ECO "B21"]
+[PlyCount "21"]
+[WhiteCountry "KGZ"]
+[BlackCountry "POR"]
+[EventDate "2013.??.??"]
+
+1. e4 c5 2. f4 d5 3. exd5 Qxd5 4. Nc3 Qd8 5. Bb5+ Bd7 6. Qe2 Nc6 7. Nf3 Nh6
+8. O-O Nf5 9. Ne4 Nfd4 10. Nxd4 Nxd4 11. Nd6# 1-0
+
+[Event "CM Júnior 2013"]
+[Site "Kocaeli TUR"]
+[Date "2013.09.15"]
+[Round "3.50"]
+[White "Neves, Pedro"]
+[Black "Sahin, Ozgun"]
+[WhiteFideId "1905554"]
+[BlackFideId "6328121"]
+[Result "1-0"]
+[WhiteElo "2212"]
+[BlackElo "1857"]
+[ECO "A13"]
+[PlyCount "23"]
+[WhiteCountry "POR"]
+[BlackCountry "TUR"]
+[EventDate "2013.??.??"]
+
+1. c4 Nf6 2. g3 c6 3. Bg2 d5 4. Nf3 e6 5. b3 Be7 6. O-O Nbd7 7. Bb2 h6 8. Nc3
+e5 9. Rc1 d4 10. Nb1 c5 11. Re1 O-O 12. Na3 1-0
+
+[Event "CM Júnior 2013"]
+[Site "Kocaeli TUR"]
+[Date "2013.09.16"]
+[Round "4.43"]
+[White "Heinechen, John"]
+[Black "Neves, Pedro"]
+[WhiteFideId "3700976"]
+[BlackFideId "1905554"]
+[Result "0-1"]
+[WhiteElo "1901"]
+[BlackElo "2212"]
+[ECO "B31"]
+[PlyCount "118"]
+[WhiteCountry "PAR"]
+[BlackCountry "POR"]
+[EventDate "2013.??.??"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 g6 4. O-O Bg7 5. c3 Nf6 6. Re1 O-O 7. d4 cxd4
+8. cxd4 d5 9. e5 Ne4 10. Nbd2 Nxd2 11. Bxd2 Qb6 12. Bxc6 bxc6 13. Bc3 Bg4 14. h3
+Bxf3 15. Qxf3 e6 16. Qe3 a5 17. Rac1 Rfc8 18. Qf4 Bf8 19. Re3 Rc7 20. Rd1 c5
+21. h4 cxd4 22. Bxd4 Qb4 23. h5 Qa4 24. Rdd3 Qxa2 25. Rf3 Qb1+ 26. Kh2 Qc1
+27. Rde3 Qb1 28. Rd3 Rb8 29. h6 Qc1 30. Be3 Qxb2 31. Rxd5 Rb4 32. Rd4 Rxd4
+33. Bxd4 Qb4 34. Qe3 Bxh6 35. Qxh6 Qxd4 36. Rh3 Qxe5+ 37. f4 Qg7 38. Qg5 Qd4
+39. Qh6 Qg7 40. Qg5 Qd4 41. Qh6 Qh8 42. Qg5 Rc8 43. Qxa5 Qd4 44. Qe5 Qxe5
+45. fxe5 Kg7 46. Re3 g5 47. Rg3 Kg6 48. Rf3 Rc5 49. Re3 Rc2 50. Kg3 h5 51. Kh3
+g4+ 52. Kh2 h4 53. Re1 h3 54. Rf1 Rxg2+ 55. Kh1 Re2 56. Rf6+ Kg5 57. Rxf7 g3
+58. Rg7+ Kf4 59. Rf7+ Kxe5 0-1
+
+[Event "CM Júnior 2013"]
+[Site "Kocaeli TUR"]
+[Date "2013.09.17"]
+[Round "5.27"]
+[White "Neves, Pedro"]
+[Black "Ter-Sahakyan, Samvel"]
+[WhiteFideId "1905554"]
+[BlackFideId "13302531"]
+[Result "0-1"]
+[WhiteElo "2212"]
+[BlackElo "2575"]
+[ECO "A25"]
+[PlyCount "112"]
+[WhiteCountry "POR"]
+[BlackCountry "ARM"]
+[EventDate "2013.??.??"]
+
+1. c4 e5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. e4 d6 6. Nge2 h5 7. h4 Bg4 8. d3 Nd4
+9. Qa4+ c6 10. Nxd4 exd4 11. Nb1 Nf6 12. Bg5 Qb6 13. Qc2 Nd7 14. Nd2 Ne5 15. Rb1
+a5 16. Bf4 O-O 17. O-O Rfe8 18. Rfe1 Qc7 19. Nf1 Be6 20. Nh2 a4 21. Nf3 c5
+22. b4 axb3 23. axb3 Nc6 24. Bd2 Nb4 25. Bxb4 cxb4 26. Qd2 Qc5 27. Qf4 Be5
+28. Qh6 Bg7 29. Qf4 Bd7 30. Ng5 Re7 31. Qf3 Bg4 32. Qf4 Ra2 33. Ra1 Ra3 34. Rxa3
+bxa3 35. Ra1 b6 36. Qd2 Ra7 37. b4 Qc8 38. Qf4 Be5 39. Qd2 Qa6 40. f3 Bd7 41. f4
+Bg7 42. b5 Qa4 43. Qa2 Bf6 44. Nf3 Qb4 45. Ne1 Qc3 46. Bf1 Be7 47. Rb1 Ra4
+48. Nc2 Bg4 49. Na1 Rb4 50. Nb3 Bd1 51. Qxa3 Bxb3 52. Qa7 Bf8 53. Qxb6 Ra4
+54. f5 Ra2 55. fxg6 Qd2 56. gxf7+ Kh7 0-1
+
+[Event "CM Júnior 2013"]
+[Site "Kocaeli TUR"]
+[Date "2013.09.18"]
+[Round "6.45"]
+[White "Mamyrbay, Assad"]
+[Black "Neves, Pedro"]
+[WhiteFideId "13708880"]
+[BlackFideId "1905554"]
+[Result "1-0"]
+[WhiteElo "1823"]
+[BlackElo "2212"]
+[ECO "B06"]
+[PlyCount "93"]
+[WhiteCountry "KAZ"]
+[BlackCountry "POR"]
+[EventDate "2013.??.??"]
+
+1. e4 g6 2. d4 Bg7 3. Nc3 c6 4. Nf3 d6 5. a4 Nh6 6. Be2 O-O 7. O-O d5 8. Bg5 f6
+9. Bf4 Nf7 10. exd5 cxd5 11. Nb5 e5 12. Bg3 a6 13. Na3 Nc6 14. c4 e4 15. Ne1 f5
+16. Nec2 Be6 17. Qd2 g5 18. f4 exf3 19. Bxf3 f4 20. Bf2 dxc4 21. Rad1 Bd5
+22. Qc3 Bxf3 23. Qxf3 Na5 24. Be1 Rc8 25. Bc3 b6 26. d5 Ne5 27. Qe4 Re8 28. Nd4
+Nb7 29. Ne6 Nc5 30. Nxc5 Rxc5 31. Rfe1 Qd7 32. d6 Bf6 33. Rd5 Nf3+ 34. Qxf3 Bxc3
+35. Rxe8+ Qxe8 36. Rd1 Bxb2 37. d7 Qd8 38. Qe2 Bf6 39. Qe6+ Kg7 40. Nxc4 Qe7
+41. Qxe7+ Bxe7 42. Nd6 Ra5 43. Re1 Kf8 44. Nc8 Bf6 45. Re6 Bd4+ 46. Kf1 Rd5
+47. Re8+ 1-0
+
+[Event "CM Júnior 2013"]
+[Site "Kocaeli TUR"]
+[Date "2013.09.19"]
+[Round "7.47"]
+[White "Neves, Pedro"]
+[Black "Thompson, Robert"]
+[WhiteFideId "1905554"]
+[BlackFideId "417513"]
+[Result "1/2-1/2"]
+[WhiteElo "2212"]
+[BlackElo "1966"]
+[ECO "C41"]
+[PlyCount "30"]
+[WhiteCountry "POR"]
+[BlackCountry "ENG"]
+[EventDate "2013.??.??"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 e5 4. Bc4 Be7 5. Nf3 exd4 6. Nxd4 O-O 7. O-O Re8
+8. Re1 Nbd7 9. Bg5 h6 10. Bf4 Bf8 11. Re3 c6 12. Bf1 Nc5 13. Qf3 Ne6 14. Rd1
+Nxf4 15. Qxf4 Qe7 1/2-1/2
+
+[Event "CM Júnior 2013"]
+[Site "Kocaeli TUR"]
+[Date "2013.09.21"]
+[Round "8.45"]
+[White "Temizkan, Denizcan"]
+[Black "Neves, Pedro"]
+[WhiteFideId "6325157"]
+[BlackFideId "1905554"]
+[Result "1/2-1/2"]
+[WhiteElo "1921"]
+[BlackElo "2212"]
+[ECO "D45"]
+[PlyCount "130"]
+[WhiteCountry "TUR"]
+[BlackCountry "POR"]
+[EventDate "2013.??.??"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 c6 5. e3 a6 6. Qc2 dxc4 7. Bxc4 b5 8. Be2
+Nbd7 9. O-O Bb7 10. Rd1 Qc7 11. Bd2 Rc8 12. Rac1 Qb8 13. Qb1 c5 14. h3 Bd6
+15. Be1 O-O 16. dxc5 Nxc5 17. b4 Nce4 18. Nxe4 Bxe4 19. Qb2 Nd5 20. Ng5 Bg6
+21. Bf3 Be5 22. Qb3 Nf6 23. Be2 h6 24. Nf3 Be4 25. a4 Bd5 26. Qa3 Bc4 27. Bxc4
+Rxc4 28. Rxc4 bxc4 29. Nxe5 Qxe5 30. Bc3 Qf5 31. Bxf6 gxf6 32. Qc3 Rc8 33. Rd4
+Qe5 34. f4 Qc7 35. Rd2 Kg7 36. g4 e5 37. fxe5 Qxe5 38. Qxe5 fxe5 39. Rc2 Kf6
+40. Kf2 e4 41. Ke2 c3 42. b5 axb5 43. axb5 Kg5 44. Kf2 Kh4 45. Kg2 Rc5 46. b6
+Rb5 47. Rxc3 Rb2+ 48. Kf1 Rxb6 49. Rc4 Kxh3 50. Rxe4 Re6 51. Rf4 Rxe3 52. Rxf7
+Kxg4 53. Kg2 Re2+ 54. Rf2 Re4 55. Rf8 h5 56. Rg8+ Kh4 57. Kh2 Re2+ 58. Rg2 Re3
+59. Rg8 Ra3 60. Rg7 Ra4 61. Rg8 Rg4 62. Rxg4+ hxg4 63. Kg2 Kh5 64. Kg3 Kg5
+65. Kg2 Kf4 1/2-1/2
+
+[Event "CM Júnior 2013"]
+[Site "Kocaeli TUR"]
+[Date "2013.09.22"]
+[Round "9.46"]
+[White "Karaokcu, Erkin"]
+[Black "Neves, Pedro"]
+[WhiteFideId "6348459"]
+[BlackFideId "1905554"]
+[Result "1-0"]
+[WhiteElo "2014"]
+[BlackElo "2212"]
+[ECO "D75"]
+[PlyCount "99"]
+[WhiteCountry "TUR"]
+[BlackCountry "POR"]
+[EventDate "2013.??.??"]
+
+1. Nf3 g6 2. d4 Nf6 3. c4 Bg7 4. Nc3 O-O 5. g3 d5 6. cxd5 Nxd5 7. Bg2 c5 8. O-O
+Nxc3 9. bxc3 Qa5 10. Bg5 cxd4 11. Bxe7 dxc3 12. Bxf8 Bxf8 13. Nd4 Na6 14. Rc1
+Ba3 15. Rb1 Bb2 16. Qb3 Nc5 17. Qc4 Be6 18. Nxe6 Nxe6 19. Bxb7 Rb8 20. Bd5 Rb6
+21. e4 Kg7 22. Bxe6 Rxe6 23. Rfc1 Qe5 24. Rc2 g5 25. Qd5 Qxe4 26. Qxe4 Rxe4
+27. f3 Rb4 28. Kf2 a5 29. Ke3 a4 30. Kd3 a3 31. Re1 Rb6 32. Re4 Rf6 33. Ke3 Rc6
+34. f4 gxf4+ 35. Rxf4 Kg6 36. Kd3 Rd6+ 37. Kc4 f5 38. Kc5 Rd1 39. Kc4 Rd8
+40. Rd4 Rc8+ 41. Kd3 Kg5 42. Rd5 Kf6 43. Rf2 Ke6 44. Rb5 Rf8 45. Kc2 Rf7
+46. Rb6+ Kd5 47. Rf4 Ke5 48. Rb5+ Ke6 49. g4 fxg4 50. Rb6+ 1-0
+
+[Event "CM Júnior 2013"]
+[Site "Kocaeli TUR"]
+[Date "2013.09.23"]
+[Round "10.49"]
+[White "Neves, Pedro"]
+[Black "Topac, Ahmet Eren"]
+[WhiteFideId "1905554"]
+[BlackFideId "6311873"]
+[Result "1-0"]
+[WhiteElo "2212"]
+[BlackElo "1800"]
+[ECO "B77"]
+[PlyCount "57"]
+[WhiteCountry "POR"]
+[BlackCountry "TUR"]
+[EventDate "2013.??.??"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 g6 5. Nc3 Bg7 6. Be3 Nf6 7. Bc4 O-O
+8. Bb3 d6 9. f3 Bd7 10. Qd2 a5 11. Ndb5 Ne5 12. a4 Rc8 13. Qe2 Be6 14. Nd5 Bxd5
+15. exd5 h5 16. O-O Nfd7 17. c3 Nc5 18. Bc2 Ncd7 19. b3 Nf6 20. Rad1 Qd7 21. h3
+Qd8 22. f4 Ned7 23. c4 Nc5 24. f5 Nfe4 25. Bxc5 Nxc5 26. fxg6 fxg6 27. Bxg6 Nxb3
+28. Rxf8+ Qxf8 29. Qxh5 1-0
+
+[Event "CM Júnior 2013"]
+[Site "Kocaeli TUR"]
+[Date "2013.09.24"]
+[Round "11.46"]
+[White "Bornheim, Craig"]
+[Black "Neves, Pedro"]
+[WhiteFideId "14300370"]
+[BlackFideId "1905554"]
+[Result "0-1"]
+[WhiteElo "1973"]
+[BlackElo "2212"]
+[ECO "A70"]
+[PlyCount "172"]
+[WhiteCountry "RSA"]
+[BlackCountry "POR"]
+[EventDate "2013.??.??"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 c5 4. d5 exd5 5. cxd5 d6 6. Nc3 g6 7. e4 Bg7 8. h3
+O-O 9. Bd3 b6 10. Bf4 Re8 11. O-O h6 12. Nd2 Nh5 13. Bh2 Be5 14. f4 Bd4+ 15. Kh1
+Ba6 16. Bxa6 Nxa6 17. f5 Be5 18. Qf3 Rf8 19. Bxe5 dxe5 20. Nc4 Nb4 21. Rac1 Qh4
+22. Kh2 Qf4+ 23. g3 Qxf3 24. Rxf3 Nf6 25. a3 Na6 26. fxg6 fxg6 27. Rcf1 Kg7
+28. Nxe5 Rae8 29. Nc4 Nc7 30. d6 Ne6 31. e5 Nd7 32. Kg2 a6 33. a4 Rxf3 34. Rxf3
+Nd4 35. Re3 b5 36. axb5 axb5 37. e6 Rxe6 38. Rxe6 Nxe6 39. Nxb5 Kf6 40. Kf3 Ng5+
+41. Kg4 h5+ 42. Kf4 Nxh3+ 43. Ke4 Ng5+ 44. Kd5 Ne6 45. Nc7 Nef8 46. Na6 g5
+47. Nxc5 Nxc5 48. Kxc5 h4 49. Kc6 hxg3 50. Ne3 Ke5 51. b4 Kf4 52. Ng2+ Kf3
+53. b5 Kxg2 54. b6 Ne6 55. b7 Nd8+ 56. Kc7 Nxb7 57. Kxb7 Kh3 58. d7 g2 59. d8=Q
+g1=Q 60. Qh8+ Kg2 61. Qe5 Qb1+ 62. Kc6 Qc2+ 63. Kd5 Qd3+ 64. Ke6 g4 65. Qb2+ Kf3
+66. Qf6+ Ke2 67. Qb2+ Qd2 68. Qb5+ Kf3 69. Qc6+ Kf2 70. Kf5 g3 71. Qc5+ Qe3
+72. Qc2+ Kg1 73. Kg4 g2 74. Qb1+ Kh2 75. Qh7+ Kg1 76. Qb1+ Kf2 77. Qf5+ Ke2
+78. Qc2+ Qd2 79. Qe4+ Kf1 80. Qb1+ Kf2 81. Qb6+ Qe3 82. Qf6+ Ke2 83. Qb2+ Qd2
+84. Qe5+ Kf2 85. Qf4+ Ke1 86. Kf3 Qf2+ 0-1
+
+[Event "CM Júnior 2013"]
+[Site "Kocaeli TUR"]
+[Date "2013.09.25"]
+[Round "12.34"]
+[White "Neves, Pedro"]
+[Black "Baghdasaryan, Vahe"]
+[WhiteFideId "1905554"]
+[BlackFideId "13303139"]
+[Result "0-1"]
+[WhiteElo "2212"]
+[BlackElo "2423"]
+[ECO "D47"]
+[PlyCount "60"]
+[WhiteCountry "POR"]
+[BlackCountry "ARM"]
+[EventDate "2013.??.??"]
+
+1. c4 c6 2. d4 d5 3. Nf3 Nf6 4. Nc3 e6 5. e3 Nbd7 6. Bd3 dxc4 7. Bxc4 b5 8. Bd3
+Bd6 9. O-O O-O 10. e4 e5 11. Bg5 exd4 12. Nxd4 Ne5 13. Be2 h6 14. Bh4 b4 15. Na4
+Ng6 16. Bg3 Bxg3 17. hxg3 Nxe4 18. Bf3 Ng5 19. Bxc6 Rb8 20. Rc1 Qf6 21. Nb3 Ba6
+22. Re1 Rfd8 23. Qh5 Rbc8 24. Bf3 Rxc1 25. Rxc1 Ne5 26. Bd1 g6 27. Qxh6 Nd3
+28. Rc2 Nxf2 29. Bf3 Nxf3+ 30. gxf3 Qxf3 0-1
+
+[Event "CM Júnior 2013"]
+[Site "Kocaeli TUR"]
+[Date "2013.09.26"]
+[Round "13.39"]
+[White "Baglan, Esat"]
+[Black "Neves, Pedro"]
+[WhiteFideId "6309216"]
+[BlackFideId "1905554"]
+[Result "1-0"]
+[WhiteElo "2024"]
+[BlackElo "2212"]
+[ECO "B21"]
+[PlyCount "71"]
+[WhiteCountry "TUR"]
+[BlackCountry "POR"]
+[EventDate "2013.??.??"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. c3 dxc3 5. Nxc3 a6 6. a4 b6 7. Bd3 Bb7 8. Qe2
+d6 9. O-O Nd7 10. Rd1 Qb8 11. Bf4 e5 12. Bg5 h6 13. Be3 Ngf6 14. Rac1 Be7
+15. Nh4 g6 16. Qf3 Nc5 17. Bc2 Nh5 18. Nf5 Bf8 19. b4 Ne6 20. Bb3 Nhf4 21. g3
+Nh3+ 22. Kf1 Nhg5 23. Qg4 gxf5 24. Qxf5 Be7 25. Nd5 Bxd5 26. Bxd5 Ra7 27. h4 O-O
+28. hxg5 Nxg5 29. a5 bxa5 30. Bxa7 Qxa7 31. bxa5 Bd8 32. Rc6 Qb8 33. Kg2 Bxa5
+34. Qf6 Qb2 35. Qg6+ Kh8 36. Qxh6+ 1-0
